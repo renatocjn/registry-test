@@ -2,6 +2,7 @@ name: Updating registry repository
 run-name: Update release version
 on: 
   push:
+    branches: [main]
     paths: 
       - registry-data/namespaces/*.json
       - registry-data/full.json
