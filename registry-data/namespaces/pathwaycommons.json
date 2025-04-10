@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:52.436+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Pathway Commons is a convenient point of access to biological pathway information collected from public pathway databases, which you can browse or search. It is a collection of publicly available pathways from multiple organisms that provides researchers with convenient access to a comprehensive collection of pathways from multiple sources represented in a common language.",
+    "id": 249,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000073",
+    "modified": "2019-06-11T14:15:52.436+00:00",
+    "name": "Pathway Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pathwaycommons",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Pathway Commons",
+            "id": 251,
+            "institution": {
+                "description": "The people of Memorial Sloan Kettering Cancer Center (MSK) are united by a singular mission: ending cancer for life. Our specialized care teams provide personalized, compassionate, expert care to patients of all ages. Informed by basic research done at our Sloan Kettering Institute, scientists across MSK collaborate to conduct innovative translational and clinical research that is driving a revolution in our understanding of cancer as a disease and improving the ability to prevent, diagnose, and treat it. MSK is dedicated to training the next generation of scientists and clinicians, who go on to pursue our mission at MSK and around the globe. One of the world’s most respected comprehensive centers devoted exclusively to cancer, we have been recognized as one of the top two cancer hospitals in the country by U.S. News & World Report for more than 30 years. ",
+                "homeUrl": "https://www.mskcc.org/",
+                "id": 1882,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Memorial Sloan Kettering Cancer Center",
+                "rorId": "https://ror.org/02yrq0923"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100103",
+            "name": "Pathway Commons",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pathwaycommons.org/pc/",
+            "sampleId": "485991",
+            "urlPattern": "http://www.pathwaycommons.org/pc/record2.do?id={$id}"
+        }
+    ],
+    "sampleId": "485991",
+    "successor": null
+}

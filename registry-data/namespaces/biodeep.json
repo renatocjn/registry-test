@@ -1,0 +1,56 @@
+{
+    "created": "2024-09-10T12:45:00.382+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The BioDeep database is a comprehensive database of metabolite information in living organisms: by aggregating metabolite information from multiple public databases and large-scale natural language text mining work, we have built a large scale knowledge network for biological knowledge interpretation. By using the BioDeep database, it is possible to query such large scale metabolic knowledge network.",
+    "id": 4103,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001080",
+    "modified": "2024-09-10T12:45:00.382+00:00",
+    "name": "BioDeep Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^BioDeep_\\d{11}$",
+    "prefix": "biodeep",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PANOMIX Biomedical Tech Co., LTD (abbreviation: PANOMIX) was established in Suzhou Industrial Park in 2013. The company has more than 80 world-leading mass spectrometry equipment, can provide more than 100 detection and analysis services and more than 20 clinical detection products. The business segment covers scientific research services, industrial services, new drug services, clinical detection services, clinical products and health management, with a layout of universities, research institutes, hospitals and enterprises in 34 provinces, municipalities and autonomous regions, serving more than 1,000 customers. PANOMIX focuses on the research and clinical application development of cutting-edge metabolomics technology, and is committed to becoming a complete solution provider of metabolomics precision medicine and precision nutrition, helping you support a healthy metabolism.",
+            "id": 4054,
+            "institution": {
+                "description": "PANOMIX Biomedical Tech Co., LTD (abbreviation: PANOMIX) was established in Suzhou Industrial Park in 2013. The company has more than 80 world-leading mass spectrometry equipment, can provide more than 100 detection and analysis services and more than 20 clinical detection products. The business segment covers scientific research services, industrial services, new drug services, clinical detection services, clinical products and health management, with a layout of universities, research institutes, hospitals and enterprises in 34 provinces, municipalities and autonomous regions, serving more than 1,000 customers. PANOMIX focuses on the research and clinical application development of cutting-edge metabolomics technology, and is committed to becoming a complete solution provider of metabolomics precision medicine and precision nutrition, helping you support a healthy metabolism.",
+                "homeUrl": "https://en.panomix.com/",
+                "id": 4008,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "PANOMIX",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00001079",
+            "name": "PANOMIX",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "biodeep",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://en.panomix.com/",
+            "sampleId": "BioDeep_00000000001",
+            "urlPattern": "https://query.biodeep.cn/metabolite/{$id}"
+        }
+    ],
+    "sampleId": "BioDeep_00000000001",
+    "successor": null
+}

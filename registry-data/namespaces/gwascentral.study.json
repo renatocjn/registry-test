@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:44.062+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GWAS Central (previously the Human Genome Variation database of Genotype-to-Phenotype information) is a database of summary level findings from genetic association studies, both large and small. It gathers datasets from public domain projects, and accepts direct data submission. It is based upon Marker information encompassing SNP and variant information from public databases, to which allele and genotype frequency data, and genetic association findings are additionally added. A Study (most generic level) contains one or more Experiments, one or more Sample Panels of test subjects, and one or more Phenotypes. This collection references a GWAS Central Study.",
+    "id": 1516,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000540",
+    "modified": "2019-06-11T14:17:44.062+00:00",
+    "name": "GWAS Central Study",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^HGVST\\d+$",
+    "prefix": "gwascentral.study",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GWAS Central Study at University of Leicester",
+            "id": 1517,
+            "institution": {
+                "description": "We are an internationally-recognised centre for pioneering research into genetics with specific expertise in patterns of human inheritance, identification of genetic determinants of human diseases, cancer genetics, circadian rhythms and microbial pathogenesis. Our renowned research includes the discovery by Professor Sir Alec Jeffreys of the technique of DNA fingerprinting and, more recently, for the identification of the bones of Richard III. We are proud of our cross-organism approach, which emphasises the fundamental importance of genetics as a common language for understanding the biology of organisms as diverse as bacteriophages, bacteria, yeast, fruit flies, insects, plants and humans.",
+                "homeUrl": "https://le.ac.uk/ggb",
+                "id": 1079,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Department of Genetics, University of Leicester, Leicester",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100717",
+            "name": "GWAS Central Study at University of Leicester",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.gwascentral.org/studies",
+            "sampleId": "HGVST1828",
+            "urlPattern": "https://www.gwascentral.org/study/{$id}"
+        }
+    ],
+    "sampleId": "HGVST1828",
+    "successor": null
+}

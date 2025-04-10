@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:00.815+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SUPERFAMILY provides structural, functional and evolutionary information for proteins from all completely sequenced genomes, and large sequence collections such as UniProt.",
+    "id": 1025,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000357",
+    "modified": "2019-06-11T14:17:00.815+00:00",
+    "name": "SUPFAM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "supfam",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SUPFAM at MRC and University of Bristol",
+            "id": 1027,
+            "institution": {
+                "description": "The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. In doing so, we provide knowledge needed to solve key problems in human health.",
+                "homeUrl": "http://www2.mrc-lmb.cam.ac.uk/",
+                "id": 1026,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "MRC Laboratory of Molecular Biology, Cambridge",
+                "rorId": "https://ror.org/00tw3jy02"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100454",
+            "name": "SUPFAM at MRC and University of Bristol",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://supfam.org/SUPERFAMILY/",
+            "sampleId": "SSF57615",
+            "urlPattern": "http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid={$id}"
+        }
+    ],
+    "sampleId": "SSF57615",
+    "successor": null
+}

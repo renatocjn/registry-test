@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:44.579+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Signaling Gateway provides  information on  mammalian proteins involved in cellular signaling.",
+    "id": 169,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000045",
+    "modified": "2019-06-11T14:15:44.579+00:00",
+    "name": "Signaling Gateway",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "A\\d{6}$",
+    "prefix": "signaling-gateway",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Signaling Gateway Molecule Pages",
+            "id": 171,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100073",
+            "name": "Signaling Gateway Molecule Pages",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.signaling-gateway.org/molecule",
+            "sampleId": "A001094",
+            "urlPattern": "http://www.signaling-gateway.org/molecule/query?afcsid={$id}"
+        }
+    ],
+    "sampleId": "A001094",
+    "successor": null
+}

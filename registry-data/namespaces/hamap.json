@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:46.532+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "HAMAP is a system that identifies and semi-automatically annotates proteins that are part of well-conserved and orthologous microbial families or subfamilies. These are used to build rules which are used to propagate annotations to member bacterial, archaeal and plastid-encoded protein entries.",
+    "id": 856,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000292",
+    "modified": "2019-06-11T14:16:46.532+00:00",
+    "name": "HAMAP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MF_\\d+$",
+    "prefix": "hamap",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HAPMAP at Swiss Institute of Bioinformatics",
+            "id": 857,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100374",
+            "name": "HAPMAP at Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://hamap.expasy.org/",
+            "sampleId": "MF_01400",
+            "urlPattern": "https://hamap.expasy.org/unirule/{$id}"
+        }
+    ],
+    "sampleId": "MF_01400",
+    "successor": null
+}

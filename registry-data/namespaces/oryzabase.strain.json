@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:30.425+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Oryzabase provides a view of rice (Oryza sativa) as a model monocot plant by integrating biological data with molecular genomic information. It contains information about rice development and anatomy, rice mutants, and genetic resources, especially for wild varieties of rice. Developmental and anatomical descriptions include in situ gene expression data serving as stage and tissue markers. This collection references wild strain information.",
+    "id": 1375,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000484",
+    "modified": "2019-06-11T14:17:30.425+00:00",
+    "name": "Oryzabase Strain",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "oryzabase.strain",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Oryzabase v4 Strain at National Institute of Genetics (Japan)",
+            "id": 1376,
+            "institution": {
+                "description": "Research NIG conducts top-level research in life sciences leveraging on approaches and resources in Genetics. NIG also develops new research fields within the broader concept of Genetics. ",
+                "homeUrl": "http://www.nig.ac.jp/nig/",
+                "id": 1371,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Genetic Strains Research Center, National Institute of Genetics, Mishima, Shizuoka",
+                "rorId": "https://ror.org/02xg1m795"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100620",
+            "name": "Oryzabase v4 Strain at National Institute of Genetics (Japan)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.shigen.nig.ac.jp/rice/oryzabaseV4/",
+            "sampleId": "1",
+            "urlPattern": "http://www.shigen.nig.ac.jp/rice/oryzabaseV4/strain/wildCore/detail/{$id}"
+        }
+    ],
+    "sampleId": "1",
+    "successor": null
+}

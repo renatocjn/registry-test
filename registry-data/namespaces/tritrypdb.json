@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:14.213+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TriTrypDB is one of the databases that can be accessed through the EuPathDB (http://EuPathDB.org; formerly ApiDB) portal, covering eukaryotic pathogens of the genera Cryptosporidium, Giardia, Leishmania, Neospora, Plasmodium, Toxoplasma, Trichomonas and Trypanosoma. While each of these groups is supported by a taxon-specific database built upon the same infrastructure, the EuPathDB portal offers an entry point to all these resources, and the opportunity to leverage orthology for searches across genera.",
+    "id": 481,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000155",
+    "modified": "2019-06-11T14:16:14.213+00:00",
+    "name": "TriTrypDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\.)?\\w+(\\.)?\\w+",
+    "prefix": "tritrypdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TriTrypDB at EuPathDB",
+            "id": 483,
+            "institution": {
+                "description": "We tackle some of the most difficult challenges in genomic research. This demands science at scale; a visionary and creative approach to research that pushes the boundaries of our understanding in ever new and exciting ways.",
+                "homeUrl": "https://www.sanger.ac.uk/",
+                "id": 210,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Wellcome Trust Sanger Institute",
+                "rorId": "https://ror.org/05cy4wa09"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100200",
+            "name": "TriTrypDB at EuPathDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://tritrypdb.org/tritrypdb/",
+            "sampleId": "Tb927.8.620",
+            "urlPattern": "http://tritrypdb.org/tritrypdb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&source_id={$id}"
+        }
+    ],
+    "sampleId": "Tb927.8.620",
+    "successor": null
+}

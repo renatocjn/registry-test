@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:43.583+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The United States Patent and Trademark Office (USPTO) is the federal agency for granting U.S. patents and registering trademarks. As a mechanism that protects new ideas and investments in innovation and creativity, the USPTO is at the cutting edge of the nation's technological progress and achievement.",
+    "id": 1510,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000538",
+    "modified": "2019-06-11T14:17:43.583+00:00",
+    "name": "USPTO",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(D|PP|R|T|H|X|AI)?\\d+$",
+    "prefix": "uspto",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "USPTO patents at USPTO",
+            "id": 1512,
+            "institution": {
+                "description": "The United States Patent and Trademark Office (USPTO) is the federal agency for granting U.S. patents and registering trademarks. In doing this, the USPTO fulfills the mandate of Article I, Section 8, Clause 8, of the Constitution that the legislative branch \"promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.\" The USPTO registers trademarks based on the commerce clause of the Constitution (Article I, Section 8, Clause 3). Under this system of protection, American industry has flourished. New products have been invented, new uses for old ones discovered, and employment opportunities created for millions of Americans. The strength and vitality of the U.S. economy depends directly on effective mechanisms that protect new ideas and investments in innovation and creativity. The continued demand for patents and trademarks underscores the ingenuity of American inventors and entrepreneurs. The USPTO is at the cutting edge of the nation's technological progress and achievement.",
+                "homeUrl": "https://www.uspto.gov/",
+                "id": 1511,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "United States Patent and Trademark Office",
+                "rorId": "https://ror.org/0114yjq47"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100715",
+            "name": "USPTO patents at USPTO",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://patft.uspto.gov/netahtml/PTO/index.html",
+            "sampleId": "4145692",
+            "urlPattern": "http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/{$id}"
+        }
+    ],
+    "sampleId": "4145692",
+    "successor": null
+}

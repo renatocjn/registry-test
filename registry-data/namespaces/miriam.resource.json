@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:22.127+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MIRIAM Registry is an online resource created to catalogue data types (Gene Ontology, Taxonomy or PubMed are some examples), their URIs and the corresponding resources (or physical locations), whether these are controlled vocabularies or databases.",
+    "id": 573,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000188",
+    "modified": "2024-11-05T09:34:23.760+00:00",
+    "name": "MIRIAM Registry resource",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MIR:001\\d{5}$",
+    "prefix": "miriam.resource",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MIRIAM Registry (resources)",
+            "id": 574,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100245",
+            "name": "MIRIAM Registry (resources)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/miriam/",
+            "sampleId": "MIR:00100005",
+            "urlPattern": "https://resolver.api.identifiers.org/resolveMirId/{$id}"
+        }
+    ],
+    "sampleId": "MIR:00100005",
+    "successor": null
+}

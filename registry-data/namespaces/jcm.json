@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:18.921+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Japan Collection of Microorganisms (JCM) collects, catalogues, and distributes cultured microbial strains, restricted to those classified in Risk Group 1 or 2.",
+    "id": 535,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000174",
+    "modified": "2019-06-11T14:16:18.921+00:00",
+    "name": "Japan Collection of Microorganisms",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "jcm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JCM at RIKEN BioResource Center",
+            "id": 537,
+            "institution": {
+                "description": "RIKEN BRC, as one of the world leading scientific infrastructures, contributes to advancement of life science and human welfare in the 21st century.",
+                "homeUrl": "https://web.brc.riken.jp/en/",
+                "id": 536,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "RIKEN BioResource Center, Ibaraki",
+                "rorId": "https://ror.org/00s05em53"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100220",
+            "name": "JCM at RIKEN BioResource Center",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.jcm.riken.go.jp/",
+            "sampleId": "17254",
+            "urlPattern": "http://www.jcm.riken.go.jp/cgi-bin/jcm/jcm_number?JCM={$id}"
+        }
+    ],
+    "sampleId": "17254",
+    "successor": null
+}

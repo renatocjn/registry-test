@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:50.083+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The spectra hash code (SPLASH) is a unique and non-proprietary identifier for spectra, and is independent of how the spectra were acquired or processed. It can be easily calculated for a wide range of spectra, including Mass spectroscopy,  infrared spectroscopy, ultraviolet and nuclear magnetic resonance.",
+    "id": 1577,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000566",
+    "modified": "2019-06-11T14:17:50.083+00:00",
+    "name": "SPLASH",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^splash\\d[A-Z-a-z0-9]-[A-Za-z0-9]+-[A-Za-z0-9]+$",
+    "prefix": "splash",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mass Bank of North America (MoNA)",
+            "id": 1579,
+            "institution": {
+                "description": "UC Davis was founded in 1908 to serve the state of California. We do and we always will. And today, the seed that was planted those years ago has grown into one of the world’s top universities. ",
+                "homeUrl": "https://www.ucdavis.edu/",
+                "id": 1578,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, Davis, California",
+                "rorId": "https://ror.org/05rrcem69"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100746",
+            "name": "Mass Bank of North America (MoNA)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://mona.fiehnlab.ucdavis.edu/",
+            "sampleId": "splash10-0zq2000000-77302b0326a418630a84",
+            "urlPattern": "http://mona.fiehnlab.ucdavis.edu/#/spectra/splash/{$id}"
+        }
+    ],
+    "sampleId": "splash10-0zq2000000-77302b0326a418630a84",
+    "successor": null
+}

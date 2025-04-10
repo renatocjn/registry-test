@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:01.543+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GlyTouCan is the single worldwide registry of glycan (carbohydrate sugar chain) data.",
+    "id": 1688,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000608",
+    "modified": "2019-06-11T14:18:01.543+00:00",
+    "name": "GlyTouCan",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^G[0-9]{5}[A-Z]{2}$",
+    "prefix": "glytoucan",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Glycan Repository",
+            "id": 1690,
+            "institution": {
+                "description": "Be the highest seat of learning for humanistic education. Be the cradle of a new culture. Be a fortress for the peace of humankind.",
+                "homeUrl": "https://www.soka.ac.jp/en/",
+                "id": 1689,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Soka University, Hachioji, Tokyo",
+                "rorId": "https://ror.org/003qdfg20"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100812",
+            "name": "The Glycan Repository",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://glytoucan.org",
+            "sampleId": "G00054MO",
+            "urlPattern": "https://glytoucan.org/Structures/Glycans/{$id}"
+        }
+    ],
+    "sampleId": "G00054MO",
+    "successor": null
+}

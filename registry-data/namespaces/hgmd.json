@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:10.208+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Gene Mutation Database (HGMD) collates data on germ-line mutations in nuclear genes associated with human inherited disease. It includes information on single base-pair substitutions in coding, regulatory and splicing-relevant regions; micro-deletions and micro-insertions; indels; triplet repeat expansions as well as gross deletions; insertions; duplications; and complex rearrangements. Each mutation entry is unique, and includes cDNA reference sequences for most genes, splice junction sequences, disease-associated and functional polymorphisms, as well as links to data present in publicly available online locus-specific mutation databases.",
+    "id": 1136,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000392",
+    "modified": "2019-06-11T14:17:10.208+00:00",
+    "name": "HGMD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z_0-9]+$",
+    "prefix": "hgmd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HGMD at Cardiff University",
+            "id": 1138,
+            "institution": {
+                "description": "Founded in 1883, Cardiff University is established as one of Britain's leading research universities. Our ambition is to rank consistently among the top 100 universities in the world and the top 20 in the UK. We excel in education, research, and innovation and are building strong international relationships whilst demonstrating our commitment to Wales. We have a significant economic and social impact on Wales and the UK as a whole, contributing in areas such as employment, research funding, and teaching and learning activities. Explore our history from the mergers that created the University to a timeline that gives a unique view of the events that have shaped who we are now.",
+                "homeUrl": "https://www.cardiff.ac.uk/",
+                "id": 1137,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Cardiff University, Cardiff",
+                "rorId": "https://ror.org/03kk7td41"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100512",
+            "name": "HGMD at Cardiff University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.hgmd.cf.ac.uk/ac/index.php",
+            "sampleId": "CALM1",
+            "urlPattern": "http://www.hgmd.cf.ac.uk/ac/gene.php?gene={$id}"
+        }
+    ],
+    "sampleId": "CALM1",
+    "successor": null
+}

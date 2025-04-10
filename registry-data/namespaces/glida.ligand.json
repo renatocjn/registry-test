@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:32.872+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The GPCR-LIgand DAtabase (GLIDA) is a GPCR-related chemical genomic database that is primarily focused on the correlation of information between GPCRs and their ligands. It provides correlation data between GPCRs and their ligands, along with chemical information on the ligands. This collection references ligands.",
+    "id": 1401,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000494",
+    "modified": "2019-06-11T14:17:32.872+00:00",
+    "name": "GLIDA Ligand",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^L\\d+$",
+    "prefix": "glida.ligand",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GLIDA Ligand at Kyoto University",
+            "id": 1402,
+            "institution": {
+                "description": "Development of tissue/intracellular targeted drug delivery systems using biomolecular recognition mechanisms. Development of pharmacokinetics and toxicity evaluation systems using the microfluidic devices. Information analysis of adverse event databases and its application to risk assessment. Molecular dynamics and pharmacological analysis of adverse reaction and research on development for prevention and treatment.",
+                "homeUrl": "https://www.pharm.kyoto-u.ac.jp/en/research/research-organization/research-profile/ciepps/",
+                "id": 1399,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Department of Genomic Drug Discovery Science, Graduate School of Pharmaceutical Sciences, Kyoto University, Sakyo-ku, Kyoto",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100635",
+            "name": "GLIDA Ligand at Kyoto University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/",
+            "sampleId": "L000001",
+            "urlPattern": "http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/ligand_information.php?id={$id}"
+        }
+    ],
+    "sampleId": "L000001",
+    "successor": null
+}

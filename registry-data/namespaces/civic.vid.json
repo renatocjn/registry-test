@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-29T10:48:56.640+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CIViC variants are usually genomic alterations, including single nucleotide variants (SNVs), insertion/deletion events (indels), copy number alterations (CNV’s such as amplification or deletion), structural variants (SVs such as translocations and inversions), and other events that differ from the “normal” genome. In some cases a CIViC variant may represent events of the transcriptome or proteome. For example, ‘expression’ or ‘over-expression’ is a valid variant. Regardless of the variant, it must have a Predictive, Prognostic, Predisposing, Diagnostic, Oncogenic, or Functional relevance that is clinical in nature to be entered in CIViC. i.e. There must be some rationale for why curation of this variant could ultimately aid clinical decision making.",
+    "id": 3042,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000909",
+    "modified": "2022-01-29T10:48:56.640+00:00",
+    "name": "CIViC Variant",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "civic.vid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer.",
+            "id": 3043,
+            "institution": {
+                "description": "Washington University in St. Louis is a place where people matter and serious work is done. Our mission is to discover and disseminate knowledge, and to protect the freedom of inquiry through research, teaching and learning.",
+                "homeUrl": "https://wustl.edu/",
+                "id": 2750,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Washington University in St. Louis",
+                "rorId": "https://ror.org/01yc7t268"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000908",
+            "name": "Clinical Interpretation of Variants in Cancer (CIViC)",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "civicdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://civicdb.org/",
+            "sampleId": "12",
+            "urlPattern": "https://civicdb.org/links/variant/{$id}"
+        }
+    ],
+    "sampleId": "12",
+    "successor": null
+}

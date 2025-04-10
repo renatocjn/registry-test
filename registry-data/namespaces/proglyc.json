@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:00.162+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ProGlycProt (Prokaryotic Glycoprotein) is a repository of bacterial and archaeal glycoproteins with at least one experimentally validated glycosite (glycosylated residue). Each entry in the database is fully cross-referenced and enriched with available published information about source organism, coding gene, protein, glycosites, glycosylation type, attached glycan, associated oligosaccharyl/glycosyl transferases (OSTs/GTs), supporting references, and applicable additional information.",
+    "id": 1017,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000354",
+    "modified": "2019-06-11T14:17:00.162+00:00",
+    "name": "ProGlycProt",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]C\\d{1,3}$",
+    "prefix": "proglyc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ProGlycProt at IMT",
+            "id": 1019,
+            "institution": {
+                "description": "Established in 1984, the CSIR-Institute of Microbial Technology (IMTech) is one among the chain of 38 national laboratories, 6 units and 39 outreach centres of the Council of Scientific & Industrial Research. Set-up to be a fore-runner in the niche domain of microbial biotechnology, the Institute in its initial years functioned from a start-up laboratory that provided a truly world-class R&D ambience in an area of over 10,000 sq. ft. to its researchers. In September, 1989, upon completion of the permanent campus, the Institute shifted to occupy an area of about 47 acres, of which the labs covered 22 acres and the residential campus 25 acres. The Institute covering a built up area of about 3.60 lakh sq. ft., is spread over four main buildings, namely, Main R&D block, Fermentation block, Animal House, Workshop, Stores and Services area, several service building including a guest house and Cafeteria. Recently another block of almost 50000 sq. ft. area (the G.N. Ramachandran Protein Centre) has been added, to cater to R&D in all aspects of Protein science and engineering. The Institute provides laboratories which are functionally modular and offer large, air-conditioned, clean research areas to all the scientists.",
+                "homeUrl": "http://www.imtech.res.in/",
+                "id": 1018,
+                "location": {
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                "name": "Institute of Microbial Technology, Council of Scientific and Industrial Research (CSIR),  Chandigarh",
+                "rorId": "https://ror.org/055rjs771"
+            },
+            "location": {
+                "countryCode": "IN",
+                "countryName": "India"
+            },
+            "mirId": "MIR:00100451",
+            "name": "ProGlycProt at IMT",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.proglycprot.org/",
+            "sampleId": "AC119",
+            "urlPattern": "http://www.proglycprot.org/detail.aspx?ProId={$id}"
+        }
+    ],
+    "sampleId": "AC119",
+    "successor": null
+}

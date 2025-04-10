@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:00.403+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Polbase is a database of DNA polymerases providing information on polymerase protein sequence, target DNA sequence, enzyme structure, sequence mutations and details on polymerase activity.",
+    "id": 1020,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000355",
+    "modified": "2019-06-11T14:17:00.403+00:00",
+    "name": "PolBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z-0-9]+$",
+    "prefix": "polbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PolBase at New England BioLabs",
+            "id": 1021,
+            "institution": {
+                "description": "Created \"by scientists for scientists\", NEB is renowned for consistently providing exceptional product quality and unsurpassed technical support. For over four decades, NEB has been shaping the landscape of bioscience research by discovering, developing and supporting superior research reagents. From our founding principles – placing the advancement of science and the stewardship of the environment as our highest priorities – to our unique corporate culture, NEB’s philosophy can be distilled down to three core values: passion, humility and being genuine. ",
+                "homeUrl": "https://international.neb.com/",
+                "id": 682,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "New England Biolabs, Ipswich, Massachusetts",
+                "rorId": "https://ror.org/04ywg3445"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100452",
+            "name": "PolBase at New England BioLabs",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://polbase.neb.com/",
+            "sampleId": "19-T4",
+            "urlPattern": "https://polbase.neb.com/polymerases/{$id}#sequences"
+        }
+    ],
+    "sampleId": "19-T4",
+    "successor": null
+}

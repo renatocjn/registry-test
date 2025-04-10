@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:31.282+00:00",
+    "deprecated": true,
+    "deprecationDate": "2024-10-28T16:55:45.600+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The number of known protein sequences exceeds those of experimentally solved protein structures. Homology (or comparative) modeling methods make use of experimental protein structures to build models for evolutionary related proteins. The Protein Model Portal (PMP) provides a single portal to access these models, which are accessed through their UniProt identifiers.",
+    "id": 673,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000227",
+    "modified": "2024-10-28T16:55:45.602+00:00",
+    "name": "PMP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])$",
+    "prefix": "pmp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2020-03-03T06:27:49.602+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PMP at University of Basel",
+            "id": 675,
+            "institution": {
+                "description": "The primary focus of this interdisciplinary institute is basic molecular and biomedical research and teaching. The Biozentrum holds a leading position nationally and internationally and closely networks with partners from the academic world and industry.",
+                "homeUrl": "https://www.biozentrum.unibas.ch/",
+                "id": 674,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Biozentrum, University of Basel, Basel",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100286",
+            "name": "PMP at University of Basel",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.proteinmodelportal.org/",
+            "sampleId": "Q0VCA6",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100286/{$id}"
+        }
+    ],
+    "sampleId": "Q0VCA6",
+    "successor": null
+}

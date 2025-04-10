@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:55.438+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PomBase is a model organism database established to provide access to molecular data and biological information for the fission yeast Schizosaccharomyces pombe. It encompasses annotation of genomic sequence and features, comprehensive manual literature curation and genome-wide data sets.",
+    "id": 961,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000335",
+    "modified": "2019-06-11T14:16:55.438+00:00",
+    "name": "PomBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^S\\w+(\\.)?\\w+(\\.)?$",
+    "prefix": "pombase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PomBase at University of Cambridge",
+            "id": 963,
+            "institution": {
+                "description": "The Cambridge Systems Biology Centre (CSBC) is a virtual centre bringing together research groups from across the University of Cambridge with an interest in the development and integration of the large-scale experimental technologies that facilitate systems research. The centre also promotes access to these technologies for the wider Cambridge research communities.",
+                "homeUrl": "https://www.sysbiol.cam.ac.uk/",
+                "id": 962,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Cambridge Systems Biology Centre, Department of Biochemistry, University of Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100430",
+            "name": "PomBase at University of Cambridge",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.pombase.org/",
+            "sampleId": "SPCC13B11.01",
+            "urlPattern": "https://www.pombase.org/gene/{$id}"
+        }
+    ],
+    "sampleId": "SPCC13B11.01",
+    "successor": null
+}

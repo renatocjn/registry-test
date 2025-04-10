@@ -1,0 +1,56 @@
+{
+    "created": "2021-03-15T19:43:45.400+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Open Data Commons for Spinal Cord Injury is a cloud-based community-driven repository to store, share, and publish spinal cord injury research data.",
+    "id": 2589,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000804",
+    "modified": "2021-03-15T19:43:45.400+00:00",
+    "name": "Open Data Commons for Spinal Cord Injury",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]*$",
+    "prefix": "odc.sci",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Open Data Commons for Spinal Cord Injury hosted on on SciCrunch.org",
+            "id": 2590,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000803",
+            "name": "Open Data Commons for Spinal Cord Injury",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "odc.sci",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://odc-sci.org",
+            "sampleId": "602",
+            "urlPattern": "https://odc-sci.org/data/{$id}"
+        }
+    ],
+    "sampleId": "602",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2020-12-14T12:57:54.560+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Hierarchical orthologous groups predicted by OMA (Orthologous MAtrix) database. Hierarchical orthologous groups are sets of genes that have started diverging from a single common ancestor gene at a certain taxonomic level of reference. ",
+    "id": 2484,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000785",
+    "modified": "2023-01-10T16:04:39.504+00:00",
+    "name": "OMA HOGs",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^HOG:[0-9]{7}(\\.[0-9a-z.]+)?(_[0-9]+)?$",
+    "prefix": "oma.hog",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/05a28rw58' with Wikidata IDs [Q11942], and ISNI IDs [0000 0001 2156 2780]",
+            "id": 2485,
+            "institution": {
+                "description": "We serve society by educating the next generations of critical and creative thinkers and doers. With our research, we create knowledge and develop technologies to meet the global challenges of our time. We project a future-​​oriented and innovative image of Switzerland to the world and network our country with the global community. Together with our partners from science, business, politics and society, we rely on the power of teamwork and strive for excellence - in everything we do.",
+                "homeUrl": "https://ethz.ch/en.html",
+                "id": 2483,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "ETH Zurich",
+                "rorId": "https://ror.org/05a28rw58"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00000761",
+            "name": "ETH Zurich",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "oma",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://omabrowser.org",
+            "sampleId": "HOG:0459895",
+            "urlPattern": "https://omabrowser.org/oma/hog/resolve/HOG:{$id}/"
+        }
+    ],
+    "sampleId": "0459895",
+    "successor": null
+}

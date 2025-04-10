@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:04.925+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Consensus CDS (CCDS) project is a collaborative effort to identify a core set of human and mouse protein coding regions that are consistently annotated and of high quality. The CCDS set is calculated following coordinated whole genome annotation updates carried out by the NCBI, WTSI, and Ensembl. The long term goal is to support convergence towards a standard set of gene annotations.",
+    "id": 1076,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000375",
+    "modified": "2019-06-11T14:17:04.925+00:00",
+    "name": "Consensus CDS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CCDS\\d+\\.\\d+$",
+    "prefix": "ccds",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Consensus CDS at NCBI",
+            "id": 1077,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100477",
+            "name": "Consensus CDS at NCBI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ncbi.nlm.nih.gov/CCDS/",
+            "sampleId": "CCDS13573.1",
+            "urlPattern": "http://www.ncbi.nlm.nih.gov/CCDS/CcdsBrowse.cgi?REQUEST=CCDS&DATA={$id}"
+        }
+    ],
+    "sampleId": "CCDS13573.1",
+    "successor": null
+}

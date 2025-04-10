@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:18.324+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Cell Signaling Technology is a commercial organisation which provides a pathway portal to showcase their phospho-antibody products. This collection references pathways.",
+    "id": 1232,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000429",
+    "modified": "2019-06-11T14:17:18.324+00:00",
+    "name": "Cell Signaling Technology Pathways",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9_-]+$",
+    "prefix": "cst",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CST Pathways at Cell Signaling Technology",
+            "id": 1234,
+            "institution": {
+                "description": "Cell Signaling Technology (CST) is a different kind of life sciences company—one founded, owned, and run by active research scientists, with the highest standards of product and service quality, technological innovation, and scientific rigor for over 20 years. We consistently provide fellow scientists around the globe with best-in-class products and services to fuel their quests for discovery.",
+                "homeUrl": "https://www.cellsignal.com/",
+                "id": 339,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cell Signaling Technology, Inc.",
+                "rorId": "https://ror.org/03k4zc121"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100552",
+            "name": "CST Pathways at Cell Signaling Technology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cellsignal.com/pathways/index.html",
+            "sampleId": "Akt_PKB",
+            "urlPattern": "http://www.cellsignal.com/reference/pathway/{$id}.html"
+        }
+    ],
+    "sampleId": "Akt_PKB",
+    "successor": null
+}

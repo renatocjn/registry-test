@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-29T10:51:36.384+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "RISM Online is a new service that will publish the bibliographic and authority data from the catalogue of the Répertoire International des Sources Musicales project.",
+    "id": 3047,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000911",
+    "modified": "2022-01-31T08:57:14.676+00:00",
+    "name": "RISM Online",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z]+/[0-9]+$",
+    "prefix": "rism",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "RISM Digital Center",
+            "id": 3048,
+            "institution": {
+                "description": "The RISM Digital Center is part of the Répertoire International des Sources Musicales (RISM), the international organisation founded in 1952 whose aim is to inventory music sources worldwide and make them accessible. The RISM network also comprises the RISM Editorial Center in Germany and working groups in over 30 countries. The RISM project is one of the most significant collaborative efforts in the humanities, but it also provides arguably one of the very few datasets worldwide that deserve the label of Big Data in musicology.",
+                "homeUrl": "https://rism.digital/",
+                "id": 3046,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "RISM Digital Center",
+                "rorId": "https://ror.org/01kk1vy78"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00000910",
+            "name": "RISM Digital Center",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "rism",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://rism.digital/",
+            "sampleId": "people/11035",
+            "urlPattern": "https://rism.online/{$id}"
+        }
+    ],
+    "sampleId": "people/11035",
+    "successor": null
+}

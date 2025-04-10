@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:36.669+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NAPP (Nucleic Acids Phylogenetic Profiling is a clustering method based on conserved noncoding RNA (ncRNA) elements in a bacterial genomes. Short intergenic regions from a reference genome are compared with other genomes to identify RNA rich clusters.",
+    "id": 733,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000247",
+    "modified": "2019-06-11T14:16:36.669+00:00",
+    "name": "NAPP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "napp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NAPP at CNRS",
+            "id": 735,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 734,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Institut de Génétique et Microbiologie, UMR 8621, CNRS, Université Paris Sud, Paris",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100318",
+            "name": "NAPP at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://napp.u-psud.fr/",
+            "sampleId": "351",
+            "urlPattern": "http://rna.igmors.u-psud.fr/NAPP/Niveau2.php?specie={$id}"
+        }
+    ],
+    "sampleId": "351",
+    "successor": null
+}

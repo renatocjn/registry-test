@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:05.948+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GnpIS is an integrative information system focused on plants and fungal pests. It provides both genetic (e.g. genetic maps, quantitative trait loci, markers, single nucleotide polymorphisms, germplasms and genotypes) and genomic data (e.g. genomic sequences, physical maps, genome annotation and expression data) for species of agronomical interest.",
+    "id": 1741,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000627",
+    "modified": "2019-06-11T14:18:05.948+00:00",
+    "name": "GnpIS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9]+$",
+    "prefix": "gnpis",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GnpIS",
+            "id": 1743,
+            "institution": {
+                "description": "The research goal at URGI is to acquire a better understanding of genome structure, evolution and functioning to help researchers to interpret their data. A focus is made on transposable elements and repeats that appear today to be very pertinent to understand genome evolution and its functioning. Indeed, they play a major role to explain genome size and structure. Transposable elements, viewed for a long time as intra-genomic parasites, are also considered, today, to be at the origin of many essential biological functions such as the immune system, the centromeres, the heterochromatin or the telomerases. Knowledge and data gained are added to the information system increasing the value of deposited data. The methods and tools developed by this research activity are proposed to the platform users.",
+                "homeUrl": "https://urgi.versailles.inra.fr/",
+                "id": 1742,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "URGI (Research Unit in Genomics-Info), INRA de Versailles, Route de Saint-Cyr, Versailles",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100831",
+            "name": "GnpIS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://urgi.versailles.inra.fr/gnpis/",
+            "sampleId": "AY109603",
+            "urlPattern": "https://urgi.versailles.inra.fr/gnpis/#result/term={$id}"
+        }
+    ],
+    "sampleId": "AY109603",
+    "successor": null
+}

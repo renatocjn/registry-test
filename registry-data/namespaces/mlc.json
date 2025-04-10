@@ -1,0 +1,56 @@
+{
+    "created": "2021-06-24T16:02:06.844+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MLCommons Association artifacts, including benchmark results, datasets, and saved models.",
+    "id": 2709,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000828",
+    "modified": "2021-06-24T16:02:06.844+00:00",
+    "name": "MLCommons Association",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9a-zA-Z\\.\\-\\_]+$",
+    "prefix": "mlc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The MLCommons Association is a non-profit founded to \"make ML better for everyone\" through benchmarks, public datasets, and best practices. The MLCommons board has representatives from Alibaba, Google, GraphCore, Facebook, Intel, Qualcomm, Myrtle.ai, NVIDIA, and a Harvard faculty member, and the organization has over 50 members consisting of companies and academics.",
+            "id": 2710,
+            "institution": {
+                "description": "The MLCommons Association is a non-profit founded to \"make ML better for everyone\" through benchmarks, public datasets, and best practices. The MLCommons board has representatives from Alibaba, Google, GraphCore, Facebook, Intel, Qualcomm, Myrtle.ai, NVIDIA, and a Harvard faculty member, and the organization has over 50 members consisting of companies and academics.",
+                "homeUrl": "https://mlcommons.org/",
+                "id": 2708,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "MLCommons Association",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000823",
+            "name": "MLCommons Association",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "mlc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mlcommons.org/en/",
+            "sampleId": "0.7-123",
+            "urlPattern": "https://www.mlcommons.org/mlc-id/{$id}"
+        }
+    ],
+    "sampleId": "0.7-123",
+    "successor": null
+}

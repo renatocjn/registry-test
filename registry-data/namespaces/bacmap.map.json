@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:15.634+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BacMap is an electronic, interactive atlas of fully sequenced bacterial genomes. It contains labeled, zoomable and searchable chromosome maps for sequenced prokaryotic (archaebacterial and eubacterial) species. Each map can be zoomed to the level of individual genes and each gene is hyperlinked to a richly annotated gene card. All bacterial genome maps are supplemented with separate prophage genome maps as well as separate tRNA and rRNA maps. Each bacterial chromosome entry in BacMap contains graphs and tables on a variety of gene and protein statistics. Likewise, every bacterial species entry contains a bacterial 'biography' card, with taxonomic details, phenotypic details, textual descriptions and images. This collection references genome map information.",
+    "id": 1203,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000416",
+    "modified": "2019-06-11T14:17:15.634+00:00",
+    "name": "BacMap Map",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\_)?\\d+(\\.\\d+)?$",
+    "prefix": "bacmap.map",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BacMap Genome Map at University of Alberta",
+            "id": 1204,
+            "institution": {
+                "description": "The department of Agricultural, Food & Nutritional Science (AFNS) offers research and teachings related to the fields of Animal Science, Food Science and Bioresource, Human Nutrition and Plant Biosystems. AFNS offers undergraduate Bachelor of Science degrees in Agriculture, Animal Health, Agricultural/Food Business Science and Nutrition & Food Science each with a variety of majors. AFNS students can also pursue a course-based or thesis-based Master of Agriculture, Master of Science or a PhD.",
+                "homeUrl": "https://www.ualberta.ca/agricultural-food-nutritional-science/index.html",
+                "id": 1037,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Department of Computing Science, Food and Nutritional Science, University of Alberta, Edmonton",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100539",
+            "name": "BacMap Genome Map at University of Alberta",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bacmap.wishartlab.com/",
+            "sampleId": "AP011135",
+            "urlPattern": "http://bacmap.wishartlab.com/maps/{$id}/index.html"
+        }
+    ],
+    "sampleId": "AP011135",
+    "successor": null
+}

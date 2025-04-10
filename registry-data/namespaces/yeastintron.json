@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:39.906+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The YEast Intron Database (version 4.3) contains information on the spliceosomal introns of the yeast Saccharomyces cerevisiae. It includes expression data that relates to the efficiency of splicing relative to other processes in strains of yeast lacking nonessential splicing factors. The data are displayed on each intron page. This is an updated version of the previous dataset, which can be accessed through [MIR:00000460].",
+    "id": 1470,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000521",
+    "modified": "2019-06-11T14:17:39.906+00:00",
+    "name": "Yeast Intron Database v4.3",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]+$",
+    "prefix": "yeastintron",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Yeast Intron Database version 4.3 at Baskin School of Engineering",
+            "id": 1471,
+            "institution": {
+                "description": "UC Santa Cruz opened in 1965 with 650 students. During the 2018-2019 academic year, 16,983 undergraduate and 1,822 graduate students were enrolled.\n",
+                "homeUrl": "https://www.ucsc.edu",
+                "id": 1319,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, Santa Cruz",
+                "rorId": "https://ror.org/03s65by71"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100673",
+            "name": "Yeast Intron Database version 4.3 at Baskin School of Engineering",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://intron.ucsc.edu/yeast4.3/",
+            "sampleId": "SNR17A",
+            "urlPattern": "http://intron.ucsc.edu/cgi-bin/yeast4.3/intronreports.pl?outputformat=full&amp;orfName={$id}"
+        }
+    ],
+    "sampleId": "SNR17A",
+    "successor": null
+}

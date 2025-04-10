@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:41.184+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SNOMED CT (Systematized Nomenclature of Medicine -- Clinical Terms), is a systematically organized computer processable collection of medical terminology covering most areas of clinical information such as diseases, findings, procedures, microorganisms, pharmaceuticals, etc.",
+    "id": 788,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000269",
+    "modified": "2019-06-11T14:16:41.184+00:00",
+    "name": "SNOMED CT",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(\\w+)?\\d+$",
+    "prefix": "snomedct",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SNOMED-CT at The National Pathology Exchange",
+            "id": 790,
+            "institution": {
+                "description": "The Health Informatics Service is an innovative, collaborative NHS organisation providing digital and IT services to health and care providers across the UK in primary, secondary and third sectors. Our tried and trusted solutions have been developed and refined by our dedicated team of health informatics experts who share the sector’s passion and values for providing the best possible care, insight and service for patients and customers. Take a look through our range of expert services and support, and the benefits and opportunities these offer to health and care organisations and stakeholders. Get in touch to discuss your particular needs, ambitions and solutions. We’re here to help and guide the UK’s health and care community.",
+                "homeUrl": "https://www.this.nhs.uk/home",
+                "id": 789,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "The Health Informatics Service, NHS, West Yorkshire",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100405",
+            "name": "SNOMED-CT at The National Pathology Exchange",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://browser.ihtsdotools.org/",
+            "sampleId": "284196006",
+            "urlPattern": "https://browser.ihtsdotools.org/?perspective=full&conceptId1={$id}"
+        }
+    ],
+    "sampleId": "284196006",
+    "successor": null
+}

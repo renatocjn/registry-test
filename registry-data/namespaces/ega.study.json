@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:17:36.823+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The EGA is a service for permanent archiving and sharing of all types of personally identifiable genetic and phenotypic data resulting from biomedical research projects. The EGA contains exclusive data collected from individuals whose consent agreements authorize data release only for specific research use or to bona fide researchers. Strict protocols govern how information is managed, stored and distributed by the EGA project. This collection references 'Studies' which are experimental investigations of a particular phenomenon, often drawn from different datasets.",
+    "id": 1441,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000511",
+    "modified": "2019-06-11T14:17:36.823+00:00",
+    "name": "European Genome-phenome Archive Study",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^EGAS\\d{11}$",
+    "prefix": "ega.study",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EGA Study at European Bioinformatics Institute",
+            "id": 1442,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100657",
+            "name": "EGA Study at European Bioinformatics Institute",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ega/studies",
+            "sampleId": "EGAS00000000001",
+            "urlPattern": "https://www.ebi.ac.uk/ega/studies/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EGA Study through OmicsDI",
+            "id": 1443,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100851",
+            "name": "EGA Study through OmicsDI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "omicsdi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.omicsdi.org/",
+            "sampleId": "EGAS00000000001",
+            "urlPattern": "https://www.omicsdi.org/dataset/ega/{$id}"
+        }
+    ],
+    "sampleId": "EGAS00000000001",
+    "successor": null
+}

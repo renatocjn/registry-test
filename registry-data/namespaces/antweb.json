@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:12.204+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "AntWeb is a website documenting the known species of ants, with records for each species linked to their geographical distribution, life history, and includes pictures.",
+    "id": 459,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000146",
+    "modified": "2019-06-11T14:16:12.204+00:00",
+    "name": "AntWeb",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^casent\\d+(\\-D\\d+)?$",
+    "prefix": "antweb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AntWeb at California Academy of Sciences",
+            "id": 461,
+            "institution": {
+                "description": "The mission of the California Academy of Sciences is to regenerate the natural world through science, learning, and collaboration.",
+                "homeUrl": "http://www.calacademy.org/",
+                "id": 460,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "California Academy of Sciences, Goldengate Park, San Francisco",
+                "rorId": "https://ror.org/02wb73912"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100190",
+            "name": "AntWeb at California Academy of Sciences",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.antweb.org/",
+            "sampleId": "casent0106247",
+            "urlPattern": "http://www.antweb.org/specimen.do?name={$id}"
+        }
+    ],
+    "sampleId": "casent0106247",
+    "successor": null
+}

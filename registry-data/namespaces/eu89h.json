@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:09.859+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The JRC Data Catalogue gives access to the multidisciplinary data produced and maintained by the Joint Research Centre, the European Commission's in-house science service providing independent scientific advice and support to policies of the European Union.",
+    "id": 1786,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000644",
+    "modified": "2019-06-11T14:18:09.859+00:00",
+    "name": "JRC Data Catalogue",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z0-9\\-_]+$",
+    "prefix": "eu89h",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JRC Data Catalogue",
+            "id": 1788,
+            "institution": {
+                "description": "The JRC provides independent, evidence-based knowledge and science, supporting EU policies to positively impact society.  ",
+                "homeUrl": "https://ec.europa.eu/jrc/en",
+                "id": 1787,
+                "location": {
+                    "countryCode": "BE",
+                    "countryName": "Belgium"
+                },
+                "name": "European Commission, Joint Research Centre (JRC)",
+                "rorId": "https://ror.org/02ptz5951"
+            },
+            "location": {
+                "countryCode": "BE",
+                "countryName": "Belgium"
+            },
+            "mirId": "MIR:00100849",
+            "name": "JRC Data Catalogue",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://data.jrc.ec.europa.eu/",
+            "sampleId": "jrc-eurl-ecvam-chemagora",
+            "urlPattern": "http://data.europa.eu/89h/{$id}"
+        }
+    ],
+    "sampleId": "jrc-eurl-ecvam-chemagora",
+    "successor": null
+}

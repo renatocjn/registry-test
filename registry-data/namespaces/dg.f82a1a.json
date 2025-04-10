@@ -1,0 +1,56 @@
+{
+    "created": "2021-11-01T17:49:13.981+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+    "id": 2969,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000887",
+    "modified": "2021-11-01T17:49:13.981+00:00",
+    "name": "Kids First",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.f82a1a",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+            "id": 2970,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000886",
+            "name": "Kids First",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.f82a1a",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://kidsfirstdrc.org",
+            "sampleId": "00026f50-858a-446b-8ed9-b0e3ecd7b20e",
+            "urlPattern": "https://data.kidsfirstdrc.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "00026f50-858a-446b-8ed9-b0e3ecd7b20e",
+    "successor": null
+}

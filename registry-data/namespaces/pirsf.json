@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:34.294+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PIR SuperFamily concept is being used as a guiding principle to provide comprehensive and non-overlapping clustering of UniProtKB sequences into a hierarchical order to reflect their evolutionary relationships.",
+    "id": 69,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000017",
+    "modified": "2019-06-11T14:15:34.294+00:00",
+    "name": "PIRSF",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PIRSF\\d{6}$",
+    "prefix": "pirsf",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PIRSF",
+            "id": 71,
+            "institution": {
+                "description": "As one of approximately 140 academic health and science centers in the United States, Georgetown University Medical Center seeks to provide, in a synergistic fashion, excellence in education — training physicians, nurses and other health care professionals, as well as biomedical scientists — and cutting-edge interdisciplinary research collaboration, enhancing our basic science and translational biomedical research capacity in order to improve human health. We have identified several areas of focus for our research.  ",
+                "homeUrl": "https://gumc.georgetown.edu",
+                "id": 70,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Georgetown University Medical Center",
+                "rorId": "https://ror.org/00hjz7x27"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100025",
+            "name": "PIRSF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://pir.georgetown.edu/",
+            "sampleId": "PIRSF000100",
+            "urlPattern": "https://pir.georgetown.edu/cgi-bin/ipcSF?id={$id}"
+        }
+    ],
+    "sampleId": "PIRSF000100",
+    "successor": null
+}

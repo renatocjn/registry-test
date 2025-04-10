@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:40.104+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Antibiotic Resistance Genes Database (ARDB) is a manually curated database which characterises genes involved in antibiotic resistance. Each gene and resistance type is annotated with information, including resistance profile, mechanism of action, ontology, COG and CDD annotations, as well as external links to sequence and protein databases. This collection references resistance genes.",
+    "id": 1472,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000522",
+    "modified": "2019-06-11T14:17:40.104+00:00",
+    "name": "Antibiotic Resistance Genes Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z_]{3}[0-9]{4,}$",
+    "prefix": "ardb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ARDB at University of Maryland",
+            "id": 1474,
+            "institution": {
+                "description": "The University of Maryland Center for Bioinformatics and Computational Biology is a multidisciplinary center dedicated to research on questions arising from the genome revolution. CBCB brings together scientists and engineers from many fields, including computer science, molecular biology, genomics, genetics, mathematics, statistics, and physics, all of whom share a common interest in gaining a better understanding of how life works. The Center for Bioinformatics and Computational Biology is organized as a center within the University of Maryland Institute for Advanced Computer Studies (UMIACS), an interdisciplinary research institute supporting high-impact computing research across the College Park campus. ",
+                "homeUrl": "https://www.cbcb.umd.edu/",
+                "id": 1473,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Bioinformatics and Computational Biology, University of Maryland, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100678",
+            "name": "ARDB at University of Maryland",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ardb.cbcb.umd.edu/",
+            "sampleId": "CAE46076",
+            "urlPattern": "http://ardb.cbcb.umd.edu/cgi/search.cgi?db=L&amp;field=ni&amp;term={$id}"
+        }
+    ],
+    "sampleId": "CAE46076",
+    "successor": null
+}

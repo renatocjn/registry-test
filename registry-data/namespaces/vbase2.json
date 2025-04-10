@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:52.167+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The database VBASE2 provides germ-line sequences of human and mouse immunoglobulin variable (V) genes.",
+    "id": 923,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000320",
+    "modified": "2019-06-11T14:16:52.167+00:00",
+    "name": "Vbase2",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "vbase2",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Vbase2 at German Research Centre for Biotechnology",
+            "id": 925,
+            "institution": {
+                "description": "HZI is Germany’s largest academic institution dedicated exclusively to infection research. In line with its mission, the centre develops new strategies for the early detection, prevention, and treatment of infectious diseases. HZI researchers investigate bacterial and viral pathogens of high clinical relevance, elucidate their interactions with the host‘s immune system and explore new ways to prevent and combat infections.",
+                "homeUrl": "http://www.helmholtz-hzi.de",
+                "id": 924,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Department of Experimental Immunology, German Research Centre for Biotechnology, Braunschweig",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100403",
+            "name": "Vbase2 at German Research Centre for Biotechnology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.vbase2.org/vbase2.php",
+            "sampleId": "humIGHV025",
+            "urlPattern": "http://www.vbase2.org/vgene.php?id={$id}"
+        }
+    ],
+    "sampleId": "humIGHV025",
+    "successor": null
+}

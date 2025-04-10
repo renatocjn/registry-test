@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:13.721+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "(Re)Building a Kidney is an NIDDK-funded consortium of research projects working to optimize approaches for the isolation, expansion, and differentiation of appropriate kidney cell types and their integration into complex structures that replicate human kidney function.",
+    "id": 1828,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000659",
+    "modified": "2019-06-11T14:18:13.721+00:00",
+    "name": "Rebuilding a Kidney",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[-0-9a-zA-Z]+(@[-0-9a-zA-Z]+)?$",
+    "prefix": "rbk",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Rebuilding a Kidney",
+            "id": 1830,
+            "institution": {
+                "description": " NIDDK research creates knowledge about and treatments for diseases that are among the most chronic, costly, and consequential for patients, their families, and the Nation. ",
+                "homeUrl": "http://www.niddk.nih.gov/",
+                "id": 1829,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Institute Of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+                "rorId": "https://ror.org/00adh9b73"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100877",
+            "name": "Rebuilding a Kidney",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.rebuildingakidney.org/",
+            "sampleId": "Q-2958",
+            "urlPattern": "https://www.rebuildingakidney.org/id/{$id}"
+        }
+    ],
+    "sampleId": "Q-2958",
+    "successor": null
+}

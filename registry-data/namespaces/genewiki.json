@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:31.086+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Gene Wiki is project which seeks to provide detailed information on human genes. Initial 'stub' articles are created in an automated manner, with further information added by the community. Gene Wiki can be accessed in wikipedia using Gene identifiers from NCBI.",
+    "id": 1382,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000487",
+    "modified": "2019-06-11T14:17:31.086+00:00",
+    "name": "Gene Wiki",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "genewiki",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Gene Wiki through BioGPS",
+            "id": 1383,
+            "institution": {
+                "description": "The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity.",
+                "homeUrl": "https://wikimediafoundation.org/",
+                "id": 1111,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Wikimedia Foundation, San Francisco, California",
+                "rorId": "https://ror.org/032q98j12"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100623",
+            "name": "Gene Wiki through BioGPS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://en.wikipedia.org/wiki/Gene_Wiki",
+            "sampleId": "1017",
+            "urlPattern": "http://plugins.biogps.org/cgi-bin/wp.cgi?id={$id}"
+        }
+    ],
+    "sampleId": "1017",
+    "successor": null
+}

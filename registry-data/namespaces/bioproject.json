@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:58.543+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioProject provides an organizational framework to access metadata about research projects and the data from the projects that are deposited into different databases. It provides information about a project’s scope, material, objectives, funding source and general relevance categories.",
+    "id": 999,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000349",
+    "modified": "2019-06-11T14:16:58.543+00:00",
+    "name": "BioProject",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PRJ[DEN][A-Z]\\d+$",
+    "prefix": "bioproject",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioProject at NCBI",
+            "id": 1002,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100445",
+            "name": "BioProject at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/bioproject",
+            "sampleId": "PRJDB3",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/bioproject?term={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioProject at European Nucleotide Archive (ENA)",
+            "id": 1003,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100446",
+            "name": "BioProject at European Nucleotide Archive (ENA)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ena/",
+            "sampleId": "PRJDB3",
+            "urlPattern": "https://www.ebi.ac.uk/ena/browser/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-30T16:37:42.149+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioProject at DNA Data Bank of Japan",
+            "id": 1001,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100444",
+            "name": "BioProject at DNA Data Bank of Japan",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://trace.ddbj.nig.ac.jp/bioproject/",
+            "sampleId": "PRJDB3",
+            "urlPattern": "http://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc={$id}"
+        }
+    ],
+    "sampleId": "PRJDB3",
+    "successor": null
+}

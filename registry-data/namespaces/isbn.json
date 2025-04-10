@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:15:50.037+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The International Standard Book Number (ISBN) is for identifying printed books.",
+    "id": 223,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000064",
+    "modified": "2019-06-11T14:15:50.037+00:00",
+    "name": "ISBN",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(ISBN)?(-13|-10)?[:]?[ ]?(\\d{2,3}[ -]?)?\\d{1,5}[ -]?\\d{1,7}[ -]?\\d{1,6}[ -]?(\\d|X)$",
+    "prefix": "isbn",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ISBNDB - ISBN Database",
+            "id": 225,
+            "institution": {
+                "description": "The ISBNdb database includes over 33 million unique ISBNs with up to 19 data points per book and searchable via our custom API. Choose one of the plans below to access the API for a free 7 day trial.",
+                "homeUrl": "https://isbndb.com/",
+                "id": 224,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "ISNBdb project, San Gabriel, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100092",
+            "name": "ISBNDB - ISBN Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://isbndb.com/",
+            "sampleId": "9781584885658",
+            "urlPattern": "http://isbndb.com/search-all.html?kw={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ISBN database at WorldCat",
+            "id": 227,
+            "institution": {
+                "description": "OCLC is a nonprofit global library organization that provides shared technology services, original research, and community programs so that libraries can better fuel learning, research, and innovation.",
+                "homeUrl": "https://www.oclc.org/",
+                "id": 226,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "OCLC Online Computer Library Center, Inc. Ohio",
+                "rorId": "https://ror.org/02nv42w72"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100093",
+            "name": "ISBN database at WorldCat",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "worldcat",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.worldcat.org/",
+            "sampleId": "9781584885658",
+            "urlPattern": "http://www.worldcat.org/isbn/{$id}"
+        }
+    ],
+    "sampleId": "9781584885658",
+    "successor": null
+}

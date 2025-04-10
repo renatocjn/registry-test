@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:04.316+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Natural Product-Drug Interaction Research Data Repository, a publicly accessible database where researchers can access scientific results, raw data, and recommended approaches to optimally assess the clinical significance of pharmacokinetic natural product-drug interactions (PK-NPDIs).",
+    "id": 1721,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000620",
+    "modified": "2019-06-11T14:18:04.316+00:00",
+    "name": "Natural Product-Drug Interaction Research Data Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "napdi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Natural Product-Drug Interaction Research Data Repository",
+            "id": 1723,
+            "institution": {
+                "description": "The National Center for Complementary and Integrative Health (NCCIH) is the Federal Government’s lead agency for scientific research on complementary and integrative health approaches. We are 1 of the 27 Institutes, Centers, and Offices that make up the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services.",
+                "homeUrl": "https://nccih.nih.gov/",
+                "id": 1722,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Complementary and Integrative Health, National Institutes of Health, Washington D.C.",
+                "rorId": "https://ror.org/00190t495"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100824",
+            "name": "Natural Product-Drug Interaction Research Data Repository",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://repo.napdi.org/",
+            "sampleId": "28",
+            "urlPattern": "https://repo.napdi.org/study/{$id}"
+        }
+    ],
+    "sampleId": "28",
+    "successor": null
+}

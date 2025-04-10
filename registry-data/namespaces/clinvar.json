@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:58.490+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ClinVar archives reports of relationships among medically important variants and phenotypes. It records human variation, interpretations of the relationship specific variations to human health, and supporting evidence for each interpretation. Each ClinVar record (RCV identifier) represents an aggregated view of interpretations of the same variation and condition from one or more submitters. Submissions for individual variation/phenotype combinations (SCV identifier) are also collected and made available separately. This collection references the Variant identifier.",
+    "id": 1657,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000596",
+    "modified": "2019-06-11T14:17:58.490+00:00",
+    "name": "ClinVar Variant",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "clinvar",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ClinVar Variant at NCBI",
+            "id": 1658,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100796",
+            "name": "ClinVar Variant at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ncbi.nlm.nih.gov/clinvar/",
+            "sampleId": "12345",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/clinvar/variation/{$id}"
+        }
+    ],
+    "sampleId": "12345",
+    "successor": null
+}

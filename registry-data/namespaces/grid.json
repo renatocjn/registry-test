@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:57.806+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "International coverage of the world's leading research organisations, indexing 92% of funding allocated globally.",
+    "id": 1650,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000593",
+    "modified": "2019-06-11T14:17:57.806+00:00",
+    "name": "GRID",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^grid\\.[0-9]+\\.[a-f0-9]{1,2}$",
+    "prefix": "grid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GRID at Digital Science & Research Ltd.",
+            "id": 1652,
+            "institution": {
+                "description": "Digital Science believes research is the single most powerful transformational force for the long-term improvement of society. A future where a trusted, frictionless, collaborative research ecosystem drives progress for all. Our work and our staff embody these values which guide what we do every day, how we partner and work with the research community.",
+                "homeUrl": "http://www.digital-science.com/",
+                "id": 1651,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Digital Science & Research Ltd, London",
+                "rorId": "https://ror.org/02ktfc112"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100793",
+            "name": "GRID at Digital Science & Research Ltd.",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.grid.ac/",
+            "sampleId": "grid.225360.0",
+            "urlPattern": "https://www.grid.ac/institutes/{$id}"
+        }
+    ],
+    "sampleId": "grid.225360.0",
+    "successor": null
+}

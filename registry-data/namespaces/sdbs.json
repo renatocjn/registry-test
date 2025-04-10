@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:51.940+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Spectral Database for Organic Compounds (SDBS) is an integrated spectral database system for organic compounds. It provides access to 6 different types of spectra for each compound, including Mass spectrum (EI-MS), a Fourier transform infrared spectrum (FT-IR), and NMR spectra.",
+    "id": 920,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000319",
+    "modified": "2019-06-11T14:16:51.940+00:00",
+    "name": "Spectral Database for Organic Compounds",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "\\d+$",
+    "prefix": "sdbs",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SDBS at AIST",
+            "id": 922,
+            "institution": {
+                "description": "The National Institute of Advanced Industrial Science and Technology (AIST), one of the largest public research organizations in Japan, focuses on the creation and practical realization of technologies useful to Japanese industry and society, and on “bridging” the gap between innovative technological seeds and commercialization.",
+                "homeUrl": "https://www.aist.go.jp/index_en.html",
+                "id": 921,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "National Institute of Advanced Industrial Science and Technology (AIST)",
+                "rorId": "https://ror.org/01703db54"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100402",
+            "name": "SDBS at AIST",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi",
+            "sampleId": "4544",
+            "urlPattern": "http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/cre_frame_disp.cgi?sdbsno={$id}"
+        }
+    ],
+    "sampleId": "4544",
+    "successor": null
+}

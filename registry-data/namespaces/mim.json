@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:15:33.878+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Online Mendelian Inheritance in Man is a catalog of human genes and genetic disorders.",
+    "id": 65,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000016",
+    "modified": "2019-06-11T14:15:33.878+00:00",
+    "name": "OMIM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[*#+%^]?\\d{6}$",
+    "prefix": "mim",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OMIM at John Hopkins",
+            "id": 67,
+            "institution": {
+                "description": "A place that has revolutionized higher education in the U.S. and continues to bring knowledge and discoveries to the world.",
+                "homeUrl": "https://www.jhu.edu/",
+                "id": 66,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Johns Hopkins University, Baltimore, Maryland",
+                "rorId": "https://ror.org/00za53h95"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100024",
+            "name": "OMIM at John Hopkins",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://omim.org/",
+            "sampleId": "603903",
+            "urlPattern": "https://omim.org/entry/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OMIM mirror at John Hopkins",
+            "id": 68,
+            "institution": {
+                "description": "A place that has revolutionized higher education in the U.S. and continues to bring knowledge and discoveries to the world.",
+                "homeUrl": "https://www.jhu.edu/",
+                "id": 66,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Johns Hopkins University, Baltimore, Maryland",
+                "rorId": "https://ror.org/00za53h95"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100777",
+            "name": "OMIM mirror at John Hopkins",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://mirror.omim.org/",
+            "sampleId": "603903",
+            "urlPattern": "http://mirror.omim.org/entry/{$id}"
+        }
+    ],
+    "sampleId": "603903",
+    "successor": null
+}

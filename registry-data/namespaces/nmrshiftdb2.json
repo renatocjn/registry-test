@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-17T12:41:40.413+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NMR database for organic structures and their nuclear magnetic resonance (nmr) spectra. It allows for spectrum prediction (13C, 1H and other nuclei) as well as for searching spectra, structures and other properties.",
+    "id": 2140,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000748",
+    "modified": "2020-03-17T12:43:18.460+00:00",
+    "name": "NMR Shift Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "nmrshiftdb2",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra. It allows for spectrum prediction (13C, 1H and other nuclei) as well as for searching spectra, structures and other properties. Last not least, it features peer-reviewed submission of datasets by its users. The NMRShiftDB software is open source, the data is published under an open content license.",
+            "id": 2141,
+            "institution": {
+                "description": "The University of Cologne is one of the oldest and largest universities in Europe. Due to its outstanding scientific achievements and the high quality and diversity of its degree programmes, it enjoys an excellent international reputation.",
+                "homeUrl": "https://www.portal.uni-koeln.de/uoc_home.html?&L=1",
+                "id": 2139,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "University of Cologne",
+                "rorId": "https://ror.org/00rcxh774"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000719",
+            "name": "NMRShiftDB",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "uoc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://nmrshiftdb.nmr.uni-koeln.de",
+            "sampleId": "234",
+            "urlPattern": "https://nmrshiftdb.nmr.uni-koeln.de/molecule/{$id}"
+        }
+    ],
+    "sampleId": "234",
+    "successor": null
+}

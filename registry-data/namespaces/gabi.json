@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:16.652+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GabiPD (Genome Analysis of Plant Biological Systems Primary Database) constitutes a repository for a wide array of heterogeneous data from high-throughput experiments in several plant species. These data (i.e. genomics, transcriptomics, proteomics and metabolomics), originating from different model or crop species, can be accessed through a central gene 'Green Card'.",
+    "id": 508,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000164",
+    "modified": "2019-06-11T14:16:16.652+00:00",
+    "name": "GABI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "gabi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GABI at Max Planck",
+            "id": 510,
+            "institution": {
+                "description": "Research at the Max Planck Institute for Molecular Genetics (MPIMG) concentrates on understanding function and regulation of the genome in important processes of embryonic development, tissue differentiation, organ formation, and etiology of disease. The focus is on the human genome. The scientists work with automated methods and high-throughput technologies for a systematic analysis of genes and genomes and use a number of different models. The analysis and interpretation of the results is done using computational methods, the close connection of experimental and computational methods is one of the main features of many departments and groups at the MPIMG.",
+                "homeUrl": "http://www.molgen.mpg.de/2168/en",
+                "id": 509,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Max Planck Institute of Molecular Plant Physiology, Berlin",
+                "rorId": "https://ror.org/03ate3e03"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100210",
+            "name": "GABI at Max Planck",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.gabipd.org/",
+            "sampleId": "2679240",
+            "urlPattern": "http://www.gabipd.org/database/cgi-bin/GreenCards.pl.cgi?BioObjectId={$id}&Mode=ShowBioObject"
+        }
+    ],
+    "sampleId": "2679240",
+    "successor": null
+}

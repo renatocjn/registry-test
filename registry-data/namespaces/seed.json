@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:46.875+00:00",
+    "deprecated": true,
+    "deprecationDate": "2024-10-28T16:55:56.171+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "This cooperative effort, which includes Fellowship for Interpretation of Genomes (FIG), Argonne National Laboratory, and the University of Chicago, focuses on the development of the comparative genomics environment called the SEED. It is a framework to support comparative analysis and annotation of genomes, and the development of curated genomic data (annotation). Curation is performed at the level of subsystems by an expert annotator, across many genomes, and not on a gene by gene basis. This collection references subsystems.",
+    "id": 1545,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000552",
+    "modified": "2024-10-28T16:55:56.173+00:00",
+    "name": "SEED Subsystem",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "seed",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2019-10-08T08:49:23.021+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SEED Subsystem at Argonne National Laboratory",
+            "id": 1547,
+            "institution": {
+                "description": "Argonne is a multidisciplinary science and engineering research center, where talented scientists and engineers work together to answer the biggest questions facing humanity, from how to obtain affordable clean energy to protecting ourselves and our environment.",
+                "homeUrl": "https://www.anl.gov",
+                "id": 1546,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Argonne National Laboratory",
+                "rorId": "https://ror.org/05gvnxz63"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100729",
+            "name": "SEED Subsystem at Argonne National Laboratory",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://seed-viewer.theseed.org/seedviewer.cgi",
+            "sampleId": "Biotin_biosynthesis",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100729/{$id}"
+        }
+    ],
+    "sampleId": "Biotin_biosynthesis",
+    "successor": null
+}

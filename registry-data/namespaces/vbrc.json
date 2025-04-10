@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:22.962+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The VBRC provides bioinformatics resources to support scientific research directed at viruses belonging to the Arenaviridae, Bunyaviridae, Filoviridae, Flaviviridae, Paramyxoviridae, Poxviridae, and Togaviridae families. The Center consists of a relational database and web application that support the data storage, annotation, analysis, and information exchange goals of this work. Each data release contains the complete genomic sequences for all viral pathogens and related strains that are available for species in the above-named families. In addition to sequence data, the VBRC provides a curation for each virus species, resulting in a searchable, comprehensive mini-review of gene function relating genotype to biological phenotype, with special emphasis on pathogenesis.",
+    "id": 1286,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000448",
+    "modified": "2019-06-11T14:17:22.962+00:00",
+    "name": "VBRC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "vbrc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VBRC at University of Alabama",
+            "id": 1288,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1287,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Alabama, Birmingham and the University of Victoria, British Columbia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100582",
+            "name": "VBRC at University of Alabama",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://vbrc.org/",
+            "sampleId": "35742",
+            "urlPattern": "http://vbrc.org/gene_detail.asp?gene_id={$id}"
+        }
+    ],
+    "sampleId": "35742",
+    "successor": null
+}

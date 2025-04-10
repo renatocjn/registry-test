@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:29.437+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "JCGGDB (Japan Consortium for Glycobiology and Glycotechnology DataBase) is a database that aims to integrate all glycan-related data held in various repositories in Japan. This includes databases for large-quantity synthesis of glycogenes and glycans, analysis and detection of glycan structure and glycoprotein, glycan-related differentiation markers, glycan functions, glycan-related diseases and transgenic and knockout animals, etc.",
+    "id": 1363,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000479",
+    "modified": "2019-06-11T14:17:29.437+00:00",
+    "name": "JCGGDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^JCGG-STR\\d{6}$",
+    "prefix": "jcggdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JCGGDB at Advanced Science Institute (Japan)",
+            "id": 1365,
+            "institution": {
+                "description": "Established by RIKEN in April 2008, based on the DRI (Discovery Research Institute) and the FRS (Frontier Research System). ASI is unique since it is structured as   comprehensive system supporting the full range of scientific fields including high energy/nuclear/astro-physics, condensed matter physics, chemistry, electronic engineering, biology and medicine.",
+                "homeUrl": "http://www.riken.jp/en/about/reports/evaluation/asi/",
+                "id": 1364,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "RIKEN Advanced Science Institute",
+                "rorId": "https://ror.org/030vbmf58"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100614",
+            "name": "JCGGDB at Advanced Science Institute (Japan)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://jcggdb.jp/index_en.html",
+            "sampleId": "JCGG-STR008690",
+            "urlPattern": "http://jcggdb.jp/idb/jcggdb/{$id}"
+        }
+    ],
+    "sampleId": "JCGG-STR008690",
+    "successor": null
+}

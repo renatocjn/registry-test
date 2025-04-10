@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:06.412+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The SugarBind Database captures knowledge of glycan binding of human pathogen lectins and adhesins, where each glycan-protein binding pair is associated with at least one published reference. It provides information on the pathogen agent, the lectin/adhesin involved, and the human glycan ligand. This collection provides information on ligands.",
+    "id": 1747,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000629",
+    "modified": "2019-06-11T14:18:06.412+00:00",
+    "name": "SugarBind",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z]+\\/[0-9]+$",
+    "prefix": "sugarbind",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SugarBind",
+            "id": 1749,
+            "institution": {
+                "description": "In the Proteome Informatics Group (PIG), we are involved in software and database development for the benefit of the proteomics and glycomics communities. These resources are made available through the Expasy server. Software tools support experimental mass spectrometry data analysis, mainly for the detection of posttranslational modifications, with a strong focus on glycosylation. We also develop integrated tools and databases to query knowledge of carbohydrates attached to proteins, carbohydrate structures and protein-carbohydrate interactions.",
+                "homeUrl": "https://www.sib.swiss/frederique-lisacek-group",
+                "id": 1748,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Proteome Informatics Group, SIB Swiss Institute of Bioinformatics, Geneva",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100833",
+            "name": "SugarBind",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://sugarbind.expasy.org/",
+            "sampleId": "lectins/172",
+            "urlPattern": "http://sugarbind.expasy.org/{$id}"
+        }
+    ],
+    "sampleId": "lectins/172",
+    "successor": null
+}

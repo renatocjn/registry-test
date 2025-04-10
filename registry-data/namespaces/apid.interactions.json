@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:52.731+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "APID (Agile Protein Interactomes DataServer) provides information on the protein interactomes of numerous  organisms, based on the integration of known experimentally validated protein-protein physical interactions (PPIs). Interactome data includes a report on  quality levels and coverage over the proteomes for each organism included. APID integrates PPIs from primary databases of molecular interactions (BIND, BioGRID, DIP, HPRD, IntAct, MINT) and also from experimentally resolved 3D structures (PDB) where more than two distinct proteins have been identified. This collection references protein interactors, through a UniProt identifier.",
+    "id": 1603,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000576",
+    "modified": "2019-06-11T14:17:52.731+00:00",
+    "name": "APID Interactomes",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\\.\\d+)?$",
+    "prefix": "apid.interactions",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "APID at Salamanca",
+            "id": 1605,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1604,
+                "location": {
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                "name": "Cancer Research Center (CiC-IBMCC), Consejo Superior de Investigaciones Científicas (CSIC) and Universidad de Salamanca (USAL), Salamanca",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "ES",
+                "countryName": "Spain"
+            },
+            "mirId": "MIR:00100769",
+            "name": "APID at Salamanca",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cicblade.dep.usal.es:8080/APID/",
+            "sampleId": "P01116",
+            "urlPattern": "http://cicblade.dep.usal.es:8080/APID/Interactions.action?protein={$id}"
+        }
+    ],
+    "sampleId": "P01116",
+    "successor": null
+}

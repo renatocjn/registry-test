@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:21.287+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "EcoliWiki is a wiki-based resource to store information related to non-pathogenic E. coli, its phages, plasmids, and mobile genetic elements. This collection references genes.",
+    "id": 1267,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000442",
+    "modified": "2019-06-11T14:17:21.287+00:00",
+    "name": "EcoliWiki",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9-]+$",
+    "prefix": "ecoliwiki",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EcoliWiki at Texas Agrilife Research",
+            "id": 1269,
+            "institution": {
+                "description": "Texas A&M AgriLife Research is the state’s premier research agency in agriculture, natural resources and the life sciences. We conduct hundreds of projects spanning many scientific disciplines to deliver life-sustaining and industry-changing impacts to Texans and around the world. We are a state agriculture agency part of Texas A&M AgriLife, which allows us to fund research across many fields.",
+                "homeUrl": "https://agriliferesearch.tamu.edu/",
+                "id": 1268,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Texas Agrilife Research, Texas A&amp;M University College Station",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100573",
+            "name": "EcoliWiki at Texas Agrilife Research",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ecoliwiki.net/colipedia/",
+            "sampleId": "aaeA",
+            "urlPattern": "http://ecoliwiki.net/colipedia/index.php/{$id}:Gene"
+        }
+    ],
+    "sampleId": "aaeA",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:00.005+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The DrugBank database is a bioinformatics and chemoinformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information. This collection references drug information.",
+    "id": 330,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000102",
+    "modified": "2019-06-11T14:16:00.005+00:00",
+    "name": "DrugBank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DB\\d{5}$",
+    "prefix": "drugbank",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DrugBank drug information",
+            "id": 332,
+            "institution": {
+                "description": "We are a Top 5 Canadian university and one of the Top 150 in the world. Find out what makes our student experience so rich, meaningful and life-changing.",
+                "homeUrl": "https://www.ualberta.ca/index.html",
+                "id": 331,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Departments of Computing Science & Biological Sciences,  University of Alberta",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100133",
+            "name": "DrugBank drug information",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.drugbank.com",
+            "sampleId": "DB00001",
+            "urlPattern": "https://go.drugbank.com/drugs/{$id}"
+        }
+    ],
+    "sampleId": "DB00001",
+    "successor": null
+}

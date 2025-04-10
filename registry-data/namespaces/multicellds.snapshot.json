@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:55.012+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MultiCellDS is data standard for multicellular simulation, experimental, and clinical data. A digital snapshot is a single-time output of the microenvironment (including basement membranes and the vascular network), any cells contained within, and essential metadata. Cells may include phenotypic data.",
+    "id": 1624,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000583",
+    "modified": "2019-06-11T14:17:55.012+00:00",
+    "name": "MultiCellDS Digital snapshot",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MCDS_S_[a-zA-Z0-9]{1,10}$",
+    "prefix": "multicellds.snapshot",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MultiCellDS snapshot at Keck School of Medicine",
+            "id": 1625,
+            "institution": {
+                "description": "This center comprises a multidisciplinary team of investigators dedicated to furthering the development and use of proteomic technologies to guide doctors in patient management decisions. The center is based within the Department of Medicine.",
+                "homeUrl": "https://keck.usc.edu/",
+                "id": 1622,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Applied Molecular Medicine, Keck School of Medicine, University of Southern California, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100780",
+            "name": "MultiCellDS snapshot at Keck School of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://multicellds.org/MultiCellDB.php",
+            "sampleId": "MCDS_S_0000000001",
+            "urlPattern": "http://multicellds.org/MultiCellDB/{$id}"
+        }
+    ],
+    "sampleId": "MCDS_S_0000000001",
+    "successor": null
+}

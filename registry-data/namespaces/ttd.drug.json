@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:57.654+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Therapeutic Target Database (TTD) is designed to provide information about the known therapeutic protein and nucleic acid targets described in the literature, the targeted disease conditions, the pathway information and the corresponding drugs/ligands directed at each of these targets. Cross-links to other databases allow the access to information about the sequence, 3D structure, function, nomenclature, drug/ligand binding properties, drug usage and effects, and related literature for each target.",
+    "id": 304,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000092",
+    "modified": "2019-06-11T14:15:57.654+00:00",
+    "name": "TTD Drug",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DAP\\d+$",
+    "prefix": "ttd.drug",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Therapeutic Target Database Drug",
+            "id": 306,
+            "institution": {
+                "description": "The NUS School of Computing traces its roots back to the Nanyang University Department of Computer Science that was established in 1975 – the first of its kind in Singapore. Since then, we have developed into one of the leading computing schools in the world, with faculty members who are both internationally recognised researchers and inspiring teachers.",
+                "homeUrl": "https://www.comp.nus.edu.sg/cs/",
+                "id": 305,
+                "location": {
+                    "countryCode": "SG",
+                    "countryName": "Singapore"
+                },
+                "name": "Computational Science Department, National University of Singapore",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "SG",
+                "countryName": "Singapore"
+            },
+            "mirId": "MIR:00100123",
+            "name": "Therapeutic Target Database Drug",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bidd.nus.edu.sg/group/ttd/ttd.asp",
+            "sampleId": "DAP000773",
+            "urlPattern": "http://bidd.nus.edu.sg/group/TTD/ZFTTDDRUG.asp?ID={$id}"
+        }
+    ],
+    "sampleId": "DAP000773",
+    "successor": null
+}

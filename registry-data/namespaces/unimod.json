@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:22.748+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Unimod is a public domain database created to provide a community supported, comprehensive database of protein modifications for mass spectrometry applications. That is, accurate and verifiable values, derived from elemental compositions, for the mass differences introduced by all types of natural and artificial modifications. Other important information includes any mass change, (neutral loss), that occurs during MS/MS analysis, and site specificity, (which residues are susceptible to modification and any constraints on the position of the modification within the protein or peptide).",
+    "id": 1283,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000447",
+    "modified": "2019-06-11T14:17:22.748+00:00",
+    "name": "Unimod",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "unimod",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Unimod at Matrix Sciences Ltd.",
+            "id": 1285,
+            "institution": {
+                "description": " Matrix Science is an independent provider of bioinformatics tools to proteomics researchers and scientists, enabling the rapid, confident identification and quantitation of proteins. The company was founded in 1998 and is based in London, United Kingdom. ",
+                "homeUrl": "https://www.matrixscience.com/",
+                "id": 1284,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Matrix Science Ltd., London",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100581",
+            "name": "Unimod at Matrix Sciences Ltd.",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.unimod.org/",
+            "sampleId": "1200",
+            "urlPattern": "http://www.unimod.org/modifications_view.php?editid1={$id}"
+        }
+    ],
+    "sampleId": "1200",
+    "successor": null
+}

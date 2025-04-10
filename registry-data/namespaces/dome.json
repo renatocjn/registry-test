@@ -1,0 +1,56 @@
+{
+    "created": "2025-01-22T11:15:48.205+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A database of annotations for published papers describing machine learning methods in biology",
+    "id": 4153,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001086",
+    "modified": "2025-01-22T11:15:48.205+00:00",
+    "name": "DOME Registry",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z0-9]{10}$",
+    "prefix": "dome",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "A registry providing a curated set of annotations for ML papers following the DOME recommendations",
+            "id": 4104,
+            "institution": {
+                "description": "he University of Padua is one of Europe’s oldest and most prestigious seats of learning. As a multi-disciplinary institute of higher education, the University aims to provide its students with professional training and a solid cultural background. The qualification received from the University of Padua act as a symbol of the ambitious objectives respected and coveted by both students and employers alike.",
+                "homeUrl": "https://www.unipd.it/en/",
+                "id": 1769,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "University of Padua",
+                "rorId": "https://ror.org/00240q980"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00001085",
+            "name": "DOME Registry",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dome",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://registry.dome-ml.org/",
+            "sampleId": "88n4lxv68p",
+            "urlPattern": "https://registry.dome-ml.org/review/{$id}"
+        }
+    ],
+    "sampleId": "88n4lxv68p",
+    "successor": null
+}

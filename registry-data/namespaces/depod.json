@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:18.034+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The human DEPhOsphorylation Database (DEPOD) contains information on known human active phosphatases and their experimentally verified protein and nonprotein substrates. Reliability scores are provided for dephosphorylation interactions, according to the type of assay used, as well as the number of laboratories that have confirmed such interaction. Phosphatase and substrate entries are listed along with the dephosphorylation site, bioassay type, and original literature, and contain links to other resources.",
+    "id": 1229,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000428",
+    "modified": "2019-06-11T14:17:18.034+00:00",
+    "name": "DEPOD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]+$",
+    "prefix": "depod",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DEPOD at EMBL",
+            "id": 1231,
+            "institution": {
+                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
+                "homeUrl": "http://embl.org/",
+                "id": 375,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "EMBL, Heidelberg",
+                "rorId": "https://ror.org/03mstc592"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100551",
+            "name": "DEPOD at EMBL",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.depod.bioss.uni-freiburg.de",
+            "sampleId": "PTPN1",
+            "urlPattern": "http://www.depod.bioss.uni-freiburg.de/showp.php?gene={$id}"
+        }
+    ],
+    "sampleId": "PTPN1",
+    "successor": null
+}

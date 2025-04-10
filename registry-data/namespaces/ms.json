@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:17:56.919+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PSI-Mass Spectrometry (MS) CV contains all the terms used in the PSI MS-related data standards. The CV contains a logical hierarchical structure to ensure ease of maintenance and the development of software that makes use of complex semantics. The CV contains terms required for a complete description of an MS analysis pipeline used in proteomics, including sample labeling, digestion enzymes, instrumentation parts and parameters, software used for identification and quantification of peptides/proteins and the parameters and scores used to determine their significance.",
+    "id": 1641,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000590",
+    "modified": "2019-06-11T14:17:56.919+00:00",
+    "name": "Mass Spectrometry Controlled Vocabulary",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MS:\\d{7}$",
+    "prefix": "ms",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mass Spectrometry Controlled Vocabulary through BioPortal",
+            "id": 1643,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100787",
+            "name": "Mass Spectrometry Controlled Vocabulary through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioportal.bioontology.org/ontologies/MS",
+            "sampleId": "1000001",
+            "urlPattern": "http://purl.bioontology.org/ontology/MS/MS:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mass Spectrometry Controlled Vocabulary through OLS",
+            "id": 1642,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100786",
+            "name": "Mass Spectrometry Controlled Vocabulary through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ms",
+            "sampleId": "1000001",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ms/terms?obo_id=MS:{$id}"
+        }
+    ],
+    "sampleId": "1000001",
+    "successor": null
+}

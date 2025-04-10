@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:34.528+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Plant Protein Phosphorylation DataBase (P3DB) is a database that provides information on experimentally determined phosphorylation sites in the proteins of various plant species. This collection references plant proteins that contain phosphorylation sites.",
+    "id": 1420,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000501",
+    "modified": "2019-06-11T14:17:34.528+00:00",
+    "name": "P3DB Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "p3db.protein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "P3DB Protein at University of Missouri",
+            "id": 1422,
+            "institution": {
+                "description": "Mizzou Engineering educates engineering leaders who are driven by curiosity, wonder and a desire to make the world a better place. Here, you will have opportunities to collaborate with peers and faculty across campus to gain hands-on experience that complements your in-class coursework. And with 50+ engineering organizations and more than 600 student clubs at Mizzou, you will be able to connect with fellow Tigers who share your interests and passions.",
+                "homeUrl": "https://engineering.missouri.edu/departments/eecs/",
+                "id": 1421,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Computer Science, University of Missouri, Columbia, Missouri",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100642",
+            "name": "P3DB Protein at University of Missouri",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.p3db.org/",
+            "sampleId": "70",
+            "urlPattern": "http://www.p3db.org/protein.php?id={$id}&amp;ref=0"
+        }
+    ],
+    "sampleId": "70",
+    "successor": null
+}

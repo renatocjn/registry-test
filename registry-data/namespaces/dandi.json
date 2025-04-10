@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-24T05:11:19.658+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DANDI works with BICCN and other BRAIN Initiative awardees to curate data using community data standards such as NWB and BIDS, and to make data and software for cellular neurophysiology FAIR (Findable, Accessible, Interoperable, and Reusable).\nDANDI references electrical and optical cellular neurophysiology recordings and associated MRI and/or optical imaging data.\nThese data will help scientists uncover and understand cellular level mechanisms of brain function. Scientists will study the formation of neural networks, how cells and networks enable functions such as learning and memory, and how these functions are disrupted in neurological disorders.",
+    "id": 2168,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000786",
+    "modified": "2021-10-18T12:32:14.264+00:00",
+    "name": "DANDI: Distributed Archives for Neurophysiology Data Integration",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{6}(\\/\\d+\\.\\d+\\.\\d+)?$",
+    "prefix": "dandi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DANDI is a Web platform for scientists to share, collaborate, and process data from cellular neurophysiology experiments. DANDI works with BICCN and other BRAIN Initiative awardees to curate data using community data standards such as NWB and BIDS, and to make data and software for cellular neurophysiology FAIR (Findable, Accessible, Interoperable, and Reusable). DANDI will store electrical and optical cellular neurophysiology recordings and associated MRI and/or optical imaging data. DANDI will provide: 1) A cloud platform for neurophysiology data storage for the purposes of collaboration and dissemination of data; 2) Easy to use tools for neurophysiology data submission, visualization, and access in the archive; and 3) Standardized applications for data ingestion, visualization and processing, which facilitate adoption of NWB and other standards. These data will help scientists uncover and understand cellular level mechanisms of brain function. Scientists will study the formation of neural networks, how cells and networks enable functions such as learning and memory, and how these functions are disrupted in neurological disorders.",
+            "id": 2169,
+            "institution": {
+                "description": "Founded to accelerate the nation’s industrial revolution, MIT is profoundly American. With ingenuity and drive, our graduates have invented fundamental technologies, launched new industries, and created millions of American jobs. At the same time, and without the slightest sense of contradiction, MIT is profoundly global(opens in new window). Our community gains tremendous strength as a magnet for talent from around the world. Through teaching, research, and innovation, MIT’s exceptional community pursues its mission of service to the nation and the world.",
+                "homeUrl": "http://web.mit.edu/",
+                "id": 2167,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Massachusetts Institute of Technology",
+                "rorId": "https://ror.org/042nb2s44"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000750",
+            "name": "DANDI: Distributed Archives for Neurophysiology Data Integration",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dandi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://dandiarchive.org/",
+            "sampleId": "000017",
+            "urlPattern": "https://dandiarchive.org/dandiset/{$id}"
+        }
+    ],
+    "sampleId": "000017",
+    "successor": null
+}

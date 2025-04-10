@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:58.342+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NeuroMorpho.Org is a centrally curated inventory of  digitally reconstructed neurons.",
+    "id": 312,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000095",
+    "modified": "2019-06-11T14:15:58.342+00:00",
+    "name": "NeuroMorpho",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "neuromorpho",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NeuroMorpho",
+            "id": 314,
+            "institution": {
+                "description": "The Krasnow Institute for Advanced Study seeks to expand the understanding of mind, brain, and intelligence by conducting research at the intersection of the separate fields of cognitive psychology, neurobiology, and the computer-driven study of artificial intelligence and complex adaptive systems, including social systems. These separate disciplines increasingly overlap and promise progressively deeper insight into human thought processes. The institute also examines how new insights  from cognitive science research can be applied for human benefit in the areas of mental health, neurological disease, education, computer design, and social system analysis.",
+                "homeUrl": "https://catalog.gmu.edu/archives/2019-2020/research/krasnow-institute-advanced-study/",
+                "id": 313,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Krasnow Institute, Virginia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100126",
+            "name": "NeuroMorpho",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://neuromorpho.org/index.jsp",
+            "sampleId": "Rosa2",
+            "urlPattern": "http://neuromorpho.org/neuron_info.jsp?neuron_name={$id}"
+        }
+    ],
+    "sampleId": "Rosa2",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:59.756+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioNumbers is a database of key numberical information that may be used in molecular biology. Along with the numbers, it contains references to the original literature, useful comments, and related numeric data.",
+    "id": 327,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000101",
+    "modified": "2019-06-11T14:15:59.756+00:00",
+    "name": "BioNumbers",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "bionumbers",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioNumbers database",
+            "id": 329,
+            "institution": {
+                "description": "The Weizmann Institute of Science is one of the world’s leading multidisciplinary basic research institutions in the natural and exact sciences. It is located in Rehovot, Israel, just south of Tel Aviv. It was initially established as the Daniel Sieff Institute in 1934, by Israel and Rebecca Sieff of London in memory of their son Daniel. In 1949, it was renamed for Dr. Chaim Weizmann, the first President of the State of Israel and Founder of the Institute.",
+                "homeUrl": "https://www.weizmann.ac.il/pages/",
+                "id": 328,
+                "location": {
+                    "countryCode": "IL",
+                    "countryName": "Israel"
+                },
+                "name": "Weizmann Institute",
+                "rorId": "https://ror.org/0316ej306"
+            },
+            "location": {
+                "countryCode": "IL",
+                "countryName": "Israel"
+            },
+            "mirId": "MIR:00100132",
+            "name": "BioNumbers database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bionumbers.hms.harvard.edu",
+            "sampleId": "104674",
+            "urlPattern": "https://bionumbers.hms.harvard.edu/bionumber.aspx?id={$id}"
+        }
+    ],
+    "sampleId": "104674",
+    "successor": null
+}

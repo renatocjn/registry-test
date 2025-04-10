@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-20T12:58:53.045+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SNP2TFBS is aimed at studying variations (SNPs/indels) that affect transcription factor binding (TFB) in the Human genome.",
+    "id": 2152,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000766",
+    "modified": "2020-03-20T12:58:53.045+00:00",
+    "name": "SNP2TFBS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^rs[0-9]+$",
+    "prefix": "snp2tfbs",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SNP2TFBS is a Web interface aimed at studying variations (SNPs/indels) that affect transcription factor binding (TFB) in the Human genome.",
+            "id": 2153,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00000737",
+            "name": "SNP2TFBS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ccg.epfl.ch/snp2tfbs/",
+            "sampleId": "rs11603840",
+            "urlPattern": "https://ccg.epfl.ch/cgi-bin/snp2tfbs/snpviewer_form_parser.cgi?snpid={$id}"
+        }
+    ],
+    "sampleId": "rs11603840",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:27.419+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The G protein-coupled receptor database (GPCRDB) collects, large amounts of heterogeneous data on GPCRs. It contains experimental data on sequences, ligand-binding constants, mutations and oligomers, and derived data such as multiple sequence alignments and homology models.",
+    "id": 631,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000212",
+    "modified": "2019-06-11T14:16:27.419+00:00",
+    "name": "GPCRDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "gpcrdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GPCRDB at Radboud University",
+            "id": 633,
+            "institution": {
+                "description": "Radboud university medical center specializes in patient care, scientific research, teaching and training. Our mission is to have a significant impact on health care. We aim to be pioneers in shaping the health care of the future. We do this in a person-centered and innovative way.",
+                "homeUrl": "https://www.radboudumc.nl/EN/Pages/default.aspx",
+                "id": 632,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Radboud University Nijmegen Medical Centre, Nijmegen",
+                "rorId": "https://ror.org/05wg1m734"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100271",
+            "name": "GPCRDB at Radboud University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.gpcrdb.org/",
+            "sampleId": "RL3R1_HUMAN",
+            "urlPattern": "http://www.gpcrdb.org/protein/{$id}/"
+        }
+    ],
+    "sampleId": "RL3R1_HUMAN",
+    "successor": null
+}

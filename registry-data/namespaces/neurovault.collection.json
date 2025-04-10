@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:07.777+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Neurovault is an online repository for statistical maps, parcellations and atlases of the brain. This collection references sets (collections) of images.",
+    "id": 1763,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000635",
+    "modified": "2019-06-11T14:18:07.777+00:00",
+    "name": "NeuroVault Collection",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[1-9][0-9]*$",
+    "prefix": "neurovault.collection",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NeuroVault Collection",
+            "id": 1764,
+            "institution": {
+                "description": "Stanford was founded almost 150 years ago on a bedrock of societal purpose. Our mission is to contribute to the world by educating students for lives of leadership and purposeful contribution; advancing fundamental knowledge and cultivating creativity; and accelerating solutions and amplifying their impact.",
+                "homeUrl": "http://www.stanford.edu/",
+                "id": 98,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Stanford University",
+                "rorId": "https://ror.org/00f54p054"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100840",
+            "name": "NeuroVault Collection",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://neurovault.org",
+            "sampleId": "3304",
+            "urlPattern": "https://neurovault.org/collections/{$id}"
+        }
+    ],
+    "sampleId": "3304",
+    "successor": null
+}

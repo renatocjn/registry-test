@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:55.864+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "E-cyanobacterium.org is a web-based platform for public sharing, annotation, analysis, and visualisation of dynamical models and wet-lab experiments related to cyanobacteria. It allows models to be represented at different levels of abstraction — as biochemical reaction networks or ordinary differential equations.It provides concise mappings of mathematical models to a formalised consortium-agreed biochemical description, with the aim of connecting the world of biological knowledge with benefits of mathematical description of dynamic processes. This collection references models.",
+    "id": 1631,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000586",
+    "modified": "2019-06-11T14:17:55.864+00:00",
+    "name": "E-cyanobacterium model",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "ecyano.model",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "e-cyanobacterium entity at Masaryk University Brno",
+            "id": 1632,
+            "institution": {
+                "description": "From January 1, 2016 we became part of the national research infrastructure C4Sys (Centre for System Biology), representing a Czech node of the ISBE (Infrastructure for Systems Biology – Europe), and our activities are supported from the program for large research infrastructures of the Ministry of Education, Youth and Sports. ",
+                "homeUrl": "https://sybila.fi.muni.cz/",
+                "id": 1629,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Systems Biology Laboratory, Faculty of Informatics, Masaryk University Brno",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00100783",
+            "name": "e-cyanobacterium entity at Masaryk University Brno",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://e-cyanobacterium.org/models/",
+            "sampleId": "26",
+            "urlPattern": "http://e-cyanobacterium.org/models/model/{$id}/"
+        }
+    ],
+    "sampleId": "26",
+    "successor": null
+}

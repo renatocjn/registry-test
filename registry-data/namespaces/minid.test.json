@@ -1,0 +1,56 @@
+{
+    "created": "2020-02-25T11:14:38.686+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Minid are identifiers used to provide robust reference to intermediate data generated during the course of a research investigation. This is a prefix for referencing identifiers in the minid test namespace. ",
+    "id": 2085,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000707",
+    "modified": "2020-02-28T10:24:36.137+00:00",
+    "name": "MINID Test",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[A-Za-z0-9]+$",
+    "prefix": "minid.test",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FAIR Research is a collaboration of the Informatics Systems Research Division at the Information Sciences Institute of University of Southern California and the Computational Systems Division at the University of Chicago.",
+            "id": 2086,
+            "institution": {
+                "description": "The University of Southern California is a leading private research university located in Los Angeles — a global center for arts, technology and international business. It is home to the College of Letters, Arts and Sciences and 21 exceptional academic schools and units. USC’s Health Sciences campus houses renowned specialized care and research in cancer, stem cell and regenerative medicine, orthopedics and sports medicine. The university is the largest private sector employer in the city of Los Angeles, responsible for $8 billion annually in economic activity in the region.",
+                "homeUrl": "https://www.usc.edu/",
+                "id": 1781,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Southern California",
+                "rorId": "https://ror.org/03taz7m60"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000724",
+            "name": "FAIR Research",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "fair",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://fair-research.org",
+            "sampleId": "3SBPLMKKVEVR",
+            "urlPattern": "https://hdl.handle.net/hdl:20.500.12633/{$id}"
+        }
+    ],
+    "sampleId": "3SBPLMKKVEVR",
+    "successor": null
+}

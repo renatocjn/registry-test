@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:12.760+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Software Heritage is the universal archive of software source code.",
+    "id": 1817,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000655",
+    "modified": "2020-11-27T10:57:55.228+00:00",
+    "name": "Software Heritage",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^swh:[1-9]:(cnt|dir|rel|rev|snp):[0-9a-f]+(;(origin|visit|anchor|path|lines)=\\S+)*$",
+    "prefix": "swh",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Software Heritage",
+            "id": 1819,
+            "institution": {
+                "description": " Inria is the French national research institute for digital science and technology. World-class research, technological innovation and entrepreneurial risk are its DNA. In 215 project teams, most of which are shared with major research universities, more than 3,900 researchers and engineers explore new paths, often in an interdisciplinary manner and in collaboration with industrial partners to meet ambitious challenges.",
+                "homeUrl": "https://www.inria.fr/en",
+                "id": 1818,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "INRIA",
+                "rorId": "https://ror.org/02kvxyf05"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100873",
+            "name": "Software Heritage",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://archive.softwareheritage.org",
+            "sampleId": "1:rev:309cf2674ee7a0749978cf8265ab91a60aea0f7d",
+            "urlPattern": "https://archive.softwareheritage.org/browse/swh:{$id}"
+        }
+    ],
+    "sampleId": "1:rev:309cf2674ee7a0749978cf8265ab91a60aea0f7d",
+    "successor": null
+}

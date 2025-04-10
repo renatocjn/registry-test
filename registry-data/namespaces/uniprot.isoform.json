@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:08.943+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The UniProt Knowledgebase (UniProtKB) is a comprehensive resource for protein sequence and functional information with extensive cross-references to more than 120 external databases. This collection is a subset of UniProtKB, and provides a means to reference isoform information.",
+    "id": 1123,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000388",
+    "modified": "2019-06-11T14:17:08.943+00:00",
+    "name": "UniProt Isoform",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\\-\\d+)$",
+    "prefix": "uniprot.isoform",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniProt Isoform through Universal Protein Resource",
+            "id": 1124,
+            "institution": {
+                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
+                "homeUrl": "https://www.uniprot.org",
+                "id": 24,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "UniProt Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100502",
+            "name": "UniProt Isoform through Universal Protein Resource",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.uniprot.org/",
+            "sampleId": "Q5BJF6-3",
+            "urlPattern": "http://www.uniprot.org/uniprot/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniProt Isoform through Universal Protein Resource using Persistent URL system",
+            "id": 1125,
+            "institution": {
+                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
+                "homeUrl": "https://www.uniprot.org",
+                "id": 24,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "UniProt Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100503",
+            "name": "UniProt Isoform through Universal Protein Resource using Persistent URL system",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://purl.uniprot.org/",
+            "sampleId": "Q5BJF6-3",
+            "urlPattern": "http://purl.uniprot.org/uniprot/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniProt Isoform through UniParc",
+            "id": 1126,
+            "institution": {
+                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
+                "homeUrl": "https://www.uniprot.org",
+                "id": 24,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "UniProt Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100504",
+            "name": "UniProt Isoform through UniParc",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.uniprot.org/uniparc/",
+            "sampleId": "Q5BJF6-3",
+            "urlPattern": "http://www.uniprot.org/uniparc/?query={$id}"
+        }
+    ],
+    "sampleId": "Q5BJF6-3",
+    "successor": null
+}

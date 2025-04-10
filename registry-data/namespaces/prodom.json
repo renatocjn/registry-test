@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:03.923+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ProDom is a database of protein domain families generated from the global comparison of all available protein sequences.",
+    "id": 371,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000117",
+    "modified": "2019-06-11T14:16:03.923+00:00",
+    "name": "ProDom",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PD\\d+$",
+    "prefix": "prodom",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ProDom Protein Domain Database",
+            "id": 373,
+            "institution": {
+                "description": "The Laboratory of Plants Microbes and Environment Interactions (LIPME), created in 1981, is a combined INRA-CNRS Research Unit, attached to the CNRS Institutes of Biological Sciences (INSB) and Ecology & Environment (INEE), as well as to the INRAE Departments of Plant Health & Environment (SPE) and Biology & Plant Breeding (BAP). From the outset, the LIPME has focused its research on the interactions between plants and either symbiotic or pathogenic microbes, co-ordinating studies on both plant and microbial partners. This research is performed using a small number of model species (Arabidopsis thaliana, Medicago truncatula), and more recently model plants of agronomic importance such as sunflower, tomato and soybean",
+                "homeUrl": "https://www6.toulouse.inrae.fr/lipm_eng",
+                "id": 372,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Laboratoire des Interactions Plantes-Microorganismes, INRA/CNRS",
+                "rorId": "https://ror.org/02gwt2810"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100150",
+            "name": "ProDom Protein Domain Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://prodom.prabi.fr/prodom/current/html/home.php",
+            "sampleId": "PD10000",
+            "urlPattern": "http://prodom.prabi.fr/prodom/current/cgi-bin/request.pl?question=DBEN&query={$id}"
+        }
+    ],
+    "sampleId": "PD10000",
+    "successor": null
+}

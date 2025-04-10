@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:13.452+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Chemistry Dashboard is a part of a suite of databases and web applications developed by the US Environmental Protection Agency's Chemical Safety for Sustainability Research Program. These databases and apps support EPA's computational toxicology research efforts to develop innovative methods to change how chemicals are currently evaluated for potential health risks.",
+    "id": 1825,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000658",
+    "modified": "2019-06-11T14:18:13.452+00:00",
+    "name": "CompTox Chemistry Dashboard",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DTXSID\\d+$",
+    "prefix": "comptox",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CompTox Chemistry Dashboard",
+            "id": 1827,
+            "institution": {
+                "description": "The mission of EPA is to protect human health and the environment.",
+                "homeUrl": "https://www.epa.gov/",
+                "id": 1826,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Environmental Protection Agency",
+                "rorId": "https://ror.org/03tns0030"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100876",
+            "name": "CompTox Chemistry Dashboard",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://comptox.epa.gov/dashboard",
+            "sampleId": "DTXSID2021028",
+            "urlPattern": "https://comptox.epa.gov/dashboard/{$id}"
+        }
+    ],
+    "sampleId": "DTXSID2021028",
+    "successor": null
+}

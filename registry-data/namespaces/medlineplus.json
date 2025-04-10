@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:28.795+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MedlinePlus is the National Institutes of Health's Web site for patients and their families and friends. Produced by the National Library of Medicine, it provides information about diseases, conditions, and wellness issues using non-technical terms and language.",
+    "id": 1355,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000476",
+    "modified": "2019-06-11T14:17:28.795+00:00",
+    "name": "MedlinePlus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "medlineplus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MedlinePlus at NCBI",
+            "id": 1356,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100611",
+            "name": "MedlinePlus at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.nlm.nih.gov/medlineplus/",
+            "sampleId": "002804",
+            "urlPattern": "http://www.nlm.nih.gov/medlineplus/ency/article/{$id}.htm"
+        }
+    ],
+    "sampleId": "002804",
+    "successor": null
+}

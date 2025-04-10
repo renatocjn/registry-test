@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:19.532+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DailyMed provides information about marketed drugs. This information includes FDA labels (package inserts). The Web site provides a standard, comprehensive, up-to-date, look-up and download resource of medication content and labeling as found in medication package inserts. Drug labeling is the most recent submitted to the Food and Drug Administration (FDA) and currently in use; it may include, for example, strengthened warnings undergoing FDA review or minor editorial changes. These labels have been reformatted to make them easier to read.",
+    "id": 1247,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000434",
+    "modified": "2019-06-11T14:17:19.532+00:00",
+    "name": "DailyMed",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9-]+",
+    "prefix": "dailymed",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DailyMed at NLM",
+            "id": 1249,
+            "institution": {
+                "description": "The National Library of Medicine (NLM), on the campus of the National Institutes of Health in Bethesda, Maryland, has been a center of information innovation since its founding in 1836. The world’s largest biomedical library, NLM maintains and makes available a vast print collection and produces electronic information resources on a wide range of topics that are searched billions of times each year by millions of people around the globe. It also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates an 8,000+ member Network of the National Library of Medicine that promotes and provides access to health information in communities across the United States.",
+                "homeUrl": "https://www.nlm.nih.gov/",
+                "id": 316,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Library of Medicine, Maryland",
+                "rorId": "https://ror.org/0060t0j89"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100558",
+            "name": "DailyMed at NLM",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://dailymed.nlm.nih.gov/dailymed/",
+            "sampleId": "973a9333-fec7-46dd-8eb5-25738f06ee54",
+            "urlPattern": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid={$id}"
+        }
+    ],
+    "sampleId": "973a9333-fec7-46dd-8eb5-25738f06ee54",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:38.379+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Antibody Registry provides identifiers for antibodies used in publications. It lists commercial antibodies from numerous vendors, each assigned with a unique identifier. Unlisted antibodies can be submitted by providing the catalog number and vendor information.",
+    "id": 1456,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000516",
+    "modified": "2019-06-11T14:17:38.379+00:00",
+    "name": "Antibody Registry",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{6}$",
+    "prefix": "antibodyregistry",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Antibody Registry at University of California",
+            "id": 1458,
+            "institution": {
+                "description": "The Neuroscience Information Framework is a dynamic inventory of Web-based neuroscience resources: data, materials, and tools accessible via any computer connected.",
+                "homeUrl": "https://neuinfo.org/",
+                "id": 1457,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Neuroscience Information Framework, University of California, San Diego,  California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100664",
+            "name": "Antibody Registry at University of California",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://antibodyregistry.org/",
+            "sampleId": "493771",
+            "urlPattern": "http://antibodyregistry.org/AB_{$id}"
+        }
+    ],
+    "sampleId": "493771",
+    "successor": null
+}

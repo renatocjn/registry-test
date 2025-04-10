@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:27.086+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PASS2 database provides alignments of proteins related at the superfamily level and are characterized by low sequence identity.",
+    "id": 1335,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000468",
+    "modified": "2019-06-11T14:17:27.086+00:00",
+    "name": "PASS2",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pass2",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PASS2 at National centre for Biological Sciences (India)",
+            "id": 1337,
+            "institution": {
+                "description": "We are a premier research institute with all the necessary facilities that a research scientist may need. Research interests of our faculty members lie in the frontier areas of biology, and the science at NCBS (a part of the Tata Institute of Fundamental Research ) uses experimental and computational approaches in the study of molecules, cells and organisms. We aim to understand biology at each of these levels to advance an integrated view of life processes. The talent and drive of our students and faculty members continues to show us the way to good science.",
+                "homeUrl": "https://www.ncbs.res.in/",
+                "id": 428,
+                "location": {
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                "name": "National Centre for Biological Sciences, Bangalore",
+                "rorId": "https://ror.org/03gf8rp76"
+            },
+            "location": {
+                "countryCode": "IN",
+                "countryName": "India"
+            },
+            "mirId": "MIR:00100603",
+            "name": "PASS2 at National centre for Biological Sciences (India)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://caps.ncbs.res.in/pass2/",
+            "sampleId": "46977",
+            "urlPattern": "http://caps.ncbs.res.in/cgi-bin/pass2//show_sf.py?sf_id={$id}"
+        }
+    ],
+    "sampleId": "46977",
+    "successor": null
+}

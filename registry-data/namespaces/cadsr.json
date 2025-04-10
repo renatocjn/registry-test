@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:22.646+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The US National Cancer Institute (NCI) maintains and administers data elements, forms, models, and components of these items in a metadata registry referred to as the Cancer Data Standards Registry and Repository, or caDSR.",
+    "id": 1923,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000695",
+    "modified": "2019-06-11T14:18:22.646+00:00",
+    "name": "Cancer Data Standards Registry and Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]*$",
+    "prefix": "cadsr",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cancer Data Standards Registry and Repository",
+            "id": 1925,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1924,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute, National Institutes of Health, Bethesda, MD",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100928",
+            "name": "Cancer Data Standards Registry and Repository",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://wiki.nci.nih.gov/display/caDSR/caDSR+Wiki",
+            "sampleId": "3771992",
+            "urlPattern": "https://cadsrapi.nci.nih.gov/cadsrapi4/GetXML?query=DataElement[@publicId={$id}]"
+        }
+    ],
+    "sampleId": "3771992",
+    "successor": null
+}

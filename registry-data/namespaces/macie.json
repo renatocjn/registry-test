@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:53.388+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MACiE (Mechanism, Annotation and Classification in Enzymes) is a database of enzyme reaction mechanisms. Each entry in MACiE consists of an overall reaction describing the chemical compounds involved, as well as the species name in which the reaction occurs. The individual reaction stages for each overall reaction are listed with mechanisms, alternative mechanisms, and amino acids involved.",
+    "id": 261,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000077",
+    "modified": "2019-06-11T14:15:53.388+00:00",
+    "name": "MACiE",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^M\\d{4}$",
+    "prefix": "macie",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MACiE database of mechanisms, annotation and classification in enzymes",
+            "id": 262,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100108",
+            "name": "MACiE database of mechanisms, annotation and classification in enzymes",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/thornton-srv/m-csa/about/",
+            "sampleId": "M0001",
+            "urlPattern": "https://www.ebi.ac.uk/thornton-srv/m-csa/search/?s={$id}"
+        }
+    ],
+    "sampleId": "M0001",
+    "successor": null
+}

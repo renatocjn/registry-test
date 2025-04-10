@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:11.871+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "STAP (Statistical Torsional Angles Potentials) was developed since, according to several studies, some nuclear magnetic resonance (NMR) structures are of lower quality, are less reliable and less suitable for structural analysis than high-resolution X-ray crystallographic structures. The refined NMR solution structures (statistical torsion angle potentials; STAP) in the database are refined from the Protein Data Bank (PDB).",
+    "id": 1158,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000399",
+    "modified": "2019-06-11T14:17:11.871+00:00",
+    "name": "STAP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9][A-Za-z0-9]{3}$",
+    "prefix": "stap",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "STAP at Korean Bioinformation Center",
+            "id": 1160,
+            "institution": {
+                "description": "The Korean Bioinformation Center (KOBIC) is the national research center for bioinformatics which plays a key role in various areas such as genomics, proteomics, systems biology, and personalized medicine. KOBIC is also responsible for the integration and management of bioresource/biodiversity information from various research laboratories and institutions across the country. ",
+                "homeUrl": "https://www.kribb.re.kr/eng/sub02/sub02_07_03.jsp",
+                "id": 1159,
+                "location": {
+                    "countryCode": "KR",
+                    "countryName": "Korea, Republic of"
+                },
+                "name": "Korean Bioinformation Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "KR",
+                "countryName": "Korea, Republic of"
+            },
+            "mirId": "MIR:00100519",
+            "name": "STAP at Korean Bioinformation Center",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://psb.kobic.re.kr/STAP/refinement/",
+            "sampleId": "1a24",
+            "urlPattern": "http://psb.kobic.re.kr/STAP/refinement1/result.php?search={$id}"
+        }
+    ],
+    "sampleId": "1a24",
+    "successor": null
+}

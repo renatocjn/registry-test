@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:27.145+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GeneFarm is a database whose purpose is to store traceable annotations for Arabidopsis nuclear genes and gene products.",
+    "id": 628,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000211",
+    "modified": "2019-06-11T14:16:27.145+00:00",
+    "name": "GeneFarm",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "genefarm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GeneFarm at Unité de Recherche en Génomique Végétale",
+            "id": 630,
+            "institution": {
+                "description": "The URGV, located on the Evry Genopole site 30 km south from Paris, is a recently established unit specialising in Plant Genomics supported by INRA, CNRS and Evry University. The URGV occupies 1000 square metres of laboratories in the same buildings as the Centre National de Séquençage (CNS) and the Centre National de Génotypage (CNG). The URGV is fully equipped for high-throughput projects (robots, microarray facilities, etc.) and has close contact with the CNS and the CNG for large-scale sequencing and genotyping projects. The major goal of the URGV is to develop and apply modern genomics approaches to the study of plants. ",
+                "homeUrl": "https://www.bionity.com/en/research-institutes/56116/unite-de-recherche-en-genomique-vegetale-urgv.html",
+                "id": 629,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Unité de Recherche en Génomique Végétale, Evry",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100270",
+            "name": "GeneFarm at Unité de Recherche en Génomique Végétale",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://urgi.versailles.inra.fr/Genefarm/",
+            "sampleId": "4892",
+            "urlPattern": "https://urgi.versailles.inra.fr/Genefarm/Gene/display_gene.htpl?GENE_ID={$id}"
+        }
+    ],
+    "sampleId": "4892",
+    "successor": null
+}

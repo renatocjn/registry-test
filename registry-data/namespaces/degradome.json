@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:24.294+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Degradome Database contains information on the complete set of predicted proteases present in a a variety of mammalian species that have been subjected to whole genome sequencing. Each protease sequence is curated and, when necessary, cloned and sequenced.",
+    "id": 1302,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000454",
+    "modified": "2019-06-11T14:17:24.294+00:00",
+    "name": "Degradome Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[AMCST][0-9x][0-9]$",
+    "prefix": "degradome",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Degradome Database at",
+            "id": 1304,
+            "institution": {
+                "description": "El Departamento de Bioquímica y Biología Molecular es la unidad de docencia e investigación encargada de coordinar las enseñanzas en este área de acuerdo con la programación docente de la Universidad de Oviedo, así como de apoyar e impulsar las actividades e iniciativas docentes e investigadoras del profesorado en esta materia.",
+                "homeUrl": "https://bbm.uniovi.es/",
+                "id": 1303,
+                "location": {
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                "name": "Departamento de Bioquímica y Biología Molecular, Facultad de Medicina, Universidad de Oviedo",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "ES",
+                "countryName": "Spain"
+            },
+            "mirId": "MIR:00100589",
+            "name": "Degradome Database at",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://degradome.uniovi.es/",
+            "sampleId": "Ax1",
+            "urlPattern": "http://degradome.uniovi.es/cgi-bin/protease/{$id}"
+        }
+    ],
+    "sampleId": "Ax1",
+    "successor": null
+}

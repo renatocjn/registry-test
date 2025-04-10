@@ -1,0 +1,91 @@
+{
+    "created": "2022-11-04T13:50:22.141+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Identifier of a taxon or synonym in the Catalogue of Life",
+    "id": 3311,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000969",
+    "modified": "2022-11-04T13:50:22.141+00:00",
+    "name": "Catalogue of Life",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[23456789BCDFGHJKLMNPQRSTVWXYZ]{1,6}$",
+    "prefix": "col",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChecklistBank, an index and repository for taxonomic data, hosted at GBIF\n",
+            "id": 3312,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/05fjyn938' with Wikidata IDs [Q1531570], and no ISNI information",
+                "homeUrl": "https://www.gbif.org/",
+                "id": 3291,
+                "location": {
+                    "countryCode": "DK",
+                    "countryName": "Denmark"
+                },
+                "name": "Global Biodiversity Information Facility",
+                "rorId": "https://ror.org/05fjyn938"
+            },
+            "location": {
+                "countryCode": "DK",
+                "countryName": "Denmark"
+            },
+            "mirId": "MIR:00000970",
+            "name": "ChecklistBank",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "clb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.checklistbank.org",
+            "sampleId": "4QHKG",
+            "urlPattern": "https://www.checklistbank.org/dataset/3LR/taxon/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Catalogue of Life website providing a view onto the latest release of the COL Checklist.",
+            "id": 3328,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/05fjyn938' with Wikidata IDs [Q1531570], and no ISNI information",
+                "homeUrl": "https://www.gbif.org/",
+                "id": 3291,
+                "location": {
+                    "countryCode": "DK",
+                    "countryName": "Denmark"
+                },
+                "name": "Global Biodiversity Information Facility",
+                "rorId": "https://ror.org/05fjyn938"
+            },
+            "location": {
+                "countryCode": "DK",
+                "countryName": "Denmark"
+            },
+            "mirId": "MIR:00000971",
+            "name": "Catalogue of Life (COL)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "col",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.catalogueoflife.org",
+            "sampleId": "4QHKG",
+            "urlPattern": "https://www.catalogueoflife.org/data/taxon/{$id}"
+        }
+    ],
+    "sampleId": "4QHKG",
+    "successor": null
+}

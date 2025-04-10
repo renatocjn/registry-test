@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:45.846+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "WOrfDB (Worm ORFeome DataBase) contains data from the cloning of complete set of predicted protein-encoding Open Reading Frames (ORFs) of Caenorhabditis elegans. This collection describes experimentally defined transcript structures of unverified genes through RACE (Rapid Amplification of cDNA Ends).",
+    "id": 847,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000288",
+    "modified": "2019-06-11T14:16:45.846+00:00",
+    "name": "Worfdb",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\.\\d+)?",
+    "prefix": "worfdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Worm Orf DB at Harvard",
+            "id": 849,
+            "institution": {
+                "description": "At CSB we develop innovative technologies to enable the discovery of new biology, drug targets, and diagnostics. Our approach is to develop new integrated systems for subcellular analysis and use innovative imaging tools to decipher dynamic networks. This allows us to interrogate networks at multiple scales from populations to molecules. ",
+                "homeUrl": "https://csb.mgh.harvard.edu/",
+                "id": 848,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Cancer Systems Biology, Harvard Medical School, Massachusetts",
+                "rorId": "https://ror.org/05r3dyn47"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100370",
+            "name": "Worm Orf DB at Harvard",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://worfdb.dfci.harvard.edu/",
+            "sampleId": "T01B6.1",
+            "urlPattern": "http://worfdb.dfci.harvard.edu/index.php?search_type=name&page=showresultrc&race_query={$id}"
+        }
+    ],
+    "sampleId": "T01B6.1",
+    "successor": null
+}

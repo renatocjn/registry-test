@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:51.252+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MatrixDB stores experimentally determined interactions involving at least one extracellular biomolecule. It includes mostly protein-protein and protein-glycosaminoglycan interactions, as well as interactions with lipids and cations.",
+    "id": 236,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000068",
+    "modified": "2019-06-11T14:15:51.252+00:00",
+    "name": "MatrixDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])_.*|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9]_.*)|(GAG_.*)|(MULT_.*)|(PFRAG_.*)|(LIP_.*)|(CAT_.*)$",
+    "prefix": "matrixdb.association",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MatrixDB Association",
+            "id": 238,
+            "institution": {
+                "description": "Cette unité comprend 10 équipes (90 personnes) et mène une activité de recherche sur les mécanismes moléculaires des processus infectieux à l’origine de pathologies humaines graves avec des approches de biochimie, biologie structurale (RMN et cristallographie aux rayons X), microbiologie et bioinformatique.",
+                "homeUrl": "https://www.ibcp.fr/?lang=en",
+                "id": 618,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Institut de Biologie et Chimie des Protéines, CNRS, University of Lyon , Lyon-Gerland",
+                "rorId": "https://ror.org/0019x5d05"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100098",
+            "name": "MatrixDB Association",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://matrixdb.univ-lyon1.fr/",
+            "sampleId": "P00747__P07355",
+            "urlPattern": "https://matrixdb.univ-lyon1.fr/association/{$id}"
+        }
+    ],
+    "sampleId": "P00747__P07355",
+    "successor": null
+}

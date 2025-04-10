@@ -1,0 +1,56 @@
+{
+    "created": "2020-10-08T09:25:59.424+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GlycoPOST is a mass spectrometry data repository for glycomics and glycoproteomics. Users can release their \"raw/processed\" data via this site with a unique identifier number for the paper publication. Submission conditions are in accordance with the Minimum Information Required for a Glycomics Experiment (MIRAGE) guidelines.",
+    "id": 2384,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000721",
+    "modified": "2020-10-08T09:25:59.424+00:00",
+    "name": "GlycoPOST",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^GPST[0-9]{6}$",
+    "prefix": "glycopost",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Niigata University has a long institutional history, with origins going back some 150 years. Since its inauguration as a national university in 1949 under the new university system, it has played an important role in higher education and research in Japan. Over the years, it has grown into a large-scale comprehensive university offering bachelor's, master's, and doctoral degree programs under ten faculties and five graduate schools in a wide range of disciplines spanning the humanities, education, law, economics, science, engineering, agriculture, medicine, health sciences, and dentistry. With a student body of approximately 13,000 and 3,000 academic and administrative staff members, and as a research-oriented university, it boasts several world-leading research institutes, including the Brain Research Institute and the Research Institute for Natural Hazards and Disaster Recovery as well as a university hospital providing high-level medical care as an advanced treatment hospital for the region.",
+            "id": 2385,
+            "institution": {
+                "description": "Niigata University has a long institutional history, with origins going back some 150 years. Since its inauguration as a national university in 1949 under the new university system, it has played an important role in higher education and research in Japan. Over the years, it has grown into a large-scale comprehensive university offering bachelor's, master's, and doctoral degree programs under ten faculties and five graduate schools in a wide range of disciplines spanning the humanities, education, law, economics, science, engineering, agriculture, medicine, health sciences, and dentistry. With a student body of approximately 13,000 and 3,000 academic and administrative staff members, and as a research-oriented university, it boasts several world-leading research institutes, including the Brain Research Institute and the Research Institute for Natural Hazards and Disaster Recovery as well as a university hospital providing high-level medical care as an advanced treatment hospital for the region.",
+                "homeUrl": "https://www.niigata-u.ac.jp/",
+                "id": 2383,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Niigata University",
+                "rorId": "https://ror.org/04ww21r56"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00000704",
+            "name": "Niigata University",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "glycopost",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://glycopost.glycosmos.org",
+            "sampleId": "GPST000024",
+            "urlPattern": "https://glycopost.glycosmos.org/entry/{$id}"
+        }
+    ],
+    "sampleId": "GPST000024",
+    "successor": null
+}

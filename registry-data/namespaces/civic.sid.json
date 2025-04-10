@@ -1,0 +1,56 @@
+{
+    "created": "2022-08-08T18:32:17.171+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "In CIViC, each Evidence Item must be associated with a Source Type and Source ID, which link the Evidence Item to the original source of information supporting clinical claims. Currently, CIViC accepts publications indexed on PubMed OR abstracts published through the American Society of Clinical Oncology (ASCO). Each such source entered into CIViC is assigned a unique identifier and expert curators can curate guidance that assists future curators in the interpretation of information from this source.",
+    "id": 3252,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000953",
+    "modified": "2022-08-08T18:32:17.171+00:00",
+    "name": "CIViC Source",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "civic.sid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer.",
+            "id": 3253,
+            "institution": {
+                "description": "Washington University in St. Louis is a place where people matter and serious work is done. Our mission is to discover and disseminate knowledge, and to protect the freedom of inquiry through research, teaching and learning.",
+                "homeUrl": "https://wustl.edu/",
+                "id": 2750,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Washington University in St. Louis",
+                "rorId": "https://ror.org/01yc7t268"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000952",
+            "name": "Clinical Interpretation of Variants in Cancer (CIViC)",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "civicdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://civicdb.org/",
+            "sampleId": "62",
+            "urlPattern": "https://civicdb.org/links/sources/{$id}"
+        }
+    ],
+    "sampleId": "62",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2021-08-08T09:41:19.080+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Funder Registry is an open registry of persistent identifiers for grant-giving organizations around the world.",
+    "id": 2800,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000847",
+    "modified": "2021-08-08T09:41:19.080+00:00",
+    "name": "FunderRegistry",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{9,9}$",
+    "prefix": "funderregistry",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/02twcfp32' with Wikidata IDs [Q5188229], and ISNI IDs [0000 0004 0506 2673]",
+            "id": 2801,
+            "institution": {
+                "description": "We envision a rich and reusable open network of relationships connecting research organizations, people, things, and actions; a scholarly record that the global community can build on forever, for the benefit of society.",
+                "homeUrl": "https://www.crossref.org/",
+                "id": 2799,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Crossref",
+                "rorId": "https://ror.org/02twcfp32"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000846",
+            "name": "Crossref",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "crossref",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.crossref.org/",
+            "sampleId": "100000001",
+            "urlPattern": "http://data.crossref.org/fundingdata/funder/10.13039/{$id}"
+        }
+    ],
+    "sampleId": "100000001",
+    "successor": null
+}

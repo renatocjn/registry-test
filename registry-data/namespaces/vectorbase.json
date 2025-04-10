@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:32.515+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "VectorBase is part of the VEuPathDB, a NIAID-funded Bioinformatic Resource Center focused on invertebrate vectors of human pathogens and related species of interest. Currently, VectorBase contains genome information for approximately 80 organisms: mosquitoes, bed bugs, biting midges, ticks, tsetse flies, mites, sand flies, house flies, body lice, stable flies, kissing bugs, and a snail which is an intermediate host.",
+    "id": 687,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000232",
+    "modified": "2024-01-12T10:30:39.284+00:00",
+    "name": "VectorBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\D{4}\\d{6}(\\-\\D{2})?$",
+    "prefix": "vectorbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Vectorbase at EMBL-EBI",
+            "id": 688,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100291",
+            "name": "Vectorbase at EMBL-EBI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.vectorbase.org/",
+            "sampleId": "ISCW007415",
+            "urlPattern": "https://vectorbase.org/gene/{$id}"
+        }
+    ],
+    "sampleId": "ISCW007415",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:58.089+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BitterDB is a database of compounds reported to taste bitter to humans. The compounds can be searched by name, chemical structure, similarity to other bitter compounds, association with a particular human bitter taste receptor, and so on. The database also contains information on mutations in bitter taste receptors that were shown to influence receptor activation by bitter compounds. The aim of BitterDB is to facilitate studying the chemical features associated with bitterness. This collection references receptors.",
+    "id": 994,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000347",
+    "modified": "2019-06-11T14:16:58.089+00:00",
+    "name": "BitterDB Receptor",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "bitterdb.rec",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BitterDB Receptor at The Hebrew University of Jerusalem",
+            "id": 996,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 995,
+                "location": {
+                    "countryCode": "IL",
+                    "countryName": "Israel"
+                },
+                "name": "The Robert H Smith Faculty of Agriculture, Food and Environment, The Institute of Biochemistry, Food Science and Nutrition, The Hebrew University of Jerusalem, Rehovot",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IL",
+                "countryName": "Israel"
+            },
+            "mirId": "MIR:00100442",
+            "name": "BitterDB Receptor at The Hebrew University of Jerusalem",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bitterdb.agri.huji.ac.il/dbbitter.php",
+            "sampleId": "1",
+            "urlPattern": "http://bitterdb.agri.huji.ac.il/Receptor.php?id={$id}"
+        }
+    ],
+    "sampleId": "1",
+    "successor": null
+}

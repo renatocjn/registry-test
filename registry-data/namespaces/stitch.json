@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:40.524+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "STITCH is a resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature.",
+    "id": 781,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000266",
+    "modified": "2019-06-11T14:16:40.524+00:00",
+    "name": "STITCH",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w{14}$",
+    "prefix": "stitch",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "STITCH",
+            "id": 782,
+            "institution": {
+                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
+                "homeUrl": "http://embl.org/",
+                "id": 375,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "EMBL, Heidelberg",
+                "rorId": "https://ror.org/03mstc592"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100343",
+            "name": "STITCH",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://stitch.embl.de/",
+            "sampleId": "BQJCRHHNABKAKU",
+            "urlPattern": "http://stitch.embl.de/interactions/{$id}"
+        }
+    ],
+    "sampleId": "BQJCRHHNABKAKU",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-09T18:59:10.775+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Blood Profiling Atlas in Cancer (BloodPAC) supports the management, analysis and sharing of liquid biopsy data for the oncology research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies for cancer treatment and prevention. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.",
+    "id": 2999,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000895",
+    "modified": "2022-01-09T18:59:10.775+00:00",
+    "name": "BloodPAC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.5b0d",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Blood Profiling Atlas in Cancer (BloodPAC) supports the management, analysis and sharing of liquid biopsy data for the oncology research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies for cancer treatment and prevention. The data commons supports cross-project analyses by harmonizing data from different projects through the collaborative development of a data dictionary, providing an API for data queries and download, and providing a cloud-based analysis workspace with rich tools and resources.",
+            "id": 3000,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000894",
+            "name": "BloodPAC",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.5b0d",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://data.bloodpac.org/.",
+            "sampleId": "00000d53-99bc-4d3e-8ed7-6dc358baccb7",
+            "urlPattern": "https://data.bloodpac.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "00000d53-99bc-4d3e-8ed7-6dc358baccb7",
+    "successor": null
+}

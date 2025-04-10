@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:08.429+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ModelDB is a curated, searchable database of published models in the computational neuroscience domain. It accommodates models expressed in textual form, including procedural or declarative languages (e.g. C++, XML dialects) and source code written for any simulation environment.",
+    "id": 419,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000131",
+    "modified": "2019-06-11T14:16:08.429+00:00",
+    "name": "ModelDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "modeldb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ModelDB at SenseLab",
+            "id": 420,
+            "institution": {
+                "description": "Yale School of Medicine educates and nurtures creative leaders in medicine and science, promoting curiosity and critical inquiry in an inclusive environment enriched by diversity. We advance discovery and innovation fostered by partnerships across the university, our local community, and the world. We care for patients with compassion, and commit to improving the health of all people. More about YSM's History, Facts & Figures.",
+                "homeUrl": "https://medicine.yale.edu/",
+                "id": 310,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Yale University School of Medicine",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100171",
+            "name": "ModelDB at SenseLab",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://modeldb.science",
+            "sampleId": "45539",
+            "urlPattern": "https://modeldb.science/{$id}"
+        }
+    ],
+    "sampleId": "45539",
+    "successor": null
+}

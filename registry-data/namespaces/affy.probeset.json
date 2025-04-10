@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:17:10.647+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "An Affymetrix ProbeSet is a collection of up to 11 short (~22 nucleotide) microarray probes designed to measure a single gene or a family of genes as a unit. Multiple probe sets may be available for each gene under consideration.",
+    "id": 1142,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000394",
+    "modified": "2019-06-11T14:17:10.647+00:00",
+    "name": "Affymetrix Probeset",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "\\d{4,}((_[asx])?_at)?",
+    "prefix": "affy.probeset",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bio2RDF",
+            "id": 1145,
+            "institution": {
+                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
+                "homeUrl": "https://bio2rdf.org",
+                "id": 33,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Bio2RDF.org",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100672",
+            "name": "Bio2RDF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bio2rdf.org",
+            "sampleId": "243002_at",
+            "urlPattern": "http://bio2rdf.org/affymetrix:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2025-03-26T13:54:07.534+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Affymetrix ProbeSet in Santa Clara",
+            "id": 1144,
+            "institution": {
+                "description": "Thermo Fisher Scientific provides innovative Affymetrix™ products, tools, and resources that help advance the work of researchers via microarray analysis",
+                "homeUrl": "https://www.thermofisher.com/uk/en/home/life-science/microarray-analysis.html",
+                "id": 1143,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Affymetrix",
+                "rorId": "https://ror.org/012kjw534"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100514",
+            "name": "Affymetrix ProbeSet in Santa Clara",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.affymetrix.com/",
+            "sampleId": "243002_at",
+            "urlPattern": "https://www.affymetrix.com/LinkServlet?probeset={$id}"
+        }
+    ],
+    "sampleId": "243002_at",
+    "successor": null
+}

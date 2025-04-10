@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-09T18:54:14.401+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Created by researchers and data managers professionals, the FAIR Cookbook is an online resource for the Life Sciences with recipes that help you to make and keep data Findable, Accessible, Interoperable, and Reusable (FAIR).\n\n",
+    "id": 2991,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000891",
+    "modified": "2022-01-09T18:54:14.401+00:00",
+    "name": "the FAIR Cookbook",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^FCB\\d{3}",
+    "prefix": "fcb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The purpose of this website is to provide a secure, permanent URL re-direction service for Web applications. This service is run by the W3C Permanent Identifier Community Group.\nWeb applications that deal with Linked Data often need to specify and use URLs that are very stable. They utilize services such as this one to ensure that applications using their URLs will always be re-directed to a working website. This website operates like a switchboard, connecting requests for information with the true location of the information on the Web. The switchboard can be reconfigured to point to a new location if the old location stops working.\n\n",
+            "id": 2992,
+            "institution": {
+                "description": "Oxford is a world-leading centre of learning, teaching and research and the oldest university in the English-speaking world. Wikidata IDs [Q34433,Q5260389,Q56612600,Q7529574,Q6786826,Q1095537], and ISNI IDs [0000 0004 1936 8948]",
+                "homeUrl": "https://www.ox.ac.uk/",
+                "id": 2990,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "University of Oxford",
+                "rorId": "http://www.ox.ac.uk/"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000890",
+            "name": "Permanent Identifiers for the Web",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "fcb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://w3id.org",
+            "sampleId": "FCB005",
+            "urlPattern": "https://w3id.org/faircookbook/{$id}"
+        }
+    ],
+    "sampleId": "FCB005",
+    "successor": null
+}

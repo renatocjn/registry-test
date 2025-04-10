@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:51.241+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Animal Transcription Factor DataBase (AnimalTFDB) classifies TFs in sequenced animal genomes, as well as collecting the transcription co-factors and chromatin remodeling factors of those genomes. This collections refers to transcription factor families, and the species in which they are found.",
+    "id": 911,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000316",
+    "modified": "2019-06-11T14:16:51.241+00:00",
+    "name": "Animal TFDB Family",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "atfdb.family",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Animal TFDB at Hubei Bioinformatics & Molecular Imaging Key Laboratory",
+            "id": 913,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 912,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Hubei Bioinformatics and Molecular Imaging Key Laboratory, Wuhan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100399",
+            "name": "Animal TFDB at Hubei Bioinformatics & Molecular Imaging Key Laboratory",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.bioguo.org/AnimalTFDB/family_index.php",
+            "sampleId": "CUT",
+            "urlPattern": "http://www.bioguo.org/AnimalTFDB/family.php?fam={$id}"
+        }
+    ],
+    "sampleId": "CUT",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-09-19T13:46:35.999+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "This namespace is about Neuroscience Multi-Omic data, specially focused on that data generated from the BRAIN Initiative and related brain research projects.",
+    "id": 2013,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000744",
+    "modified": "2019-10-02T08:18:15.555+00:00",
+    "name": "Neuroscience Multi-Omic BRAIN Initiative Data",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[a-z]{3}-[a-km-z0-9]{7}",
+    "prefix": "nemo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Neuroscience Multi-Omic Archive (NeMO Archive) is a data repository specifically focused on the storage and dissemination of omic data generated from the BRAIN Initiative and related brain research projects.",
+            "id": 2014,
+            "institution": {
+                "description": "Formed in May 2007, the Institute for Genome Sciences (IGS) is part of the University of Maryland School of Medicine and is on the University of Maryland Baltimore campus. Members of the IGS team have helped revolutionize genomic discoveries in medicine, agriculture, environmental science and biodefense.",
+                "homeUrl": "http://www.igs.umaryland.edu",
+                "id": 2012,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Institute for Genome Sciences",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000790",
+            "name": "The NeMO Archive",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "igs",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.nemoarchive.org",
+            "sampleId": "smp-m3w9hbe",
+            "urlPattern": "https://assets.nemoarchive.org/{$id}"
+        }
+    ],
+    "sampleId": "smp-m3w9hbe",
+    "successor": null
+}

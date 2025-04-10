@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:29.860+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "OrthoDB presents a catalog of eukaryotic orthologous protein-coding genes across vertebrates, arthropods, and fungi. Orthology refers to the last common ancestor of the species under consideration, and thus OrthoDB explicitly delineates orthologs at each radiation along the species phylogeny. The database of orthologs presents available protein descriptors, together with Gene Ontology and InterPro attributes, which serve to provide general descriptive annotations of the orthologous groups",
+    "id": 657,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000221",
+    "modified": "2019-06-11T14:16:29.860+00:00",
+    "name": "OrthoDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "orthodb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OrthoDB at Swiss Institute of Bioinformatics",
+            "id": 659,
+            "institution": {
+                "description": "The SIB Swiss Institute of Bioinformatics is an internationally recognized non-profit organization dedicated to biological and biomedical data science. It is present in the main academic institutions of Switzerland and leads numerous national and international projects with a major impact on life science research and health. ",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 658,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Department of Genetic Medicine and Development, Swiss Institute of Bioinformatics, Geneva",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100280",
+            "name": "OrthoDB at Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cegg.unige.ch/orthodb4",
+            "sampleId": "Q9P0K8",
+            "urlPattern": "http://cegg.unige.ch/orthodb/results?searchtext={$id}"
+        }
+    ],
+    "sampleId": "Q9P0K8",
+    "successor": null
+}

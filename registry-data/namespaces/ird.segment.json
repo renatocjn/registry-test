@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:18.461+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Influenza Research Database (IRD) contains information related to influenza virus, including genomic sequence, strain, protein, epitope  and bibliographic information. The Segment Details page contains descriptive information and annotation data about a particular genomic segment and its encoded product(s).",
+    "id": 529,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000172",
+    "modified": "2019-06-11T14:16:18.461+00:00",
+    "name": "IRD Segment Sequence",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\_)?\\d+(\\.\\d+)?$",
+    "prefix": "ird.segment",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IRD at BioHealthBase",
+            "id": 531,
+            "institution": {
+                "description": "UT Southwestern, one of the premier academic medical centers in the nation, integrates pioneering biomedical research with exceptional clinical care and education. The institution’s faculty includes many distinguished members, including six who have been awarded Nobel Prizes since 1985. The faculty of more than 2,800 is responsible for groundbreaking medical advances and is committed to translating science-driven research quickly to new clinical treatments. UT Southwestern physicians provide medical care in about 80 specialties to more than 105,000 hospitalized patients, nearly 370,000 emergency room cases, and oversee approximately 3 million outpatient visits a year.",
+                "homeUrl": "https://www.utsouthwestern.edu/",
+                "id": 530,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Southwestern Medical Center, University of Texas, Dallas",
+                "rorId": "https://ror.org/05byvp690"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100218",
+            "name": "IRD at BioHealthBase",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.fludb.org/",
+            "sampleId": "CY077097",
+            "urlPattern": "http://www.fludb.org/brc/fluSegmentDetails.do?ncbiGenomicAccession={$id}"
+        }
+    ],
+    "sampleId": "CY077097",
+    "successor": null
+}

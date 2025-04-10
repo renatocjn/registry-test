@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:18:01.236+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The genome assembly database contains detailed information about genome assemblies for eukaryota, bacteria and archaea. The scope of the genome collections database does not extend to viruses, viroids and bacteriophage.",
+    "id": 1685,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000607",
+    "modified": "2023-10-30T09:41:30.572+00:00",
+    "name": "Genome assembly database - INSDC accessions",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^GCA_[0-9]{9}(\\.[0-9]+)?$",
+    "prefix": "insdc.gca",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Genome assembly database through ENA",
+            "id": 1686,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100810",
+            "name": "Genome assembly database through ENA",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ena/browse/genome-assembly-database",
+            "sampleId": "GCA_000155495.1",
+            "urlPattern": "https://www.ebi.ac.uk/ena/data/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Genome assembly database NCBI",
+            "id": 1687,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100811",
+            "name": "Genome assembly database NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/datasets/genome/",
+            "sampleId": "GCA_000155495.1",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/datasets/genome/{$id}"
+        }
+    ],
+    "sampleId": "GCA_000155495.1",
+    "successor": null
+}

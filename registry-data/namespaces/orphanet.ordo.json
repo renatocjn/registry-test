@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:42.194+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Orphanet Rare Disease ontology (ORDO) is a structured vocabulary for rare diseases, capturing relationships between diseases, genes and other relevant features which will form a useful resource for the computational analysis of rare diseases.\r\nIt integrates a nosology (classification of rare diseases), relationships (gene-disease relations, epiemological data) and connections with other terminologies (MeSH, UMLS, MedDRA), databases (OMIM, UniProtKB, HGNC, ensembl, Reactome, IUPHAR, Geantlas) and classifications (ICD10).",
+    "id": 1495,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000532",
+    "modified": "2025-01-21T16:17:20.300+00:00",
+    "name": "Orphanet Rare Disease Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^Orphanet(_|:)C?\\d+$",
+    "prefix": "orphanet.ordo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ORDO via OLS",
+            "id": 1496,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100705",
+            "name": "ORDO via OLS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ordo",
+            "sampleId": "Orphanet_C022",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ordo/terms/http%253A%252F%252Fwww.orpha.net%252FORDO%252F{$id}"
+        }
+    ],
+    "sampleId": "Orphanet_C022",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2023-01-12T10:08:07.976+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana. The name of a Locus is unique and used by TAIR, TIGR, and MIPS.",
+    "id": 3369,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000976",
+    "modified": "2023-01-12T10:08:07.976+00:00",
+    "name": "TAIR gene name",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^AT.G[0-9]{5}$",
+    "prefix": "tair.name",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Arabidopsis Information Resource (TAIR) collects information and maintains a database of genetic and molecular biology data for Arabidopsis thaliana, a widely used model plant.",
+            "id": 3370,
+            "institution": {
+                "description": "Grant-funded research data repositories and tools risk termination when grants end, resulting in lost data, resources and expertise. We work with the creators of these resources to develop innovative and sustainable funding support, ensuring that valuable scientific data and software resources survive and prosper.\n",
+                "homeUrl": "https://www.phoenixbioinformatics.org/",
+                "id": 3367,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Phoenix Bioinformatics",
+                "rorId": "https://ror.org/0018yg518"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000975",
+            "name": "TAIR",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "tair",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.arabidopsis.org/index.jsp",
+            "sampleId": "AT5G05330",
+            "urlPattern": "https://www.arabidopsis.org/servlets/TairObject?type=locus&name={$id}"
+        }
+    ],
+    "sampleId": "AT5G05330",
+    "successor": null
+}

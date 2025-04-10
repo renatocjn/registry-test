@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:48.189+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The International Standard Serial Number (ISSN) is a unique eight-digit number used to identify a print or electronic periodical publication, rather than individual articles or books.",
+    "id": 875,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000301",
+    "modified": "2019-06-11T14:16:48.189+00:00",
+    "name": "ISSN",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{4}-\\d{3}[\\dX]$",
+    "prefix": "issn",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ISSN at Library of Congress",
+            "id": 877,
+            "institution": {
+                "description": "The Library of Congress is the largest library in the world, with millions of books, films and video, audio recordings, photographs, newspapers, maps and manuscripts in its collections. The Library is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.",
+                "homeUrl": "http://www.loc.gov/",
+                "id": 876,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Library of Congress, Washington DC",
+                "rorId": "https://ror.org/04p405e02"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100383",
+            "name": "ISSN at Library of Congress",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://catalog.loc.gov/webvoy.htm",
+            "sampleId": "0745-4570",
+            "urlPattern": "https://catalog.loc.gov/vwebv/search?searchCode=STNO&searchArg={$id}&searchType=1&recCount=25"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ISSN Portal",
+            "id": 879,
+            "institution": {
+                "description": "The CIEPS, also known as the ISSN International Centre, is an intergovernmental organization which manages at the international level the identification and description of serial publications and ongoing resources, print and online, in any subject.",
+                "homeUrl": "https://www.issn.org/",
+                "id": 878,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "ISSN International Centre, Paris",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100924",
+            "name": "ISSN Portal",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://portal.issn.org",
+            "sampleId": "1776-3045",
+            "urlPattern": "https://portal.issn.org/resource/ISSN/{$id}"
+        }
+    ],
+    "sampleId": "0745-4570",
+    "successor": null
+}

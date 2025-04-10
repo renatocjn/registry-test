@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:48.677+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The MEROPS database is an information resource for peptidases (also termed proteases, proteinases and proteolytic enzymes) and the proteins that inhibit them.",
+    "id": 209,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000059",
+    "modified": "2019-06-11T14:15:48.677+00:00",
+    "name": "MEROPS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[SCTAGMNU]\\d{2}\\.([AB]\\d{2}|\\d{3})$",
+    "prefix": "merops",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MEROPS database at Sanger Institute",
+            "id": 211,
+            "institution": {
+                "description": "We tackle some of the most difficult challenges in genomic research. This demands science at scale; a visionary and creative approach to research that pushes the boundaries of our understanding in ever new and exciting ways.",
+                "homeUrl": "https://www.sanger.ac.uk/",
+                "id": 210,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Wellcome Trust Sanger Institute",
+                "rorId": "https://ror.org/05cy4wa09"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100087",
+            "name": "MEROPS database at Sanger Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/merops/",
+            "sampleId": "S01.001",
+            "urlPattern": "https://www.ebi.ac.uk/merops/cgi-bin/pepsum?id={$id}"
+        }
+    ],
+    "sampleId": "S01.001",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:57.477+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Protein database is a collection of sequences from several sources, including translations from annotated coding regions in GenBank, RefSeq and TPA, as well as records from SwissProt, PIR, PRF, and PDB.",
+    "id": 987,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000344",
+    "modified": "2025-01-22T10:58:13.126+00:00",
+    "name": "NCBI Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+_?\\d+(.\\d+)?$",
+    "prefix": "ncbiprotein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCBI Protein at NCBI",
+            "id": 988,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100439",
+            "name": "NCBI Protein at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/protein",
+            "sampleId": "CAA71118.1",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/protein/{$id}"
+        }
+    ],
+    "sampleId": "CAA71118.1",
+    "successor": null
+}

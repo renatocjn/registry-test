@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:39.982+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BindingDB is the first public database of protein-small molecule affinity data.",
+    "id": 775,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000264",
+    "modified": "2019-06-11T14:16:39.982+00:00",
+    "name": "BindingDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w\\d+$",
+    "prefix": "bindingdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BindingDB",
+            "id": 777,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100340",
+            "name": "BindingDB",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.bindingdb.org",
+            "sampleId": "e999",
+            "urlPattern": "http://www.bindingdb.org/compact/{$id}"
+        }
+    ],
+    "sampleId": "e999",
+    "successor": null
+}

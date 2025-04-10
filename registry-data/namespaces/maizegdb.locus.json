@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:19.610+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MaizeGDB is the maize research community's central repository for genetics and genomics information.",
+    "id": 543,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000177",
+    "modified": "2019-06-11T14:16:19.610+00:00",
+    "name": "MaizeGDB Locus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "maizegdb.locus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MaizeGDB at Missouri",
+            "id": 545,
+            "institution": {
+                "description": "The world-class researchers in the Division of Plant Science & Technology continue to excel in cutting-edge research. One of the main goals of the research and scholarly activity in the Division is to identify solutions to real-life problems that threaten the agronomic productivity in Missouri, the U.S., and the world.",
+                "homeUrl": "https://pst.missouri.edu/",
+                "id": 544,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Division of Plant Sciences, Missouri",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100223",
+            "name": "MaizeGDB at Missouri",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.maizegdb.org/",
+            "sampleId": "25011",
+            "urlPattern": "http://www.maizegdb.org/cgi-bin/displaylocusrecord.cgi?id={$id}"
+        }
+    ],
+    "sampleId": "25011",
+    "successor": null
+}

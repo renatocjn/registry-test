@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:09.937+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ClinicalTrials.gov provides free access to information on clinical studies for a wide range of diseases and conditions. Studies listed in the database are conducted in 175 countries",
+    "id": 435,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000137",
+    "modified": "2019-06-11T14:16:09.937+00:00",
+    "name": "ClinicalTrials.gov",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^NCT\\d{8}$",
+    "prefix": "clinicaltrials",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ClinicalTrials.gov at NIH",
+            "id": 437,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 436,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Library of Medicine and ClinicalTrials.gov, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100179",
+            "name": "ClinicalTrials.gov at NIH",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://clinicaltrials.gov/",
+            "sampleId": "NCT00222573",
+            "urlPattern": "https://clinicaltrials.gov/ct2/show/{$id}"
+        }
+    ],
+    "sampleId": "NCT00222573",
+    "successor": null
+}

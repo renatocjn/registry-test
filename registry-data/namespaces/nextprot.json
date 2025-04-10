@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:33.634+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "neXtProt is a resource on human proteins, and includes information such as proteins’ function, subcellular location, expression, interactions and role in diseases.",
+    "id": 698,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000236",
+    "modified": "2019-06-11T14:16:33.634+00:00",
+    "name": "nextProt",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^NX_\\w+",
+    "prefix": "nextprot",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "nextProt at Swiss Institute of Bioinformatics",
+            "id": 700,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100300",
+            "name": "nextProt at Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.nextprot.org/",
+            "sampleId": "NX_O00165",
+            "urlPattern": "https://www.nextprot.org/db/entry/{$id}"
+        }
+    ],
+    "sampleId": "NX_O00165",
+    "successor": null
+}

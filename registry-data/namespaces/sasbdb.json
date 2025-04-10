@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:51.650+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Small Angle Scattering Biological Data Bank (SASBDB) is a curated repository for small angle X-ray scattering (SAXS) and neutron scattering (SANS) data and derived models. Small angle scattering (SAS) of X-ray and neutrons provides structural information on biological macromolecules in solution at a resolution of 1-2 nm. SASBDB provides freely accessible and downloadable experimental data, which are deposited together with the relevant experimental conditions, sample details, derived models and their fits to the data.",
+    "id": 1593,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000572",
+    "modified": "2019-06-11T14:17:51.650+00:00",
+    "name": "SASBDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[Ss][Aa][Ss][A-Za-z0-9]{3}[0-9]$",
+    "prefix": "sasbdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SASBDB at European Molecular Biology Laboratory",
+            "id": 1595,
+            "institution": {
+                "description": "EMBL is an intergovernmental organisation specialising in basic research in the life sciences, funded by public research monies from more than 20 member states, including much of Europe and Israel, and two associate members, Argentina and Australia. EMBL is led by the Director General, currently Professor Edith Heard, appointed by the governing body, EMBL Council. The Council is comprised of representatives of all member and associate member states.\nActivities at EMBL Hamburg focus on state-of-the-art structural biology methods using synchrotron radiation. The unit is situated on campus of the German Synchrotron Research Centre (DESY), which hosts leading facilities for synchrotron radiation (PETRA-III) and free electron lasers (FLASH and XFEL, under construction).",
+                "homeUrl": "https://www.embl-hamburg.de",
+                "id": 1594,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "European Molecular Biology Lab Hamburg Outstation",
+                "rorId": "https://ror.org/050589e39"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100763",
+            "name": "SASBDB at European Molecular Biology Laboratory",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.sasbdb.org/",
+            "sampleId": "SASDAX8",
+            "urlPattern": "http://www.sasbdb.org/data/{$id}"
+        }
+    ],
+    "sampleId": "SASDAX8",
+    "successor": null
+}

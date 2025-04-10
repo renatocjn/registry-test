@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:56.827+00:00",
+    "deprecated": true,
+    "deprecationDate": "2025-03-28T15:59:23.872+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CharProt is a database of biochemically characterized proteins designed to support automated annotation pipelines. Entries are annotated with gene name, symbol and various controlled vocabulary terms, including Gene Ontology terms, Enzyme Commission number and TransportDB accession.",
+    "id": 979,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000341",
+    "modified": "2025-03-28T15:59:56.587+00:00",
+    "name": "CharProt",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CH_\\d+$",
+    "prefix": "charprot",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CharProt at JCVI",
+            "id": 981,
+            "institution": {
+                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
+                "homeUrl": "https://www.jcvi.org",
+                "id": 393,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "J. Craig Venter Institute, Maryland",
+                "rorId": "https://ror.org/049r1ts75"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100436",
+            "name": "CharProt at JCVI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.jcvi.org/charprotdb",
+            "sampleId": "CH_001923",
+            "urlPattern": "http://www.jcvi.org/charprotdb/index.cgi/view/{$id}"
+        }
+    ],
+    "sampleId": "CH_001923",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:45.247+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The dictyBase database provides data on the model organism Dictyostelium discoideum and related species. It contains the complete genome sequence, ESTs, gene models and functional annotations. This collection references gene information.",
+    "id": 839,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000286",
+    "modified": "2019-06-11T14:16:45.247+00:00",
+    "name": "Dictybase Gene",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DDB_G\\d+$",
+    "prefix": "dictybase.gene",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Dictybase Gene at Northwestern University",
+            "id": 841,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 840,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Northwestern University Biomedical Informatics Center and Center for Genetic Medicine, Chicago, Illinois",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100367",
+            "name": "Dictybase Gene at Northwestern University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://dictybase.org/",
+            "sampleId": "DDB_G0267522",
+            "urlPattern": "http://dictybase.org/gene/{$id}"
+        }
+    ],
+    "sampleId": "DDB_G0267522",
+    "successor": null
+}

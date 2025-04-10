@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:21.119+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SABIO-RK is a relational database system that contains information about biochemical reactions, their kinetic equations with their parameters, and the experimental conditions under which these parameters were measured. The compound data set provides information regarding the reactions in which a compound participates as substrate, product or modifier (e.g. inhibitor, cofactor), and links to further information.",
+    "id": 1907,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000688",
+    "modified": "2019-06-11T14:18:21.119+00:00",
+    "name": "SABIO-RK Compound",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "sabiork.compound",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SABIO-RK Compound",
+            "id": 1908,
+            "institution": {
+                "description": "HITS conducts basic research in the natural sciences, mathematical and computer science. Major research directions include complex simulations across scales, making sense of data, and enabling science via computational research. Application areas range from molecular biology to astrophysics. An essential characteristic of the Institute is interdisciplinarity, implemented in numerous cross-group and cross-disciplinary projects. The base funding of HITS is provided by the Klaus Tschira Foundation.",
+                "homeUrl": "http://www.h-its.org/en/",
+                "id": 151,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Heidelberg Institute for Theoretical Studies  (HITS gGmbH)",
+                "rorId": "https://ror.org/01f7bcy98"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100919",
+            "name": "SABIO-RK Compound",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://sabiork.h-its.org/",
+            "sampleId": "75",
+            "urlPattern": "http://sabiork.h-its.org/newSearch?q={$id}"
+        }
+    ],
+    "sampleId": "75",
+    "successor": null
+}

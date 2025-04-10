@@ -1,0 +1,56 @@
+{
+    "created": "2021-02-28T15:53:07.380+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "runBioSimulations is a platform for sharing simulation experiments and their results. runBioSimulations enables investigators to use a wide range of simulation tools to execute a wide range of simulations. runBioSimulations permanently saves the results of these simulations, and investigators can share results by sharing URLs similar to sharing URLs for files with DropBox and Google Drive.",
+    "id": 2565,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000897",
+    "modified": "2021-02-28T15:53:07.380+00:00",
+    "name": "runBioSimulations",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-z]{24,24}",
+    "prefix": "runbiosimulations",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/04a9tmd77' with Wikidata IDs [Q1950740], and ISNI IDs [0000 0001 0670 2351]",
+            "id": 2566,
+            "institution": {
+                "description": "The Icahn School of Medicine at Mount Sinai is an international leader in medical and scientific training, biomedical research, and patient care. It is the medical school for the Mount Sinai Health System, which includes eight hospital campuses, and has more than 5,000 faculty and nearly 2,000 students, residents and fellows.",
+                "homeUrl": "https://icahn.mssm.edu/",
+                "id": 2247,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "rorId": "https://ror.org/04a9tmd77"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000898",
+            "name": "Icahn School of Medicine at Mount Sinai",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "icahn",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://icahn.mssm.edu/",
+            "sampleId": "5fde96bdc5f1aa9ff0cce18a",
+            "urlPattern": "https://run.biosimulations.org/simulations/{$id}"
+        }
+    ],
+    "sampleId": "5fde96bdc5f1aa9ff0cce18a",
+    "successor": null
+}

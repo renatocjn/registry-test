@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:17.129+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "FlowRepository is a database of flow cytometry experiments where you can query and download data collected and annotated according to the MIFlowCyt standard. It is primarily used as a data deposition place for experimental findings published in peer-reviewed journals in the flow cytometry field.",
+    "id": 1861,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000672",
+    "modified": "2019-06-11T14:18:17.129+00:00",
+    "name": "FlowRepository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^FR\\-FCM\\-\\w{4}$",
+    "prefix": "flowrepository",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FlowRepository",
+            "id": 1863,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1862,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Terry Fox Laboratory",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100896",
+            "name": "FlowRepository",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://flowrepository.org/",
+            "sampleId": "FR-FCM-ZYGW",
+            "urlPattern": "https://flowrepository.org/id/{$id}"
+        }
+    ],
+    "sampleId": "FR-FCM-ZYGW",
+    "successor": null
+}

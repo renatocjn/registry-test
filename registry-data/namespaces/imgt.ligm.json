@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:45.469+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "IMGT, the international ImMunoGeneTics project, is a collection of high-quality integrated databases specialising in Immunoglobulins, T cell receptors and the Major Histocompatibility Complex (MHC) of all vertebrate species. IMGT/LIGM is a comprehensive database of fully annotated sequences of Immunoglobulins and T cell receptors from human and other vertebrates.",
+    "id": 842,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000287",
+    "modified": "2019-06-11T14:16:45.469+00:00",
+    "name": "IMGT LIGM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^M\\d+$",
+    "prefix": "imgt.ligm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IMGT LIGM at CNRS",
+            "id": 846,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 845,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "CNRS, Montpellier University, Montpellier",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100428",
+            "name": "IMGT LIGM at CNRS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.imgt.org/",
+            "sampleId": "M94112",
+            "urlPattern": "http://www.imgt.org/ligmdb/view?id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-30T16:22:59.023+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IMGT LIGM through DKFZ (SRS)",
+            "id": 844,
+            "institution": {
+                "description": "To perform research into cancer is the task of the German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ) according to its statutes. DKFZ is the largest biomedical research institute in Germany and a member of the Helmholtz Association of National Research Centers. In more than 100 divisions and research groups, our more than 3,000 employees, of which more than 1,200 are scientists, are investigating the mechanisms of cancer, are identifying cancer risk factors and are trying to find strategies to prevent people from getting cancer.They are developing novel approaches to make tumor diagnosis more precise and treatment of cancer patients more successful.",
+                "homeUrl": "http://www.dkfz.de/en/index.html",
+                "id": 843,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "DKFZ TP3, Heidelberg",
+                "rorId": "https://ror.org/04cdgtt98"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100369",
+            "name": "IMGT LIGM through DKFZ (SRS)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://genius.embnet.dkfz-heidelberg.de/",
+            "sampleId": "M94112",
+            "urlPattern": "http://genius.embnet.dkfz-heidelberg.de/menu/cgi-bin/srs7.1.3.1/wgetz?-id+4ktAl1fNMTA+-e+[IMGT:'{$id}']"
+        }
+    ],
+    "sampleId": "M94112",
+    "successor": null
+}

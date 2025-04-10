@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:14.109+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Eukaryotic Promoter Database (EPD) is an annotated non-redundant collection of eukaryotic POL II promoters, for which the transcription start site has been determined experimentally. Access to promoter sequences is provided by pointers to positions in nucleotide sequence entries. The annotation part of an entry includes description of the initiation site mapping data, cross-references to other databases, and bibliographic references. EPD is structured in a way that facilitates dynamic extraction of biologically meaningful promoter subsets for comparative sequence analysis.",
+    "id": 1185,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000408",
+    "modified": "2019-06-11T14:17:14.109+00:00",
+    "name": "EPD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z-_0-9]+$",
+    "prefix": "epd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EPD at Swiss Institute of Bioinformatics",
+            "id": 1186,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100528",
+            "name": "EPD at Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://epd.expasy.org/epd",
+            "sampleId": "TA_H3",
+            "urlPattern": "https://epd.expasy.org/cgi-bin/epd/query_result.pl?out_format=NICE&Entry_0={$id}"
+        }
+    ],
+    "sampleId": "TA_H3",
+    "successor": null
+}

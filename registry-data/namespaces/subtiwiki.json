@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:08.635+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SubtiWiki is a scientific wiki for the model bacterium Bacillus subtilis. It provides comprehensive information on all genes and their proteins and RNA products, as well as information related to the current investigation of the gene/protein. \r\nNote: Currently, direct access to RNA products is restricted. This is expected to be rectified soon.",
+    "id": 421,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000132",
+    "modified": "2019-06-11T14:16:08.635+00:00",
+    "name": "SubtiWiki",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^BSU\\d{5}$",
+    "prefix": "subtiwiki",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SubtiWiki website",
+            "id": 423,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "https://uni-goettingen.de/en/577601.html",
+                "id": 422,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "University of Göttingen, Department for General Microbiology",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100172",
+            "name": "SubtiWiki website",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.subtiwiki.uni-goettingen.de/wiki/index.php/Main_Page",
+            "sampleId": "BSU29180",
+            "urlPattern": "http://www.subtiwiki.uni-goettingen.de/wiki/index.php/{$id}"
+        }
+    ],
+    "sampleId": "BSU29180",
+    "successor": null
+}

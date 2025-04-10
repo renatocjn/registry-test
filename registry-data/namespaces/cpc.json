@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:43.853+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cooperative Patent Classification (CPC) is a patent classification system, developed jointly by the European Patent Office (EPO) and the United States Patent and Trademark Office (USPTO). It is based on the previous European classification system (ECLA), which itself was a version of the International Patent Classification (IPC) system. The CPC patent classification system has been used by EPO and USPTO since 1st January, 2013.",
+    "id": 1513,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000539",
+    "modified": "2019-06-11T14:17:43.853+00:00",
+    "name": "Cooperative Patent Classification",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-H,Y]|[A-H, Y]\\d{2}|[A-H, Y]\\d{2}[A-Z]|[A-H, Y]\\d{2}[A-Z]\\d{1,3}|[A-H, Y]\\d{2}[A-Z]\\d{1,3}(\\/)?\\d{2,})$",
+    "prefix": "cpc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cooperative Patent Classification at Espace",
+            "id": 1515,
+            "institution": {
+                "description": " The Office's core activity is the search and examination of patent applications and the grant of European patents. We also provide patent information and training services. ",
+                "homeUrl": "https://worldwide.espacenet.com/",
+                "id": 1514,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Espace, European Patent Office",
+                "rorId": "https://ror.org/016vvkz13"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100716",
+            "name": "Cooperative Patent Classification at Espace",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://worldwide.espacenet.com/classification",
+            "sampleId": "A01M1/026",
+            "urlPattern": "https://worldwide.espacenet.com/classification?locale=en_EP#!/CPC={$id}"
+        }
+    ],
+    "sampleId": "A01M1/026",
+    "successor": null
+}

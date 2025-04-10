@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:28.979+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "LigandBox is a database of 3D compound structures.  Compound information is collected from the catalogues of various commercial suppliers, with approved drugs and biochemical compounds taken from KEGG and PDB databases. Each chemical compound in the database has several 3D conformers with hydrogen atoms and atomic charges, which are ready to be docked into receptors using docking programs. Various physical properties, such as aqueous solubility (LogS) and carcinogenicity have also been calculated to characterize the ADME-Tox properties of the compounds.",
+    "id": 1357,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000477",
+    "modified": "2020-11-20T10:55:30.526+00:00",
+    "name": "LigandBox",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(HTS|KSH)[0-9]{4}-[0-9]{8}|PDB_[0-9,A-Z]{2,3}|[CD][0-9]{5}$",
+    "prefix": "ligandbox",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LigandBox at N2PC",
+            "id": 1359,
+            "institution": {
+                "description": "https://www.natprodchem.jp/files/english.pdf",
+                "homeUrl": "https://www.natprodchem.jp/",
+                "id": 1358,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Next generation Natural Products Chemistry",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100612",
+            "name": "LigandBox at N2PC",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mypresto5.com/ligandbox/cgi-bin/index.cgi?LANG=en",
+            "sampleId": "D00001",
+            "urlPattern": "http://www.mypresto5.com/ligandbox/cgi-bin/liginf.cgi?id={$id}"
+        }
+    ],
+    "sampleId": "D00001",
+    "successor": null
+}

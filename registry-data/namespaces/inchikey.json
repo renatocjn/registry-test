@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:08.649+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The IUPAC International Chemical Identifier (InChI, see MIR:00000383) is an identifier for chemical substances, and is derived solely from a structural representation of that substance. Since these can be quite unwieldly, particularly for web use, the InChIKey was developed. These are of a fixed length (25 character) and were created as a condensed, more web friendly, digital representation of the InChI.",
+    "id": 1120,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000387",
+    "modified": "2024-10-22T09:57:15.707+00:00",
+    "name": "InChIKey",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]{14}\\-[A-Z]{10}(\\-[A-Z])?$",
+    "prefix": "inchikey",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChIKey through ChemSpider",
+            "id": 1121,
+            "institution": {
+                "description": "We publish new research. We develop, recognise and celebrate professional capabilities. We bring people together to spark new ideas and new partnerships. We support teachers to inspire future generations of scientists. And we speak up to influence the people making decisions that affect us all.",
+                "homeUrl": "http://www.rsc.org/",
+                "id": 439,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Royal Society of Chemistry, Cambridge",
+                "rorId": "https://ror.org/025sbr097"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100501",
+            "name": "InChIKey through ChemSpider",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "chemspider",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.chemspider.com/",
+            "sampleId": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+            "urlPattern": "https://www.chemspider.com/search?params={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChiKey resolver at NCI",
+            "id": 1122,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 425,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute, Rockville, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100505",
+            "name": "InChiKey resolver at NCI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "cactus",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cactus.nci.nih.gov/chemical/structure",
+            "sampleId": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+            "urlPattern": "http://cactus.nci.nih.gov/chemical/structure/{$id}/names"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
+            "id": 2470,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000779",
+            "name": "Scholia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "scholia",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scholia.toolforge.org/",
+            "sampleId": "WUUVSJBKHXDKBS-ROFOPDMZSA-N",
+            "urlPattern": "https://scholia.toolforge.org/inchikey/{$id}"
+        }
+    ],
+    "sampleId": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+    "successor": null
+}

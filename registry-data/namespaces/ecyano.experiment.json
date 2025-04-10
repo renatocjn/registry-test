@@ -1,0 +1,56 @@
+{
+    "created": "2019-09-10T12:51:24.637+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "E-cyanobacterium experiments is a repository of wet-lab experiments related to cyanobacteria. The emphasis is placed on annotation via mapping to local database of biological knowledge and mathematical models along with the complete experimental setup supporting the reproducibility of the experiments.",
+    "id": 2003,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000760",
+    "modified": "2019-09-10T12:51:24.637+00:00",
+    "name": "E-cyanobacterium Experimental Data",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "ecyano.experiment",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "E-cyanobacterium is a web-based platform for public sharing, annotation, analysis, and visualisation of dynamical models and wet-lab experiments related to cyanobacteria. It allows models to be represented at different levels of abstraction — as biochemical reaction networks or ordinary differential equations. It provides concise mappings of mathematical models to a formalised consortium-agreed biochemical description, with the aim of connecting the world of biological knowledge with benefits of mathematical description of dynamic processes. This collection references wet-lab experiments.",
+            "id": 2004,
+            "institution": {
+                "description": "From January 1, 2016 we became part of the national research infrastructure C4Sys (Centre for System Biology), representing a Czech node of the ISBE (Infrastructure for Systems Biology – Europe), and our activities are supported from the program for large research infrastructures of the Ministry of Education, Youth and Sports. ",
+                "homeUrl": "https://sybila.fi.muni.cz/",
+                "id": 1629,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Systems Biology Laboratory, Faculty of Informatics, Masaryk University Brno",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00000754",
+            "name": "E-cyanobacterium",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ecyano",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.e-cyanobacterium.org/experiments-repository/",
+            "sampleId": "18",
+            "urlPattern": "https://www.e-cyanobacterium.org/experiments-repository/?action=detail&id={$id}"
+        }
+    ],
+    "sampleId": "18",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:51.985+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BRENDA is a collection of enzyme functional data available to the scientific community. Data on enzyme function are extracted directly from the primary literature The database covers information on classification and nomenclature, reaction and specificity, functional parameters, occurrence, enzyme structure and stability, mutants and enzyme engineering, preparation and isolation, the application of enzymes, and ligand-related data.",
+    "id": 244,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000071",
+    "modified": "2019-06-11T14:15:51.985+00:00",
+    "name": "BRENDA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^((\\d+\\.-\\.-\\.-)|(\\d+\\.\\d+\\.-\\.-)|(\\d+\\.\\d+\\.\\d+\\.-)|(\\d+\\.\\d+\\.\\d+\\.\\d+))$",
+    "prefix": "brenda",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Brenda enzyme database",
+            "id": 246,
+            "institution": {
+                "description": "The Department of Bioinformatics and Biochemistry dedicates its research to understanding the role of metabolism during disease development. We are interested in both, the metabolic adaptations of immune cells during inflammation, and the metabolism of microorganisms during an infection. Our research also touches on cells of the central nervous system and how these cells are impacted during neuro-inflammation.",
+                "homeUrl": "https://www.tu-braunschweig.de/en/bbt/bioinfo",
+                "id": 245,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Technical University Braunschweig, Institute for Bioinformatics and Biochemistry",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100101",
+            "name": "Brenda enzyme database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.brenda-enzymes.org/",
+            "sampleId": "1.1.1.1",
+            "urlPattern": "https://www.brenda-enzymes.org/php/result_flat.php4?ecno={$id}"
+        }
+    ],
+    "sampleId": "1.1.1.1",
+    "successor": null
+}

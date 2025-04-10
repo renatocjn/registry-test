@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:46.721+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Rouge protein database contains results from sequence analysis of novel large (>4 kb) cDNAs identified in the Kazusa cDNA sequencing project.",
+    "id": 858,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000293",
+    "modified": "2019-06-11T14:16:46.721+00:00",
+    "name": "Rouge",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^m\\w+$",
+    "prefix": "rouge",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Rouge at Kazusa DNA Research Institute",
+            "id": 860,
+            "institution": {
+                "description": "KDRI was founded in 1991 and has since then been engaged in large-scale sequencing and analysis of the genomes of plants and related bacteria as well as human cDNAs. Based on these results, research has been carried out on various genes that function in plant and human cells. ",
+                "homeUrl": "http://www.kazusa.or.jp/e/index.html",
+                "id": 859,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Kazusa DNA Research Institute, Chiba",
+                "rorId": "https://ror.org/04pnjx786"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100375",
+            "name": "Rouge at Kazusa DNA Research Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.kazusa.or.jp/rouge/",
+            "sampleId": "mKIAA4200",
+            "urlPattern": "http://www.kazusa.or.jp/rouge/gfpage/{$id}/"
+        }
+    ],
+    "sampleId": "mKIAA4200",
+    "successor": null
+}

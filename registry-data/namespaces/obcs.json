@@ -1,0 +1,56 @@
+{
+    "created": "2024-03-21T14:43:39.901+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "OBCS stands for the Ontology of Biological and Clinical Statistics. OBCS is an ontology in the domain of biological and clinical statistics. It is aligned with the Basic Formal Ontology (BFO) and the Ontology for Biomedical Investigations (OBI)",
+    "id": 3852,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001053",
+    "modified": "2024-03-21T14:43:39.901+00:00",
+    "name": " Ontology of Biological and Clinical Statistics",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^OBCS:\\d+$",
+    "prefix": "obcs",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OBCS stands for the Ontology of Biological and Clinical Statistics",
+            "id": 3853,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00001052",
+            "name": "OBCS via OLS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/obcs",
+            "sampleId": "0000086",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/obcs/classes?obo_id=OBCS:{$id}"
+        }
+    ],
+    "sampleId": "0000086",
+    "successor": null
+}

@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:15.166+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The dbEST contains sequence data and other information on \"single-pass\" cDNA sequences, or \"Expressed Sequence Tags\", from a number of organisms.",
+    "id": 493,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000159",
+    "modified": "2019-06-11T14:16:15.166+00:00",
+    "name": "dbEST",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-Z]+)?\\d+(\\.\\d+)?$",
+    "prefix": "dbest",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "dbEST at NCBI",
+            "id": 494,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100204",
+            "name": "dbEST at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/nucest",
+            "sampleId": "BP100000",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/nucest/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "dbEST through European Nucleotide Archive (ENA)",
+            "id": 495,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100331",
+            "name": "dbEST through European Nucleotide Archive (ENA)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ena",
+            "sampleId": "BP100000.1",
+            "urlPattern": "https://www.ebi.ac.uk/ena/data/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "dbEST through DNA Data Bank of Japan (DDBJ)",
+            "id": 496,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100651",
+            "name": "dbEST through DNA Data Bank of Japan (DDBJ)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ddbj.nig.ac.jp/",
+            "sampleId": "BP100000",
+            "urlPattern": "http://getentry.ddbj.nig.ac.jp/getentry/na/{$id}"
+        }
+    ],
+    "sampleId": "BP100000",
+    "successor": null
+}

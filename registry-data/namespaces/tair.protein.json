@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:45.813+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana. This provides protein information for a given gene model and provides links to other sources such as UniProtKB and GenPept",
+    "id": 179,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000048",
+    "modified": "2019-06-11T14:15:45.813+00:00",
+    "name": "TAIR Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^AASequence:\\d{10}$",
+    "prefix": "tair.protein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Arabidopsis Information Resource (TAIR) Protein",
+            "id": 181,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 180,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Carnegie Institution of Washington Department of Plant Biology and National Center for Genome Resources (NCGR)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100076",
+            "name": "The Arabidopsis Information Resource (TAIR) Protein",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://arabidopsis.org/index.jsp",
+            "sampleId": "AASequence:1009107926",
+            "urlPattern": "http://arabidopsis.org/servlets/TairObject?accession={$id}"
+        }
+    ],
+    "sampleId": "AASequence:1009107926",
+    "successor": null
+}

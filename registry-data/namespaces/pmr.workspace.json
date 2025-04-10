@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:41:50.311+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Workspace (Git repository) for modeling projects managed by the Physiome Model Repository",
+    "id": 3196,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000948",
+    "modified": "2022-02-27T20:41:50.311+00:00",
+    "name": "Physiome Model Repository workspace",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-zA-Z0-9_\\-]+(/.*?)?$",
+    "prefix": "pmr.workspace",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/03b94tp07' with Wikidata IDs [Q492467], and ISNI IDs [0000 0004 0372 3343]",
+            "id": 3197,
+            "institution": {
+                "description": "Founded in 1883, Auckland is the country’s largest university with over 40,000 students, nearly 10,000 of whom graduate annually. ",
+                "homeUrl": "https://www.auckland.ac.nz/en.html",
+                "id": 2795,
+                "location": {
+                    "countryCode": "NZ",
+                    "countryName": "New Zealand"
+                },
+                "name": "University of Auckland",
+                "rorId": "https://ror.org/03b94tp07"
+            },
+            "location": {
+                "countryCode": "NZ",
+                "countryName": "New Zealand"
+            },
+            "mirId": "MIR:00000947",
+            "name": "University of Auckland",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "abi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.auckland.ac.nz/en.html",
+            "sampleId": "modularmassactionprimer",
+            "urlPattern": "https://models.physiomeproject.org/workspace/{$id}"
+        }
+    ],
+    "sampleId": "modularmassactionprimer",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:30.326+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PhylomeDB is a database of complete phylomes derived for different genomes within a specific taxonomic range. It provides alignments, phylogentic trees and tree-based orthology predictions for all encoded proteins.",
+    "id": 663,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000223",
+    "modified": "2019-06-11T14:16:30.326+00:00",
+    "name": "PhylomeDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "phylomedb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PhylomeDB at Centro de Investigación Príncipe Felipe",
+            "id": 665,
+            "institution": {
+                "description": "The Centre for Genomic Regulation (CRG) is an international biomedical research institute of excellence, created in December 2000. It is a non-profit foundation funded by the Catalan Government through the Departments of Business & Knowledge, the Spanish Ministry of Science, Innovation & Universities, the \"la Caixa\" Banking Foundation, and includes the participation of Pompeu Fabra University.",
+                "homeUrl": "https://www.crg.eu",
+                "id": 664,
+                "location": {
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                "name": "Centre for Genomic Regulation",
+                "rorId": "https://ror.org/03wyzt892"
+            },
+            "location": {
+                "countryCode": "ES",
+                "countryName": "Spain"
+            },
+            "mirId": "MIR:00100282",
+            "name": "PhylomeDB at Centro de Investigación Príncipe Felipe",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://phylomedb.org/",
+            "sampleId": "Phy000CLXM_RAT",
+            "urlPattern": "http://phylomedb.org/?seqid={$id}"
+        }
+    ],
+    "sampleId": "Phy000CLXM_RAT",
+    "successor": null
+}

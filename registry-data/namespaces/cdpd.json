@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:41.852+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Canadian Drug Product Database (DPD) contains product specific information on drugs approved for use in Canada, and includes human pharmaceutical and biological drugs, veterinary drugs and disinfectant products. This information includes 'brand name', 'route of administration' and a Canadian 'Drug Identification Number' (DIN).",
+    "id": 797,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000272",
+    "modified": "2019-06-11T14:16:41.852+00:00",
+    "name": "Canadian Drug Product Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "cdpd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Canadian Drug Identification Number at Health Canada",
+            "id": 799,
+            "institution": {
+                "description": "Health Canada is responsible for helping Canadians maintain and improve their health. It ensures that high-quality health services are accessible, and works to reduce health risks.",
+                "homeUrl": "http://www.hc-sc.gc.ca/index-eng.php",
+                "id": 798,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Health Canada, Ottawa, Ontario",
+                "rorId": "https://ror.org/05p8nb362"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100351",
+            "name": "Canadian Drug Identification Number at Health Canada",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://webprod3.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp",
+            "sampleId": "63250",
+            "urlPattern": "http://webprod3.hc-sc.gc.ca/dpd-bdpp/info.do?lang=eng&code={$id}"
+        }
+    ],
+    "sampleId": "63250",
+    "successor": null
+}

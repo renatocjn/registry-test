@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:28.184+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "HSSP (homology-derived structures of proteins) is a derived database merging structural (2-D and 3-D) and sequence information (1-D). For each protein of known 3D structure from the Protein Data Bank, the database has a file with all sequence homologues, properly aligned to the PDB protein.",
+    "id": 639,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000215",
+    "modified": "2019-06-11T14:16:28.184+00:00",
+    "name": "HSSP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w{4}$",
+    "prefix": "hssp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HSSP at EMBL",
+            "id": 641,
+            "institution": {
+                "description": "With 28 member states, laboratories at six locations across Europe and thousands of scientists and engineers working together, the European Molecular Biology Laboratory is a powerhouse of biological expertise. The intergovernmental organisation, headquartered in Heidelberg, was founded in 1974 with the mission of promoting molecular biology research in Europe, training young scientists, and developing new technologies.",
+                "homeUrl": "www.embl.org/",
+                "id": 640,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Protein Design Group, European Molecular Biology Laboratory, Heidelberg",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100274",
+            "name": "HSSP at EMBL",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://swift.cmbi.kun.nl/swift/hssp/",
+            "sampleId": "102l",
+            "urlPattern": "ftp://ftp.embl-heidelberg.de/pub/databases/protein_extras/hssp/{$id}.hssp.bz2"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HSSP at CMBI",
+            "id": 643,
+            "institution": {
+                "description": " The Center for Molecular and Biomolecular Informatics (CMBI) does research and education, and provides services in bioinformatics and cheminformatics. ",
+                "homeUrl": "https://www.radboudumc.nl/en/research/departments/center-for-molecular-and-biomolecular-informatics",
+                "id": 642,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Nijmegen Centre for Molecular Life Sciences, CMBI, Nijmegen",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100458",
+            "name": "HSSP at CMBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "ftp://ftp.cmbi.ru.nl/pub/molbio/data/hssp/",
+            "sampleId": "102l",
+            "urlPattern": "ftp://ftp.cmbi.ru.nl/pub/molbio/data/hssp/{$id}.hssp.bz2"
+        }
+    ],
+    "sampleId": "102l",
+    "successor": null
+}

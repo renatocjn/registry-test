@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:58.906+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The NCBI BioSystems database centralizes and cross-links existing biological systems databases, increasing their utility and target audience by integrating their pathways and systems into NCBI resources.",
+    "id": 318,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000097",
+    "modified": "2019-06-11T14:15:58.906+00:00",
+    "name": "BioSystems",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "biosystems",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioSystems database at NCBI",
+            "id": 319,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100128",
+            "name": "BioSystems database at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/biosystems/",
+            "sampleId": "001",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/biosystems/{$id}"
+        }
+    ],
+    "sampleId": "001",
+    "successor": null
+}

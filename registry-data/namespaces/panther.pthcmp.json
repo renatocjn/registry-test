@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:16.858+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PANTHER (Protein ANalysis THrough Evolutionary Relationships) Classification System is a resource that classifies genes by their functions, using published scientific experimental evidence and evolutionary relationships to predict function even in the absence of direct experimental evidence. The PANTHER Pathway Component collection references specific classes of molecules that play the same mechanistic role within a pathway, across species. Pathway\r\ncomponents may be proteins, genes/DNA, RNA, or simple molecules. Where the identified component is a protein, DNA, or transcribed RNA, it is associated with protein sequences in the PANTHER protein family trees through manual curation.",
+    "id": 1217,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000422",
+    "modified": "2023-01-04T16:32:41.267+00:00",
+    "name": "PANTHER Pathway Component",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[GPUCS]\\d{5}$",
+    "prefix": "panther.pthcmp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PANTHER Pathway Component at USC (Los Angeles)",
+            "id": 1218,
+            "institution": {
+                "description": "Keck Medicine of USC is the University of Southern California’s medical enterprise, one of only two university-based medical systems in the Los Angeles area. Keck Medicine combines academic excellence, world-class research and state-of-the-art facilities to provide highly specialized care for some of the most acute patients in the country. ",
+                "homeUrl": "https://www.keckmedicine.org/",
+                "id": 94,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Keck School of Medicine, University of Southern California",
+                "rorId": "https://ror.org/01rq8ck58"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100545",
+            "name": "PANTHER Pathway Component at USC (Los Angeles)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pantherdb.org/",
+            "sampleId": "P00266",
+            "urlPattern": "http://www.pantherdb.org/pathway/pathCatDetail.do?clsAccession={$id}"
+        }
+    ],
+    "sampleId": "P00266",
+    "successor": null
+}

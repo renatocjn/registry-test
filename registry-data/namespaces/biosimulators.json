@@ -1,0 +1,56 @@
+{
+    "created": "2020-10-22T01:16:20.744+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioSimulators is a registry of containerized simulation tools that support a common interface. The containers in BioSimulators support a range of modeling frameworks (e.g., logical, constraint-based, continuous kinetic, discrete kinetic), simulation algorithms (e.g., CVODE, FBA, SSA), and modeling formats (e.g., BGNL, SBML, SED-ML).",
+    "id": 2416,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000767",
+    "modified": "2020-10-22T01:16:20.744+00:00",
+    "name": "BioSimulators",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[a-zA-Z0-9-_]+",
+    "prefix": "biosimulators",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The BioSimulators project aims to make it easier for the research community to reuse biosimulation tools through standards and a registry of simulation tools.",
+            "id": 2417,
+            "institution": {
+                "description": "The Icahn School of Medicine at Mount Sinai is an international leader in medical and scientific training, biomedical research, and patient care. It is the medical school for the Mount Sinai Health System, which includes eight hospital campuses, and has more than 5,000 faculty and nearly 2,000 students, residents and fellows.",
+                "homeUrl": "https://icahn.mssm.edu/",
+                "id": 2247,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "rorId": "https://ror.org/04a9tmd77"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000746",
+            "name": "BioSimulators",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "icahn",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://biosimulators.org/",
+            "sampleId": "vcell",
+            "urlPattern": "https://biosimulators.org/simulators/{$id}"
+        }
+    ],
+    "sampleId": "vcell",
+    "successor": null
+}

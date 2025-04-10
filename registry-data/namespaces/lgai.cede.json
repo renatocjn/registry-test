@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-05T18:01:14.906+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "LG Chemical Entity Detection Dataset (LGCEDe) is only available open-dataset with molecular instance level annotations (i.e. atom-bond level position annotations within an image) for molecular structure images. This dataset was designed to encourage research on detection-based pipelines for Optical Chemical Structure Recognition (OCSR).",
+    "id": 2862,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000867",
+    "modified": "2021-09-05T18:01:14.906+00:00",
+    "name": "LG Chemical Entity Detection Dataset (LGCEDe)",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^LGCEDe-S-\\d{9}$",
+    "prefix": "lgai.cede",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LG AI Research is a subsidiary of the Korean Corporation LG. Mainly focuses on research related to Artificial Intelligence, Big data and data-driven applications to real-world problems.",
+            "id": 2863,
+            "institution": {
+                "description": "LG AI Research is a subsidiary of the Korean Corporation LG. Mainly focuses on research related to Artificial Intelligence, Big data and data-driven applications to real-world problems.",
+                "homeUrl": "https://www.lgresearch.ai",
+                "id": 2861,
+                "location": {
+                    "countryCode": "KR",
+                    "countryName": "Korea, Republic of"
+                },
+                "name": "LG AI Research",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "KR",
+                "countryName": "Korea, Republic of"
+            },
+            "mirId": "MIR:00000866",
+            "name": "LG AI Research",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "lgai.cede",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.lgresearch.ai",
+            "sampleId": "LGCEDe-S-000002244",
+            "urlPattern": "https://s3.us-east-2.amazonaws.com/lg.cede/{$id}"
+        }
+    ],
+    "sampleId": "LGCEDe-S-000002244",
+    "successor": null
+}

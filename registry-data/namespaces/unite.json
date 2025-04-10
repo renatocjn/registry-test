@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:59.723+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "UNITE is a fungal rDNA internal transcribed spacer (ITS) sequence database. It focuses on high-quality ITS sequences generated from fruiting bodies collected and identified by experts and deposited in public herbaria. Entries may be supplemented with metadata on describing locality, habitat, soil, climate, and interacting taxa.",
+    "id": 1012,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000352",
+    "modified": "2019-06-11T14:16:59.723+00:00",
+    "name": "Unite",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^UDB\\d{6}$",
+    "prefix": "unite",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Unite at University of Tartu",
+            "id": 1014,
+            "institution": {
+                "description": "Our department studies ecology and systematics of plants at several organisational levels – from photosynthetic apparatus to global vegetation patterns. Molecular methods have found their way into all branches of biology. Our department attempts to be at the cutting edge – utilisation of novel molecular techniques has become the rule rather than exception. At the same time, we have not forgotten classical botany and ecology – we still respect our plants and fungi and teach our students to be able to identify them from sight.",
+                "homeUrl": "https://botany.ut.ee/en",
+                "id": 1013,
+                "location": {
+                    "countryCode": "EE",
+                    "countryName": "Estonia"
+                },
+                "name": "Institute of Botany, University of Tartu, Tartu",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "EE",
+                "countryName": "Estonia"
+            },
+            "mirId": "MIR:00100449",
+            "name": "Unite at University of Tartu",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://unite.ut.ee/",
+            "sampleId": "UDB000691",
+            "urlPattern": "http://unite.ut.ee/bl_forw.php?nimi={$id}"
+        }
+    ],
+    "sampleId": "UDB000691",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:29.087+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Mycobrowser is a resource that provides both in silico generated and manually reviewed information within databases dedicated to the complete genomes of Mycobacterium tuberculosis, Mycobacterium leprae, Mycobacterium marinum and Mycobacterium smegmatis. This collection references Mycobacteria marinum information.",
+    "id": 649,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000218",
+    "modified": "2019-06-11T14:16:29.087+00:00",
+    "name": "MycoBrowser marinum",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MMAR\\_\\d+$",
+    "prefix": "myco.marinum",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MycoBrowser marinum at Global Health Institute",
+            "id": 650,
+            "institution": {
+                "description": "Researchers at the Global Health Institute develop and apply new technologies to investigate human health and infectious diseases spanning from basic to translational sciences.",
+                "homeUrl": "https://www.epfl.ch/schools/sv/ghi/",
+                "id": 645,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Global Health Institute,  Lausanne",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100277",
+            "name": "MycoBrowser marinum at Global Health Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://mycobrowser.epfl.ch/marinolist.html",
+            "sampleId": "MMAR_2462",
+            "urlPattern": "http://mycobrowser.epfl.ch/marinosearch.php?gene+name={$id}"
+        }
+    ],
+    "sampleId": "MMAR_2462",
+    "successor": null
+}

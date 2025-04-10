@@ -1,0 +1,56 @@
+{
+    "created": "2022-11-29T12:03:56.649+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Sciflection is a public repository for experiments and associated spectra, usually uploaded from Electronic Lab Notebooks, shared under FAIR conditions",
+    "id": 3355,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000973",
+    "modified": "2022-11-29T12:03:56.649+00:00",
+    "name": "Sciflection",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+    "prefix": "sciflection",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sciformation develops scientific software and integrated lab management solutions, comprising of chemical & hazardous material inventory, electronic lab notebook, analytical data management, literature, device databases and ordering systems. The high level of integration helps to gather comprehensive data describing the experiments, i.e. which batches or machinery was employed.",
+            "id": 3356,
+            "institution": {
+                "description": "Sciformation develops scientific software and integrated lab management solutions, comprising of chemical & hazardous material inventory, electronic lab notebook, analytical data management, literature, device databases and ordering systems. The high level of integration helps to gather comprehensive data describing the experiments, i.e. which batches or machinery was employed.",
+                "homeUrl": "http://sciformation.com",
+                "id": 3354,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Sciformation Consulting GmbH",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000972",
+            "name": "Sciformation Consulting GmbH",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "sciformation",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://sciformation.com/sciflection.html",
+            "sampleId": "5ede4273-b26c-4ea4-adb7-3ce294ab3397",
+            "urlPattern": "https://sciflection.com/{$id}"
+        }
+    ],
+    "sampleId": "5ede4273-b26c-4ea4-adb7-3ce294ab3397",
+    "successor": null
+}

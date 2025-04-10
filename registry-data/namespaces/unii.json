@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:17:41.988+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The purpose of the joint FDA/USP Substance Registration System (SRS) is to support health information technology initiatives by generating unique ingredient identifiers (UNIIs) for substances in drugs, biologics, foods, and devices. The UNII is a non- proprietary, free, unique, unambiguous, non semantic, alphanumeric identifier based on a substance’s molecular structure and/or descriptive information.",
+    "id": 1493,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000531",
+    "modified": "2019-06-11T14:17:41.988+00:00",
+    "name": "UNII",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]+$",
+    "prefix": "unii",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-31T15:29:19.378+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UNII at U.S. Food and Drug Administration",
+            "id": 1494,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/034xvzb47' with Wikidata IDs [Q204711], and ISNI IDs [0000 0001 2243 3366]",
+                "homeUrl": "https://www.fda.gov/",
+                "id": 3440,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "United States Food and Drug Administration",
+                "rorId": "https://ror.org/034xvzb47"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100690",
+            "name": "UNII at U.S. Food and Drug Administration",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://fdasis.nlm.nih.gov/srs/",
+            "sampleId": "3G6A5W338E",
+            "urlPattern": "http://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/034xvzb47' with Wikidata IDs [Q204711], and ISNI IDs [0000 0001 2243 3366]",
+            "id": 3441,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/034xvzb47' with Wikidata IDs [Q204711], and ISNI IDs [0000 0001 2243 3366]",
+                "homeUrl": "https://www.fda.gov/",
+                "id": 3440,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "United States Food and Drug Administration",
+                "rorId": "https://ror.org/034xvzb47"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000990",
+            "name": "United States Food and Drug Administration",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "fda",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://precision.fda.gov/uniisearch",
+            "sampleId": "3G6A5W338E",
+            "urlPattern": "https://precision.fda.gov/uniisearch/srs/unii/{$id}"
+        }
+    ],
+    "sampleId": "3G6A5W338E",
+    "successor": null
+}

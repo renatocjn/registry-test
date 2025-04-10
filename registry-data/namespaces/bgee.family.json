@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:15.821+00:00",
+    "deprecated": true,
+    "deprecationDate": "2023-07-04T10:27:03.694+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Bgee is a database of gene expression patterns within particular anatomical structures within a species, and between different animal species. This collection refers to expression across species.",
+    "id": 1205,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000417",
+    "modified": "2023-09-13T08:55:41.857+00:00",
+    "name": "Bgee family",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(ENSFM|ENSGTV:)\\d+$",
+    "prefix": "bgee.family",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bgee at Lausanne",
+            "id": 1207,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100540",
+            "name": "Bgee at Lausanne",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bgee.unil.ch/bgee/bgee",
+            "sampleId": "ENSFM00500000270089",
+            "urlPattern": "http://bgee.unil.ch/bgee/bgee?page=gene_family&action=family_details&gene_family_id={$id}"
+        }
+    ],
+    "sampleId": "ENSFM00500000270089",
+    "successor": null
+}

@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:15:54.604+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Sequence Ontology (SO) is a structured controlled vocabulary for the parts of a genomic annotation. It provides a common set of terms and definitions to facilitate the exchange, analysis and management of genomic data.",
+    "id": 273,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000081",
+    "modified": "2019-06-11T14:15:54.604+00:00",
+    "name": "Sequence Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^SO:\\d{7}$",
+    "prefix": "so",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sequence Ontology",
+            "id": 275,
+            "institution": {
+                "description": "The teaching and research activities of the Department of Molecular and Cell Biology (MCB) concern the molecular structures and processes of cellular life and their roles in the function, reproduction, and development of living organisms. This agenda covers a broad range of specialized disciplines, including biochemistry, biophysics, molecular biology, structural biology, genetics, genomics, bioinformatics, cell biology, developmental biology, tumor biology, microbiology, immunology, pathogenesis and neurobiology. The types of living organisms from which the departmental faculty draws its working materials are as diverse as its disciplinary specializations, ranging from viruses and microbes through plants, roundworms, annelids, arthropods, and mollusks to fish, amphibia, and mammals. The faculty of the department is organized into five divisions: Biochemistry and Molecular Biology; Cell and Developmental Biology; Genetics, Genomics and Development; Neurobiology; and Immunology and Molecular Medicine.",
+                "homeUrl": "https://mcb.berkeley.edu/",
+                "id": 274,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Molecular and Cellular Biology, University of California, Berkeley",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100112",
+            "name": "Sequence Ontology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.sequenceontology.org/",
+            "sampleId": "0000704",
+            "urlPattern": "http://www.sequenceontology.org/miso/current_release/term/SO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sequence Ontology through BioPortal",
+            "id": 276,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100241",
+            "name": "Sequence Ontology through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/SO",
+            "sampleId": "0000704",
+            "urlPattern": "http://purl.bioontology.org/ontology/SO/SO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sequence Ontology through Ontology Lookup Service (OLS)",
+            "id": 277,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100628",
+            "name": "Sequence Ontology through Ontology Lookup Service (OLS)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/so",
+            "sampleId": "0000704",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/so/terms?obo_id=SO:{$id}"
+        }
+    ],
+    "sampleId": "0000704",
+    "successor": null
+}

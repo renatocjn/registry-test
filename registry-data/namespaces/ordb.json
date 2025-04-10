@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:34.104+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Olfactory Receptor Database (ORDB) is a repository of genomics and proteomics information of olfactory receptors (ORs). It includes a broad range of chemosensory genes and proteins, that includes in addition to ORs the taste papilla receptors (TPRs), vomeronasal organ receptors (VNRs), insect olfactory receptors (IORs), Caenorhabditis elegans chemosensory receptors (CeCRs), fungal pheromone receptors (FPRs).",
+    "id": 1415,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000499",
+    "modified": "2019-06-11T14:17:34.104+00:00",
+    "name": "Olfactory Receptor Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "ordb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Olfactory Receptor Database at Yale University School of Medicine",
+            "id": 1417,
+            "institution": {
+                "description": "The YCMI serves as a focus for training and systems development for a range of research projects. YCMI occupies 8,000 sq ft in the same building as the Keck Lab. It is headed by Perry Miller, M.D.,Ph.D., and has 15 core faculty members. It offers DERC investigators access to a novel data base management system, Trial/DB, a powerful, flexible, web-accessible database designed to support clinical trials and clinical research in a variety of areas, including diabetes.",
+                "homeUrl": "https://medicine.yale.edu/intmed/drc/research/institutional/ycmi/",
+                "id": 1416,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Medical Informatics, Yale University School of Medicine, New Haven, Connecticut",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100640",
+            "name": "Olfactory Receptor Database at Yale University School of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://senselab.med.yale.edu/OrDB/",
+            "sampleId": "8497",
+            "urlPattern": "http://senselab.med.yale.edu/ORDB/Data/{$id}"
+        }
+    ],
+    "sampleId": "8497",
+    "successor": null
+}

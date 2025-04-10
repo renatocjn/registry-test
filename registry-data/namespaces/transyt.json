@@ -1,0 +1,56 @@
+{
+    "created": "2020-02-28T10:48:52.126+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Transport Systems Tracker (TranSyT) is a tool to identify transport systems and the compounds carried across membranes.",
+    "id": 2096,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000736",
+    "modified": "2020-03-03T05:45:40.200+00:00",
+    "name": "TranSyT",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "T[A-Z]\\d{7}",
+    "prefix": "transyt",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The BIOSYSTEMS Research Group is a research group at CEB, using competences in systems biotechnology and bioengineering to foster the development of a knowledge-based bio-economy, leading to new added-value products and processes.",
+            "id": 2097,
+            "institution": {
+                "description": "The Centre of Biological Engineering (CEB), designated as “Excellent” by FCT, is a research unit located at University of Minho (ROR:037wpkx04) that develops its activities on interdisciplinary thrust areas covering molecular, cellular and process scales, corresponding to 4 thematic strands: Industrial, Food, Environmental, and Health Biotechnology and Bioengineering.",
+                "homeUrl": "https://www.ceb.uminho.pt",
+                "id": 2095,
+                "location": {
+                    "countryCode": "PT",
+                    "countryName": "Portugal"
+                },
+                "name": "Centre of Biological Engineering",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "PT",
+                "countryName": "Portugal"
+            },
+            "mirId": "MIR:00000731",
+            "name": "BIOSYSTEMS Research Group",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "transyt",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.bio.di.uminho.pt/",
+            "sampleId": "TR0000001",
+            "urlPattern": "https://transyt.bio.di.uminho.pt/reactions/{$id}"
+        }
+    ],
+    "sampleId": "TR0000001",
+    "successor": null
+}

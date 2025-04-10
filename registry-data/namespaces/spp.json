@@ -1,0 +1,56 @@
+{
+    "created": "2019-11-07T10:59:42.032+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Signaling Pathways Project is an integrated 'omics knowledgebase based upon public, manually curated transcriptomic and cistromic (ChIP-Seq) datasets involving genetic and small molecule manipulations of cellular receptors, enzymes and transcription factors. Our goal is to create a resource where scientists can routinely generate research hypotheses or validate bench data relevant to cellular signaling pathways.",
+    "id": 2037,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000726",
+    "modified": "2019-11-07T10:59:42.032+00:00",
+    "name": "Signaling Pathways Project",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^10.\\w{4}/\\w{10}$",
+    "prefix": "spp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Signaling Pathways Project is an integrated 'omics knowledgebase based upon public, manually curated transcriptomic and cistromic (ChIP-Seq) datasets involving genetic and small molecule manipulations of cellular receptors, enzymes and transcription factors. Our goal is to create a resource where scientists can routinely generate research hypotheses or validate bench data relevant to cellular signaling pathways.",
+            "id": 2038,
+            "institution": {
+                "description": "Baylor College of Medicine is a health sciences university that creates knowledge and applies science and discoveries to further education, healthcare and community service locally and globally.",
+                "homeUrl": "https://www.bcm.edu",
+                "id": 485,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Baylor College of Medicine",
+                "rorId": "https://ror.org/02pttbw34"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000730",
+            "name": "Signaling Pathways Project",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "spp",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.signalingpathways.org/index.jsf",
+            "sampleId": "10.1621/vwN2g2HaX3",
+            "urlPattern": "https://www.signalingpathways.org/datasets/dataset.jsf?doi={$id}"
+        }
+    ],
+    "sampleId": "10.1621/vwN2g2HaX3",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:06.748+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The National Bibliography Number (NBN), is a URN-based publication identifier system employed by a variety of national libraries such as those of Germany, the Netherlands and Switzerland.  They are used to identify documents archived in national libraries, in their native format or language, and are typically used for documents which do not have a publisher-assigned identifier.",
+    "id": 1097,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000381",
+    "modified": "2023-06-19T09:28:27.741+00:00",
+    "name": "National Bibliography Number",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(urn|URN):(nbn|NBN)(:[A-Za-z_0-9]+)*.+$",
+    "prefix": "nbn",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NBN through URN Resolver at German National Library",
+            "id": 1099,
+            "institution": {
+                "description": "The German National Library is a reference library. All media are made available for use in the reading rooms. Our locations in Leipzig and Frankfurt am Main have a wide range of reading rooms offering optimum work and study conditions. You can browse among 43,6 million media works, 10.7 million of which are online publications including approx. 1,500 digital journals. We also have special collections in the German Museum of Books and Writing, the German Exile Archive 1933–1945 and the German Music Archive.",
+                "homeUrl": "http://www.dnb.de/",
+                "id": 1098,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Deutsche Nationalbibliothek, Frankfurt",
+                "rorId": "https://ror.org/01n7gem85"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100488",
+            "name": "NBN through URN Resolver at German National Library",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://nbn-resolving.org/resolve_urn.htm",
+            "sampleId": "urn:nbn:fi:tkk-004781",
+            "urlPattern": "http://nbn-resolving.org/resolver?identifier={$id}&verb=redirect"
+        }
+    ],
+    "sampleId": "urn:nbn:fi:tkk-004781",
+    "successor": null
+}

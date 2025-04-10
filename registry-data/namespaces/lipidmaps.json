@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:15:46.708+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The LIPID MAPS Lipid Classification System is comprised of eight lipid categories, each with its own subclassification hierarchy. All lipids in the LIPID MAPS Structure Database (LMSD) have been classified using this system and have been assigned LIPID MAPS ID's which reflects their position in the classification hierarchy.",
+    "id": 189,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000052",
+    "modified": "2019-06-11T14:15:46.708+00:00",
+    "name": "LIPID MAPS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$",
+    "prefix": "lipidmaps",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Free, open-access lipidomics resource",
+            "id": 191,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "https://www.lipidmaps.org",
+                "id": 3554,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cardiff University, University of California San Diego, the Babraham Institute Cambridge, and Swansea University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100080",
+            "name": "LIPID MAPS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.lipidmaps.org",
+            "sampleId": "LMPR0102010012",
+            "urlPattern": "http://www.lipidmaps.org/data/LMSDRecord.php?LMID={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
+            "id": 2458,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000781",
+            "name": "Scholia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "scholia",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scholia.toolforge.org/",
+            "sampleId": "LMFA00000007",
+            "urlPattern": "https://scholia.toolforge.org/lipidmaps/{$id}"
+        }
+    ],
+    "sampleId": "LMPR0102010012",
+    "successor": null
+}

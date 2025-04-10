@@ -1,0 +1,161 @@
+{
+    "created": "2019-06-11T14:15:37.056+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Saccharomyces Genome Database (SGD) project collects information and maintains a database of the molecular biology of the yeast Saccharomyces cerevisiae.",
+    "id": 97,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000023",
+    "modified": "2019-06-11T14:15:37.056+00:00",
+    "name": "SGD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^((S\\d+$)|(Y[A-Z]{2}\\d{3}[a-zA-Z](\\-[A-Z])?))$",
+    "prefix": "sgd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SGD",
+            "id": 99,
+            "institution": {
+                "description": "Stanford was founded almost 150 years ago on a bedrock of societal purpose. Our mission is to contribute to the world by educating students for lives of leadership and purposeful contribution; advancing fundamental knowledge and cultivating creativity; and accelerating solutions and amplifying their impact.",
+                "homeUrl": "http://www.stanford.edu/",
+                "id": 98,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Stanford University",
+                "rorId": "https://ror.org/00f54p054"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100033",
+            "name": "SGD",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.yeastgenome.org/",
+            "sampleId": "S000003909",
+            "urlPattern": "https://www.yeastgenome.org/locus/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SGD through BioEntity Link",
+            "id": 102,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 101,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "InSilico Inc, in Eugene, Oregon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100892",
+            "name": "SGD through BioEntity Link",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioentitylink",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioentity.link/",
+            "sampleId": "S000003909",
+            "urlPattern": "https://bioentity.link/#/lexicon/public/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SGD through the Alliance of Genome Resources",
+            "id": 104,
+            "institution": {
+                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
+                "homeUrl": "https://www.alliancegenome.org",
+                "id": 103,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Alliance of Genome Resources",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100906",
+            "name": "SGD through the Alliance of Genome Resources",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "agr",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.alliancegenome.org",
+            "sampleId": "S000003909",
+            "urlPattern": "https://www.alliancegenome.org/gene/SGD:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bio2RDF",
+            "id": 100,
+            "institution": {
+                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
+                "homeUrl": "https://bio2rdf.org",
+                "id": 33,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Bio2RDF.org",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100703",
+            "name": "Bio2RDF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bio2rdf.org",
+            "sampleId": "S000003909",
+            "urlPattern": "http://bio2rdf.org/sgd:{$id}"
+        }
+    ],
+    "sampleId": "S000003909",
+    "successor": null
+}

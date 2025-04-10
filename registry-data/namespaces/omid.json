@@ -1,0 +1,56 @@
+{
+    "created": "2023-04-28T08:49:50.354+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Every entity in OpenCitations Meta (https://opencitations.net/meta) is assigned persistent internal identifier called OpenCitations Meta Identifier (OMID). The OMID has structure [[entity_type_abbreviation]]/[[supplier_prefix]][[sequential_number]]. For example, the first journal article ever processed has OMID br/0601 (the full URI is https://w3id.org/oc/meta/br/0601), where br is the abbreviation of bibliographic resource, and 060 corresponds to the supplier prefix, helpful in recognising at a glance the index it belongs to (i.e., OpenCitations Meta). Finally, 1 indicates that this is the index's first bibliographic resource ever minted.",
+    "id": 3510,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001004",
+    "modified": "2023-04-28T08:49:50.354+00:00",
+    "name": "OpenCitations Meta Identifier",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z][a-z]/06[1-9]*0[1-9][0-9]*$",
+    "prefix": "omid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OpenCitations is an independent not-for-profit infrastructure organization for open scholarship dedicated to the publication of open bibliographic and citation data by the use of Semantic Web (Linked Data) technologies. It is also engaged in advocacy for open citations, particularly in its role as a key founding member of the Initiative for Open Citations (I4OC). For administrative convenience, OpenCitations is managed by the Research Centre for Open Scholarly Metadata at the University of Bologna.",
+            "id": 3511,
+            "institution": {
+                "description": "OpenCitations is an independent not-for-profit infrastructure organization for open scholarship dedicated to the publication of open bibliographic and citation data by the use of Semantic Web (Linked Data) technologies. It is also engaged in advocacy for open citations, particularly in its role as a key founding member of the Initiative for Open Citations (I4OC). For administrative convenience, OpenCitations is managed by the Research Centre for Open Scholarly Metadata at the University of Bologna.",
+                "homeUrl": "http://opencitations.net/",
+                "id": 1919,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "OpenCitations",
+                "rorId": "https://ror.org/00wb4mk85"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00001003",
+            "name": "OpenCitations",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "oc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://opencitations.net/",
+            "sampleId": "br/0601",
+            "urlPattern": "https://w3id.org/oc/meta/{$id}"
+        }
+    ],
+    "sampleId": "br/0601",
+    "successor": null
+}

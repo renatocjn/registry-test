@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:22.448+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The BioStudies database holds descriptions of biological studies, links to data from these studies in other databases at EMBL-EBI or outside, as well as data that do not fit in the structured archives at EMBL-EBI. The database can accept a wide range of types of studies described via a simple format. It also enables manuscript authors to submit supplementary information and link to it from the publication.",
+    "id": 1921,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000694",
+    "modified": "2023-01-12T08:36:02.758+00:00",
+    "name": "BioStudies database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^S-[A-Z]{4}[\\-\\_A-Z\\d]+$",
+    "prefix": "biostudies",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioStudies database",
+            "id": 1922,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100926",
+            "name": "BioStudies database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/biostudies/",
+            "sampleId": "S-EPMC6266652",
+            "urlPattern": "https://www.ebi.ac.uk/biostudies/studies/{$id}"
+        }
+    ],
+    "sampleId": "S-EPMC6266652",
+    "successor": null
+}

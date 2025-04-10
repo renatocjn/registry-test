@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:43.129+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The EU Clinical Trials Register contains information on clinical trials conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.\r\nIt also includes trials conducted outside these areas if they form part of a paediatric investigation plan (PIP), or are sponsored by a marketing authorisation holder, and involve the use of a medicine in the paediatric population.",
+    "id": 1504,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000536",
+    "modified": "2019-06-11T14:17:43.129+00:00",
+    "name": "EU Clinical Trials",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{4}\\-\\d{6}\\-\\d{2}$",
+    "prefix": "euclinicaltrials",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EU Clinical Trials at  European Medicines Agency",
+            "id": 1506,
+            "institution": {
+                "description": "EMA guarantees the scientific evaluation, supervision & safety monitoring of human & veterinary medicines in the EU.",
+                "homeUrl": "http://www.ema.europa.eu/ema/",
+                "id": 1505,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "European Medicines Agency",
+                "rorId": "https://ror.org/01z0wsw92"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100712",
+            "name": "EU Clinical Trials at  European Medicines Agency",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.clinicaltrialsregister.eu/",
+            "sampleId": "2008-005144-16",
+            "urlPattern": "https://www.clinicaltrialsregister.eu/ctr-search/search?query={$id}"
+        }
+    ],
+    "sampleId": "2008-005144-16",
+    "successor": null
+}

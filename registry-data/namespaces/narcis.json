@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:34.542+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NARCIS provides access to scientific information, including (open access) publications from the repositories of all the Dutch universities, KNAW, NWO and a number of research institutes, which is not referenced in other citation databases.",
+    "id": 709,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000240",
+    "modified": "2019-06-11T14:16:34.542+00:00",
+    "name": "NARCIS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^oai\\:cwi\\.nl\\:\\d+$",
+    "prefix": "narcis",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NARCIS at The Hague",
+            "id": 711,
+            "institution": {
+                "description": "NARCIS is the main national portal for those looking for information about researchers and their work. Besides researchers, NARCIS is also used by students, journalists and people working in educational and government institutions as well as the business sector.",
+                "homeUrl": "https://www.narcis.nl/",
+                "id": 710,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "NARCIS, Royal Netherlands Academy of Science and Arts",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100306",
+            "name": "NARCIS at The Hague",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.narcis.nl/?Language=en",
+            "sampleId": "oai:cwi.nl:4725",
+            "urlPattern": "http://www.narcis.nl/publication/RecordID/{$id}"
+        }
+    ],
+    "sampleId": "oai:cwi.nl:4725",
+    "successor": null
+}

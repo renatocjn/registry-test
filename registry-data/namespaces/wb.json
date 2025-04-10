@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:15:38.790+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "WormBase is an online bioinformatics database of the biology and genome of the model organism Caenorhabditis elegans and other nematodes. It is used by the C. elegans research community both as an information resource and as a mode to publish and distribute their results. This collection references WormBase-accessioned entities.",
+    "id": 113,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000027",
+    "modified": "2019-06-11T14:15:38.790+00:00",
+    "name": "WormBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^WB[A-Z][a-z]+\\d+$",
+    "prefix": "wb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "WormBase",
+            "id": 114,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100038",
+            "name": "WormBase",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.wormbase.org/",
+            "sampleId": "WBGene00000001",
+            "urlPattern": "https://www.wormbase.org/get?name={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "WormBase through BioEntity Link",
+            "id": 115,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 101,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "InSilico Inc, in Eugene, Oregon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100890",
+            "name": "WormBase through BioEntity Link",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioentitylink",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioentity.link/",
+            "sampleId": "WBGene00021291",
+            "urlPattern": "https://bioentity.link/#/lexicon/public/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "WormBase through the Alliance of Genome Resources",
+            "id": 116,
+            "institution": {
+                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
+                "homeUrl": "https://www.alliancegenome.org",
+                "id": 103,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Alliance of Genome Resources",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100901",
+            "name": "WormBase through the Alliance of Genome Resources",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "agr",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.alliancegenome.org",
+            "sampleId": "WBGene00000001",
+            "urlPattern": "https://www.alliancegenome.org/gene/WB:{$id}"
+        }
+    ],
+    "sampleId": "WBGene00000001",
+    "successor": null
+}

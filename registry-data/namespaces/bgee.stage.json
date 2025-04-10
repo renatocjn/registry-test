@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:16.333+00:00",
+    "deprecated": true,
+    "deprecationDate": "2023-07-04T10:26:40.148+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Bgee is a database of gene expression patterns within particular anatomical structures within a species, and between different animal species. This collection refers to developmental stages.",
+    "id": 1211,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000419",
+    "modified": "2023-09-13T08:52:47.196+00:00",
+    "name": "Bgee stage",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(FBvd|XtroDO|HsapDO|MmusDO)\\:\\d+$",
+    "prefix": "bgee.stage",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bgee at Lausanne",
+            "id": 1212,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100542",
+            "name": "Bgee at Lausanne",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bgee.unil.ch/bgee/bgee",
+            "sampleId": "HsapDO:0000004",
+            "urlPattern": "http://bgee.unil.ch/bgee/bgee?page=anatomy&action=organs&stage_id={$id}&stage_children=on"
+        }
+    ],
+    "sampleId": "HsapDO:0000004",
+    "successor": null
+}

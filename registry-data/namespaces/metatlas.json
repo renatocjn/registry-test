@@ -1,0 +1,56 @@
+{
+    "created": "2022-08-08T18:36:40.981+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Metabolic Atlas facilitates metabolic modelling by presenting open source genome-scale metabolic models for easy browsing and analysis.",
+    "id": 3263,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000959",
+    "modified": "2022-08-08T18:36:40.981+00:00",
+    "name": "Metabolic Atlas",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MA[MR]\\d{5}[a-z]?$",
+    "prefix": "metatlas",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Metabolic Atlas is a web platform integrating open-source genome scale metabolic models (GEMs) for easy browsing and analysis. The goal is to collect curated GEMs, and to bring these models closer to FAIR principles. The website provides visualisations and comparisons of the GEMs, and links to resources, algorithms, other databases, and more general software applications.",
+            "id": 3264,
+            "institution": {
+                "description": "NBIS (National Bioinformatics Infrastructure Sweden) is a distributed national research infrastructure supported by the Swedish Research Council (Vetenskapsrådet), Science for Life Laboratory, all major Swedish universities and the Knut and Alice Wallenberg Foundation, providing state-of-the-art bioinformatics to the Swedish life science researchers community. NBIS is also the Swedish contact point to the European infrastructure for biological information ELIXIR.\n\nPresent NBIS staff has expertise in protein bioinformatics, mass spectrometry (MS), next generation sequencing (NGS), large-scale data handling and integration, metagenomics, systems biology, biostatistics and RNAseq.\n\nNBIS is predominantly offering bioinformatics support in various projects, depending on the user needs. In the projects, the NBIS persons are working close to the research group, and they spend part of their time to teach the users in order to propagate the bioinformatics knowledge. Furthermore, NBIS provides infrastructure and tools for bioinformatics analyses in order to facilitate these analyses for the users.\n\nNBIS forms the bioinformatics platform at the Science for Life Laboratory.",
+                "homeUrl": "https://nbis.se",
+                "id": 3262,
+                "location": {
+                    "countryCode": "SE",
+                    "countryName": "Sweden"
+                },
+                "name": "National Bioinformatics Infrastructure Sweden",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "SE",
+                "countryName": "Sweden"
+            },
+            "mirId": "MIR:00000958",
+            "name": "Metabolic Atlas",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "metatlas",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://metabolicatlas.org",
+            "sampleId": "MAR01234",
+            "urlPattern": "https://metabolicatlas.org/identifier/MetabolicAtlas/{$id}"
+        }
+    ],
+    "sampleId": "MAR01234",
+    "successor": null
+}

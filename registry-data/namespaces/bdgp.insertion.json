@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:14.437+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BDGP gene disruption collection provides a public resource of gene disruptions of Drosophila genes using a single transposable element.",
+    "id": 484,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000156",
+    "modified": "2019-06-11T14:16:14.437+00:00",
+    "name": "BDGP insertion DB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "bdgp.insertion",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BDGP Gene Disruption Project",
+            "id": 486,
+            "institution": {
+                "description": "Baylor College of Medicine is a health sciences university that creates knowledge and applies science and discoveries to further education, healthcare and community service locally and globally.",
+                "homeUrl": "https://www.bcm.edu",
+                "id": 485,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Baylor College of Medicine",
+                "rorId": "https://ror.org/02pttbw34"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100201",
+            "name": "BDGP Gene Disruption Project",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://flypush.imgen.bcm.tmc.edu/pscreen/",
+            "sampleId": "KG09531",
+            "urlPattern": "http://flypush.imgen.bcm.tmc.edu/pscreen/details.php?line={$id}"
+        }
+    ],
+    "sampleId": "KG09531",
+    "successor": null
+}

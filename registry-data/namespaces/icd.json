@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:31.658+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The International Classification of Diseases is the international standard diagnostic classification for all general epidemiological and many health management purposes.",
+    "id": 43,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000009",
+    "modified": "2019-06-11T14:15:31.658+00:00",
+    "name": "ICD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]\\d+(\\.[-\\d+])?$",
+    "prefix": "icd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "International Statistical Classification of Diseases and Related Health Problems",
+            "id": 45,
+            "institution": {
+                "description": "The German Institute for Medical Documentation and Information (German: Deutsches Institut für Medizinische Dokumentation und Information), abbreviated DIMDI, was a German organization responsible for medical information classification and management. It was a government Institute of the German Federal Ministry of Health and was located in Cologne, Germany. The DIMDI published official medical classifications such as ICD-10-GM and OPS (German Procedure Classification) and maintained medical terminology dictionaries, thesauri, nomenclatures and catalogs (e.g. MeSH, UMDNS, Alpha-ID, LOINC, OID) that are important for health information exchange and other applications. DIMDI also developed and operated database-supported information systems for drugs and medical devices and was responsible for a program of health technology assessment (HTA). It also provided information intended for patients. On 26 May 2020, the DIMDI was merged with the Federal Institute for Drugs and Medical Devices (BfArM) into a single agency under the auspices of the BfArM \"to combine the resources and expertise of both authorities\".",
+                "homeUrl": "https://www.bfarm.de/EN/Home/_node.html",
+                "id": 44,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "German Institute of Medical Documentation and Information",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100016",
+            "name": "International Statistical Classification of Diseases and Related Health Problems",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.who.int/classifications/icd/en/",
+            "sampleId": "C34",
+            "urlPattern": "https://icd.who.int/browse10/2019/en#/{$id}"
+        }
+    ],
+    "sampleId": "C34",
+    "successor": null
+}

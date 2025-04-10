@@ -1,0 +1,91 @@
+{
+    "created": "2019-09-10T09:27:59.693+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "'ocid' stands for \"Ontology Concept Identifiers\" and are 12 digit long integers covering IDs in topical ontologies from anatomy up to toxicology.",
+    "id": 1989,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000738",
+    "modified": "2019-09-10T09:27:59.693+00:00",
+    "name": "Ontology Concept Identifiers",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "ocid:[0-9]{12}",
+    "prefix": "ocid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2021-10-17T10:39:01.622+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SciWalker is an open access ontology based search tool for annotated data and extracted knowledge from scientific databases, patents and scientific documents.",
+            "id": 1990,
+            "institution": {
+                "description": "OntoChem develops and uses ontologies and semantic NLP software to annotate, analyze, extract and predict knowledge from scientific databases, patents, scientific articles or general private documents.",
+                "homeUrl": "https://www.ontochem.com",
+                "id": 1988,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "OntoChem GmbH",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000706",
+            "name": "SciWalker Open Data",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "oc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.sciwalker.com",
+            "sampleId": "190000021540",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00000706/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "We offer high performance and highly customizable text analysis and data mining  products that can be tailored to meet the specific needs of every client.  ",
+            "id": 2936,
+            "institution": {
+                "description": "OntoChem develops and uses ontologies and semantic NLP software to annotate, analyze, extract and predict knowledge from scientific databases, patents, scientific articles or general private documents.",
+                "homeUrl": "https://www.ontochem.com",
+                "id": 1988,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "OntoChem GmbH",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000885",
+            "name": "Ontochem GmbH",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ontochem",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ontochem.com/",
+            "sampleId": "190000021540",
+            "urlPattern": "https://ocid.ontochem.com/prefname?ocid={$id}"
+        }
+    ],
+    "sampleId": "190000021540",
+    "successor": null
+}

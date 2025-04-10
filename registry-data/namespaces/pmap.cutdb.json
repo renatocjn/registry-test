@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:30.793+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Proteolysis MAP is a resource for proteolytic networks and pathways. PMAP is comprised of five databases, linked together in one environment. CutDB is a database of individual proteolytic events (cleavage sites).",
+    "id": 669,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000225",
+    "modified": "2019-06-11T14:16:30.793+00:00",
+    "name": "CutDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pmap.cutdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CutDB at The Burnham Institute for Medical Research",
+            "id": 670,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 667,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Center on Proteolytic Pathways, The Cancer Research Center and The Inflammatory and Infectious Disease Center, The Burnham Institute for Medical Research, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100284",
+            "name": "CutDB at The Burnham Institute for Medical Research",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cutdb.burnham.org",
+            "sampleId": "25782",
+            "urlPattern": "http://cutdb.burnham.org/relation/show/{$id}"
+        }
+    ],
+    "sampleId": "25782",
+    "successor": null
+}

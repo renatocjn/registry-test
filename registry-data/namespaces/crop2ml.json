@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-01T17:20:51.953+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CropMRespository is a database of soil and crop biophysical process models.",
+    "id": 3067,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001015",
+    "modified": "2025-04-01T07:25:25.159+00:00",
+    "name": "CropMRepository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]{9}$",
+    "prefix": "crop2ml",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CropMRespository is a database of soil and crop biophysical process models.",
+            "id": 3068,
+            "institution": {
+                "description": "INRAE is France's new National Research Institute for Agriculture, Food and Environment, created on January 1, 2020, It was formed by the merger of INRA, the National Institute for Agricultural Research, and IRSTEA, the National Research Institute of Science and Technology for the Environment and Agriculture.",
+                "homeUrl": "https://www.inrae.fr/",
+                "id": 2292,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "National Research Institute for Agriculture, Food and Environment",
+                "rorId": "https://ror.org/003vg9w96"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00001016",
+            "name": "Crop2ML model repository",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "cropmdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.crop2ml.org",
+            "sampleId": "000000001",
+            "urlPattern": "http://www.crop2ml.org/cropmdb/{$id}"
+        }
+    ],
+    "sampleId": "000000001",
+    "successor": null
+}

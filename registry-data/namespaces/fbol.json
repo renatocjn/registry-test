@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:14.533+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DNA barcoding is the use of short standardised segments of the genome for identification of species in all the Kingdoms of Life. The goal of the Fungal Barcoding site is to promote the DNA barcoding of fungi and other fungus-like organisms.",
+    "id": 1189,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000410",
+    "modified": "2019-06-11T14:17:14.533+00:00",
+    "name": "Fungal Barcode",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "fbol",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Fungal Barcode at Fungal Biodiversity Centre",
+            "id": 1191,
+            "institution": {
+                "description": "The Westerdijk Fungal Biodiversity Institute performs highly innovative mycological research that contributes to the discovery and understanding of fungi and its biodiversity and potential solutions to societal challenges. The Westerdijk Institute has an encompassing and high quality collection of living fungi and related meta data that is highly utilized by public and private parties.\nThe main focus of the Westerdijk Fungal Biodiversity Institute is and will continue to be to explore, study and preserve our fungal collection. We recognize the enormous potential of fungi in the application of solving the world’s biggest challenges. We therefore enhance our partnering with the scientific community, both in the academic, medical, agricultural and industrial field for fundamental and applied research. We also built a new wing to our institute, dedicated to novel product discovery. ",
+                "homeUrl": "https://wi.knaw.nl/",
+                "id": 547,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "CBS-KNAW  Fungal Biodiversity Centre, Utrecht",
+                "rorId": "https://ror.org/030a5r161"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100532",
+            "name": "Fungal Barcode at Fungal Biodiversity Centre",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.fungalbarcoding.org/",
+            "sampleId": "2224",
+            "urlPattern": "http://www.fungalbarcoding.org/BioloMICS.aspx?Table=Fungal barcodes&Rec={$id}&Fields=All&ExactMatch=T"
+        }
+    ],
+    "sampleId": "2224",
+    "successor": null
+}

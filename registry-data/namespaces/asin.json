@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:16.611+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Almost every product on our site has its own ASIN, a unique code we use to identify it. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to our catalogue.",
+    "id": 1856,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000670",
+    "modified": "2019-06-11T14:18:16.611+00:00",
+    "name": "Amazon Standard Identification Number (ASIN)",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]{10}$",
+    "prefix": "asin",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Amazon Standard Identification Number (ASIN)",
+            "id": 1858,
+            "institution": {
+                "description": "An American multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence",
+                "homeUrl": "https://amazon.com",
+                "id": 1857,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Amazon",
+                "rorId": "https://ror.org/04mv4n011"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100888",
+            "name": "Amazon Standard Identification Number (ASIN)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.amazon.co.uk/gp/help/customer/display.html/277-3416785-8259466?ie=UTF8&nodeId=898182",
+            "sampleId": "0471491039",
+            "urlPattern": "https://amzn.com/{$id}"
+        }
+    ],
+    "sampleId": "0471491039",
+    "successor": null
+}

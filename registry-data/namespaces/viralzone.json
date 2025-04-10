@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:23.207+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ViralZone is a resource bridging textbook knowledge with genomic and proteomic sequences. It provides fact sheets on all known virus families/genera with easy access to sequence data. A selection of reference strains (RefStrain) provides annotated standards to circumvent the exponential increase of virus sequences. Moreover ViralZone offers a complete set of detailed and accurate virion pictures.",
+    "id": 1289,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000449",
+    "modified": "2019-06-11T14:17:23.207+00:00",
+    "name": "ViralZone",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "viralzone",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ViralZone at SIB",
+            "id": 1291,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100583",
+            "name": "ViralZone at SIB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.expasy.org/viralzone/",
+            "sampleId": "992",
+            "urlPattern": "http://viralzone.expasy.org/all_by_protein/{$id}.html"
+        }
+    ],
+    "sampleId": "992",
+    "successor": null
+}

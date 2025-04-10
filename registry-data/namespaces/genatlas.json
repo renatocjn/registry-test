@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:26.301+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GenAtlas is a database containing information on human genes, markers and phenotypes.",
+    "id": 620,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000208",
+    "modified": "2019-06-11T14:16:26.301+00:00",
+    "name": "Genatlas",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "genatlas",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Genatlas at Paris Descartes University",
+            "id": 622,
+            "institution": {
+                "description": "Paris Descartes University (French: Université Paris 5 René Descartes), also known as Paris V, was a French public university located in Paris. It was one of the inheritors of the historic University of Paris, which was split into 13 universities in 1970. Paris Descartes completely merged with Paris Diderot University in 2019 to form a new Paris Cité University. ",
+                "homeUrl": "https://u-paris.fr/en/",
+                "id": 621,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Paris Descartes University, Paris",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100267",
+            "name": "Genatlas at Paris Descartes University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://genatlas.medecine.univ-paris5.fr/",
+            "sampleId": "HBB",
+            "urlPattern": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol={$id}"
+        }
+    ],
+    "sampleId": "HBB",
+    "successor": null
+}

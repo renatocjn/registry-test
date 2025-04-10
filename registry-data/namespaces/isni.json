@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:20.121+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ISNI is the ISO certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. It is part of a family of international standard identifiers that includes identifiers of works, recordings, products and right holders in all repertoires, e.g. DOI, ISAN, ISBN, ISRC, ISSN, ISTC, and ISWC.\r\n\r\nThe mission of the ISNI International Authority (ISNI-IA) is to assign to the public name(s) of a researcher, inventor, writer, artist, performer, publisher, etc. a persistent unique identifying number in order to resolve the problem of name ambiguity in search and discovery; and diffuse each assigned ISNI across all repertoires in the global supply chain so that every published work can be unambiguously attributed to its creator wherever that work is described.",
+    "id": 1895,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000684",
+    "modified": "2019-06-11T14:18:20.121+00:00",
+    "name": "International Standard Name Identifier",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]{15}[0-9X]{1}$",
+    "prefix": "isni",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "International Standard Name Identifier",
+            "id": 1897,
+            "institution": {
+                "description": "ISNI is the ISO-certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. As ISO 27729, it is part of a family of international standard identifiers that includes identifiers of works, recordings, products and right holders in all repertoires, e.g. DOI, ISAN, ISBN, ISRC, ISSN, and ISWC.",
+                "homeUrl": "https://isni.org/",
+                "id": 1896,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "ISNI International Authority",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100915",
+            "name": "International Standard Name Identifier",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.isni.org",
+            "sampleId": "000000012281955X",
+            "urlPattern": "http://www.isni.org/isni/{$id}"
+        }
+    ],
+    "sampleId": "000000012281955X",
+    "successor": null
+}

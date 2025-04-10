@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:17.382+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "H-Invitational Database (H-InvDB) is an integrated database of human genes and transcripts. It provides curated annotations of human genes and transcripts including gene structures, alternative splicing isoforms, non-coding functional RNAs, protein functions, functional domains, sub-cellular localizations, metabolic pathways, protein 3D structure, genetic polymorphisms (SNPs, indels and microsatellite repeats), relation with diseases, gene expression profiling, molecular evolutionary features, protein-protein interactions (PPIs) and gene families/groups. This datatype provides access to the 'Locus' view.",
+    "id": 517,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000167",
+    "modified": "2019-06-11T14:16:17.382+00:00",
+    "name": "H-InvDb Locus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^HIX\\d{7}(\\.\\d+)?$",
+    "prefix": "hinv.locus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "H-Invitational Locus View at BIRC",
+            "id": 519,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 518,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "BIRC, Tokyo",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100213",
+            "name": "H-Invitational Locus View at BIRC",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://h-invitational.jp/hinv/ahg-db/index.jsp",
+            "sampleId": "HIX0004394",
+            "urlPattern": "http://h-invitational.jp/hinv/spsoup/locus_view?hix_id={$id}"
+        }
+    ],
+    "sampleId": "HIX0004394",
+    "successor": null
+}

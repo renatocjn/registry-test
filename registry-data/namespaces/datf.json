@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:24.701+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DATF contains known and predicted Arabidopsis transcription factors (1827 genes in 56 families) with the unique information of 1177 cloned sequences and many other features including 3D structure templates, EST expression information, transcription factor binding sites and nuclear location signals.",
+    "id": 1307,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000456",
+    "modified": "2019-06-11T14:17:24.701+00:00",
+    "name": "DATF",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^AT[1-5]G\\d{5}(\\.\\d+)?$",
+    "prefix": "datf",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DATF through PlantTFDB",
+            "id": 1309,
+            "institution": {
+                "description": "Peking University is a comprehensive and national key university. The campus, known as \"Yan Yuan\"（the garden of Yan）, is situated at Haidian District in the western suburb of Beijing, with a total area of 2,743,532 square metres (or 274 hectares). It stands near to the Yuanmingyuan Garden and the Summer Palace.\nPeking University is proud of its outstanding faculty, including 48 members of the Chinese Academy of Sciences (CAS), 9 members of the Chinese Academy of Engineering (CAE), and 21 members of the Third World Academy of Sciences (TWAS).",
+                "homeUrl": "http://english.pku.edu.cn/",
+                "id": 1612,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Peking University",
+                "rorId": "https://ror.org/02v51f717"
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100591",
+            "name": "DATF through PlantTFDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://datf.cbi.pku.edu.cn/",
+            "sampleId": "AT1G01030.1",
+            "urlPattern": "http://planttfdb.cbi.pku.edu.cn/tf.php?sp=Ath&did={$id}"
+        }
+    ],
+    "sampleId": "AT1G01030.1",
+    "successor": null
+}

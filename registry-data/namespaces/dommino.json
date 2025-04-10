@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:04.514+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DOMMINO is a database of macromolecular interactions that includes the interactions between protein domains, interdomain linkers, N- and C-terminal regions and protein peptides.",
+    "id": 1071,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000373",
+    "modified": "2019-06-11T14:17:04.514+00:00",
+    "name": "DOMMINO",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9][A-Za-z0-9]{3}$",
+    "prefix": "dommino",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DOMMINO at University of Missouri",
+            "id": 1073,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1072,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Informatics Institute and Department of Computer Science and Bond Life Science Center, University of Missouri, Columbia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100474",
+            "name": "DOMMINO at University of Missouri",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://dommino.org/",
+            "sampleId": "2GC4",
+            "urlPattern": "http://orion.rnet.missouri.edu/~nz953/DOMMINO/index.php/result/show_network/{$id}"
+        }
+    ],
+    "sampleId": "2GC4",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:40.344+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ProteomicsDB is an effort dedicated to expedite the identification of the human proteome and its use across the scientific community. This human proteome data is assembled primarily using information  from liquid chromatography tandem-mass-spectrometry (LC-MS/MS) experiments involving human tissues, cell lines and body fluids. Information is accessible for individual proteins, or on the basis of protein coverage on the encoding chromosome, and for peptide components of a protein. This collection provides access to individual proteins.",
+    "id": 1475,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000524",
+    "modified": "2019-06-11T14:17:40.344+00:00",
+    "name": "ProteomicsDB Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "proteomicsdb.protein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Proteomics DB Protein at Center for Integrated Protein Science",
+            "id": 1477,
+            "institution": {
+                "description": "CIPSM brings together internationally recognized scientists in the Munich area from the two leading Universities in Germany, LMU, and TUM, as well as from the neighboring Max Planck Institutes and the Helmholtz society. CISPM forms an umbrella under which the individual research facilities can develop their expertise jointly to form a center of scientific gravity in southern Germany. The Center will strengthen existing expertise by hiring new research groups to work on complementary aspects. These measures will catalyze the transition from classical protein science scattered over the Munich region to a new systemic protein science that is expected to dominate research in the molecular life sciences beyond the funding period.",
+                "homeUrl": "https://www.cipsm.de/",
+                "id": 1476,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Center for Integrated Protein Science, Munich,",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100680",
+            "name": "Proteomics DB Protein at Center for Integrated Protein Science",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.proteomicsdb.org/#human",
+            "sampleId": "53504",
+            "urlPattern": "https://www.proteomicsdb.org/#human/proteinDetails/{$id}/summary"
+        }
+    ],
+    "sampleId": "53504",
+    "successor": null
+}

@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:15:55.368+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ChEMBL is a database of bioactive compounds, their quantitative properties and bioactivities (binding constants, pharmacology and ADMET, etc). The data is abstracted and curated from the primary scientific literature.",
+    "id": 281,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000084",
+    "modified": "2019-06-11T14:15:55.368+00:00",
+    "name": "ChEMBL compound",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CHEMBL\\d+$",
+    "prefix": "chembl.compound",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChEMBL compound database at EBI",
+            "id": 282,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100115",
+            "name": "ChEMBL compound database at EBI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/chembldb/",
+            "sampleId": "CHEMBL308052",
+            "urlPattern": "https://www.ebi.ac.uk/chembl/compound/inspect/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-30T14:32:28.461+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChEMBL compound RDF",
+            "id": 284,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100484",
+            "name": "ChEMBL compound RDF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://github.com/egonw/chembl.rdf",
+            "sampleId": "CHEMBL308052",
+            "urlPattern": "http://linkedchemistry.info/chembl/chemblid/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2025-03-27T16:31:00.905+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChEMBL compound RDF through EBI RDF Platform",
+            "id": 285,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100744",
+            "name": "ChEMBL compound RDF through EBI RDF Platform",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/rdf/services/chembl/",
+            "sampleId": "CHEMBL308052",
+            "urlPattern": "https://rdf.ebi.ac.uk/resource/chembl/molecule/{$id}"
+        }
+    ],
+    "sampleId": "CHEMBL308052",
+    "successor": null
+}

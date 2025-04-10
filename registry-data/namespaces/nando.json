@@ -1,0 +1,56 @@
+{
+    "created": "2023-05-09T12:26:02.992+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Nanbyo Disease Ontology (NANDO) is the ontology creating a comprehensive hierarchical controlled vocabulary for intractable and rare disease (i.e., nanbyo) representation in Japan.",
+    "id": 3536,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001010",
+    "modified": "2023-05-09T13:07:17.390+00:00",
+    "name": "Nanbyo Disease Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^NANDO:[0-9]+$",
+    "prefix": "nando",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Database Center for Life Science (DBCLS) is a part of Research Organization of Information and Systems (ROIS) and has been developing new technologies, services and standards for integrating biological databases, which include those developed and maintained in Japan as well as world-renowned databases.",
+            "id": 3537,
+            "institution": {
+                "description": "Database Center for Life Science (DBCLS) is a part of Research Organization of Information and Systems (ROIS) and has been developing new technologies, services and standards for integrating biological databases, which include those developed and maintained in Japan as well as world-renowned databases.",
+                "homeUrl": "https://dbcls.rois.ac.jp/index-en.html",
+                "id": 3526,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Database Center for Life Science, Kashiwa, Chiba, Japan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00001009",
+            "name": "Database Center for Life Science, Kashiwa, Chiba, Japan",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dbcls",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://nanbyodata.jp/",
+            "sampleId": "1200031",
+            "urlPattern": "https://nanbyodata.jp/disease/NANDO:{$id}"
+        }
+    ],
+    "sampleId": "1200031",
+    "successor": null
+}

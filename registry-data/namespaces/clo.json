@@ -1,0 +1,91 @@
+{
+    "created": "2023-01-23T10:14:16.128+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cell Line Ontology is a community-based ontology of cell lines. The CLO is developed to unify publicly available cell line entry data from multiple sources to a standardized logically defined format based on consensus design patterns.",
+    "id": 3391,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000983",
+    "modified": "2023-01-23T10:14:16.128+00:00",
+    "name": "Cell Line Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{7}$",
+    "prefix": "clo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
+            "id": 3398,
+            "institution": {
+                "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
+                "homeUrl": "https://bioportal.bioontology.org",
+                "id": 3397,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Biomedical Informatics Research, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000984",
+            "name": "Center for Biomedical Informatics Research, Stanford",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioportal",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioportal.bioontology.org",
+            "sampleId": "0000091",
+            "urlPattern": "https://bioportal.bioontology.org/ontologies/CLO/?p=classes&conceptid=http://purl.obolibrary.org/obo/CLO_{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cell Line Ontology (CLO) through OLS. The Ontology Lookup Service (OLS) is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions. You can browse the ontologies through the website as well as programmatically via the OLS API. OLS is developed and maintained by the Samples, Phenotypes, and Ontologies Team at EMBL-EBI.",
+            "id": 3392,
+            "institution": {
+                "description": "University of Michigan is one of the top universities of the world, a diverse public institution of higher learning, fostering excellence in research. U-M provides outstanding undergraduate, graduate and professional education, serving the local, regional, national and international communities.",
+                "homeUrl": "https://www.umich.edu/",
+                "id": 3390,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Michigan–Ann Arbor",
+                "rorId": "https://ror.org/00jmfr291"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000982",
+            "name": "CLO through OLS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/clo",
+            "sampleId": "0000091",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/clo/terms?short_form=CLO_{$id}"
+        }
+    ],
+    "sampleId": "0000091",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:32:37.384+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "This website provides a centralized, cloud-based portal for the open redistribution and analysis of environmental datasets and satellite imagery from OCC stakeholders like NASA and NOAA and aims to support the earth science research community as well as human assisted disaster relief.",
+    "id": 3158,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000925",
+    "modified": "2022-02-27T20:32:37.384+00:00",
+    "name": "Environmental Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.7c5b",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "This website provides a centralized, cloud-based portal for the open redistribution and analysis of environmental datasets and satellite imagery from OCC stakeholders like NASA and NOAA and aims to support the earth science research community as well as human assisted disaster relief.",
+            "id": 3159,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000923",
+            "name": "Environmental Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.7C5B",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://portal.occ-data.org/",
+            "sampleId": "00000014-990c-48f2-b0a8-fbb533860512",
+            "urlPattern": "https://portal.occ-data.org/loginga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "00000014-990c-48f2-b0a8-fbb533860512",
+    "successor": null
+}

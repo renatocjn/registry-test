@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-29T19:10:32.057+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+    "id": 2881,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000869",
+    "modified": "2021-09-29T19:10:32.057+00:00",
+    "name": "BioData Catalyst",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.4503",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Full implementation of the DRS 1.1 standard with support for persistent identifiers. Open source DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+            "id": 2882,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000868",
+            "name": "BioData Catalyst",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.4503",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://gen3.biodatacatalyst.nhlbi.nih.gov",
+            "sampleId": "0000ffeb-36e0-4a29-b21d-84423bda979d",
+            "urlPattern": "https://gen3.biodatacatalyst.nhlbi.nih.gov/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "0000ffeb-36e0-4a29-b21d-84423bda979d",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:47.621+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BiGG is a knowledgebase of Biochemically, Genetically and Genomically structured genome-scale metabolic network reconstructions. It more published genome-scale metabolic networks into a single database with a set of stardized identifiers called BiGG IDs. Genes in the BiGG models are mapped to NCBI genome annotations, and metabolites are linked to many external databases (KEGG, PubChem, and many more). This collection references model compartments.",
+    "id": 1553,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000555",
+    "modified": "2019-06-11T14:17:47.621+00:00",
+    "name": "BiGG Compartment",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z_A-Z]+$",
+    "prefix": "bigg.compartment",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BiGG Compartment at University of California",
+            "id": 1554,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100732",
+            "name": "BiGG Compartment at University of California",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bigg.ucsd.edu/compartments/",
+            "sampleId": "c",
+            "urlPattern": "http://bigg.ucsd.edu/compartments/{$id}"
+        }
+    ],
+    "sampleId": "c",
+    "successor": null
+}

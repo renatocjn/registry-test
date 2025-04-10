@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:34.340+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "OdorDB stores information related to odorous compounds, specifically identifying those that have been shown to interact with olfactory receptors",
+    "id": 1418,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000500",
+    "modified": "2019-06-11T14:17:34.340+00:00",
+    "name": "Odor Molecules DataBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "odor",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Odor Molecules DataBase at Yale University School of Medicine",
+            "id": 1419,
+            "institution": {
+                "description": "The YCMI serves as a focus for training and systems development for a range of research projects. YCMI occupies 8,000 sq ft in the same building as the Keck Lab. It is headed by Perry Miller, M.D.,Ph.D., and has 15 core faculty members. It offers DERC investigators access to a novel data base management system, Trial/DB, a powerful, flexible, web-accessible database designed to support clinical trials and clinical research in a variety of areas, including diabetes.",
+                "homeUrl": "https://medicine.yale.edu/intmed/drc/research/institutional/ycmi/",
+                "id": 1416,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Medical Informatics, Yale University School of Medicine, New Haven, Connecticut",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100641",
+            "name": "Odor Molecules DataBase at Yale University School of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://senselab.med.yale.edu/OdorDB",
+            "sampleId": "74",
+            "urlPattern": "http://senselab.med.yale.edu/OdorDB/Data/{$id}/?db=5"
+        }
+    ],
+    "sampleId": "74",
+    "successor": null
+}

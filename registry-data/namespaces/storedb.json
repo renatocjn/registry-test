@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:53.021+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "STOREDB database is a repository for data used by the international radiobiology community, archiving and sharing primary data outputs from research on low dose radiation. It also provides a directory of bioresources and databases for radiobiology projects containing information and materials that investigators are willing to share. STORE supports the creation of a low dose radiation research commons.",
+    "id": 1606,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000577",
+    "modified": "2019-06-11T14:17:53.021+00:00",
+    "name": "STOREDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^STOREDB:(STUDY|FILE|DATASET)\\d+$",
+    "prefix": "storedb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "STOREDB at University of Cambridge",
+            "id": 1608,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1607,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "University of Cambridge, Department of Physiology, Downing Street, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100771",
+            "name": "STOREDB at University of Cambridge",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.storedb.org/",
+            "sampleId": "STOREDB:STUDY1040",
+            "urlPattern": "https://www.storedb.org/?{$id}"
+        }
+    ],
+    "sampleId": "STOREDB:STUDY1040",
+    "successor": null
+}

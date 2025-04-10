@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:37.867+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SitEx is a database containing information on eukaryotic protein functional sites. It stores the amino acid sequence positions in the functional site, in relation to the exon structure of encoding gene This can be used to detect the exons involved in shuffling in protein evolution, or to design protein-engineering experiments.",
+    "id": 748,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000252",
+    "modified": "2019-06-11T14:16:37.867+00:00",
+    "name": "SitEx",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "sitex",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SitEx at Novosibirsk State University",
+            "id": 750,
+            "institution": {
+                "description": "Novosibirsk State University is located in the world-famous scientific center – Akademgorodok. 80% of NSU faculty members are scientists from the Siberian Branch of the Russian Academy of Sciences. That means education is closely connected to world-class scientific achievements. ",
+                "homeUrl": "http://www.nsu.ru/exp/index.jz?lang=en",
+                "id": 749,
+                "location": {
+                    "countryCode": "RU",
+                    "countryName": "Russian Federation"
+                },
+                "name": "Novosibirsk State University, Novosibirsk",
+                "rorId": "https://ror.org/04t2ss102"
+            },
+            "location": {
+                "countryCode": "RU",
+                "countryName": "Russian Federation"
+            },
+            "mirId": "MIR:00100323",
+            "name": "SitEx at Novosibirsk State University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www-bionet.sscc.ru/sitex/",
+            "sampleId": "1000",
+            "urlPattern": "http://www-bionet.sscc.ru/sitex/index.php?siteid={$id}"
+        }
+    ],
+    "sampleId": "1000",
+    "successor": null
+}

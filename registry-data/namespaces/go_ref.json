@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:23.452+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The GO reference collection is a set of abstracts that can be cited in the GO ontologies (e.g. as dbxrefs for term definitions) and annotation files (in the Reference column). It provides two types of reference; It can be used to provide details of why specific Evidence codes (see http://identifiers.org/eco/) are assigned, or to present abstract-style descriptions of \"GO content\" meetings at which substantial changes in the ontologies are discussed and made.",
+    "id": 1292,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000450",
+    "modified": "2020-07-30T07:27:34.233+00:00",
+    "name": "Gene Ontology Reference",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^GO_REF:\\d{7}$",
+    "prefix": "go_ref",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Gene Ontology Reference at The Gene Ontology Consortium",
+            "id": 1293,
+            "institution": {
+                "description": "The mission of the GO Consortium is to develop a comprehensive, computational model of biological systems, ranging from the molecular to the organism level, across the multiplicity of species in the tree of life.\n\nThe Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. This knowledge is both human-readable and machine-readable, and is a foundation for computational analysis of large-scale molecular biology and genetics experiments in biomedical research. ",
+                "homeUrl": "http://geneontology.org/",
+                "id": 89,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Gene Ontology Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100584",
+            "name": "Gene Ontology Reference at The Gene Ontology Consortium",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.geneontology.org/cgi-bin/references.cgi",
+            "sampleId": "0000041",
+            "urlPattern": "https://github.com/geneontology/go-site/blob/master/metadata/gorefs/goref-{$id}.md"
+        }
+    ],
+    "sampleId": "0000041",
+    "successor": null
+}

@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:07.820+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "JWS Online is a repository of curated biochemical pathway models, and additionally provides the ability to run simulations of these models in a web browser.",
+    "id": 412,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000130",
+    "modified": "2024-10-31T13:37:44.168+00:00",
+    "name": "JWS Online",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "jws",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JWS Online Model Repository at Stellenbosch",
+            "id": 414,
+            "institution": {
+                "description": "Stellenbosch University is a public research university situated in Stellenbosch, a town in the Western Cape province of South Africa. Stellenbosch is the oldest university in South Africa and the oldest extant university in Sub-Saharan Africa, together with the University of Cape Town - which received full university status on the same day in 1918. Stellenbosch University designed and manufactured Africa's first microsatellite, SUNSAT, launched in 1999. Stellenbosch University was the first African university to sign the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities.",
+                "homeUrl": "http://www.sun.ac.za/english/faculty/science/biochemistry",
+                "id": 413,
+                "location": {
+                    "countryCode": "ZA",
+                    "countryName": "South Africa"
+                },
+                "name": "Department of Biochemistry, Stellenbosch University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "ZA",
+                "countryName": "South Africa"
+            },
+            "mirId": "MIR:00100168",
+            "name": "JWS Online Model Repository at Stellenbosch",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://jjj.biochem.sun.ac.za/models/",
+            "sampleId": "curien1",
+            "urlPattern": "http://jjj.biochem.sun.ac.za/models/{$id}/"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JWS Online Model Repository at Manchester",
+            "id": 418,
+            "institution": {
+                "description": "The Manchester Institute of Biotechnology, formerly the Manchester Interdisciplinary Biocentre (MIB) is a research institute of the University of Manchester, England. The centre has been designed to enable academic communities to explore specific areas of interdisciplinary quantitative bioscience, largely through the efforts of multidisciplinary research teams. Research at MIB follows three broadly defined, interdisciplinary and complementary themes: Biological Mechanism and Catalysis, Molecular Bioengineering, and Systems biology.",
+                "homeUrl": "https://www.mib.manchester.ac.uk/",
+                "id": 417,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Manchester Interdisciplinary Biocentre, University of Manchester",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100170",
+            "name": "JWS Online Model Repository at Manchester",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://jjj.mib.ac.uk/models",
+            "sampleId": "curien1",
+            "urlPattern": "http://jjj.mib.ac.uk/models/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "JWS Online Model Repository at Amsterdam",
+            "id": 416,
+            "institution": {
+                "description": "The University of Amsterdam is ambitious, creative and committed: a leader in international science and a partner in innovation, the UvA has been inspiring generations since 1632. Read our mission and vision.",
+                "homeUrl": "https://www.uva.nl/en/home",
+                "id": 415,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "University of Amsterdam",
+                "rorId": "https://ror.org/04dkp9463"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100169",
+            "name": "JWS Online Model Repository at Amsterdam",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://jjj.bio.vu.nl/models/",
+            "sampleId": "curien1",
+            "urlPattern": "http://jjj.bio.vu.nl/models/{$id}/"
+        }
+    ],
+    "sampleId": "curien1",
+    "successor": null
+}

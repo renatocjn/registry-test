@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:04.151+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Simple Modular Architecture Research Tool (SMART) is an online tool for the identification and annotation of protein domains, and the analysis of domain architectures.",
+    "id": 374,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000118",
+    "modified": "2019-06-11T14:16:04.151+00:00",
+    "name": "SMART",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^SM\\d{5}$",
+    "prefix": "smart",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SMART (Simple Modular Architecture Research Tool)",
+            "id": 376,
+            "institution": {
+                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
+                "homeUrl": "http://embl.org/",
+                "id": 375,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "EMBL, Heidelberg",
+                "rorId": "https://ror.org/03mstc592"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100151",
+            "name": "SMART (Simple Modular Architecture Research Tool)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://smart.embl-heidelberg.de/",
+            "sampleId": "SM00015",
+            "urlPattern": "http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN={$id}"
+        }
+    ],
+    "sampleId": "SM00015",
+    "successor": null
+}

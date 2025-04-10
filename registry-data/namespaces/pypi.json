@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-05T17:54:24.640+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Python Package Index (PyPI) is a repository for Python packages.",
+    "id": 2852,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000863",
+    "modified": "2021-09-05T17:54:24.640+00:00",
+    "name": "PyPI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-zA-Z_][a-zA-Z0-9\\-_]+$",
+    "prefix": "pypi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language.",
+            "id": 2853,
+            "institution": {
+                "description": "The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language.",
+                "homeUrl": "https://www.python.org/psf/",
+                "id": 2851,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Python Software Foundation",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000862",
+            "name": "Python Software Foundation",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "psf",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.python.org/psf/",
+            "sampleId": "numpy",
+            "urlPattern": "https://pypi.org/project/{$id}/"
+        }
+    ],
+    "sampleId": "numpy",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:57.006+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PharmGKB database is a central repository for genetic, genomic, molecular and cellular phenotype data and clinical information about people who have participated in pharmacogenomics research studies. The data includes, but is not limited to, clinical and basic pharmacokinetic and pharmacogenomic research in the cardiovascular, pulmonary, cancer, pathways, metabolic and transporter domains. \r\nPharmGKB Pathways are drug centric, gene based, interactive pathways which focus on candidate genes and gene groups and associated genotype and phenotype data of relevance for pharmacogenetic and pharmacogenomic studies.",
+    "id": 297,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000089",
+    "modified": "2019-06-11T14:15:57.006+00:00",
+    "name": "PharmGKB Pathways",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PA\\d+$",
+    "prefix": "pharmgkb.pathways",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PharmGKB at Stanford",
+            "id": 299,
+            "institution": {
+                "description": "A leader in the biomedical revolution, Stanford Medicine has a long tradition of leadership in pioneering research, creative teaching protocols and effective clinical therapies.",
+                "homeUrl": "https://med.stanford.edu/genetics.html",
+                "id": 298,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Genetics, School of Medicine, Stanford University, Stanford, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100120",
+            "name": "PharmGKB at Stanford",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pharmgkb.org/",
+            "sampleId": "PA146123006",
+            "urlPattern": "http://www.pharmgkb.org/pathway/{$id}"
+        }
+    ],
+    "sampleId": "PA146123006",
+    "successor": null
+}

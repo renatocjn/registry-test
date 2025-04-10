@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:20.303+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "WikiGenes is a collaborative knowledge resource for the life sciences, which is based on the general wiki idea but employs specifically developed technology to serve as a rigorous scientific tool. The rationale behind WikiGenes is to provide a platform for the scientific community to collect, communicate and evaluate knowledge about genes, chemicals, diseases and other biomedical concepts in a bottom-up process.",
+    "id": 1255,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000437",
+    "modified": "2019-06-11T14:17:20.303+00:00",
+    "name": "WikiGenes",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "wikigenes",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "WikiGenes at Massachusetts Institute of Technology",
+            "id": 1257,
+            "institution": {
+                "description": "MIT's Computer Science and Artificial Intelligence Laboratory pioneers research in computing that improves the way people work, play, and learn. We focus on developing fundamentally new technologies, conducting basic research that furthers the field of computing, and inspiring and educating future generations of scientists and technologists.",
+                "homeUrl": "https://www.csail.mit.edu/",
+                "id": 1256,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100567",
+            "name": "WikiGenes at Massachusetts Institute of Technology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.wikigenes.org/",
+            "sampleId": "3771877",
+            "urlPattern": "http://www.wikigenes.org/e/gene/e/{$id}.html"
+        }
+    ],
+    "sampleId": "3771877",
+    "successor": null
+}

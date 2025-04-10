@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:00.566+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The purpose of the OMIT ontology is to establish data exchange standards and common data elements in the microRNA (miR) domain. Biologists (cell biologists in particular) and bioinformaticians can make use of OMIT to leverage emerging semantic technologies in knowledge acquisition and discovery for more effective identification of important roles performed by miRs in humans' various diseases and biological processes (usually through miRs' respective target genes).",
+    "id": 1679,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000605",
+    "modified": "2019-06-11T14:18:00.566+00:00",
+    "name": "OMIT",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{7}$",
+    "prefix": "omit",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ontology for miRNA Target (OMIT) through OLS",
+            "id": 1680,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100806",
+            "name": "Ontology for miRNA Target (OMIT) through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/omit/",
+            "sampleId": "0005506",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/omit/terms?short_form=OMIT_{$id}"
+        }
+    ],
+    "sampleId": "0005506",
+    "successor": null
+}

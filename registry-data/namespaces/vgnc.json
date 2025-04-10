@@ -1,0 +1,56 @@
+{
+    "created": "2020-05-12T14:08:31.024+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Vertebrate Gene Nomenclature Committee (VGNC) is an extension of the established HGNC (HUGO Gene Nomenclature Committee) project that names human genes. VGNC is responsible for assigning standardized names to genes in vertebrate species that currently lack a nomenclature committee.",
+    "id": 2222,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000765",
+    "modified": "2020-05-12T14:08:31.024+00:00",
+    "name": "VGNC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^((VGNC|vgnc):)?\\d{1,9}$",
+    "prefix": "vgnc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Vertebrate Gene Nomenclature Committee (VGNC) is an extension of the established HGNC (HUGO Gene Nomenclature Committee) project that names human genes. VGNC is responsible for assigning standardized names to genes in vertebrate species that currently lack a nomenclature committee. ",
+            "id": 2223,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000752",
+            "name": "VGNC",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "vgnc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://vertebrate.genenames.org",
+            "sampleId": "VGNC:3792",
+            "urlPattern": "https://vertebrate.genenames.org/data/gene-symbol-report/#!/vgnc_id/{$id}"
+        }
+    ],
+    "sampleId": "VGNC:3792",
+    "successor": null
+}

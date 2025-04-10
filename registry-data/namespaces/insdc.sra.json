@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:35.560+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Sequence Read Archive (SRA) stores raw sequencing data from the next generation of sequencing platforms Data submitted to SRA. It is organized using a metadata model consisting of six objects: study, sample, experiment, run, analysis and submission. The SRA study contains high-level information including goals of the study and literature references, and may be linked to the INSDC BioProject database.",
+    "id": 721,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000243",
+    "modified": "2019-06-11T14:16:35.560+00:00",
+    "name": "Sequence Read Archive",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[SED]R[APRSXZ]\\d+$",
+    "prefix": "insdc.sra",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sequence Read Archive at NCBI",
+            "id": 722,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100312",
+            "name": "Sequence Read Archive at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/sra",
+            "sampleId": "SRX000007",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/sra/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "European Nucleotide Archive (ENA)",
+            "id": 723,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100313",
+            "name": "European Nucleotide Archive (ENA)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ena",
+            "sampleId": "SRX000007",
+            "urlPattern": "https://www.ebi.ac.uk/ena/data/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DDBJ Sequence Read Archive (DRA)",
+            "id": 724,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100314",
+            "name": "DDBJ Sequence Read Archive (DRA)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ddbj",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ddbj.nig.ac.jp/dra/index-e.html",
+            "sampleId": "SRX000007",
+            "urlPattern": "https://ddbj.nig.ac.jp/resource/sra-experiment/{$id}"
+        }
+    ],
+    "sampleId": "SRX000007",
+    "successor": null
+}

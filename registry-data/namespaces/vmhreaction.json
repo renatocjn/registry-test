@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:08.921+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Virtual Metabolic Human (VMH) is a resource that combines human and gut microbiota metabolism with nutrition and disease.",
+    "id": 1775,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000640",
+    "modified": "2019-06-11T14:18:08.921+00:00",
+    "name": "VMH reaction",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[a-zA-Z0-9_\\(\\_\\)\\[\\]]+",
+    "prefix": "vmhreaction",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VMH reaction",
+            "id": 1776,
+            "institution": {
+                "description": "Since 1845, University of Galway has been sharing the highest quality teaching and research with Ireland and the world. Find out what makes our University so special – from our distinguished history to the latest news and campus developments. ",
+                "homeUrl": "http://www.nuigalway.ie/",
+                "id": 2496,
+                "location": {
+                    "countryCode": "IE",
+                    "countryName": "Ireland"
+                },
+                "name": "National University of Ireland, Galway",
+                "rorId": "https://ror.org/03bea9k73"
+            },
+            "location": {
+                "countryCode": "IE",
+                "countryName": "Ireland"
+            },
+            "mirId": "MIR:00100845",
+            "name": "VMH reaction",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.vmh.life/",
+            "sampleId": "HEX1",
+            "urlPattern": "https://www.vmh.life/#reaction/{$id}"
+        }
+    ],
+    "sampleId": "HEX1",
+    "successor": null
+}

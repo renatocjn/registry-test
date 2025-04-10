@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:14.938+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Barcode of Life Data System (BOLD) is an informatics workbench aiding the acquisition, storage, analysis and publication of DNA barcode records. The associated taxonomy browser shows the progress of DNA barcoding and provides sample collection site distribution, and taxon occurence information.",
+    "id": 490,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000158",
+    "modified": "2019-06-11T14:16:14.938+00:00",
+    "name": "BOLD Taxonomy",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "bold.taxonomy",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BOLD taxonomy browser",
+            "id": 492,
+            "institution": {
+                "description": "The Canadian Centre for DNA Barcoding remains open and fully operational. We are closely following University directives and are adhering to both provincial and University guidelines with respect to physical distancing and remote working operations. While we don’t anticipate a delay in service and reporting of results, there may be a delay in us receiving samples which could impact service and turnaround time. We appreciate your patience during this time and look forward to serving you. Should any change in service occur in response to this rapidly evolving situation, an announcement will be made via our website.",
+                "homeUrl": "https://ccdb.ca/",
+                "id": 491,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Canadian Centre for DNA Barcoding, Biodiversity Institute of Ontario",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100203",
+            "name": "BOLD taxonomy browser",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.boldsystems.org/",
+            "sampleId": "27267",
+            "urlPattern": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid={$id}"
+        }
+    ],
+    "sampleId": "27267",
+    "successor": null
+}

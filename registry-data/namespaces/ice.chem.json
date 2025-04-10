@@ -1,0 +1,56 @@
+{
+    "created": "2024-09-10T12:53:16.243+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Integrated Chemical Environment (ICE) provides high-quality curated data and appropriate tools to support development and evaluation of new, revised, and alternative methods. ICE provides free online access to curated in vivo and in vitro test data, in silico toxicity predictions and chemical property data, reference chemical lists, and computational tools for chemical characterization and predicting toxicity.\nICE supports the following: (i) Data integration: brings together available data, including data on formulations; (ii) Results exploration: enables dynamic, graphical exploration with publication-quality graphics; (iii) Data analysis: allows characterization of data using online workflows, and (iv) FAIR data access: data are findable, accessible, interoperable, and reusable.",
+    "id": 4104,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001082",
+    "modified": "2024-09-10T12:53:16.243+00:00",
+    "name": "Integrated Chemical Environment - Chemical data",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "\\d{2,7}-\\d{2}-\\d|DTXSID\\d{7,9}|[A-Z]{14}-[A-Z]{8}[SN][A-Z]-[A-Z]$",
+    "prefix": "ice.chem",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+            "id": 4055,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.niehs.nih.gov/",
+                "id": 4009,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Institute of Environmental Health Sciences",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001081",
+            "name": "National Institute of Environmental Health Sciences",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "niehs",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ice.ntp.niehs.nih.gov",
+            "sampleId": "DTXSID7032004",
+            "urlPattern": "https://ice.ntp.niehs.nih.gov/api/v1/search?chemid={$id}"
+        }
+    ],
+    "sampleId": "DTXSID7032004",
+    "successor": null
+}

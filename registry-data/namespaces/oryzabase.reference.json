@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:21.361+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Oryzabase is a comprehensive rice science database established in 2000 by rice researcher's committee in Japan.",
+    "id": 1909,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000689",
+    "modified": "2019-06-11T14:18:21.361+00:00",
+    "name": "Oryzabase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "oryzabase.reference",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Oryzabase",
+            "id": 1910,
+            "institution": {
+                "description": "Research NIG conducts top-level research in life sciences leveraging on approaches and resources in Genetics. NIG also develops new research fields within the broader concept of Genetics. ",
+                "homeUrl": "http://www.nig.ac.jp/nig/",
+                "id": 1371,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Genetic Strains Research Center, National Institute of Genetics, Mishima, Shizuoka",
+                "rorId": "https://ror.org/02xg1m795"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100920",
+            "name": "Oryzabase",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.shigen.nig.ac.jp/rice/oryzabaseV4/",
+            "sampleId": "42840",
+            "urlPattern": "https://shigen.nig.ac.jp/rice/oryzabase/reference/detail/{$id}"
+        }
+    ],
+    "sampleId": "42840",
+    "successor": null
+}

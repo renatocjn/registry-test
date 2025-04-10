@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:13.429+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Variation Ontology (VariO) is an ontology for the standardized, systematic description of effects, consequences and mechanisms of variations. It describes the effects of variations at the DNA, RNA and/or protein level.",
+    "id": 1177,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000406",
+    "modified": "2019-06-11T14:17:13.429+00:00",
+    "name": "VariO",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^VariO:\\d+$",
+    "prefix": "vario",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VariO through BioPortal",
+            "id": 1180,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100566",
+            "name": "VariO through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/VARIO",
+            "sampleId": "0294",
+            "urlPattern": "https://purl.bioontology.org/ontology/VARIO?conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FVariO_{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VariO at Lund University",
+            "id": 1179,
+            "institution": {
+                "description": "Our mission is to perform molecular, cellular and integrative research at the highest international level and to train a new generation of successful scientists. We study biological processes that govern normal human bodily functions that are involved in disease pathogenesis. Several of our research environments have been recognized as outstanding both on the national and the European level. ",
+                "homeUrl": "https://www.medicine.lu.se/faculty-medicine-lund-university/departments/department-experimental-medical-science",
+                "id": 1178,
+                "location": {
+                    "countryCode": "SE",
+                    "countryName": "Sweden"
+                },
+                "name": "Department of Experimental Medical Science, Lund University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "SE",
+                "countryName": "Sweden"
+            },
+            "mirId": "MIR:00100526",
+            "name": "VariO at Lund University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.variationontology.org/",
+            "sampleId": "0294",
+            "urlPattern": "http://www.ontobee.org/search?ontology=VariO&keywords=VariO_{$id}&submit=Search+terms"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VariO through OLS",
+            "id": 1181,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100677",
+            "name": "VariO through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols/ontologies/vario",
+            "sampleId": "0294",
+            "urlPattern": "https://www.ebi.ac.uk/ols/ontologies/vario/terms?obo_id=VariO:{$id}"
+        }
+    ],
+    "sampleId": "0294",
+    "successor": null
+}

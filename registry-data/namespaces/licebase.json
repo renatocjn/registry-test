@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:06.185+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Sea lice (Lepeophtheirus salmonis and Caligus species) are the major pathogens of salmon,  significantly impacting upon the global salmon farming industry. Lice control is primarily accomplished through chemotherapeutants, though emerging resistance necessitates the development of new treatment methods (biological agents, prophylactics and new drugs). LiceBase is a database for sea lice genomics, providing genome annotation of the Atlantic salmon louse Lepeophtheirus salmonis, a genome browser, and access to related high-thoughput genomics data. LiceBase also mines and stores data from related genome sequencing and functional genomics projects.",
+    "id": 1744,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000628",
+    "modified": "2019-06-11T14:18:06.185+00:00",
+    "name": "LiceBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9\\-\\/]+$",
+    "prefix": "licebase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LiceBase",
+            "id": 1746,
+            "institution": {
+                "description": "The research at the Centre is focused on development of novel tools for parasite control in the aquaculture sector to achieve sea lice pest management. Implicit is to shorten the time from basic research to new products.",
+                "homeUrl": "https://www.uib.no/en/rg/fdrg/62356/sea-lice-research-centre",
+                "id": 1745,
+                "location": {
+                    "countryCode": "NO",
+                    "countryName": "Norway"
+                },
+                "name": "Sea Lice Research Centre (SLRC), University of Bergen",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NO",
+                "countryName": "Norway"
+            },
+            "mirId": "MIR:00100832",
+            "name": "LiceBase",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://licebase.org",
+            "sampleId": "EMLSAT00000003403",
+            "urlPattern": "https://licebase.org/?q={$id}"
+        }
+    ],
+    "sampleId": "EMLSAT00000003403",
+    "successor": null
+}

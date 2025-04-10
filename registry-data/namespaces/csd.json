@@ -1,0 +1,56 @@
+{
+    "created": "2021-05-30T10:06:48.264+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cambridge Stuctural Database (CSD) is the world's most comprehensive collection of small-molecule crystal structures. Entries curated into the CSD are identified by a CSD Refcode.",
+    "id": 2668,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000820",
+    "modified": "2021-05-30T10:06:48.264+00:00",
+    "name": "Cambridge Structural Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]{6}(\\d{2})?$",
+    "prefix": "csd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Cambridge Crystallographic Data Centre (CCDC) is dedicated to the advancement of chemistry and crystallography through the provision of high quality scientific data services and software. It compiles and disseminates the Cambridge Structural Database, a trusted and comprehensive collection of curated small molecule crystal structure data.",
+            "id": 2669,
+            "institution": {
+                "description": "The Cambridge Crystallographic Data Centre (CCDC) is dedicated to the advancement of chemistry and crystallography through the provision of high quality scientific data services and software. It compiles and disseminates the Cambridge Structural Database, a trusted and comprehensive collection of curated small molecule crystal structure data.",
+                "homeUrl": "https://www.ccdc.cam.ac.uk/",
+                "id": 2664,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Cambridge Crystallographic Data Centre",
+                "rorId": "https://ror.org/00zbfm828"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000819",
+            "name": "Cambridge Crystallographic Data Centre",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "csd",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ccdc.cam.ac.uk/",
+            "sampleId": "PELNAW",
+            "urlPattern": "https://www.ccdc.cam.ac.uk/services/structures?pid=csd:{$id}&sid=IDORG"
+        }
+    ],
+    "sampleId": "PELNAW",
+    "successor": null
+}

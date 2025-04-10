@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:38.984+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cell: An Image Library™ is a freely accessible, public repository of reviewed and annotated images, videos, and animations of cells from a variety of organisms, showcasing cell architecture, intracellular functionalities, and both normal and abnormal processes.",
+    "id": 762,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000257",
+    "modified": "2019-06-11T14:16:38.984+00:00",
+    "name": "Cell Image Library",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "cellimage",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cell Image Library at American Society for Cell Biology",
+            "id": 764,
+            "institution": {
+                "description": "The mission of NCMIR is to develop technologies to bridge understanding of biological systems between the gross anatomical and molecular scales and to make these technologies broadly available to biomedical researchers. NCMIR provides expertise, infrastructure, technological development, and an environment in which new information about the 3D ultrastructure of tissues, cells, and macromolecular complexes may be accurately and easily obtained and analyzed.",
+                "homeUrl": "https://ncmir.ucsd.edu",
+                "id": 763,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Microscopy and Imaging Research",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100328",
+            "name": "Cell Image Library at American Society for Cell Biology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cellimagelibrary.org/",
+            "sampleId": "24801",
+            "urlPattern": "http://cellimagelibrary.org/images/{$id}"
+        }
+    ],
+    "sampleId": "24801",
+    "successor": null
+}

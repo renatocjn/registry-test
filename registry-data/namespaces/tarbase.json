@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:56.599+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TarBase stores microRNA (miRNA) information for miRNA–gene interactions, as well as miRNA- and gene-related facts to information specific to the interaction and the experimental validation methodologies used.",
+    "id": 976,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000340",
+    "modified": "2019-06-11T14:16:56.599+00:00",
+    "name": "TarBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z]{3}\\-(mir|let|lin)\\-\\w+(\\-\\w+\\-\\w+)?",
+    "prefix": "tarbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TarBase v7 at University of Thessaly",
+            "id": 978,
+            "institution": {
+                "description": "The Department of Electrical and Computer Engineering belongs to the School of Engineering of the University of Thessaly, Greece. It was founded in March 2000 and accepted its first students in September of the same year. In June 2003, the department was granted administrative independence. Annual enrollment is approximately 150-200 undergraduates, including transfer and special status students, and 60-70 graduate students.",
+                "homeUrl": "https://www.e-ce.uth.gr/?lang=en",
+                "id": 977,
+                "location": {
+                    "countryCode": "GR",
+                    "countryName": "Greece"
+                },
+                "name": "DIANA-Lab, Department of Electrical & Computer Engineering, University of Thessaly",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GR",
+                "countryName": "Greece"
+            },
+            "mirId": "MIR:00100713",
+            "name": "TarBase v7 at University of Thessaly",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index",
+            "sampleId": "hsa-let-7a-2-3p",
+            "urlPattern": "http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index&mirnas={$id}"
+        }
+    ],
+    "sampleId": "hsa-let-7a-2-3p",
+    "successor": null
+}

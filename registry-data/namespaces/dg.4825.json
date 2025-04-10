@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:30:53.595+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "This website provides a centralized, cloud-based discovery portal for African American pharmacogenomics data and aims to accelerate discovery of novel genetic variants in African Americans related to clinically actionable cardiovascular phenotypes.",
+    "id": 3142,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001019",
+    "modified": "2024-01-09T16:21:12.604+00:00",
+    "name": "ACCOuNT Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.4825",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "This website provides a centralized, cloud-based discovery portal for African American pharmacogenomics data and aims to accelerate discovery of novel genetic variants in African Americans related to clinically actionable cardiovascular phenotypes.",
+            "id": 3143,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001013",
+            "name": "ACCOuNT Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.4825",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://gen3.datacommons.io",
+            "sampleId": "e322c7d9-a0fa-4a1d-83f0-0f06bda87fe8",
+            "urlPattern": "https://gen3.datacommons.io/ga4gh/drs/v1/objects/dg.4825/{$id}"
+        }
+    ],
+    "sampleId": "e322c7d9-a0fa-4a1d-83f0-0f06bda87fe8",
+    "successor": null
+}

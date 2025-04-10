@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:59.000+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cellosaurus is a knowledge resource on cell lines. It attempts to describe all cell lines used in biomedical research. Its scope includes: Immortalized cell lines; naturally immortal cell lines (example: stem cell lines); finite life cell lines when those are distributed and used widely; vertebrate cell line with an emphasis on human, mouse and rat cell lines; and invertebrate (insects and ticks) cell lines. Its scope does not include primary cell lines (with the exception of the finite life cell lines described above) and plant cell lines.",
+    "id": 1662,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000598",
+    "modified": "2023-01-09T15:31:03.506+00:00",
+    "name": "Cellosaurus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CVCL_[A-Z0-9]{4}(\\.txt)?$",
+    "prefix": "cellosaurus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cellosaurus through SIB",
+            "id": 1663,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100799",
+            "name": "Cellosaurus through SIB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.cellosaurus.org/",
+            "sampleId": "CVCL_0030",
+            "urlPattern": "https://www.cellosaurus.org/{$id}"
+        }
+    ],
+    "sampleId": "CVCL_0030",
+    "successor": null
+}

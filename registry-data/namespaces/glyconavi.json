@@ -1,0 +1,56 @@
+{
+    "created": "2021-06-28T19:11:39.342+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GlycoNAVI is a website for carbohydrate research. It consists of the \"GlycoNAVI Database\" that provides information such as existence ratios and names of glycans, 3D structures of glycans and complex glycoconjugates, and the \"GlycoNAVI tools\" such as editing of 2D structures of glycans, glycan structure viewers, and conversion tools.",
+    "id": 2714,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000830",
+    "modified": "2022-11-08T15:20:10.791+00:00",
+    "name": "GlycoNAVI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^GN_[A-Za-z]*[_]*[A-Za-z0-9-:_]+$",
+    "prefix": "glyconavi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Noguchi Institute is a research institute licensed as a public interest incorporated foundation. It conducts research and education related to glycans.",
+            "id": 2715,
+            "institution": {
+                "description": "The Noguchi Institute is a research institute licensed as a public interest incorporated foundation. It conducts research and education related to glycans.",
+                "homeUrl": "https://www.noguchi.or.jp/",
+                "id": 2713,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "The Noguchi Institute",
+                "rorId": "https://ror.org/02vg5vv12"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00000822",
+            "name": "The Noguchi Institute",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "glyconavi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.noguchi.or.jp/",
+            "sampleId": "GN_G03681DA",
+            "urlPattern": "https://glyconavi.org/hub/?id={$id}"
+        }
+    ],
+    "sampleId": "GN_GlyTouCan_G03681DA",
+    "successor": null
+}

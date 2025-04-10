@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:12.564+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "- DEPRECATION NOTE -\nPlease, keep in mind that this namespace has been superseeded by ‘gold’ prefix at https://registry.identifiers.org/registry/gold, and this namespace is kept here for support to already existing citations, new ones would need to use the pointed ‘gold’ namespace. \n\nThe GOLD (Genomes OnLine Database)is a resource for centralized monitoring of genome and metagenome projects worldwide. It stores information on complete and ongoing projects, along with their associated metadata. This collection references metadata associated with samples.",
+    "id": 1167,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000402",
+    "modified": "2020-03-26T09:38:38.398+00:00",
+    "name": "GOLD metadata",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^Gm\\d+$",
+    "prefix": "gold.meta",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GOLD metadata at Department of Energy Joint Genome Institute",
+            "id": 1168,
+            "institution": {
+                "description": "The Metagenome Program leverages high-throughput sequencing technologies to uncover the principles governing microbial community functions and interactions that impact ecosystem processes. Sequencing technologies have allowed us to begin decoding the information encoded in the DNA of microbes in the wild, providing a snapshot of diversity and metabolic functional potential. Knowledge of how microbes function in their environment holds tremendous potential to transform our understanding of the world and spur innovations in energy and the environment.",
+                "homeUrl": "https://jgi.doe.gov/our-science/science-programs/metagenomics/",
+                "id": 1165,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Energy Joint Genome Institute, Microbial Genomics and Metagenomics Program, California",
+                "rorId": "https://ror.org/04xm1d337"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100522",
+            "name": "GOLD metadata at Department of Energy Joint Genome Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.genomesonline.org/cgi-bin/GOLD/index.cgi",
+            "sampleId": "Gm00047",
+            "urlPattern": "http://genomesonline.org/cgi-bin/GOLD/bin/GOLDCards.cgi?goldstamp={$id}"
+        }
+    ],
+    "sampleId": "Gm00047",
+    "successor": null
+}

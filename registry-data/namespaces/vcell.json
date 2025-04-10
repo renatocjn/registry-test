@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-09T18:57:18.476+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Models developed with the Virtual Cell (VCell) software prorgam.",
+    "id": 2995,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000893",
+    "modified": "2022-01-09T18:57:18.476+00:00",
+    "name": "VCell Published Models",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{5,}$",
+    "prefix": "vcell",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/02kzs4y22' with Wikidata IDs [Q7895298], and ISNI IDs [0000000419370394]",
+            "id": 2996,
+            "institution": {
+                "description": "UConn Health is a vibrant, integrated academic medical center that is entering an era of unprecedented growth in all three areas of its mission: academics, research, and clinical care. A commitment to human health and well-being has been of utmost importance to UConn Health since the founding of the University of Connecticut Schools of Medicine and Dental Medicine in 1961. Based on a strong foundation of groundbreaking research, first-rate education, and quality clinical care, we have expanded our medical missions over the decades. In just over 50 years, UConn Health has evolved to encompass more research endeavors, to provide more ways to access our superior care, and to innovate both practical medicine and our methods of educating the practitioners of tomorrow.",
+                "homeUrl": "https://health.uconn.edu/",
+                "id": 2994,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Connecticut Health Center",
+                "rorId": "https://ror.org/02kzs4y22"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000892",
+            "name": "University of Connecticut Health Center",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "uchc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://health.uconn.edu/",
+            "sampleId": "201022999",
+            "urlPattern": "https://vcell.org/biomodel-{$id}"
+        }
+    ],
+    "sampleId": "201022999",
+    "successor": null
+}

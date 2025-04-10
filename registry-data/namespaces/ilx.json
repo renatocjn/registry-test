@@ -1,0 +1,56 @@
+{
+    "created": "2021-05-22T16:59:04.850+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "InterLex is a dynamic lexicon, initially built on the foundation of NeuroLex (PMID: 24009581), of biomedical terms and common data elements designed to help improve the way that biomedical scientists communicate about their data, so that information systems can find data more easily and provide more powerful means of integrating data across distributed resources and datasets. InterLex allows for the association of data fields and data values to common data elements and terminologies enabling the crowdsourcing of data-terminology mappings within and across communities. InterLex provides a stable layer on top of the many other existing terminologies, lexicons, ontologies, and common data element collections and provides a set of inter-lexical and inter-data-lexical mappings. ",
+    "id": 2647,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000814",
+    "modified": "2021-05-22T16:59:04.850+00:00",
+    "name": "InterLex",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "ilx",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The FAIR Data Informatics Lab at UCSD is a leader in developing and providing novel informatics infrastructure and tools for making data FAIR: Findable, Accessible, Interoperable and Reusable. ",
+            "id": 2648,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000813",
+            "name": "FAIR Data Informatics Laboratory",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ilx",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.fdilab.org",
+            "sampleId": "0101963",
+            "urlPattern": "https://scicrunch.org/scicrunch/interlex/view/ilx_{$id}"
+        }
+    ],
+    "sampleId": "0101963",
+    "successor": null
+}

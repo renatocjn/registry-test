@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:56.660+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "AGRICOLA (AGRICultural OnLine Access) serves as the catalog and index to the collections of the National Agricultural Library, as well as a primary public source for world-wide access to agricultural information. The database covers materials in all formats and periods, including printed works from as far back as the 15th century.",
+    "id": 1638,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000589",
+    "modified": "2019-06-11T14:17:56.660+00:00",
+    "name": "AGRICOLA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "agricola",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AGRICOLA at National Agricultural Library",
+            "id": 1640,
+            "institution": {
+                "description": "The National Agricultural Library (NAL) is one of five national libraries of the United States.  It houses one of the world's largest collections devoted to agriculture and its related sciences.",
+                "homeUrl": "https://www.nal.usda.gov/",
+                "id": 1639,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Agricultural Library, United States Department of Agriculture",
+                "rorId": "https://ror.org/00z6b1508"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100789",
+            "name": "AGRICOLA at National Agricultural Library",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://agricola.nal.usda.gov/",
+            "sampleId": "50018",
+            "urlPattern": "http://ddr.nal.usda.gov/dspace/handle/10113/{$id}"
+        }
+    ],
+    "sampleId": "50018",
+    "successor": null
+}

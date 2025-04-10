@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:01.041+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The objective of this project is to provide high quality annotation for the rice genome Oryza sativa spp japonica cv Nipponbare. All genes are annotated with functional annotation including expression data, gene ontologies, and tagged lines.",
+    "id": 1028,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000358",
+    "modified": "2019-06-11T14:17:01.041+00:00",
+    "name": "Rice Genome Annotation Project",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^LOC\\_Os\\d{1,2}g\\d{5}$",
+    "prefix": "ricegap",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Rice Genome Annotation Project at TIGR",
+            "id": 1029,
+            "institution": {
+                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
+                "homeUrl": "https://www.jcvi.org/",
+                "id": 909,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Institute for Genomic Research, Rockville, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100455",
+            "name": "Rice Genome Annotation Project at TIGR",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rice.plantbiology.msu.edu/annotation_pseudo_current.shtml",
+            "sampleId": "LOC_Os02g13300",
+            "urlPattern": "http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?&orf={$id}"
+        }
+    ],
+    "sampleId": "LOC_Os02g13300",
+    "successor": null
+}

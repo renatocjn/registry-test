@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:31:33.330+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Inflammatory Bowel Disease Genetics Consortium Data Commons supports the management, analysis, and sharing of genetic data to support the vision and mission of the IBD genetics consortium.",
+    "id": 3149,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001021",
+    "modified": "2022-02-27T20:31:33.330+00:00",
+    "name": "NIDDK IBD Genetics Consortium Portal",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.ea80",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Inflammatory Bowel Disease Genetics Consortium Data Commons supports the management, analysis, and sharing of genetic data to support the vision and mission of the IBD genetics consortium.",
+            "id": 3150,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000920",
+            "name": "NIDDK IBD Genetics Consortium Portal",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.EA80",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ibdgc.datacommons.io/",
+            "sampleId": "00083977-d4d7-4593-a216-2b9c931b8b03",
+            "urlPattern": "https://ibdgc.datacommons.io/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "00083977-d4d7-4593-a216-2b9c931b8b03",
+    "successor": null
+}

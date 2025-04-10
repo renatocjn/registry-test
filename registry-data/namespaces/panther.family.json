@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:48.923+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PANTHER (Protein ANalysis THrough Evolutionary Relationships) Classification System is a resource that classifies genes by their functions, using published scientific experimental evidence and evolutionary relationships to predict function even in the absence of direct experimental evidence. This collection references groups of genes that have been organised as families.",
+    "id": 212,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000060",
+    "modified": "2019-06-11T14:15:48.923+00:00",
+    "name": "PANTHER Family",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PTHR\\d{5}(\\:SF\\d{1,3})?$",
+    "prefix": "panther.family",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PANTHER Family at USC (Los Angeles)",
+            "id": 213,
+            "institution": {
+                "description": "Keck Medicine of USC is the University of Southern California’s medical enterprise, one of only two university-based medical systems in the Los Angeles area. Keck Medicine combines academic excellence, world-class research and state-of-the-art facilities to provide highly specialized care for some of the most acute patients in the country. ",
+                "homeUrl": "https://www.keckmedicine.org/",
+                "id": 94,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Keck School of Medicine, University of Southern California",
+                "rorId": "https://ror.org/01rq8ck58"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100088",
+            "name": "PANTHER Family at USC (Los Angeles)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pantherdb.org/",
+            "sampleId": "PTHR12345",
+            "urlPattern": "http://www.pantherdb.org/panther/family.do?clsAccession={$id}"
+        }
+    ],
+    "sampleId": "PTHR12345",
+    "successor": null
+}

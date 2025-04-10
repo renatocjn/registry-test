@@ -1,0 +1,56 @@
+{
+    "created": "2021-10-17T10:22:37.356+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A database providing information on the structure of assembled genomes, assembly names and other meta-data, statistical reports, and links to genomic sequence data.",
+    "id": 2929,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000884",
+    "modified": "2021-10-17T10:22:37.356+00:00",
+    "name": "Assembly",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-zA-Z0-9_\\.]+$",
+    "prefix": "assembly",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+            "id": 2930,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000883",
+            "name": "National Center for Biotechnology Information",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/",
+            "sampleId": "GCF_000005845.2",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/datasets/genome/{$id}"
+        }
+    ],
+    "sampleId": "GCF_000005845.2",
+    "successor": null
+}

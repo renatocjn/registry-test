@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:40.712+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The ATCvet system for the classification of veterinary medicines is based on the same overall principles as the ATC system for substances used in human medicine. In ATCvet systems, preparations are divided into groups, according to their therapeutic use. First, they are divided into 15 anatomical groups (1st level), classified as QA-QV in the ATCvet system, on the basis of their main therapeutic use.",
+    "id": 783,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000267",
+    "modified": "2019-06-11T14:16:40.712+00:00",
+    "name": "Anatomical Therapeutic Chemical Vetinary",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^Q[A-Z0-9]+$",
+    "prefix": "atcvet",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Anatomical Therapeutic Chemical Vet Index at WHO",
+            "id": 784,
+            "institution": {
+                "description": "Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance to live a healthy life. ",
+                "homeUrl": "https://www.who.int/",
+                "id": 295,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "World Health Organisation",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100344",
+            "name": "Anatomical Therapeutic Chemical Vet Index at WHO",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.whocc.no/atcvet/atcvet_index/",
+            "sampleId": "QJ51RV02",
+            "urlPattern": "http://www.whocc.no/atcvet/atcvet_index/?code={$id}"
+        }
+    ],
+    "sampleId": "QJ51RV02",
+    "successor": null
+}

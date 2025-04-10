@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:01.860+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Molecular Interactions (MI) ontology forms a structured controlled vocabulary for the annotation of experiments concerned with protein-protein interactions. MI is developed by the HUPO Proteomics Standards Initiative.",
+    "id": 350,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000109",
+    "modified": "2020-06-26T10:17:31.752+00:00",
+    "name": "Molecular Interactions Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MI:\\d{4}$",
+    "prefix": "mi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Molecular Interactions Ontology through OLS",
+            "id": 351,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100142",
+            "name": "Molecular Interactions Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/mi",
+            "sampleId": "0308",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/mi/terms?obo_id=MI:{$id}"
+        }
+    ],
+    "sampleId": "0308",
+    "successor": null
+}

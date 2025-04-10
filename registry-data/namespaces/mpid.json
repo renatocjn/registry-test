@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:05.849+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The microbial protein interaction database (MPIDB) provides physical microbial interaction data. The interactions are manually curated from the literature or imported from other databases, and are linked to supporting experimental evidence, as well as evidences based on interaction conservation, protein complex membership, and 3D domain contacts.",
+    "id": 392,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000124",
+    "modified": "2019-06-11T14:16:05.849+00:00",
+    "name": "Microbial Protein Interaction Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mpid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Microbial Protein Interaction Database",
+            "id": 394,
+            "institution": {
+                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
+                "homeUrl": "https://www.jcvi.org",
+                "id": 393,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "J. Craig Venter Institute, Maryland",
+                "rorId": "https://ror.org/049r1ts75"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100157",
+            "name": "Microbial Protein Interaction Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.jcvi.org/mpidb/about.php",
+            "sampleId": "172",
+            "urlPattern": "http://www.jcvi.org/mpidb/experiment.php?interaction_id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Microbial Protein Interaction Database subset through IntAct",
+            "id": 395,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100655",
+            "name": "Microbial Protein Interaction Database subset through IntAct",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/intact/",
+            "sampleId": "1776",
+            "urlPattern": "https://www.ebi.ac.uk/intact/query/interaction_id:MPIDB-INT-{$id}"
+        }
+    ],
+    "sampleId": "172",
+    "successor": null
+}

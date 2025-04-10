@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:42.071+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MassBank is a federated database of reference spectra from different instruments, including high-resolution mass spectra of small metabolites (<3000 Da).",
+    "id": 800,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000273",
+    "modified": "2022-12-13T16:15:18.652+00:00",
+    "name": "MassBank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MSBNK-[0-9a-zA-Z_]+-[A-Z0-9_]+$",
+    "prefix": "massbank",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MassBank in Europe",
+            "id": 804,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 803,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "NORMAN Network and The MassBank Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100666",
+            "name": "MassBank in Europe",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "massbankeu",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://massbank.eu/",
+            "sampleId": "PB000166",
+            "urlPattern": "https://massbank.eu/MassBank/RecordDisplay?id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MassBank in Japan",
+            "id": 802,
+            "institution": {
+                "description": "MassBank is an open source mass spectral library for the identification of small chemical molecules of metabolomics, exposomics and environmental relevance. The vast majority of MassBank contents now features high-resolution mass spectrometry data, although all kinds of mass spectral data are accepted. A range of search options are available for browsing the data. The MassBank library is based on text file records containing the record metadata and the mass spectral information in the MassBank record format. All data is archived on GitHub and Zenodo; the code is also on GitHub. The MassBank library can be downloaded in different formats such as text records, database files (sql) and MSP files.",
+                "homeUrl": "http://www.massbank.jp/",
+                "id": 801,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "The MassBank Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100353",
+            "name": "MassBank in Japan",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "massbankjp",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.massbank.jp",
+            "sampleId": "PB000166",
+            "urlPattern": "https://massbank.jp/RecordDisplay?id={$id}"
+        }
+    ],
+    "sampleId": "MSBNK-IPB_Halle-PB000166",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:40.928+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Phenol-Explorer is an electronic database on polyphenol content in foods. Polyphenols form a wide group of natural antioxidants present in a large number of foods and beverages. They contribute to food characteristics such as taste, colour or shelf-life. They also participate in the prevention of several major chronic diseases such as cardiovascular diseases, diabetes, cancers, neurodegenerative diseases or osteoporosis.",
+    "id": 785,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000268",
+    "modified": "2019-06-11T14:16:40.928+00:00",
+    "name": "Phenol-Explorer",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "phenolexplorer",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Phenol-Explorer Database on Phenol content of foods",
+            "id": 787,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 786,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "INRA and University of Alberta",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100345",
+            "name": "Phenol-Explorer Database on Phenol content of foods",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.phenol-explorer.eu/foods/",
+            "sampleId": "75",
+            "urlPattern": "http://phenol-explorer.eu/foods/{$id}"
+        }
+    ],
+    "sampleId": "75",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:03.033+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The DRSC (Drosophila RNAi Screening Cente) tracks both production of reagents for RNA interference (RNAi) screening in Drosophila cells and RNAi screen results. It maintains a list of Drosophila gene names, identifiers, symbols and synonyms and provides  information for cell-based or in vivo RNAi reagents, other types of reagents, screen results, etc. corresponding for a given gene.",
+    "id": 1052,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000367",
+    "modified": "2019-06-11T14:17:03.033+00:00",
+    "name": "DRSC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DRSC\\d+$",
+    "prefix": "drsc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DRSC at Harvard Medical School",
+            "id": 1054,
+            "institution": {
+                "description": "the Department of Genetics at Harvard Medical School houses a faculty working on diverse problems, using a variety of approaches and model organisms, and having a unified focus on the genome as an organizing principle for understanding biological phenomena.",
+                "homeUrl": "https://genetics.hms.harvard.edu/",
+                "id": 1053,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Genetics, Harvard Medical School, Boston, Massachusetts",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100466",
+            "name": "DRSC at Harvard Medical School",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://flyrnai.org/",
+            "sampleId": "DRSC05221",
+            "urlPattern": "http://www.flyrnai.org/cgi-bin/RNAi_gene_lookup_public.pl?gname={$id}"
+        }
+    ],
+    "sampleId": "DRSC05221",
+    "successor": null
+}

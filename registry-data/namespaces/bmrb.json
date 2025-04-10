@@ -1,0 +1,56 @@
+{
+    "created": "2019-12-09T15:05:02.665+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BMRB collects, annotates, archives, and disseminates (worldwide in the public domain) the important spectral and quantitative data derived from NMR spectroscopic investigations of biological macromolecules and metabolites. The goal is to empower scientists in their analysis of the structure, dynamics, and chemistry of biological systems and to support further development of the field of biomolecular NMR spectroscopy.",
+    "id": 2055,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000716",
+    "modified": "2019-12-09T15:05:02.665+00:00",
+    "name": "Biological Magnetic Resonance Data Bank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(bmr|bmse|bmst)?[0-9]{1,6}$",
+    "prefix": "bmrb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BMRB collects, annotates, archives, and disseminates (worldwide in the public domain) the important spectral and quantitative data derived from NMR spectroscopic investigations of biological macromolecules and metabolites. The goal is to empower scientists in their analysis of the structure, dynamics, and chemistry of biological systems and to support further development of the field of biomolecular NMR spectroscopy.",
+            "id": 2056,
+            "institution": {
+                "description": "The University of Wisconsin–Madison is a public research university in Madison, Wisconsin. Founded when Wisconsin achieved statehood in 1848, UW–Madison is the official state university of Wisconsin, and the flagship campus of the University of Wisconsin System.\nIt was the first public university established in Wisconsin and remains the oldest and largest public university in the state. It became a land-grant institution in 1866.\nThe 933-acre (378 ha) main campus, located on the shores of Lake Mendota, includes four National Historic Landmarks.\nThe University also owns and operates a historic 1,200-acre (486 ha) arboretum established in 1932, located 4 miles (6.4 km) south of the main campus.",
+                "homeUrl": "https://www.wisc.edu/",
+                "id": 2054,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Wisconsin-Madison",
+                "rorId": "https://ror.org/01y2jtd41"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000735",
+            "name": "Biological Magnetic Resonance Data Bank",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bmrb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.bmrb.wisc.edu/",
+            "sampleId": "15000",
+            "urlPattern": "http://rest.bmrb.wisc.edu/bmrb/{$id}/html"
+        }
+    ],
+    "sampleId": "15000",
+    "successor": null
+}

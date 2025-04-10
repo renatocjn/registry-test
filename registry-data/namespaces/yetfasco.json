@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:56.366+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Yeast Transcription Factor Specificity Compendium (YeTFasCO) is a database of transcription factor specificities for the yeast Saccharomyces cerevisiae in Position Frequency Matrix (PFM) or Position Weight Matrix (PWM) formats.",
+    "id": 973,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000339",
+    "modified": "2019-06-11T14:16:56.366+00:00",
+    "name": "YeTFasCo",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+\\_\\d+(\\.\\d+)?$",
+    "prefix": "yetfasco",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "YeTFasCo at University of Toronto",
+            "id": 975,
+            "institution": {
+                "description": "Our scientific team encompasses both newly-emerging and highly-recognized leaders in fields ranging from systems biology to bioengineering and computer science, and they have made some of the key technological advances that have transformed research in biology over the past decade.",
+                "homeUrl": "https://thedonnellycentre.utoronto.ca",
+                "id": 974,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Department of Molecular Genetics, Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100434",
+            "name": "YeTFasCo at University of Toronto",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://yetfasco.ccbr.utoronto.ca/",
+            "sampleId": "YOR172W_571.0",
+            "urlPattern": "http://yetfasco.ccbr.utoronto.ca/showPFM.php?mot={$id}"
+        }
+    ],
+    "sampleId": "YOR172W_571.0",
+    "successor": null
+}

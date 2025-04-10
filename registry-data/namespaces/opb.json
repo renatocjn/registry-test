@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:07.624+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The OPB is a reference ontology of classical physics as applied to the dynamics of biological systems. It is designed to encompass the multiple structural scales (multiscale atoms to organisms) and multiple physical domains (multidomain fluid dynamics, chemical kinetics, particle diffusion, etc.) that are encountered in the study and analysis of biological organisms.",
+    "id": 410,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000129",
+    "modified": "2019-06-11T14:16:07.624+00:00",
+    "name": "Ontology of Physics for Biology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^OPB_\\d+$",
+    "prefix": "opb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ontology of Physics for Biology through Bioportal",
+            "id": 411,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100167",
+            "name": "Ontology of Physics for Biology through Bioportal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/OPB",
+            "sampleId": "OPB_00573",
+            "urlPattern": "http://purl.bioontology.org/ontology/OPB?conceptid=http%3A%2F%2Fbhi.washington.edu%2FOPB%23{$id}"
+        }
+    ],
+    "sampleId": "OPB_00573",
+    "successor": null
+}

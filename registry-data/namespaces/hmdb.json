@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:46.469+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Metabolome Database (HMDB) is a database containing detailed information about small molecule metabolites found in the human body.It contains or links 1) chemical 2) clinical and 3) molecular biology/biochemistry data.",
+    "id": 186,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000051",
+    "modified": "2019-06-11T14:15:46.469+00:00",
+    "name": "HMDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^HMDB\\d+$",
+    "prefix": "hmdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Human Metabolome Database",
+            "id": 188,
+            "institution": {
+                "description": "The University of Alberta in Edmonton is one of Canada's top teaching and research universities, with an international reputation for excellence across the humanities, sciences, creative arts, business, engineering and health sciences.",
+                "homeUrl": "https://www.ualberta.ca",
+                "id": 334,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of Alberta",
+                "rorId": "https://ror.org/0160cpw27"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100079",
+            "name": "The Human Metabolome Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.hmdb.ca/",
+            "sampleId": "HMDB00001",
+            "urlPattern": "http://www.hmdb.ca/metabolites/{$id}"
+        }
+    ],
+    "sampleId": "HMDB00001",
+    "successor": null
+}

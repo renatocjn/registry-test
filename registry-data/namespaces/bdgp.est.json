@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:45.049+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The BDGP EST database collects the expressed sequence tags (ESTs) derived from a variety of tissues and developmental stages for Drosophila melanogaster. All BDGP ESTs are available at dbEST (NCBI).",
+    "id": 837,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000285",
+    "modified": "2019-06-11T14:16:45.049+00:00",
+    "name": "BDGP EST",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\.)?(\\d+)?$",
+    "prefix": "bdgp.est",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BDGP EST at NCBI",
+            "id": 838,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100366",
+            "name": "BDGP EST at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/dbEST/index.html",
+            "sampleId": "EY223054.1",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/nucest/{$id}"
+        }
+    ],
+    "sampleId": "EY223054.1",
+    "successor": null
+}

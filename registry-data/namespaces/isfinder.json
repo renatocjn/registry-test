@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:18.690+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ISfinder is a database of bacterial insertion sequences (IS). It assigns IS nomenclature and acts as a repository for ISs. Each IS is annotated with information such as the open reading frame DNA sequence, the sequence of the ends of the element and target sites, its origin and distribution together with a bibliography, where available.",
+    "id": 532,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000173",
+    "modified": "2019-06-11T14:16:18.690+00:00",
+    "name": "ISFinder",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^IS\\w+(\\-\\d)?$",
+    "prefix": "isfinder",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IS Finder at CNRS",
+            "id": 534,
+            "institution": {
+                "description": "The Laboratoire de Microbiologie et Genetique Moleculaires (LMGM) is part of the Center for Integrative Biology in Toulouse (CBI Toulouse). We study the organization, evolution and expression of the genomes of bacteria. ",
+                "homeUrl": "https://lmgm.cbi-toulouse.fr/en/home/",
+                "id": 533,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Laboratoire de Microbiologie et Génétique Moléculaires, CNRS, Toulouse",
+                "rorId": "https://ror.org/04rrj3a80"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100219",
+            "name": "IS Finder at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www-is.biotoul.fr/i",
+            "sampleId": "ISA1083-2",
+            "urlPattern": "https://www-is.biotoul.fr/scripts/ficheIS.php?name={$id}"
+        }
+    ],
+    "sampleId": "ISA1083-2",
+    "successor": null
+}

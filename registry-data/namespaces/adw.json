@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:32.366+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Animal Diversity Web (ADW) is an online database of animal natural history, distribution, classification, and conservation biology.",
+    "id": 1395,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000492",
+    "modified": "2019-06-11T14:17:32.366+00:00",
+    "name": "Animal Diversity Web",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z_a-z]+$",
+    "prefix": "adw",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Animal Diversity Web at University of Michigan",
+            "id": 1397,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1396,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Michigan Museum of Zoology, Ann Arbor, Michigan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100633",
+            "name": "Animal Diversity Web at University of Michigan",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://animaldiversity.org/",
+            "sampleId": "Lycalopex_vetulus",
+            "urlPattern": "https://animaldiversity.org/accounts/{$id}/"
+        }
+    ],
+    "sampleId": "Lycalopex_vetulus",
+    "successor": null
+}

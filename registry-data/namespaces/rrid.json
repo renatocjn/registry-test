@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:48.275+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Research Resource Identification Initiative provides RRIDs to 4 main classes of resources: Antibodies, Cell Lines, Model Organisms, and Databases / Software tools.: Antibodies, Model Organisms, and Databases / Software tools.\r\nThe initiative works with participating journals to intercept manuscripts in the publication process that use these resources, and allows publication authors to incorporate RRIDs within the methods sections. It also provides resolver services that access curated data from 10 data sources: the antibody registry (a curated catalog of antibodies), the SciCrunch registry (a curated catalog of software tools and databases), and model organism nomenclature authority databases (MGI, FlyBase, WormBase, RGD), as well as various stock centers. These RRIDs are aggregated and can be searched through SciCrunch.",
+    "id": 1559,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000558",
+    "modified": "2020-03-11T14:52:15.242+00:00",
+    "name": "RRID",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^RRID:[a-zA-Z]+.+$",
+    "prefix": "rrid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "RRID at SciCrunch",
+            "id": 1560,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100735",
+            "name": "RRID at SciCrunch",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ucsd",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scicrunch.org/resolver",
+            "sampleId": "AB_262044",
+            "urlPattern": "https://scicrunch.org/resolver/RRID:{$id}"
+        }
+    ],
+    "sampleId": "AB_262044",
+    "successor": null
+}

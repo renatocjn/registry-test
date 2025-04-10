@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:14.565+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The ENCODE Consortium is integrating multiple technologies and approaches in a collective effort to discover and define the functional elements encoded in the human genome, including genes, transcripts, and transcriptional regulatory regions, together with their attendant chromatin states and DNA methylation patterns.",
+    "id": 1836,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000662",
+    "modified": "2019-06-11T14:18:14.565+00:00",
+    "name": "ENCODE: Encyclopedia of DNA Elements",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ENC[A-Za-z]{2}[0-9]{3}[A-Za-z]{3}$",
+    "prefix": "encode",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ENCODE: Encyclopedia of DNA Elements",
+            "id": 1838,
+            "institution": {
+                "description": "The current ENCODE Consortium (ENCODE 4) is composed primarily of scientists funded under Requests for Application (RFAs) released by NHGRI in 2011. NHGRI provides a list of current ENCODE projects and participants. The ENCODE External Consultants Panel oversees the activities of the Consortium and provides advice and feedback on the Consortium's goals, progress and membership.",
+                "homeUrl": "https://www.encodeproject.org/",
+                "id": 1837,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "ENCODE Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100880",
+            "name": "ENCODE: Encyclopedia of DNA Elements",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.encodeproject.org",
+            "sampleId": "ENCSR163RYW",
+            "urlPattern": "https://www.encodeproject.org/{$id}"
+        }
+    ],
+    "sampleId": "ENCSR163RYW",
+    "successor": null
+}

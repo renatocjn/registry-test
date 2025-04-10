@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:01.276+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Protein Interaction Network Analysis (PINA) platform is an integrated platform for protein interaction network construction, filtering, analysis, visualization and management. It integrates protein-protein interaction data from six public curated databases and builds a complete, non-redundant protein interaction dataset for six model organisms.",
+    "id": 1030,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000359",
+    "modified": "2019-06-11T14:17:01.276+00:00",
+    "name": "PINA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])$",
+    "prefix": "pina",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Interaction Network Analysis (PINA) at Garvan Institute",
+            "id": 1032,
+            "institution": {
+                "description": "The Garvan Institute of Medical Research brings together clinicians with world-leading basic and translational researchers. We are patient-focused — our researchers break down barriers between traditional scientific disciplines to find solutions to disease.",
+                "homeUrl": "https://www.garvan.org.au/",
+                "id": 1031,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Garvan Institute of Medical Research, Sydney",
+                "rorId": "https://ror.org/01b3dvp57"
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00100456",
+            "name": "Protein Interaction Network Analysis (PINA) at Garvan Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cbg.garvan.unsw.edu.au/pina/",
+            "sampleId": "Q13485",
+            "urlPattern": "http://cbg.garvan.unsw.edu.au/pina/interactome.oneP.do?ac={$id}&showExtend=null"
+        }
+    ],
+    "sampleId": "Q13485",
+    "successor": null
+}

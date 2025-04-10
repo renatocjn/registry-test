@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:14.695+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BeetleBase is a comprehensive sequence database and community resource for Tribolium genetics, genomics and developmental biology. It incorporates information about genes, mutants, genetic markers, expressed sequence tags and publications.",
+    "id": 487,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000157",
+    "modified": "2019-06-11T14:16:14.695+00:00",
+    "name": "BeetleBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^TC\\d+$",
+    "prefix": "beetlebase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BeetleBase at Kansas State University",
+            "id": 489,
+            "institution": {
+                "description": "Kansas State University is a comprehensive, research, land-grant institution serving students and the people of Kansas, the nation, and the world.",
+                "homeUrl": "https://www.k-state.edu/",
+                "id": 488,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Kansas State University",
+                "rorId": "https://ror.org/05p1j8758"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100202",
+            "name": "BeetleBase at Kansas State University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://beetlebase.org/",
+            "sampleId": "TC010103",
+            "urlPattern": "http://beetlebase.org/cgi-bin/gbrowse/BeetleBase3.gff3/?name={$id}"
+        }
+    ],
+    "sampleId": "TC010103",
+    "successor": null
+}

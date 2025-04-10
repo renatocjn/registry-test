@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:14.756+00:00",
+    "deprecated": true,
+    "deprecationDate": "2025-03-28T15:21:24.192+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Assembling the Fungal Tree of Life (AFTOL) project is dedicated to significantly enhancing our understanding of the evolution of the Kingdom Fungi, which represents one of the major clades of life. There are roughly 80,000 described species of Fungi, but the actual diversity in the group has been estimated to be about 1.5 million species.",
+    "id": 1192,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000411",
+    "modified": "2025-03-28T15:24:29.006+00:00",
+    "name": "AFTOL",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "aftol.taxonomy",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AFTOL at University of Minnesota",
+            "id": 1194,
+            "institution": {
+                "description": "The Department of Plant and Microbial Biology is the academic home for a diverse and integrative group of scientists who study the genetics, ecology, evolution, and molecular biology of plants, fungi, and microbes. ",
+                "homeUrl": "https://cbs.umn.edu/pmb",
+                "id": 1193,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Plant Biology, University of Minnesota, Minnesota",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100533",
+            "name": "AFTOL at University of Minnesota",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://aftol.org/data.php",
+            "sampleId": "959",
+            "urlPattern": "http://wasabi.lutzonilab.net/pub/displayTaxonInfo?aftol_id={$id}"
+        }
+    ],
+    "sampleId": "959",
+    "successor": null
+}

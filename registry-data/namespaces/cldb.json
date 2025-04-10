@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:09.531+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cell Line Data Base (CLDB) is a reference information source for human and animal cell lines. It provides the characteristics of the cell lines and their availability through  distributors, allowing cell line requests to be made from collections and laboratories.",
+    "id": 1129,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000390",
+    "modified": "2019-06-11T14:17:09.531+00:00",
+    "name": "CLDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(cl|tum)\\d+$",
+    "prefix": "cldb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CLDB at Genova",
+            "id": 1131,
+            "institution": {
+                "description": "The San Martino Polyclinic Hospital has always been a point of reference for the health needs of the citizens of the Genoese and Ligurian metropolitan area.\nIn five centuries of history, the high level and quality of the services offered have attracted users from all over Italy and abroad, helping to make this structure an important reference centre.",
+                "homeUrl": "http://www.ospedalesanmartino.it",
+                "id": 1130,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "Ospedale San Martino",
+                "rorId": "https://ror.org/04d7es448"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100508",
+            "name": "CLDB at Genova",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioinformatics.hsanmartino.it/hypercldb/indexes.html",
+            "sampleId": "cl3603",
+            "urlPattern": "http://bioinformatics.hsanmartino.it/hypercldb/{$id}.html"
+        }
+    ],
+    "sampleId": "cl3603",
+    "successor": null
+}

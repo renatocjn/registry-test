@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:38.105+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The bacterial tyrosine kinase database (BYKdb) that collects sequences of putative and authentic bacterial tyrosine kinases,  providing structural and functional information.",
+    "id": 751,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000253",
+    "modified": "2019-06-11T14:16:38.105+00:00",
+    "name": "BYKdb",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]+$",
+    "prefix": "bykdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BYKdb at CNRS",
+            "id": 753,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 752,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Unité Bases Moléculaires et Structurales des Systèmes Infectieux; CNRS - Université Claude Bernard, Lyon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100324",
+            "name": "BYKdb at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bykdb.ibcp.fr/BYKdb/",
+            "sampleId": "A0A009E7X8",
+            "urlPattern": "https://bykdb.ibcp.fr/data/html/annotated/{$id}.html"
+        }
+    ],
+    "sampleId": "A0A009E7X8",
+    "successor": null
+}

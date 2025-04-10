@@ -1,0 +1,56 @@
+{
+    "created": "2019-09-05T11:46:36.162+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ClassyFire is a web-based application for automated structural classification of chemical entities. This application uses a rule-based approach that relies on a comprehensible, comprehensive, and computable chemical taxonomy. ClassyFire provides a hierarchical chemical classification of chemical entities (mostly small molecules and short peptide sequences), as well as a structure-based textual description, based on a chemical taxonomy named ChemOnt, which covers 4825 chemical classes of organic and inorganic compounds. Moreover, ClassyFire allows for text-based search via its web interface. It can be accessed via the web interface or via the ClassyFire API.",
+    "id": 1977,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000770",
+    "modified": "2019-09-05T11:46:36.162+00:00",
+    "name": "ClassyFire",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^C[0-9]{7}$",
+    "prefix": "classyfire",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Dr. David Wishart (PhD Yale, 1991) is a Professor in the Departments of Biological Sciences and Computing Science at the University of Alberta. He is also a senior research officer and the director of the Nano Life Science program at the NRC’s National Institute for Nanotechnology (NINT). He has been with the University of Alberta since 1995. Dr. Wishart has active research programs in Ua Colour structural biology, nanobiology, synthetic biology, prion biology, bioinformatics and metabolomics. Some of his lab's most significant contributions have been in the area of protein chemical shift analysis and the prediction of protein structure.",
+            "id": 1978,
+            "institution": {
+                "description": "Dr. David Wishart (PhD Yale, 1991) is a Professor in the Departments of Biological Sciences and Computing Science at the University of Alberta. He is also a senior research officer and the director of the Nano Life Science program at the NRC’s National Institute for Nanotechnology (NINT). He has been with the University of Alberta since 1995. Dr. Wishart has active research programs in Ua Colour structural biology, nanobiology, synthetic biology, prion biology, bioinformatics and metabolomics. Some of his lab's most significant contributions have been in the area of protein chemical shift analysis and the prediction of protein structure.",
+                "homeUrl": "http://www.wishartlab.com/",
+                "id": 1976,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "The Wishart Research Group, University of Alberta, Edmonton, Alberta, Canada",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00000710",
+            "name": "The Wishart Research Group, University of Alberta, Edmonton, Alberta, Canada",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "classyfire",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://classyfire.wishartlab.com/",
+            "sampleId": "C0004828",
+            "urlPattern": "http://classyfire.wishartlab.com/tax_nodes/{$id}"
+        }
+    ],
+    "sampleId": "C0004828",
+    "successor": null
+}

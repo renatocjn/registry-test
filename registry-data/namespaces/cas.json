@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:33.869+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CAS (Chemical Abstracts Service) is a division of the American Chemical Society and is the producer of comprehensive databases of chemical information.",
+    "id": 701,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000237",
+    "modified": "2019-06-11T14:16:33.869+00:00",
+    "name": "CAS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{1,7}\\-\\d{2}\\-\\d$",
+    "prefix": "cas",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
+            "id": 2454,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000732",
+            "name": "Scholia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "scholia",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scholia.toolforge.org/",
+            "sampleId": "50-00-0",
+            "urlPattern": "https://scholia.toolforge.org/cas/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CAS Common Chemistry",
+            "id": 703,
+            "institution": {
+                "description": "CAS is a global organization of expert scientists, technologists, and business leaders with a successful and extended history of delivering scientific information opportunities.",
+                "homeUrl": "https://www.cas.org",
+                "id": 702,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "CAS of the American Chemical Society",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100301",
+            "name": "CAS Common Chemistry",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://commonchemistry.cas.org/",
+            "sampleId": "50-00-0",
+            "urlPattern": "https://commonchemistry.cas.org/detail?cas_rn={$id}"
+        }
+    ],
+    "sampleId": "50-00-0",
+    "successor": null
+}

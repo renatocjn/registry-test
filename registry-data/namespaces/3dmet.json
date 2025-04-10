@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:50.652+00:00",
+    "deprecated": true,
+    "deprecationDate": "2024-02-12T09:35:45.473+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "3DMET is a database collecting three-dimensional structures of natural metabolites.",
+    "id": 230,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000066",
+    "modified": "2024-02-12T09:37:02.753+00:00",
+    "name": "3DMET",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^B\\d{5}$",
+    "prefix": "3dmet",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "3DMET database",
+            "id": 232,
+            "institution": {
+                "description": "The National Institute of Agrobiological Sciences (NIAS) is the largest agricultural research institute in Japan for basic life sciences. As a major research institute of the Ministry of Agriculture, Forestry and Fisheries (MAFF), it was formerly known as the National Institute of Agrobiological Resources (NIAR) until it was re-established as an independent administrative institution in April 1, 2001. The institute focuses on understanding the biological phenomena of agriculturally important plants, insects, microbes and animals to create innovative technologies, and eventually contribute to the solution of global issues such as food shortage due to rapid population growth and environmental problems due to climate change",
+                "homeUrl": "http://www.naro.affrc.go.jp/archive/nias/index_e.html",
+                "id": 231,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "National Institute of Agrobiological Sciences",
+                "rorId": "https://ror.org/01786mp71"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100095",
+            "name": "3DMET database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "nias",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.3dmet.dna.affrc.go.jp/",
+            "sampleId": "B00162",
+            "urlPattern": "http://www.3dmet.dna.affrc.go.jp/cgi/show_data.php?acc={$id}"
+        }
+    ],
+    "sampleId": "B00162",
+    "successor": null
+}

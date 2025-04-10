@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:04.072+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Endogenous retroviruses (ERVs) are common in vertebrate genomes; a typical mammalian genome contains tens to hundreds of thousands of ERV elements. Most ERVs are evolutionarily old and have accumulated multiple mutations, playing important roles in physiology and disease processes. The Human Endogenous Retrovirus Database (hERV) is compiled from the human genome nucleotide sequences obtained from Human Genome Projects, and screens those sequences for hERVs, whilst continuously improving classification and characterization of retroviral families. It provides access to individual reconstructed HERV elements, their sequence, structure and features.",
+    "id": 1718,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000619",
+    "modified": "2019-06-11T14:18:04.072+00:00",
+    "name": "Human Endogenous Retrovirus Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9\\-\\_]+$",
+    "prefix": "erv",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Endogenous Retrovirus Database",
+            "id": 1720,
+            "institution": {
+                "description": "Public scientific institution, part of the Czech Academy of Sciences. Research in molecular, structure and cell biology, immunology, genomics and bioinformatics.",
+                "homeUrl": "https://www.img.cas.cz",
+                "id": 1719,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Institute of Molecular Genetics, Academy of Sciences of the Czech Republic",
+                "rorId": "https://ror.org/045syc608"
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00100823",
+            "name": "Human Endogenous Retrovirus Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://herv.img.cas.cz/",
+            "sampleId": "THE1B",
+            "urlPattern": "https://herv.img.cas.cz/s/{$id}"
+        }
+    ],
+    "sampleId": "THE1B",
+    "successor": null
+}

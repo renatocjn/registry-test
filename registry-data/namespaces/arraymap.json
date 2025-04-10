@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:04.557+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "arrayMap is a collection of pre-processed oncogenomic array data sets and CNA (somatic copy number aberrations) profiles. CNA are a type of mutation commonly found in cancer genomes. arrayMap data is assembled from public repositories and supplemented with additional sources, using custom curation pipelines. This information has been mapped to multiple editions of the reference human genome.",
+    "id": 1724,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000621",
+    "modified": "2019-06-11T14:18:04.557+00:00",
+    "name": "ArrayMap",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[\\w\\-:,]{3,64}$",
+    "prefix": "arraymap",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ArrayMap",
+            "id": 1725,
+            "institution": {
+                "description": "Bottom-up research to enhance our understanding of the molecular basis of life. It is only by understanding how biological processes work that we can hope to intervene in cases where things go awry.",
+                "homeUrl": "https://www.mls.uzh.ch/en.html",
+                "id": 1385,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Institute of Molecular Life Sciences, University of Zurich, Zurich",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100825",
+            "name": "ArrayMap",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.arraymap.org",
+            "sampleId": "icdom:8500_3",
+            "urlPattern": "https://www.arraymap.org/pgx:{$id}"
+        }
+    ],
+    "sampleId": "icdom:8500_3",
+    "successor": null
+}

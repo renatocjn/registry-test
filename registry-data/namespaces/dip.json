@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:44.329+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The database of interacting protein (DIP) database stores experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions",
+    "id": 166,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000044",
+    "modified": "2019-06-11T14:15:44.329+00:00",
+    "name": "Database of Interacting Proteins",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^DIP(\\:)?\\-\\d{1,}[ENXS]$",
+    "prefix": "dip",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Database of interacting proteins",
+            "id": 168,
+            "institution": {
+                "description": "As a public research university, our mission is the creation, dissemination, preservation and application of knowledge for the betterment of our global society. UCLA combines the close-knit learning environment of a spirited public school with the endless opportunities of a world-class city. Located in beautiful Westwood, minutes from Hollywood and the downtown city center of Los Angeles, the university offers everything you need to reach your full potential.",
+                "homeUrl": "http://www.ucla.edu/",
+                "id": 167,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "UCLA",
+                "rorId": "https://ror.org/046rm7j60"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100072",
+            "name": "Database of interacting proteins",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://dip.doe-mbi.ucla.edu/",
+            "sampleId": "DIP-743N",
+            "urlPattern": "https://dip.doe-mbi.ucla.edu/dip/DIPview.cgi?ID={$id}"
+        }
+    ],
+    "sampleId": "DIP-743N",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:50.326+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The RNA modification database provides a comprehensive listing of post-transcriptionally modified nucleosides from RNA. The database consists of all RNA-derived ribonucleosides of known structure, including those from established sequence positions, as well as those detected or characterized from hydrolysates of RNA.",
+    "id": 900,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000308",
+    "modified": "2019-06-11T14:16:50.326+00:00",
+    "name": "RNA Modification Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{3}$",
+    "prefix": "rnamods",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "RNA Modification Database at University of Utah",
+            "id": 902,
+            "institution": {
+                "description": "We are a diverse and inclusive community conducting biochemical research at the forefront of current knowledge; educating medical students, graduate students and fellows; and serving the institution, the extended scientific community, and society at large. Our particular focus is the characterization of macromolecules and biological processes at the molecular level. Research groups in the department determine the structures of biological macromolecules, elucidate the mechanisms by which they function, and translate this information to advance research technology and medicine.",
+                "homeUrl": "https://medicine.utah.edu/biochemistry",
+                "id": 901,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Medicinal Chemistry and Department of Biochemistry, University of Utah, Salt Lake City, Utah",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100391",
+            "name": "RNA Modification Database at University of Utah",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rna-mdb.cas.albany.edu/RNAmods/rnaover.htm",
+            "sampleId": "101",
+            "urlPattern": "http://mods.rna.albany.edu/mods/modifications/view/{$id}"
+        }
+    ],
+    "sampleId": "101",
+    "successor": null
+}

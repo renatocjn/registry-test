@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:23.782+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Paleobiology Database seeks to provide researchers and the public with information about the entire fossil record. It stores global, collection-based occurrence and taxonomic data for marine and terrestrial animals and plants of any geological age, as well as web-based software for statistical analysis of the data.",
+    "id": 592,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000197",
+    "modified": "2019-06-11T14:16:23.782+00:00",
+    "name": "PaleoDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "paleodb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PaleoDB at Macquarie University",
+            "id": 594,
+            "institution": {
+                "description": "Macquarie University is recognised globally for its pre-eminence in key research disciplines, as well as producing graduates who are among the most sought-after professionals in the world.",
+                "homeUrl": "http://mq.edu.au/",
+                "id": 593,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Macquarie University, Sydney",
+                "rorId": "https://ror.org/01sf06y89"
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00100254",
+            "name": "PaleoDB at Macquarie University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://paleodb.org/",
+            "sampleId": "83088",
+            "urlPattern": "http://fossilworks.org/?a=taxonInfo&taxon_no={$id}"
+        }
+    ],
+    "sampleId": "83088",
+    "successor": null
+}

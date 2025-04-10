@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:18:00.782+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The coding sequence or protein identifiers as maintained in INSDC.",
+    "id": 1681,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000606",
+    "modified": "2019-06-11T14:18:00.782+00:00",
+    "name": "INSDC CDS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-Z]\\d{5}|[A-Z]{2}\\d{6}|[A-Z]{4}\\d{8}|[A-J][A-Z]{2}\\d{5})(\\.\\d+)?$",
+    "prefix": "insdc.cds",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "INSDC CDS through DDBJ",
+            "id": 1684,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100809",
+            "name": "INSDC CDS through DDBJ",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://getentry.ddbj.nig.ac.jp",
+            "sampleId": "AAA35559",
+            "urlPattern": "http://getentry.ddbj.nig.ac.jp/getentry/dad/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "INSDC CDS through ENA",
+            "id": 1682,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100807",
+            "name": "INSDC CDS through ENA",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ena",
+            "sampleId": "AAA35559",
+            "urlPattern": "https://www.ebi.ac.uk/ena/data/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "INSDC CDS through NCBI",
+            "id": 1683,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100808",
+            "name": "INSDC CDS through NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/protein/",
+            "sampleId": "AAA35559",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/protein/{$id}"
+        }
+    ],
+    "sampleId": "AAA35559",
+    "successor": null
+}

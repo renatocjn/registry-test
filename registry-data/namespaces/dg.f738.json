@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:29:04.474+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Veterans Data Commons supports the management, analysis and sharing of veteran oncologic data for the research community and aims to accelerate the discovery and development of therapies, diagnostic tests, and other technologies for precision oncology.",
+    "id": 3135,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000916",
+    "modified": "2023-04-28T10:52:16.460+00:00",
+    "name": "Veterans Precision Oncology Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.f738",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Veterans Data Commons supports the management, analysis and sharing of veteran oncologic data for the research community and aims to accelerate discovery and development of therapies, diagnostic tests, and other technologies for precision oncology.",
+            "id": 3136,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001017",
+            "name": "Veterans Precision Oncology Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "oc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://vpodc.data-commons.org/",
+            "sampleId": "000bf826-73ba-4685-aa6c-3e0971a2f260",
+            "urlPattern": "https://vpodc.data-commons.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "000bf826-73ba-4685-aa6c-3e0971a2f260",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:12.154+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "International repository of Adverse Outcome Pathways.",
+    "id": 1811,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000652",
+    "modified": "2019-06-11T14:18:12.154+00:00",
+    "name": "AOPWiki (Key Event)",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "aop.events",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AOPWiki (Key Event)",
+            "id": 1812,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1713,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "European Commision - DG Joint Research Centre and U.S Environmental Protection Agency",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100870",
+            "name": "AOPWiki (Key Event)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://aopwiki.org/",
+            "sampleId": "3",
+            "urlPattern": "https://aopwiki.org/events/{$id}"
+        }
+    ],
+    "sampleId": "3",
+    "successor": null
+}

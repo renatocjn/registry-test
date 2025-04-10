@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:13.817+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ToxoDB is one of the databases that can be accessed through the EuPathDB (http://EuPathDB.org; formerly ApiDB) portal, covering eukaryotic pathogens of the genera Cryptosporidium, Giardia, Leishmania, Neospora, Plasmodium, Toxoplasma, Trichomonas and Trypanosoma. While each of these groups is supported by a taxon-specific database built upon the same infrastructure, the EuPathDB portal offers an entry point to all these resources, and the opportunity to leverage orthology for searches across genera.",
+    "id": 477,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000153",
+    "modified": "2019-06-11T14:16:13.817+00:00",
+    "name": "ToxoDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "toxoplasma",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ToxoDB at EuPathDB",
+            "id": 478,
+            "institution": {
+                "description": "The Center for Tropical and Emerging Global Diseases (CTEGD) of the University of Georgia is a university-wide, interdisciplinary center established in 1998 to foster research, education and service related to tropical and emerging global infectious diseases. ",
+                "homeUrl": "https://ctegd.uga.edu/",
+                "id": 467,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Tropical and Emerging Global Diseases, University of Georgia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100198",
+            "name": "ToxoDB at EuPathDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://toxodb.org/toxo/",
+            "sampleId": "TGME49_053730",
+            "urlPattern": "http://toxodb.org/toxo/showRecord.do?name=GeneRecordClasses.GeneRecordClass&source_id={$id}"
+        }
+    ],
+    "sampleId": "TGME49_053730",
+    "successor": null
+}

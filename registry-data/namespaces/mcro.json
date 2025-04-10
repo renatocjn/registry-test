@@ -1,0 +1,56 @@
+{
+    "created": "2024-03-20T10:56:06.644+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "An ontology representing the model card structure, he aim of this work is to describe machine learning models to communicate information about specific details about the model (trade offs, intended users, licensing, etc.). ",
+    "id": 3832,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001049",
+    "modified": "2024-03-20T10:56:06.644+00:00",
+    "name": "Model Card Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MCRO:\\d+$",
+    "prefix": "mcro",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ontology modeling the model card report for machine learning model assests",
+            "id": 3833,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00001048",
+            "name": "MCRO via OLS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/mcro",
+            "sampleId": "0000027",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/mcro/classes?obo_id=MCRO:{$id}"
+        }
+    ],
+    "sampleId": "0000027",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2020-07-03T09:30:53.125+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MolMeDB is an open chemistry database about interactions of molecules with membranes. We collect information on how chemicals interact with individual membranes either from experiment or from simulations. ",
+    "id": 2277,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000768",
+    "modified": "2020-07-03T09:30:53.125+00:00",
+    "name": "MolMeDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[m,M]{2}[0-9]{5}[0-9]*$",
+    "prefix": "molmedb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Palacký University Olomouc is a university with long-standing tradition. Founded in the 16th century, it is the oldest university in Moravia and the second-oldest university in the Czech Republic. Today it is a modern higher education facility with a wide range of study programmes and copious scientific and research activities. In 2019, more than 22 000 students studied in accredited study programmes, exchange programmes and lifelong learning programmes at eight faculties. Palacký University Olomouc is one of the very top Czech universities, and ranks among the best universities in the world, according to international rankings.",
+            "id": 2278,
+            "institution": {
+                "description": "Palacký University Olomouc is a university with long-standing tradition. Founded in the 16th century, it is the oldest university in Moravia and the second-oldest university in the Czech Republic. Today it is a modern higher education facility with a wide range of study programmes and copious scientific and research activities. In 2019, more than 22 000 students studied in accredited study programmes, exchange programmes and lifelong learning programmes at eight faculties. Palacký University Olomouc is one of the very top Czech universities, and ranks among the best universities in the world, according to international rankings.",
+                "homeUrl": "http://www.upol.cz/en/",
+                "id": 2276,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Palacký University, Olomouc",
+                "rorId": "https://ror.org/04qxnmv42"
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00000749",
+            "name": "Palacký University, Olomouc",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "upol",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.upol.cz/en/",
+            "sampleId": "MM00040",
+            "urlPattern": "https://molmedb.upol.cz/mol/{$id}"
+        }
+    ],
+    "sampleId": "MM00040",
+    "successor": null
+}

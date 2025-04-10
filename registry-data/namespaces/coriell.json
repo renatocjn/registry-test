@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:20.763+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Coriell Cell Repositories provide essential research reagents to the scientific community by establishing, verifying, maintaining, and distributing cell cultures and DNA derived from cell cultures. These collections, supported by funds from the National Institutes of Health (NIH) and several foundations, are extensively utilized by research scientists around the world.",
+    "id": 1261,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000439",
+    "modified": "2019-06-11T14:17:20.763+00:00",
+    "name": "Coriell Cell Repositories",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]{2}\\d+$",
+    "prefix": "coriell",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Coriell Cell Repositories at Coriell Institute",
+            "id": 1263,
+            "institution": {
+                "description": "Research is our driving mission at Coriell. We supply the global scientific community with the high quality cells and DNA needed to conduct  their research and offer our laboratory and biobanking expertise to researchers who require assistance processing, storing and distributing their samples.",
+                "homeUrl": "https://ror.org/04npwsp41",
+                "id": 1262,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Coriell Institute for Medical Research, New Jersey",
+                "rorId": "https://ror.org/04npwsp41"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100570",
+            "name": "Coriell Cell Repositories at Coriell Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ccr.coriell.org/",
+            "sampleId": "GM17027",
+            "urlPattern": "http://ccr.coriell.org/Sections/Search/Sample_Detail.aspx?Ref={$id}"
+        }
+    ],
+    "sampleId": "GM17027",
+    "successor": null
+}

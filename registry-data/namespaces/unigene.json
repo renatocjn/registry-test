@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:57.856+00:00",
+    "deprecated": true,
+    "deprecationDate": "2024-05-31T15:27:28.981+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A UniGene entry is a set of transcript sequences that appear to come from the same transcription locus (gene or expressed pseudogene), together with information on protein similarities, gene expression, cDNA clone reagents, and genomic location.",
+    "id": 991,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000346",
+    "modified": "2024-05-31T15:47:55.242+00:00",
+    "name": "UniGene",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "unigene",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniGene at NCBI",
+            "id": 993,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100441",
+            "name": "UniGene at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ncbi.nlm.nih.gov/unigene",
+            "sampleId": "4900",
+            "urlPattern": "http://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?UGID={$id}"
+        }
+    ],
+    "sampleId": "4900",
+    "successor": null
+}

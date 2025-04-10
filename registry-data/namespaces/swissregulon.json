@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:07.113+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A database of genome-wide annotations of regulatory sites. It contains annotations for 17 prokaryotes and 3 eukaryotes. The database frontend offers an intuitive interface showing genomic information in a graphical form.",
+    "id": 1755,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000632",
+    "modified": "2019-06-11T14:18:07.113+00:00",
+    "name": "SwissRegulon",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9]+$",
+    "prefix": "swissregulon",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SwissRegulon",
+            "id": 1756,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100837",
+            "name": "SwissRegulon",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://swissregulon.unibas.ch",
+            "sampleId": "AHR",
+            "urlPattern": "http://swissregulon.unibas.ch/query/{$id}"
+        }
+    ],
+    "sampleId": "AHR",
+    "successor": null
+}

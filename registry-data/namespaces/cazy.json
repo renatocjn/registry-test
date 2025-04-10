@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:23.358+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Carbohydrate-Active Enzyme (CAZy) database is a resource specialized in enzymes that build and breakdown complex carbohydrates and glycoconjugates. These enzymes are classified into families based on structural features.",
+    "id": 587,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000195",
+    "modified": "2019-06-11T14:16:23.358+00:00",
+    "name": "CAZy",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(GT|GH|PL|CE|CBM)\\d+(\\_\\d+)?$",
+    "prefix": "cazy",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CAZy at CNRS",
+            "id": 589,
+            "institution": {
+                "description": "The Architecture et Fonction des Macromolécules Biologiques (AFMB) laboratory, overseen by the CNRS and AMU, is a center of structural biology localized on the Luminy campus in the South of Marseilles, France, and in partnership with INRA under contract.",
+                "homeUrl": "http://www.afmb.univ-mrs.fr",
+                "id": 588,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Architecture et Fonction des Macromolécules Biologiques",
+                "rorId": "https://ror.org/04jm8zw14"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100252",
+            "name": "CAZy at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cazy.org/",
+            "sampleId": "GT10",
+            "urlPattern": "http://www.cazy.org/{$id}.html"
+        }
+    ],
+    "sampleId": "GT10",
+    "successor": null
+}

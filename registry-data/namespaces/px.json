@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:37.549+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The ProteomeXchange provides a single point of submission of Mass Spectrometry (MS) proteomics data for the main existing proteomics repositories, and encourages the data exchange between them for optimal data dissemination.",
+    "id": 1447,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000513",
+    "modified": "2019-06-11T14:17:37.549+00:00",
+    "name": "ProteomeXchange",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(R)?PXD\\d{6}$",
+    "prefix": "px",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ProteomeXchange at Seattle",
+            "id": 1449,
+            "institution": {
+                "description": "ISB was created in 2000 as the first-ever institute dedicated to systems biology.",
+                "homeUrl": "https://isbscience.org/",
+                "id": 193,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Institute for Systems Biology",
+                "rorId": "https://ror.org/02tpgw303"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100660",
+            "name": "ProteomeXchange at Seattle",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.proteomexchange.org/",
+            "sampleId": "PXD000500",
+            "urlPattern": "http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID={$id}"
+        }
+    ],
+    "sampleId": "PXD000500",
+    "successor": null
+}

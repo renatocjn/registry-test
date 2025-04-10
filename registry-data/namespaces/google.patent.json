@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:43.371+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Google Patents covers the entire collection of granted patents and published patent applications from the USPTO, EPO, and WIPO. US patent documents date back to 1790, EPO and WIPO to 1978. Google Patents can be searched using patent number, inventor, classification, and filing date.",
+    "id": 1507,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000537",
+    "modified": "2019-06-11T14:17:43.371+00:00",
+    "name": "Google Patents",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]{2}\\d+([A-Z])?$",
+    "prefix": "google.patent",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Google Patents at Google",
+            "id": 1509,
+            "institution": {
+                "description": "Google LLC is an American multinational technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics.",
+                "homeUrl": "https://www.google.co.uk/",
+                "id": 1508,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Google Incorporated",
+                "rorId": "https://ror.org/024bc3e07"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100714",
+            "name": "Google Patents at Google",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.google.com/patents/",
+            "sampleId": "US4145692",
+            "urlPattern": "https://www.google.com/patents/{$id}"
+        }
+    ],
+    "sampleId": "US4145692",
+    "successor": null
+}

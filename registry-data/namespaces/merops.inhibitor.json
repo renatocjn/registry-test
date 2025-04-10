@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:32.129+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The MEROPS database is an information resource for peptidases (also termed proteases, proteinases and proteolytic enzymes) and the proteins that inhibit them. This collections references inhibitors.",
+    "id": 1392,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000491",
+    "modified": "2019-06-11T14:17:32.129+00:00",
+    "name": "MEROPS Inhibitor",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^I\\d{2}\\.\\d{3}$",
+    "prefix": "merops.inhibitor",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MEROPS Inhibitor at Sanger Institute",
+            "id": 1394,
+            "institution": {
+                "description": "We tackle some of the most difficult challenges in genomic research. This demands science at scale; a visionary and creative approach to research that pushes the boundaries of our understanding in ever new and exciting ways.",
+                "homeUrl": "https://www.sanger.ac.uk/",
+                "id": 210,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Wellcome Trust Sanger Institute",
+                "rorId": "https://ror.org/05cy4wa09"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100632",
+            "name": "MEROPS Inhibitor at Sanger Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://merops.sanger.ac.uk/index.htm",
+            "sampleId": "I31.952",
+            "urlPattern": "http://merops.sanger.ac.uk/cgi-bin/pepsum?id={$id}"
+        }
+    ],
+    "sampleId": "I31.952",
+    "successor": null
+}

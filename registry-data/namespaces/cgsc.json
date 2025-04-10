@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:47.138+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The CGSC Database of E. coli genetic information includes genotypes and reference information for the strains in the CGSC collection, the names, synonyms, properties, and map position for genes, gene product information, and information on specific mutations and references to primary literature.",
+    "id": 863,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000295",
+    "modified": "2019-06-11T14:16:47.138+00:00",
+    "name": "CGSC Strain",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "cgsc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CGSC at Yale university",
+            "id": 865,
+            "institution": {
+                "description": "Research groups in the Department of Molecular, Cellular and Developmental Biology share a common interest in exploring the mechanisms underlying the coordinated behaviors of molecules, cells and tissues to form living organisms. We combine genetic, biochemical, molecular, cell biological and quantitative approaches to investigate fundamental biological processes across a range of organisms, from viruses and microbes to plants, worms, flies, fish and mammals. We are committed to excellence in research and teaching, and offer students a diversity of course offerings and research opportunities. The commonalities of our research interests combined with varied experimental approaches help forge a rigorous yet interdisciplinary and collaborative environment.",
+                "homeUrl": "https://mcdb.yale.edu/",
+                "id": 864,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Dept. of Molecular, Cellular, and Developmental Biology, Yale University, Connecticut",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100377",
+            "name": "CGSC at Yale university",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cgsc.biology.yale.edu/index.php",
+            "sampleId": "74",
+            "urlPattern": "http://cgsc.biology.yale.edu/Site.php?ID={$id}"
+        }
+    ],
+    "sampleId": "74",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2020-10-07T10:25:14.491+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PK-DB an open database for pharmacokinetics information from clinical trials as well as pre-clinical research. The focus of PK-DB is to provide high-quality pharmacokinetics data enriched with the required meta-information for computational modeling and data integration. ",
+    "id": 2370,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000708",
+    "modified": "2020-10-07T10:25:14.491+00:00",
+    "name": "PK-DB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PKDB[0-9]{5}$",
+    "prefix": "pkdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/01hcx6992' with Wikidata IDs [Q152087], and ISNI IDs [0000 0001 2248 7639]",
+            "id": 2371,
+            "institution": {
+                "description": "Humboldt University of Berlin is a university in the central borough of Mitte in Berlin, Germany. It was established by Frederick William III on the initiative of Wilhelm von Humboldt, Johann Gottlieb Fichte and Friedrich Ernst Daniel Schleiermacher as the University of Berlin (Universität zu Berlin) in 1809, and opened in 1810.",
+                "homeUrl": "https://www.hu-berlin.de/?set_language=en&cl=en",
+                "id": 2369,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Humboldt University of Berlin",
+                "rorId": "https://ror.org/01hcx6992"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000714",
+            "name": "Humboldt University of Berlin",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "pkdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.hu-berlin.de/?set_language=en&cl=en",
+            "sampleId": "PKDB00198",
+            "urlPattern": "https://pk-db.com/data/{$id}"
+        }
+    ],
+    "sampleId": "PKDB00198",
+    "successor": null
+}

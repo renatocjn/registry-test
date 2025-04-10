@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:55.214+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Allergome is a repository of data related to all IgE-binding compounds. Its purpose is to collect a list of allergenic sources and molecules by using the widest selection criteria and sources.",
+    "id": 958,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000334",
+    "modified": "2019-06-11T14:16:55.214+00:00",
+    "name": "Allergome",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "allergome",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Allergome at Rome",
+            "id": 960,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 959,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "Center for Clinical and Experimental Allergology, Rome",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100429",
+            "name": "Allergome at Rome",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.allergome.org/",
+            "sampleId": "1948",
+            "urlPattern": "http://www.allergome.org/script/dettaglio.php?id_molecule={$id}"
+        }
+    ],
+    "sampleId": "1948",
+    "successor": null
+}

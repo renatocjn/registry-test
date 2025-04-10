@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:24.514+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The DBD (transcription factor database) provides genome-wide transcription factor predictions for organisms across the tree of life. The prediction method identifies sequence-specific DNA-binding transcription factors through homology using profile hidden Markov models (HMMs) of domains from Pfam and SUPERFAMILY. It does not include basal transcription factors or chromatin-associated proteins.",
+    "id": 1305,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000455",
+    "modified": "2019-06-11T14:17:24.514+00:00",
+    "name": "DBD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "dbd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DBD at MRC Laboratory of Molecular Biology",
+            "id": 1306,
+            "institution": {
+                "description": "The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. In doing so, we provide knowledge needed to solve key problems in human health.",
+                "homeUrl": "http://www2.mrc-lmb.cam.ac.uk/",
+                "id": 1026,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "MRC Laboratory of Molecular Biology, Cambridge",
+                "rorId": "https://ror.org/00tw3jy02"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100590",
+            "name": "DBD at MRC Laboratory of Molecular Biology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.transcriptionfactor.org/",
+            "sampleId": "0045310",
+            "urlPattern": "http://www.transcriptionfactor.org/index.cgi?Search/Domain+domain:{$id}+cat:DBD"
+        }
+    ],
+    "sampleId": "0045310",
+    "successor": null
+}

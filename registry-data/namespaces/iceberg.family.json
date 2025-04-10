@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:27.601+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ICEberg (Integrative and conjugative elements) is a database of integrative and conjugative elements (ICEs) found in bacteria. ICEs are conjugative self-transmissible elements that can integrate into and excise from a host chromosome, and can carry likely virulence determinants, antibiotic-resistant factors and/or genes coding for other beneficial traits. It contains details of ICEs found in representatives bacterial species, and which are organised as families. This collection references ICE families.",
+    "id": 1341,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000470",
+    "modified": "2019-06-11T14:17:27.601+00:00",
+    "name": "ICEberg family",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "iceberg.family",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ICEberg family at Shanghai Jiaotong University",
+            "id": 1343,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1342,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "State Key Laboratory of Microbial Metabolism and School of Life Sciences &amp;amp; Biotechnology, Shanghai Jiaotong University, Shanghai",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100605",
+            "name": "ICEberg family at Shanghai Jiaotong University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://db-mml.sjtu.edu.cn/ICEberg/",
+            "sampleId": "1",
+            "urlPattern": "http://db-mml.sjtu.edu.cn/ICEberg/browse_result.php?type=fam&fam_id={$id}"
+        }
+    ],
+    "sampleId": "1",
+    "successor": null
+}

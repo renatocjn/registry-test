@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:50.605+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MetaNetX/MNXref integrates various information from genome-scale metabolic network reconstructions such as information on reactions, metabolites and compartments. This information undergoes a reconciliation process to minimise for discrepancies between different data sources, and makes the data accessible under a common namespace. This collection references reactions.",
+    "id": 1583,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000568",
+    "modified": "2021-02-26T09:43:13.847+00:00",
+    "name": "MetaNetX reaction",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(MNXR\\d+|EMPTY)$",
+    "prefix": "metanetx.reaction",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MetaNetX reaction at SIB Swiss Institute of Bioinformatics",
+            "id": 1584,
+            "institution": {
+                "description": "Vital-IT is a Competency Centre in Bioinformatics and Computational Biology that provides support and technological R&D for life science and clinical research in Switzerland and internationally.",
+                "homeUrl": "https://www.vital-it.ch/",
+                "id": 1581,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Vital-IT group, SIB Swiss Institute of Bioinformatics, Lausanne",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100749",
+            "name": "MetaNetX reaction at SIB Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.metanetx.org/",
+            "sampleId": "MNXR101574",
+            "urlPattern": "https://www.metanetx.org/equa_info/{$id}"
+        }
+    ],
+    "sampleId": "MNXR101574",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:59.445+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Progenetix database provides an overview of mutation data in cancer, with a focus on copy number abnormalities (CNV / CNA), for all types of human malignancies. The resource contains genome profiles of more than 130'000 individual samples and represents about 700 cancer types, according to the NCIt \"neoplasm\" classification. Additionally to this genome profiles and associated metadata, the website present information about thousands of publications referring to cancer genome profiling experiments, and services for mapping cancer classifications and accessing supplementary data through its APIs.",
+    "id": 1666,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000600",
+    "modified": "2020-11-25T15:01:33.103+00:00",
+    "name": "Progenetix",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w{3,15}[-_]\\w[\\w.-]{3,128}$",
+    "prefix": "pgx",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Progenetix",
+            "id": 1668,
+            "institution": {
+                "description": "The University of Zurich is one of the leading research universities in Europe and offers the widest range of degree programs in Switzerland.",
+                "homeUrl": "https://www.uzh.ch/en.html",
+                "id": 1667,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "University of Zurich",
+                "rorId": "https://ror.org/02crff812"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100801",
+            "name": "Progenetix",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://progenetix.org/",
+            "sampleId": "pgxbs-kftva5zv",
+            "urlPattern": "https://progenetix.org/services/ids/{$id}"
+        }
+    ],
+    "sampleId": "pgxbs-kftva5zv",
+    "successor": null
+}

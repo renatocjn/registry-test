@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:02.696+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MarRef is a manually curated marine microbial reference genome database that contains completely sequenced genomes.",
+    "id": 1702,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000613",
+    "modified": "2019-06-11T14:18:02.696+00:00",
+    "name": "MarRef",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MMP\\d+.\\d+$",
+    "prefix": "mmp.ref",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MarRef through SfB",
+            "id": 1704,
+            "institution": {
+                "description": "The Center for Bioinformatics at the Faculty of Science and Technology is a research-based service center established to facilitate cross-disciplinary research, teaching, and services at the interface of biotechnology and computer science. The center currently comprises researchers and students from the Department of Chemistry and the Department of Computer Science. The center provides research collaboration and services related to bioinformatics.",
+                "homeUrl": "https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=347053",
+                "id": 1703,
+                "location": {
+                    "countryCode": "NO",
+                    "countryName": "Norway"
+                },
+                "name": "Center for Bioinformatics (SfB), UiT The Arctic university of Norway",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NO",
+                "countryName": "Norway"
+            },
+            "mirId": "MIR:00100817",
+            "name": "MarRef through SfB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mmp.sfb.uit.no/databases/marref/",
+            "sampleId": "MMP3312982.2",
+            "urlPattern": "https://mmp.sfb.uit.no/databases/marref/#/records/{$id}"
+        }
+    ],
+    "sampleId": "MMP3312982.2",
+    "successor": null
+}

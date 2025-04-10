@@ -1,0 +1,56 @@
+{
+    "created": "2021-07-06T14:35:18.469+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A genetic correlation is the proportion of shared variance between two traits that is due to genetic causes; a phenotypic correlation is the degree to which two traits co-vary among individuals in a population. In the genomics era, while gene expression, genetic association, and network analysis provide unprecedented means to decode the genetic basis of complex phenotypes, it is important to recognize the possible effects genetic progress in one trait can have on other traits. This database is designed to collect all published livestock genetic/phenotypic trait correlation data, aimed at facilitating genetic network analysis or systems biology studies.",
+    "id": 2720,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000831",
+    "modified": "2021-07-06T14:35:18.469+00:00",
+    "name": "CorrDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "corrdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "National Animal Genome Research Program, NAGRP Bioinformatics Coordination Project, supported by funding from the USDA-NRI (former CSREES), USA",
+            "id": 2721,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/04rswrd78' with Wikidata IDs [Q1136919], and ISNI IDs [0000 0004 1936 7312]",
+                "homeUrl": "https://www.iastate.edu/",
+                "id": 2558,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Iowa State University",
+                "rorId": "https://ror.org/04rswrd78"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000825",
+            "name": "USA National Animal Genome Research Program",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CorrDB",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.animalgenome.org",
+            "sampleId": "37232",
+            "urlPattern": "https://www.animalgenome.org/CorrDB/q/?id=CorrID:{$id}"
+        }
+    ],
+    "sampleId": "37232",
+    "successor": null
+}

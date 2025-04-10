@@ -1,0 +1,161 @@
+{
+    "created": "2019-06-11T14:17:07.236+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The IUPAC International Chemical Identifier (InChI) is a non-proprietary identifier for chemical substances that can be used in printed and electronic data sources. It is derived solely from a structural representation of that substance, such that a single compound always yields the same identifier.",
+    "id": 1103,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000383",
+    "modified": "2019-06-11T14:17:07.236+00:00",
+    "name": "InChI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^InChI\\=1S?\\/[A-Za-z0-9\\.]+(\\+[0-9]+)?(\\/[cnpqbtmsih][A-Za-z0-9\\-\\+\\(\\)\\,\\/\\?\\;\\.]+)*$",
+    "prefix": "inchi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through Chemspider",
+            "id": 1106,
+            "institution": {
+                "description": "We publish new research. We develop, recognise and celebrate professional capabilities. We bring people together to spark new ideas and new partnerships. We support teachers to inspire future generations of scientists. And we speak up to influence the people making decisions that affect us all.",
+                "homeUrl": "http://www.rsc.org/",
+                "id": 439,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Royal Society of Chemistry, Cambridge",
+                "rorId": "https://ror.org/025sbr097"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100492",
+            "name": "InChI through Chemspider",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.chemspider.com/",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "http://www.chemspider.com/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through NIST",
+            "id": 1108,
+            "institution": {
+                "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. ",
+                "homeUrl": "http://www.nist.gov/",
+                "id": 1107,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Institute of Standards and Technology, Gaithersburg, Maryland",
+                "rorId": "https://ror.org/05xpvk416"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100493",
+            "name": "InChI through NIST",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://webbook.nist.gov/chemistry",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "http://webbook.nist.gov/cgi/cbook.cgi?{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through ChEBI",
+            "id": 1109,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100494",
+            "name": "InChI through ChEBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/chebi/",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "https://www.ebi.ac.uk/chebi/advancedSearchFT.do?searchString={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through RDF Open Molecules",
+            "id": 1105,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100491",
+            "name": "InChI through RDF Open Molecules",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "um",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rdf.openmolecules.net/",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "http://rdf.openmolecules.net/?{$id}"
+        }
+    ],
+    "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+    "successor": null
+}

@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:12.446+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PMC International (PMCI) is a free full-text archive of biomedical and life sciences journal literature. PMCI is a collaborative effort between the U.S. National Institutes of Health and the National Library of Medicine, the publishers whose journal content makes up the PMC archive, and organizations in other countries that share NIH's and NLM's interest in archiving life sciences literature.",
+    "id": 462,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000147",
+    "modified": "2019-06-11T14:16:12.446+00:00",
+    "name": "PMC International",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "PMC\\d+",
+    "prefix": "pmc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Europe PMC",
+            "id": 465,
+            "institution": {
+                "description": "Europe PMC provides comprehensive access to life sciences literature from trusted sources. It's available to anyone, anywhere for free. With Europe PMC you can search and read 42.1 million publications, preprints and other documents enriched with links to supporting data, reviews, protocols, and other relevant resources. ",
+                "homeUrl": "https://europepmc.org/",
+                "id": 61,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Europe PubMed Central partners",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100498",
+            "name": "Europe PMC",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "epmc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://europepmc.org/",
+            "sampleId": "PMC3084216",
+            "urlPattern": "http://europepmc.org/articles/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PubMed Central",
+            "id": 464,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100191",
+            "name": "PubMed Central",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/pmc/",
+            "sampleId": "PMC3084216",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/pmc/articles/{$id}/?tool=pubmed"
+        }
+    ],
+    "sampleId": "PMC3084216",
+    "successor": null
+}

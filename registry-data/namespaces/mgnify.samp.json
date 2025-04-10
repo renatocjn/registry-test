@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:36.594+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The EBI Metagenomics service is an automated pipeline for the analysis and archiving of metagenomic data that aims to provide insights into the phylogenetic diversity as well as the functional and metabolic potential of a sample. Metagenomics is the study of all genomes present in any given environment without the need for prior individual identification or amplification. This collection references samples.",
+    "id": 1439,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000510",
+    "modified": "2019-06-11T14:17:36.594+00:00",
+    "name": "MGnify Sample",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z]+[0-9]+$",
+    "prefix": "mgnify.samp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGnify Sample",
+            "id": 1440,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100656",
+            "name": "MGnify Sample",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/metagenomics",
+            "sampleId": "SRS086444",
+            "urlPattern": "https://www.ebi.ac.uk/metagenomics/samples/{$id}"
+        }
+    ],
+    "sampleId": "SRS086444",
+    "successor": null
+}

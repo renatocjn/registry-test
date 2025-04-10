@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:26.635+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The CATH database is a hierarchical domain classification of protein structures in the Protein Data Bank. Protein structures are classified using a combination of automated and manual procedures. There are four major levels in this hierarchy; Class (secondary structure classification, e.g. mostly alpha), Architecture (classification based on overall shape), Topology (fold family) and  Homologous superfamily (protein domains which are thought to share a common ancestor). This colelction is concerned with superfamily classification.",
+    "id": 623,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000209",
+    "modified": "2019-06-11T14:16:26.635+00:00",
+    "name": "CATH superfamily",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+(\\.\\d+(\\.\\d+(\\.\\d+)?)?)?$",
+    "prefix": "cath.superfamily",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CATH superfamily at UCL",
+            "id": 625,
+            "institution": {
+                "description": "The ISMB thrives on scientific excellence and research integrity within a supportive culture of inclusion and diversity. The institute coordinates UCL's and Birkbeck's strategy in our fields of scientific enquiry. The ISMB was founded in 2003 to promote multi-disciplinary research at the interface of structural-, computational- and chemical biology at UCL and Birkbeck. Since then, we have become one of the internationally premier institutions in multidisciplinary life sciences. Scientists at UCL and Birkbeck work hand-in-hand to deliver our mission, to push the frontiers of science and to communicate our discoveries in research-led teaching. Our research portfolio encompasses several foci, including (i) gene expression & RNA biology, (ii) protein folding, membranes & trafficking, (iii) microbiology & synthetic biology, (iv) metabolism, cancer & biological chemistry and (v) evolution, AI & deep learning. Our activities are supported by our host institutions and generous support from the Research Councils UK as well as key global charities including the Wellcome Trust. We are fortunate to harbour sophisticated high-end instrumentation including cryogenic electron microscopy and electron tomography, nuclear magnetic resonance, mass spectrometry, and single-molecule biophysics that play a pivotal role in enableing our aims and objectives.",
+                "homeUrl": "http://www.ismb.lon.ac.uk/",
+                "id": 624,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Institute of Structural and Molecular Biology, University College London",
+                "rorId": "https://ror.org/05wsetc54"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100268",
+            "name": "CATH superfamily at UCL",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cathdb.info/",
+            "sampleId": "1.10.10.200",
+            "urlPattern": "http://www.cathdb.info/cathnode/{$id}"
+        }
+    ],
+    "sampleId": "1.10.10.200",
+    "successor": null
+}

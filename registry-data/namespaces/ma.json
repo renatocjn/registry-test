@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:21.919+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A structured controlled vocabulary of the adult anatomy of the mouse (Mus)",
+    "id": 1275,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000445",
+    "modified": "2019-06-11T14:17:21.919+00:00",
+    "name": "Mouse Adult Gross Anatomy",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MA:\\d+$",
+    "prefix": "ma",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mouse Adult Gross Anatomy through BioPortal",
+            "id": 1276,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100576",
+            "name": "Mouse Adult Gross Anatomy through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/MA",
+            "sampleId": "0002502",
+            "urlPattern": "http://purl.bioontology.org/ontology/MA/MA:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mouse Adult Gross Anatomy at The Jackson Laboratory",
+            "id": 1279,
+            "institution": {
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100578",
+            "name": "Mouse Adult Gross Anatomy at The Jackson Laboratory",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.informatics.jax.org/",
+            "sampleId": "0002502",
+            "urlPattern": "http://www.informatics.jax.org/searches/AMA.cgi?id=MA:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mouse Adult Gross Anatomy through OLS",
+            "id": 1277,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100577",
+            "name": "Mouse Adult Gross Anatomy through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ma",
+            "sampleId": "0002502",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ma/terms?obo_id=MA:{$id}"
+        }
+    ],
+    "sampleId": "0002502",
+    "successor": null
+}

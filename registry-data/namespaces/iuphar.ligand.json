@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:24.936+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The IUPHAR Compendium details the molecular, biophysical and pharmacological properties of identified mammalian sodium, calcium and potassium channels, as well as the related cyclic nucleotide-modulated ion channels and the recently described transient receptor potential channels. It includes information on nomenclature systems, and on inter and intra-species molecular structure variation. This collection references ligands.",
+    "id": 1310,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000457",
+    "modified": "2019-06-11T14:17:24.936+00:00",
+    "name": "IUPHAR ligand",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "iuphar.ligand",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IUPHAR ligand at University of Edinburgh",
+            "id": 1311,
+            "institution": {
+                "description": "The Centre for Cardiovascular Science (CVS) was one of the first multidisciplinary research centers in Edinburgh and has been a model for many more. Initiated in 1998 by a £7M Wellcome Trust Cardiovascular Research Initiative Award and consolidated by over £20M in serial BHF strategic awards, the groups constituting the CVS came together on the Little France campus in 2005 to form a \"Centre for Cardiovascular Risk & Resolution\" in the Queen's Medical Research Institute (QMRI). Today CVS has core facilities and training programs across three buildings at Little France - the QMRI, the Chancellor's Building, and the Scottish Centre for Regenerative Medicine.",
+                "homeUrl": "https://www.ed.ac.uk/cardiovascular-science",
+                "id": 827,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Centre for Cardiovascular Science, University of Edinburgh, Edinburgh",
+                "rorId": "https://ror.org/002g4nt27"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100592",
+            "name": "IUPHAR ligand at University of Edinburgh",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.guidetopharmacology.org/GRAC/LigandListForward?database=all",
+            "sampleId": "1755",
+            "urlPattern": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId={$id}"
+        }
+    ],
+    "sampleId": "1755",
+    "successor": null
+}

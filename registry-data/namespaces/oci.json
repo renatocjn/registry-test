@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:13.968+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Each OCI (Open Citation Identifier) has a simple structure: oci:<identifier>-<identifier>, where “oci:” is the identifier prefix, and is used to identify a citation as a first-class data entity - see https://doi.org/10.6084/m9.figshare.7127816.v2 for additional information. In each OCI, the first <identifier> is the identifier for the citing bibliographic resource, while the second <identifier> is the identifier for the cited bibliographic resource.",
+    "id": 1831,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000660",
+    "modified": "2023-05-12T15:05:01.546+00:00",
+    "name": "OCI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^0[1-9]+0[0-9]+-0[1-9]+0[0-9]+$",
+    "prefix": "oci",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OpenCitations",
+            "id": 1833,
+            "institution": {
+                "description": "OpenCitations is an independent not-for-profit infrastructure organization for open scholarship dedicated to the publication of open bibliographic and citation data by the use of Semantic Web (Linked Data) technologies. It is also engaged in advocacy for open citations, particularly in its role as a key founding member of the Initiative for Open Citations (I4OC). For administrative convenience, OpenCitations is managed by the Research Centre for Open Scholarly Metadata at the University of Bologna.",
+                "homeUrl": "http://opencitations.net/",
+                "id": 1919,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "OpenCitations",
+                "rorId": "https://ror.org/00wb4mk85"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100878",
+            "name": "OpenCitations",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://opencitations.net",
+            "sampleId": "01027931310-01022252312",
+            "urlPattern": "https://w3id.org/oc/oci/{$id}"
+        }
+    ],
+    "sampleId": "01027931310-01022252312",
+    "successor": null
+}

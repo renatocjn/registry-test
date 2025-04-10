@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:57.058+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "OMA (Orthologous MAtrix) is a database that identifies orthologs among publicly available, complete genome sequences. It identifies orthologous relationships which can be accessed either group-wise, where all group members are orthologous to all other group members, or on a sequence-centric basis, where for a given protein all its orthologs in all other species are displayed. This collection references individual protein records.",
+    "id": 982,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000342",
+    "modified": "2019-06-11T14:16:57.058+00:00",
+    "name": "OMA Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]{5}\\d+$",
+    "prefix": "oma.protein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OMA Protein through OMA browser at ETH Zurich",
+            "id": 984,
+            "institution": {
+                "description": "We serve society by educating the next generations of critical and creative thinkers and doers. With our research, we create knowledge and develop technologies to meet the global challenges of our time. We project a future-​​oriented and innovative image of Switzerland to the world and network our country with the global community. Together with our partners from science, business, politics and society, we rely on the power of teamwork and strive for excellence - in everything we do.",
+                "homeUrl": "https://ethz.ch/en.html",
+                "id": 2483,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "ETH Zurich",
+                "rorId": "https://ror.org/05a28rw58"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100437",
+            "name": "OMA Protein through OMA browser at ETH Zurich",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://omabrowser.org/oma/home/",
+            "sampleId": "HUMAN16963",
+            "urlPattern": "https://omabrowser.org/oma/vps/{$id}"
+        }
+    ],
+    "sampleId": "HUMAN16963",
+    "successor": null
+}

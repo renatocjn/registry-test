@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:41.559+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ZINC is a free public resource for ligand discovery. The database contains over twenty million commercially available molecules in biologically relevant representations that may be downloaded in popular ready-to-dock formats and subsets. The Web site enables searches by structure, biological activity, physical property, vendor, catalog number, name, and CAS number.",
+    "id": 1488,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000529",
+    "modified": "2019-06-11T14:17:41.559+00:00",
+    "name": "ZINC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(ZINC)?\\d+$",
+    "prefix": "zinc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ZINC at University of California (San Francisco)",
+            "id": 1490,
+            "institution": {
+                "description": "The Shoichet lab seeks to bring chemical reagents to biology, combining computation and experiment. In a protein-centric approach, molecular docking, we discover new ligands that complement protein structures. Using a ligand-centric approach, we discover new targets for known drugs and reagents. A focus for both is the discovery of reagents to modulate G-Protein Coupled Receptors (GPCRs). ",
+                "homeUrl": "https://bkslab.org/home",
+                "id": 1489,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Shoichet Laboratory, Department of Pharmaceutical Chemistry, University of California, San Francisco",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100688",
+            "name": "ZINC at University of California (San Francisco)",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://zinc15.docking.org/",
+            "sampleId": "ZINC1084",
+            "urlPattern": "http://zinc15.docking.org/substances/{$id}"
+        }
+    ],
+    "sampleId": "ZINC1084",
+    "successor": null
+}

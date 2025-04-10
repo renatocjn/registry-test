@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:39.763+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Unidentified Gene-Encoded (HUGE) protein database contains  results from sequence analysis of human novel large (>4 kb) cDNAs identified in the Kazusa cDNA sequencing project.",
+    "id": 772,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000263",
+    "modified": "2019-06-11T14:16:39.763+00:00",
+    "name": "HUGE",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^KIAA\\d{4}$",
+    "prefix": "huge",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HUGE at Kazusa DNA Research Institute",
+            "id": 774,
+            "institution": {
+                "description": "KDRI was founded in 1991 and has since then been engaged in large-scale sequencing and analysis of the genomes of plants and related bacteria as well as human cDNAs. Based on these results, research has been carried out on various genes that function in plant and human cells. ",
+                "homeUrl": "http://www.kazusa.or.jp/e/index.html",
+                "id": 859,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Kazusa DNA Research Institute, Chiba",
+                "rorId": "https://ror.org/04pnjx786"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100339",
+            "name": "HUGE at Kazusa DNA Research Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.kazusa.or.jp/huge/",
+            "sampleId": "KIAA0001",
+            "urlPattern": "http://www.kazusa.or.jp/huge/gfpage/{$id}/"
+        }
+    ],
+    "sampleId": "KIAA0001",
+    "successor": null
+}

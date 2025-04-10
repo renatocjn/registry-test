@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:04.654+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The OBO Relation Ontology provides consistent and unambiguous formal definitions of the relational expressions used in biomedical ontologies.",
+    "id": 380,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000120",
+    "modified": "2019-06-11T14:16:04.654+00:00",
+    "name": "Relation Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^RO_\\d{7}$",
+    "prefix": "ro",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OBO Relation Ontology through OntoBee",
+            "id": 382,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 381,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Michigan Medical School (MI), Lawrence Berkeley National Laboratory (CA) and Science Commons (MA)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100764",
+            "name": "OBO Relation Ontology through OntoBee",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://obofoundry.org/ontology/ro.html",
+            "sampleId": "RO_0002533",
+            "urlPattern": "http://purl.obolibrary.org/obo/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OBO Relation Ontology through OLS",
+            "id": 383,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100767",
+            "name": "OBO Relation Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ro",
+            "sampleId": "RO_0002533",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ro/terms?short_form={$id}"
+        }
+    ],
+    "sampleId": "RO_0002533",
+    "successor": null
+}

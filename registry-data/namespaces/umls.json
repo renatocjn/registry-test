@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:48.502+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Unified Medical Language System is a repository of biomedical vocabularies. Vocabularies integrated in the UMLS Metathesaurus include the NCBI taxonomy, Gene Ontology, the Medical Subject Headings (MeSH), OMIM and the Digital Anatomist Symbolic Knowledge Base. UMLS concepts are not only inter-related, but may also be linked to external resources such as GenBank.",
+    "id": 1561,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000559",
+    "modified": "2019-06-11T14:17:48.502+00:00",
+    "name": "UMLS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^C\\d+$",
+    "prefix": "umls",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Unified Medical Language System at LinkedLifeData",
+            "id": 1562,
+            "institution": {
+                "description": "Linked Life Data (LLD) is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point. The service allows writing of complex data analytical queries, answering complex bioinformatics questions such as 'give me all human genes located in Y-chromosome with the known molecular interactions'; simply navigate through the information, or export subsets like 'all approved drugs and their brand names'. ",
+                "homeUrl": "http://linkedlifedata.com/",
+                "id": 63,
+                "location": {
+                    "countryCode": "BG",
+                    "countryName": "Bulgaria"
+                },
+                "name": "Linkedlifedata, Ontotext, Sofia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "BG",
+                "countryName": "Bulgaria"
+            },
+            "mirId": "MIR:00100736",
+            "name": "Unified Medical Language System at LinkedLifeData",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://linkedlifedata.com/",
+            "sampleId": "C0021390",
+            "urlPattern": "http://linkedlifedata.com/resource/umls/id/{$id}"
+        }
+    ],
+    "sampleId": "C0021390",
+    "successor": null
+}

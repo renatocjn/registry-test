@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:41.796+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "FooDB is resource on food and its constituent compounds. It includes data on the compound’s nomenclature, its description, information on its structure, chemical class, its physico-chemical data, its food source(s), its color, its aroma, its taste, its physiological effect, presumptive health effects (from published studies), and concentrations in various foods. This collection references compounds.",
+    "id": 1491,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000530",
+    "modified": "2019-06-11T14:17:41.796+00:00",
+    "name": "FooDB Compound",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^FDB\\d+$",
+    "prefix": "foodb.compound",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FooDB database of food additives at University of Alberta",
+            "id": 1492,
+            "institution": {
+                "description": "The University of Alberta in Edmonton is one of Canada's top teaching and research universities, with an international reputation for excellence across the humanities, sciences, creative arts, business, engineering and health sciences.",
+                "homeUrl": "https://www.ualberta.ca",
+                "id": 334,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of Alberta",
+                "rorId": "https://ror.org/0160cpw27"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100689",
+            "name": "FooDB database of food additives at University of Alberta",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://foodb.ca/foods",
+            "sampleId": "FDB002100",
+            "urlPattern": "http://foodb.ca/compounds/{$id}"
+        }
+    ],
+    "sampleId": "FDB002100",
+    "successor": null
+}

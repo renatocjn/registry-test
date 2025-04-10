@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:27.678+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "HOGENOM is a database of homologous genes from fully sequenced organisms (bacteria, archeae and eukarya). This collection references phylogenetic trees which can be retrieved using either UniProt accession numbers, or HOGENOM tree family identifier.",
+    "id": 634,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000213",
+    "modified": "2019-06-11T14:16:27.678+00:00",
+    "name": "HOGENOM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "hogenom",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HOGENOM at CNRS",
+            "id": 636,
+            "institution": {
+                "description": "Today, the LBBE is based on three pillars: (i) biometry with methodological developments in statistics, computer science and mathematics for the modelling of living systems; (ii) ecology and evolution approached from molecular and genomic to population and community organization levels; (iii) health, by developing precision medicine and evidence-based medicine The specificity of the laboratory stems from the synergy between methodological challenges and issues in ecology, evolution and health, in order to develop a project on health, dynamics and evolution of living organisms at all scales. In order to successfully orchestrate this research activity, the LBBE is organized into four scientific departments, each composed of multiple research teams (Functional Chart).",
+                "homeUrl": "https://lbbe.univ-lyon1.fr/?lang=en",
+                "id": 635,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Laboratoire de Biométrie et Biologie Evolutive, CNRS, Lyon",
+                "rorId": "https://ror.org/03skt0t88"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100272",
+            "name": "HOGENOM at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pbil.univ-lyon1.fr/databases/hogenom/",
+            "sampleId": "HBG284870",
+            "urlPattern": "http://pbil.univ-lyon1.fr/cgi-bin/view-tree.pl?db=HOGENOM5&query={$id}"
+        }
+    ],
+    "sampleId": "HBG284870",
+    "successor": null
+}

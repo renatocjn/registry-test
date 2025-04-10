@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:15:42.331+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Mouse Genome Database (MGD) project includes data on gene characterization, nomenclature, mapping, gene homologies among mammals, sequence links, phenotypes, allelic variants and mutants, and strain data.",
+    "id": 146,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000037",
+    "modified": "2019-06-11T14:15:42.331+00:00",
+    "name": "Mouse Genome Database",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MGI:\\d+$",
+    "prefix": "mgi",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mouse Genome Informatics Database",
+            "id": 147,
+            "institution": {
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100062",
+            "name": "Mouse Genome Informatics Database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.informatics.jax.org/",
+            "sampleId": "2442292",
+            "urlPattern": "http://www.informatics.jax.org/accession/MGI:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGD through BioEntity Link",
+            "id": 148,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 101,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "InSilico Inc, in Eugene, Oregon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100894",
+            "name": "MGD through BioEntity Link",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioentitylink",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioentity.link/",
+            "sampleId": "2442292",
+            "urlPattern": "https://bioentity.link/#/lexicon/public/MGI:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGI through the Alliance of Genome Resources",
+            "id": 149,
+            "institution": {
+                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
+                "homeUrl": "https://www.alliancegenome.org",
+                "id": 103,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Alliance of Genome Resources",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100903",
+            "name": "MGI through the Alliance of Genome Resources",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "agr",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.alliancegenome.org",
+            "sampleId": "2442292",
+            "urlPattern": "https://www.alliancegenome.org/gene/MGI:{$id}"
+        }
+    ],
+    "sampleId": "2442292",
+    "successor": null
+}

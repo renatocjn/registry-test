@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:03.490+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "LipidBank is an open, publicly free database of natural lipids including fatty acids, glycerolipids, sphingolipids, steroids, and various vitamins.",
+    "id": 366,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000115",
+    "modified": "2019-06-11T14:16:03.490+00:00",
+    "name": "LipidBank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+\\d+$",
+    "prefix": "lipidbank",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LipidBank the Lipid database",
+            "id": 368,
+            "institution": {
+                "description": "he department of Medical Genome Sciences and the department of Computational Biology have been merged, resulting in the establishment of a unique new major that is unprecedented in Japan. The objectives of this new major are to lead the way in information-oriented life science while significantly contributing to life innovation, and to cultivate personnel capable of translating the results in the clinical setting. To this end,we believe that it is necessary to develop personnel with a novel specialty by actively employing on-the-job training in state-of-the-art informatics and medical science research settings and implementing a basic education environment for integrating information science and medical science. This kind of personnel is required not only in medicine, but also in other technical fields such as agricultural sciences, pharmaceutical sciences, environmental studies and biotechnology.",
+                "homeUrl": "https://www.cbms.k.u-tokyo.ac.jp/english/index.html",
+                "id": 367,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Department of Computational Biology, University of Tokyo, Tokyo",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100148",
+            "name": "LipidBank the Lipid database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://lipidbank.jp/index.html",
+            "sampleId": "BBA0001",
+            "urlPattern": "http://lipidbank.jp/cgi-bin/detail.cgi?id={$id}"
+        }
+    ],
+    "sampleId": "BBA0001",
+    "successor": null
+}

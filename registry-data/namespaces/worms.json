@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:54.476+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The World Register of Marine Species (WoRMS) provides an authoritative and comprehensive list of names of marine organisms. It includes synonyms for valid taxonomic names allowing a more complete interpretation of taxonomic literature. The content of WoRMS is administered by taxonomic experts.",
+    "id": 1618,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000581",
+    "modified": "2019-06-11T14:17:54.476+00:00",
+    "name": "World Register of Marine Species",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "worms",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "World Register of Marine Species",
+            "id": 1620,
+            "institution": {
+                "description": "The Flanders Marine Institute promotes marine knowledge creation and excellence through sound interdisciplinary research about the ocean, seas, coast and tidal estuaries. We do this in close collaboration with other (marine) research groups, citizens, policy makers and industrial partners in Flanders, Belgium, and through international collaboration.",
+                "homeUrl": "https://www.vliz.be/",
+                "id": 1619,
+                "location": {
+                    "countryCode": "BE",
+                    "countryName": "Belgium"
+                },
+                "name": "Flanders Marine Institute, Ostend",
+                "rorId": "https://ror.org/0496vr396"
+            },
+            "location": {
+                "countryCode": "BE",
+                "countryName": "Belgium"
+            },
+            "mirId": "MIR:00100778",
+            "name": "World Register of Marine Species",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.marinespecies.org/",
+            "sampleId": "146421",
+            "urlPattern": "http://www.marinespecies.org/aphia.php?p=taxdetails&id={$id}"
+        }
+    ],
+    "sampleId": "146421",
+    "successor": null
+}

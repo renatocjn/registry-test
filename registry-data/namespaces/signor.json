@@ -1,0 +1,56 @@
+{
+    "created": "2021-04-12T18:19:18.033+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SIGNOR, the SIGnaling Network Open Resource, organizes and stores in a structured format signaling information published in the scientific literature.",
+    "id": 2605,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000808",
+    "modified": "2021-04-12T18:19:18.033+00:00",
+    "name": "SIGNOR",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^SIGNOR\\-[A-Z]+\\d+$",
+    "prefix": "signor",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SIGNOR, the SIGnaling Network Open Resource, organizes and stores in a structured format signaling information published in the scientific literature.",
+            "id": 2606,
+            "institution": {
+                "description": "University of Rome Tor Vergata was established in 1982 and is therefore a relatively young University. It was designed on the model of Anglo-Saxon campuses: it stretches on 600 hectares and hosts important research institutions, such as National Research Council – CNR and the Italian Space Agency – ASI.",
+                "homeUrl": "http://web.uniroma2.it/",
+                "id": 2604,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "University of Rome Tor Vergata",
+                "rorId": "https://ror.org/02p77k626"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00000807",
+            "name": "SIGNOR",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "signor",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://signor.uniroma2.it/",
+            "sampleId": "SIGNOR-C2",
+            "urlPattern": "https://signor.uniroma2.it/relation_result.php?id={$id}"
+        }
+    ],
+    "sampleId": "SIGNOR-C2",
+    "successor": null
+}

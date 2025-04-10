@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:49.123+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PRINTS is a compendium of protein fingerprints. A fingerprint is a group of conserved motifs used to characterise a protein family; its diagnostic power is refined by iterative scanning of a SWISS-PROT/TrEMBL composite. Usually the motifs do not overlap, but are separated along a sequence, though they may be contiguous in 3D-space. Fingerprints can encode protein folds and functionalities more flexibly and powerfully than can single motifs, full diagnostic potency deriving from the mutual context provided by motif neighbours.",
+    "id": 214,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000061",
+    "modified": "2019-06-11T14:15:49.123+00:00",
+    "name": "PRINTS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PR\\d{5}$",
+    "prefix": "prints",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PRINTS through SPRINT",
+            "id": 216,
+            "institution": {
+                "description": "The University of Manchester enjoys a reputation for pioneering research and innovation, which vitalise our undergraduate courses and postgraduate programmes, and introduce you to the latest thinking in your chosen field.",
+                "homeUrl": "https://www.manchester.ac.uk/",
+                "id": 215,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "University of Manchester",
+                "rorId": "https://ror.org/027m9bs27"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100089",
+            "name": "PRINTS through SPRINT",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.bioinf.manchester.ac.uk/dbbrowser/sprint/",
+            "sampleId": "PR00001",
+            "urlPattern": "http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn={$id}&display_opts=Prints&category=None&queryform=false&regexpr=off"
+        }
+    ],
+    "sampleId": "PR00001",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:06.208+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PhosphoSite is a mammalian protein database that provides information about in vivo phosphorylation sites. This datatype refers to residue-level information, providing a information about a single modification position in a specific protein sequence.",
+    "id": 396,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000125",
+    "modified": "2019-06-11T14:16:06.208+00:00",
+    "name": "PhosphoSite Residue",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "phosphosite.residue",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PhosphoSite Residue",
+            "id": 397,
+            "institution": {
+                "description": "Cell Signaling Technology (CST) is a different kind of life sciences company—one founded, owned, and run by active research scientists, with the highest standards of product and service quality, technological innovation, and scientific rigor for over 20 years. We consistently provide fellow scientists around the globe with best-in-class products and services to fuel their quests for discovery.",
+                "homeUrl": "https://www.cellsignal.com/",
+                "id": 339,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cell Signaling Technology, Inc.",
+                "rorId": "https://ror.org/03k4zc121"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100159",
+            "name": "PhosphoSite Residue",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.phosphosite.org/homeAction.do",
+            "sampleId": "2842",
+            "urlPattern": "http://www.phosphosite.org/siteAction.do?id={$id}"
+        }
+    ],
+    "sampleId": "2842",
+    "successor": null
+}

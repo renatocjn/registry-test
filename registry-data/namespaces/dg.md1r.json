@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:33:39.208+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Medical Imaging & Data Resource Center (MIDRC) Data Commons supports the management, analysis and sharing of medical imaging data for the improvement of patient outcomes.",
+    "id": 3171,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000932",
+    "modified": "2022-02-27T20:33:39.208+00:00",
+    "name": "MIDRC Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.md1r",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Medical Imaging & Data Resource Center (MIDRC) Data Commons supports the management, analysis and sharing of medical imaging data for the improvement of patient outcomes.",
+            "id": 3172,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000931",
+            "name": "MIDRC Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.MD1R",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://data.midrc.org/",
+            "sampleId": "000007c3-356a-4d59-a6c0-0ee920b60305",
+            "urlPattern": "https://data.midrc.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "000007c3-356a-4d59-a6c0-0ee920b60305",
+    "successor": null
+}

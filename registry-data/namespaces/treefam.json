@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:10.973+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TreeFam is a database of phylogenetic trees of gene families found in animals. Automatically generated trees are curated, to create a curated resource that presents the accurate evolutionary history of all animal gene families, as well as reliable ortholog and paralog assignments.",
+    "id": 1146,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000395",
+    "modified": "2019-06-11T14:17:10.973+00:00",
+    "name": "TreeFam",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w{1,2}\\d+$",
+    "prefix": "treefam",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TreeFam database",
+            "id": 1148,
+            "institution": {
+                "description": "BGI Genomics is a publicly listed commercial genomics company, providing a wide range of next generation sequencing services and a broad portfolio of genetic tests for medical institutions, research institutions and other public and private partners.\nEstablished in 1999, we have almost 20 years of genomics experience. Our mission is to leverage our genomics expertise in order to advance life science research and improve human health for the benefit of mankind.",
+                "homeUrl": "https://www.bgi.com",
+                "id": 1147,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Beijing Genomics Institute",
+                "rorId": "https://ror.org/045pn2j94"
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100515",
+            "name": "TreeFam database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.treefam.org/",
+            "sampleId": "TF101014",
+            "urlPattern": "http://www.treefam.org/family/{$id}"
+        }
+    ],
+    "sampleId": "TF101014",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:52.138+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The MDM (Medical Data Models) Portal is a meta-data registry for creating, analysing, sharing and reusing medical forms. Electronic forms are central in numerous processes involving data, including the collection of data through electronic health records (EHRs), Electronic Data Capture (EDC), and as case report forms (CRFs) for clinical trials. The MDM Portal provides medical forms in numerous export formats, facilitating the sharing and reuse of medical data models and exchange between information systems.",
+    "id": 1598,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000574",
+    "modified": "2019-06-11T14:17:52.138+00:00",
+    "name": "MDM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mdm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MDM at University of Muenster",
+            "id": 1600,
+            "institution": {
+                "description": "Research for digital, personalised medicine ",
+                "homeUrl": "https://imi.uni-muenster.de",
+                "id": 1599,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Institute of Medical Informatics, University of Muenster",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100766",
+            "name": "MDM at University of Muenster",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://medical-data-models.org/",
+            "sampleId": "4776",
+            "urlPattern": "https://medical-data-models.org/forms/{$id}"
+        }
+    ],
+    "sampleId": "4776",
+    "successor": null
+}

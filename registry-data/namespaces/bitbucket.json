@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-09T19:35:12.259+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Bitbucket is a Git-based source code repository hosting service owned by Atlassian.",
+    "id": 3009,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000899",
+    "modified": "2022-01-09T19:35:12.259+00:00",
+    "name": "Bitbucket",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9A-Za-z-_\\.]+/[0-9A-Za-z-_\\.]+$",
+    "prefix": "bitbucket",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Atlassian Corporation Plc is an Australian software company that develops products for software developers, project managers and other software development teams.",
+            "id": 3010,
+            "institution": {
+                "description": "Atlassian Corporation Plc is an Australian software company that develops products for software developers, project managers and other software development teams.",
+                "homeUrl": "https://www.atlassian.com/",
+                "id": 3008,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Atlassian",
+                "rorId": "https://ror.org/00y7n3708"
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00000896",
+            "name": "Atlassian",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "atlassian",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.atlassian.com/",
+            "sampleId": "andreadega/systems-biology-compiler",
+            "urlPattern": "https://bitbucket.org/{$id}"
+        }
+    ],
+    "sampleId": "andreadega/systems-biology-compiler",
+    "successor": null
+}

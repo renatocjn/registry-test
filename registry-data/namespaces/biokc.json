@@ -1,0 +1,56 @@
+{
+    "created": "2023-03-01T11:40:49.456+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioKC (Biological Knowledge Curation), is a web-based collaborative platform for the curation and annotation of biomedical knowledge following the standard data model from Systems Biology Markup Language (SBML).",
+    "id": 3472,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000995",
+    "modified": "2023-03-01T11:40:49.456+00:00",
+    "name": "BioKC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "bkc[0-9]*",
+    "prefix": "biokc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The LCSB is accelerating biomedical research by closing the link between systems biology and medical research. Collaboration between biologists, medical doctors, computer scientists, physicists, engineers and mathematicians is offering new insights in complex systems like cells, organs, and organisms. These insights are essential for understanding principal mechanisms of disease pathogenesis and for developing new tools in diagnostics and therapy.",
+            "id": 3473,
+            "institution": {
+                "description": "Founded in 2003, the University of Luxembourg is the only public university of the Grand Duchy of Luxembourg.\nMultilingual, international and research-oriented, it is also a modern institution with a personal atmosphere.",
+                "homeUrl": "https://wwwen.uni.lu/",
+                "id": 3471,
+                "location": {
+                    "countryCode": "LU",
+                    "countryName": "Luxembourg"
+                },
+                "name": "University of Luxembourg",
+                "rorId": "https://ror.org/036x5ad56"
+            },
+            "location": {
+                "countryCode": "LU",
+                "countryName": "Luxembourg"
+            },
+            "mirId": "MIR:00000994",
+            "name": "Luxembourg Centre for Systems Biomedicine",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bkc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://wwwen.uni.lu/lcsb",
+            "sampleId": "bkc640",
+            "urlPattern": "https://biokb.lcsb.uni.lu/fact/{$id}"
+        }
+    ],
+    "sampleId": "bkc640",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-05T17:53:47.458+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines.",
+    "id": 2848,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000861",
+    "modified": "2021-09-05T17:53:47.458+00:00",
+    "name": "re3data",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^r3d\\d{9,9}$",
+    "prefix": "re3data",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research data and other research outputs.",
+            "id": 2849,
+            "institution": {
+                "description": "DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research data and other research outputs.",
+                "homeUrl": "https://datacite.org",
+                "id": 2847,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "DataCite",
+                "rorId": "https://ror.org/04wxnsj81"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000860",
+            "name": "DataCite",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "datacite",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://datacite.org",
+            "sampleId": "r3d100010772",
+            "urlPattern": "https://www.re3data.org/repository/{$id}"
+        }
+    ],
+    "sampleId": "r3d100010772",
+    "successor": null
+}

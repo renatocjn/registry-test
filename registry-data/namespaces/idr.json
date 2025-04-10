@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-02T17:27:03.688+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Image Data Resource (IDR) is an online, public data repository that seeks to store, integrate and serve image datasets from published scientific studies. We have collected and are continuing to receive existing and newly created “reference image\" datasets that are valuable resources for a broad community of users, either because they will be frequently accessed and cited or because they can serve as a basis for re-analysis and the development of new computational tools.",
+    "id": 2108,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000743",
+    "modified": "2020-03-02T17:27:03.688+00:00",
+    "name": "Image Data Resource",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]{4}$",
+    "prefix": "idr",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OME is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data.",
+            "id": 2109,
+            "institution": {
+                "description": "The University of Dundee is a public research university in Dundee, Scotland. Founded in 1881 the institution was, for most of its early existence, a constituent college of the University of St Andrews alongside United College and St Mary's College located in the town of St Andrews itself. Following significant expansion, the University of Dundee gained independent university status in 1967 while retaining much of its ancient heritage and governance structure.",
+                "homeUrl": "https://www.dundee.ac.uk/",
+                "id": 2107,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "University of Dundee",
+                "rorId": "https://ror.org/03h2bxq36"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000705",
+            "name": "Open Microscopy Environment",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ome",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://idr.openmicroscopy.org",
+            "sampleId": "0001",
+            "urlPattern": "https://idr.openmicroscopy.org/search/?query=Name:idr{$id}"
+        }
+    ],
+    "sampleId": "0001",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:49.786+00:00",
+    "deprecated": true,
+    "deprecationDate": "2023-01-10T13:18:19.506+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ACLAME is a database dedicated to the collection and classification of mobile genetic elements (MGEs) from various sources, comprising all known phage genomes, plasmids and transposons.",
+    "id": 220,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000063",
+    "modified": "2023-09-12T09:47:26.445+00:00",
+    "name": "Aclame",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^mge:\\d+$",
+    "prefix": "mge",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Aclame database of mobile genetic elements",
+            "id": 222,
+            "institution": {
+                "description": " Four scientific Nobel Prizes, one Fields Medal, three Wolf Prizes are further evidence of the University's longstanding tradition of excellence. The Université libre de Bruxelles is an active member of the Research Area: ULB has received HR Excellence in Research award from the EU (EURAXESS) and also EU funding to hire post-doctoral researchers (COFUND program), for example. Over the past few years, it has obtained 49 Grants (24 Starting, 12 Consolidator, 11 Advanced, 1 Synergy and 1 Proof of Concept Grants)  from the European Research Area (ERC) to finance research in Medicine, Mathematics, Political Science, Economics, Physics, etc. In addition, the University's Institute for European Studies is recognized as a “Jean Monnet European research centre” for its work on European integration.",
+                "homeUrl": "https://www.ulb.be/",
+                "id": 221,
+                "location": {
+                    "countryCode": "BE",
+                    "countryName": "Belgium"
+                },
+                "name": "Service de Conformation de Macromolécules Biologiques et de Bioinformatique, Université Libre de Bruxelles",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "BE",
+                "countryName": "Belgium"
+            },
+            "mirId": "MIR:00100091",
+            "name": "Aclame database of mobile genetic elements",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://aclame.ulb.ac.be/",
+            "sampleId": "2",
+            "urlPattern": "http://aclame.ulb.ac.be/perl/Aclame/Genomes/mge_view.cgi?view=info&id=mge:{$id}"
+        }
+    ],
+    "sampleId": "2",
+    "successor": null
+}

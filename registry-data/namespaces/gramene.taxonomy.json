@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:21.008+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Gramene is a comparative genome mapping database for grasses and crop plants. It combines a semi-automatically generated database of cereal genomic and expressed sequence tag sequences, genetic maps, map relations, quantitative trait loci (QTL), and publications, with a curated database of mutants (genes and alleles), molecular markers, and proteins. This datatype refers to taxonomic information in Gramene.",
+    "id": 560,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000183",
+    "modified": "2019-06-11T14:16:21.008+00:00",
+    "name": "Gramene Taxonomy",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^GR\\_tax\\:\\d+$",
+    "prefix": "gramene.taxonomy",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Gramene Taxonomy at Cold Spring Harbor",
+            "id": 561,
+            "institution": {
+                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
+                "homeUrl": "https://www.cshl.edu/",
+                "id": 131,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cold Spring Harbor Laboratory",
+                "rorId": "https://ror.org/02qz8b764"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100229",
+            "name": "Gramene Taxonomy at Cold Spring Harbor",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.gramene.org/",
+            "sampleId": "GR_tax:013681",
+            "urlPattern": "http://www.gramene.org/db/ontology/search?id={$id}"
+        }
+    ],
+    "sampleId": "GR_tax:013681",
+    "successor": null
+}

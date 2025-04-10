@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:28.027+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "VFDB is a repository of virulence factors (VFs) of pathogenic bacteria.This collection references VF genes.",
+    "id": 1347,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000472",
+    "modified": "2019-06-11T14:17:28.027+00:00",
+    "name": "VFDB Gene",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "vfdb.gene",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VFDB Gene at Institute of Pathogen Biology",
+            "id": 1348,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1345,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "State Key Laboratory for Molecular Virology and Genetic Engineering, Institute of Pathogen Biology, Chinese Academy Medical Sciences and Peking Union Medical College, Beijing",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100607",
+            "name": "VFDB Gene at Institute of Pathogen Biology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mgc.ac.cn/VFs/",
+            "sampleId": "VFG2154",
+            "urlPattern": "http://www.mgc.ac.cn/cgi-bin/VFs/gene.cgi?GeneID={$id}"
+        }
+    ],
+    "sampleId": "VFG2154",
+    "successor": null
+}

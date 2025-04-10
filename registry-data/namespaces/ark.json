@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:57.583+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Archival Resource Keys (ARKs) serve as persistent identifiers, or stable, trusted references for information objects. Among other things, they aim to be web addresses (URLs) that don’t return 404 Page Not Found errors. The ARK Alliance is an open global community supporting the ARK infrastructure on behalf of research and scholarship. End users, especially researchers, rely on ARKs for long term access to the global scientific and cultural record. Since 2001 some 8.2 billion ARKs have been created by over 1000 organizations — libraries, data centers, archives, museums, publishers, government agencies, and vendors. They identify anything digital, physical, or abstract. ARKs are open, mainstream, non-paywalled, decentralized persistent identifiers that can be created by an organization as soon as it is registered with a NAAN (Name Assigning Authority Number). Once registered, an ARK organization can create unlimited numbers of ARKs and publicize them via the n2t.net global resolver or via their own local resolver.",
+    "id": 1647,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000592",
+    "modified": "2023-01-31T08:16:22.071+00:00",
+    "name": "Archival Resource Key (ARK)",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^(ark\\:)/*[0-9A-Za-z]+(?:/[\\w/.=*+@\\$-]*)?(?:\\?.*)?$",
+    "prefix": "ark",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ARKs via the Name-to-Thing (n2t.net) resolver.",
+            "id": 1649,
+            "institution": {
+                "description": "The CDL was founded by the University of California in 1997 to take advantage of emerging technologies that were transforming the way digital information was being published and accessed. Since then, in collaboration with the UC libraries and other partners, we assembled one of the world’s largest digital research libraries and changed the ways that faculty, students, and researchers discover and access information.",
+                "homeUrl": "https://cdlib.org/",
+                "id": 1648,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "California Digital Library, University of California Office of the President",
+                "rorId": "https://ror.org/03yrm5c26"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100792",
+            "name": "Archival Resource Key (ARK)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://arks.org",
+            "sampleId": "/53355/cl010066723",
+            "urlPattern": "https://n2t.net/ark:{$id}"
+        }
+    ],
+    "sampleId": "/53355/cl010066723",
+    "successor": null
+}

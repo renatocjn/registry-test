@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:15.639+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "RiceNetDB is currently the most comprehensive regulatory database on Oryza Sativa based on genome annotation. It was displayed in three levels: GEM, PPIs and GRNs to facilitate biomolecular regulatory analysis and gene-metabolite mapping.",
+    "id": 1847,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000666",
+    "modified": "2019-06-11T14:18:15.639+00:00",
+    "name": "RiceNetDB Compound",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^OSC\\d{4}$",
+    "prefix": "ricenetdb.compound",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "RiceNetDB Compound",
+            "id": 1848,
+            "institution": {
+                "description": "College of Life Sciences, Zhejiang University, developed from the former Department of Biology, National Zhejiang University founded in September 1929, is proud of its more than 90 years history and lots of outstanding scholars. Many distinguished biologists, including Shizhang BEI, Zongluo LUO, Zhaoqian ZHANG, Jiazhen TAN, Lvji SHI, Renbao ZHU, Zhen YAO, Jiaonai SHI, studied or taught here.",
+                "homeUrl": "http://www.cls.en.zju.edu.cn/",
+                "id": 1843,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "College of Life Sciences, Zhejiang University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100884",
+            "name": "RiceNetDB Compound",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bis.zju.edu.cn/ricenetdb",
+            "sampleId": "OSC1416",
+            "urlPattern": "http://bis.zju.edu.cn/ricenetdb/compounddetails.php?ID={$id}"
+        }
+    ],
+    "sampleId": "OSC1416",
+    "successor": null
+}

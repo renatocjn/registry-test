@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-20T15:04:54.734+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A high level datamodel of biological entities (genes, diseases, phenotypes, pathways, individuals, substances, etc) and their associations.",
+    "id": 2160,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000782",
+    "modified": "2020-03-20T15:04:54.734+00:00",
+    "name": "BioLink Model",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\S+$",
+    "prefix": "biolink",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "This resource is not backed by a physical institution. The resource is managed and deployed on GitHub, and is maintained by a broad community of develops",
+            "id": 2161,
+            "institution": {
+                "description": "This resource is not backed by a physical institution. The resource is managed and deployed on GitHub, and is maintained by a broad community of develops",
+                "homeUrl": "https://biolink.github.io/biolink-model",
+                "id": 2159,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "BioLink GitHub Organization",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000778",
+            "name": "BioLink GitHub Organization",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "biolinkgithub",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://biolink.github.io/biolink-model",
+            "sampleId": "Gene",
+            "urlPattern": "https://w3id.org/biolink/vocab/{$id}"
+        }
+    ],
+    "sampleId": "Gene",
+    "successor": null
+}

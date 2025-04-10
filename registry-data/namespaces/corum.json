@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:20.995+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The CORUM database provides a resource of manually annotated protein complexes from mammalian organisms. Annotation includes protein complex function, localization, subunit composition, literature references and more. All information is obtained from individual experiments published in scientific articles, data from high-throughput experiments is excluded.",
+    "id": 1264,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000440",
+    "modified": "2019-06-11T14:17:20.995+00:00",
+    "name": "CORUM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "corum",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CORUM at Institute for Bioinformatics and Systems Biology (Germany)",
+            "id": 1266,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1265,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Institute for Bioinformatics and Systems Biology, Helmholtz Zentrum M&amp;uuml;nchen-German Research Center for Environmental Health, Neuherberg",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100571",
+            "name": "CORUM at Institute for Bioinformatics and Systems Biology (Germany)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mips.helmholtz-muenchen.de/genre/proj/corum/",
+            "sampleId": "100",
+            "urlPattern": "https://mips.helmholtz-muenchen.de/corum/?id={$id}"
+        }
+    ],
+    "sampleId": "100",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:20.362+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Pseudomonas Genome Database is a resource for peer-reviewed, continually updated annotation for all Pseudomonas species. It includes gene and protein sequence information, as well as regulation and predicted function and annotation.",
+    "id": 552,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000180",
+    "modified": "2019-06-11T14:16:20.362+00:00",
+    "name": "Pseudomonas Genome Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^P\\w+$",
+    "prefix": "pseudomonas",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Pseudomonas Genome Database at Simon Fraser University",
+            "id": 554,
+            "institution": {
+                "description": "Consistently ranked among Canada’s top research-intensive universities, SFU is world leader in research, knowledge development, sustainability.",
+                "homeUrl": "http://www.sfu.ca/",
+                "id": 553,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Simon Fraser University, British Columbia",
+                "rorId": "https://ror.org/0213rcc28"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100226",
+            "name": "Pseudomonas Genome Database at Simon Fraser University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pseudomonas.com/",
+            "sampleId": "PSEEN0001",
+            "urlPattern": "http://www.pseudomonas.com/feature/show/?locus_tag={$id}"
+        }
+    ],
+    "sampleId": "PSEEN0001",
+    "successor": null
+}

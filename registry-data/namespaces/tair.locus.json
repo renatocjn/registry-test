@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:46.274+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana. The name of a Locus is unique and used by TAIR, TIGR, and MIPS.",
+    "id": 184,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000050",
+    "modified": "2019-06-11T14:15:46.274+00:00",
+    "name": "TAIR Locus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{7}$",
+    "prefix": "tair.locus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Arabidopsis Information Resource (TAIR) Locus",
+            "id": 185,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 180,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Carnegie Institution of Washington Department of Plant Biology and National Center for Genome Resources (NCGR)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100078",
+            "name": "The Arabidopsis Information Resource (TAIR) Locus",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://arabidopsis.org/index.jsp",
+            "sampleId": "2200950",
+            "urlPattern": "http://www.arabidopsis.org/servlets/TairObject?accession=Locus:{$id}"
+        }
+    ],
+    "sampleId": "2200950",
+    "successor": null
+}

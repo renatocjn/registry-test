@@ -1,0 +1,56 @@
+{
+    "created": "2023-02-03T09:47:17.713+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Nonlinear Force-Free Field Three-Dimensional Magnetic Fields Data of Solar Active Regions Database",
+    "id": 3429,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000988",
+    "modified": "2023-02-03T09:47:17.713+00:00",
+    "name": "NLFFF Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "nlfff",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "State Key Laboratory of Space Weather, National Space Science Center, Chinese Academy of Sciences, Beijing, 100190, China",
+            "id": 3430,
+            "institution": {
+                "description": "State Key Laboratory of Space Weather, National Space Science Center, Chinese Academy of Sciences, Beijing, 100190, China",
+                "homeUrl": "http://www.deepsolar.space",
+                "id": 3428,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Deepsolar Laboratory",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00000987",
+            "name": "Deepsolar Laboratory",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "deeps",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://nlfff.dataset.deepsolar.space/en/",
+            "sampleId": "345201101230312003",
+            "urlPattern": "http://database.deepsolar.space:18080/dbs/nlfff/{$id}"
+        }
+    ],
+    "sampleId": "345201101230312003",
+    "successor": null
+}

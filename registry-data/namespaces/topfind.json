@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:38.521+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TopFIND is a database of protein termini, terminus modifications and their proteolytic processing in the species: Homo sapiens, Mus musculus, Arabidopsis thaliana, Saccharomyces cerevisiae and Escherichia coli.",
+    "id": 756,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000255",
+    "modified": "2019-06-11T14:16:38.521+00:00",
+    "name": "TopFind",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])$",
+    "prefix": "topfind",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TopFind at University of British Columbia",
+            "id": 758,
+            "institution": {
+                "description": "In support of the University of British Columbia’s mission to be one of the world’s very best universities, the Faculty of Graduate and Postdoctoral Studies strives to elevate achievement and enhance the education of graduate students in a global context, providing",
+                "homeUrl": "https://www.grad.ubc.ca/unit/department-oral-biological-medical-sciences",
+                "id": 757,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Department of Oral Biological and Medical Sciences, University of British Columbia, Vancouver",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100326",
+            "name": "TopFind at University of British Columbia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://clipserve.clip.ubc.ca/topfind",
+            "sampleId": "Q9UKQ2",
+            "urlPattern": "http://clipserve.clip.ubc.ca/topfind/proteins/{$id}"
+        }
+    ],
+    "sampleId": "Q9UKQ2",
+    "successor": null
+}

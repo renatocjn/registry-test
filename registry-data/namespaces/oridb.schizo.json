@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:03.255+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "OriDB is a database of collated genome-wide mapping studies of confirmed and predicted replication origin sites in Saccharomyces cerevisiae and the fission yeast Schizosaccharomyces pombe. This collection references Schizosaccharomyces pombe.",
+    "id": 1055,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000368",
+    "modified": "2019-06-11T14:17:03.255+00:00",
+    "name": "OriDB Schizosaccharomyces",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "oridb.schizo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OriDB Schizosaccharomyces at University of Nottingham",
+            "id": 1057,
+            "institution": {
+                "description": "Our vision is to develop inspirational leaders of education, research and commercial innovation within a supportive and professional environment at the forefront of research in the Life Sciences for human and planet health.",
+                "homeUrl": "http://www.nottingham.ac.uk/genetics/",
+                "id": 1056,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Centre for Genetics and Genomics, The University of Nottingham, Queen's Medical Centre, Nottingham",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100467",
+            "name": "OriDB Schizosaccharomyces at University of Nottingham",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pombe.oridb.org/index.php",
+            "sampleId": "1",
+            "urlPattern": "http://pombe.oridb.org/details.php?id={$id}"
+        }
+    ],
+    "sampleId": "1",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:49.171+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "miRTarBase is a database of miRNA-target interactions (MTIs), collected manually from relevant literature, following Natural Language Processing of the text to identify research articles related to functional studies of miRNAs. Generally, the collected MTIs are validated experimentally by reporter assay, western blot, microarray and next-generation sequencing experiments.",
+    "id": 1567,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000562",
+    "modified": "2019-06-11T14:17:49.171+00:00",
+    "name": "miRTarBase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MIRT\\d{6}$",
+    "prefix": "mirtarbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "miRTarBase at National Chiao Tung University",
+            "id": 1569,
+            "institution": {
+                "description": "The NCTU Institute of Bioinformatics and Systems Biology carries out research in structural bioinformatics, systems biology (e.g. gene networks and metabolic pathways), drug discovery, biological databases and algorithms, molecular evolution, computational chemistry, and functional genomics. Supporting by National Science Council and Ministry of Education, the Institute has installed the sole Structural Bioinformatics and Computer-aided Drug Design Core Facilities. On average, each faculty publishes 5 papers/year and the sum of impact factor is over 20/year; and the grant is over 3,000,000/year. These Principle Investigators have produced renowned computational packages and databases: GEMDOCK, for drug design; 3D-BLAST, for a super fast structure database search; miRNAMap, genomic maps of microRNAs in mammalian genomes; and CELLO, for sub-cellular localization prediction.",
+                "homeUrl": "http://bioinfo.nctu.edu.tw/",
+                "id": 1568,
+                "location": {
+                    "countryCode": "TW",
+                    "countryName": "Taiwan, Province of China"
+                },
+                "name": "Institute of Bioinformatics and Systems Biology, National Chiao Tung University, Hsinchu",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "TW",
+                "countryName": "Taiwan, Province of China"
+            },
+            "mirId": "MIR:00100739",
+            "name": "miRTarBase at National Chiao Tung University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://mirtarbase.mbc.nctu.edu.tw/",
+            "sampleId": "MIRT000002",
+            "urlPattern": "http://mirtarbase.mbc.nctu.edu.tw/php/detail.php?mirtid={$id}"
+        }
+    ],
+    "sampleId": "MIRT000002",
+    "successor": null
+}

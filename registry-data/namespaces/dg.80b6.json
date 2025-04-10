@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:31:14.555+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The GenoMEL data commons supports the management, analysis and sharing of next generation sequencing data for the GenoMEL research community and aims to accelerate opportunities for discovery of susceptibility genes for melanoma. The data commons supports cross-project analyses by harmonizing data from different projects through the development of a data dictionary and utilization of common workflows, providing an API for data queries, and providing a cloud-based analysis workspace with rich tools and resources.",
+    "id": 3146,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000919",
+    "modified": "2022-02-27T20:31:14.555+00:00",
+    "name": "GenoMEL Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.80b6",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The GenoMEL data commons supports the management, analysis and sharing of next generation sequencing data for the GenoMEL research community and aims to accelerate opportunities for discovery of susceptibility genes for melanoma. The data commons supports cross-project analyses by harmonizing data from different projects through the development of a data dictionary and utilization of common workflows, providing an API for data queries, and providing a cloud-based analysis workspace with rich tools and resources.",
+            "id": 3147,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000918",
+            "name": "GenoMEL Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.80b6",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://genomel.bionimbus.org/",
+            "sampleId": "000e5d06-1326-4b6f-8d8a-95c63374c7c1",
+            "urlPattern": "https://genomel.bionimbus.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "000e5d06-1326-4b6f-8d8a-95c63374c7c1",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:40.983+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PROSITE consists of documentation entries describing protein domains, families and functional sites as well as associated patterns and profiles to identify them.",
+    "id": 133,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000032",
+    "modified": "2019-06-11T14:15:40.983+00:00",
+    "name": "PROSITE",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PS\\d{5}$",
+    "prefix": "prosite",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ExPASy PROSITE",
+            "id": 135,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100056",
+            "name": "ExPASy PROSITE",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "expasy",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.expasy.org/prosite/",
+            "sampleId": "PS00001",
+            "urlPattern": "https://prosite.expasy.org/{$id}"
+        }
+    ],
+    "sampleId": "PS00001",
+    "successor": null
+}

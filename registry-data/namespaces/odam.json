@@ -1,0 +1,56 @@
+{
+    "created": "2020-07-08T15:12:19.317+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Experimental data table management software to make research data accessible and available for reuse with minimal effort on the part of the data provider. Designed to manage experimental data tables in an easy way for users, ODAM provides a model for structuring both data and metadata that facilitates data handling and analysis. It also encourages data dissemination according to FAIR principles by making the data interoperable and reusable by both humans and machines, allowing the dataset to be explored and then extracted in whole or in part as needed.",
+    "id": 2293,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000722",
+    "modified": "2020-07-08T15:12:19.317+00:00",
+    "name": "Open Data for Access and Mining",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9]+$",
+    "prefix": "odam",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bordeaux Metabolome Facility provides equipments and expertise for the study of metabolome, lipidome and metabolic fluxes.",
+            "id": 2294,
+            "institution": {
+                "description": "INRAE is France's new National Research Institute for Agriculture, Food and Environment, created on January 1, 2020, It was formed by the merger of INRA, the National Institute for Agricultural Research, and IRSTEA, the National Research Institute of Science and Technology for the Environment and Agriculture.",
+                "homeUrl": "https://www.inrae.fr/",
+                "id": 2292,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "National Research Institute for Agriculture, Food and Environment",
+                "rorId": "https://ror.org/003vg9w96"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00000759",
+            "name": "INRA",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bmf",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://metabolome.cgfb.u-bordeaux.fr/",
+            "sampleId": "frim1",
+            "urlPattern": "http://pmb-bordeaux.fr/getdata/json/{$id}/datapackage?links=1"
+        }
+    ],
+    "sampleId": "frim1",
+    "successor": null
+}

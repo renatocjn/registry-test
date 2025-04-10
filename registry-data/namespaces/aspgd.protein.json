@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:15.227+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Aspergillus Genome Database (AspGD) is a repository for information relating to fungi of the genus Aspergillus, which includes organisms of clinical, agricultural and industrial importance. AspGD facilitates comparative genomics by providing a full-featured genomics viewer, as well as matched and standardized sets of genomic information for the sequenced aspergilli. This collection references protein information.",
+    "id": 1198,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000413",
+    "modified": "2019-06-11T14:17:15.227+00:00",
+    "name": "AspGD Protein",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z_0-9]+$",
+    "prefix": "aspgd.protein",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AspGD Protein at Stanford Medical School",
+            "id": 1199,
+            "institution": {
+                "description": "A leader in the biomedical revolution, Stanford Medicine has a long tradition of leadership in pioneering research, creative teaching protocols and effective clinical therapies.",
+                "homeUrl": "https://med.stanford.edu/genetics.html",
+                "id": 298,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Genetics, School of Medicine, Stanford University, Stanford, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100535",
+            "name": "AspGD Protein at Stanford Medical School",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.aspgd.org/",
+            "sampleId": "ASPL0000349247",
+            "urlPattern": "http://www.aspergillusgenome.org/cgi-bin/protein/proteinPage.pl?dbid={$id}"
+        }
+    ],
+    "sampleId": "ASPL0000349247",
+    "successor": null
+}

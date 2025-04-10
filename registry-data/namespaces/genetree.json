@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:27.950+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Genetree displays the maximum likelihood phylogenetic (protein) trees representing the evolutionary history of the genes. These are constructed using the canonical protein for every gene in Ensembl.",
+    "id": 637,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000214",
+    "modified": "2019-06-11T14:16:27.950+00:00",
+    "name": "GeneTree",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ENSGT\\d+$",
+    "prefix": "genetree",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GeneTree at Ensembl",
+            "id": 638,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 8,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100273",
+            "name": "GeneTree at Ensembl",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ensembl.org/",
+            "sampleId": "ENSGT00550000074763",
+            "urlPattern": "http://www.ensembl.org/Multi/GeneTree/Image?db=core;gt={$id}"
+        }
+    ],
+    "sampleId": "ENSGT00550000074763",
+    "successor": null
+}

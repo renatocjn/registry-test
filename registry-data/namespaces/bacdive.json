@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:18.125+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BacDive—the Bacterial Diversity Metadatabase merges detailed strain-linked information on the different aspects of bacterial and archaeal biodiversity.",
+    "id": 1873,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000676",
+    "modified": "2019-06-11T14:18:18.125+00:00",
+    "name": "Bacterial Diversity Metadatabase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "bacdive",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bacterial Diversity Metadatabase",
+            "id": 1875,
+            "institution": {
+                "description": "The mission of the Leibniz Institute DSMZ is the research, provision and use of microbial and cellular biodiversity. The DSMZ is both a research infrastructure used by science and industry for non-commercial purposes and a research institution in the field of microbial biodiversity research.",
+                "homeUrl": "https://www.dsmz.de/",
+                "id": 1874,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen",
+                "rorId": "https://ror.org/02tyer376"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100900",
+            "name": "Bacterial Diversity Metadatabase",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bacdive.dsmz.de/",
+            "sampleId": "131392",
+            "urlPattern": "https://bacdive.dsmz.de/strain/{$id}"
+        }
+    ],
+    "sampleId": "131392",
+    "successor": null
+}

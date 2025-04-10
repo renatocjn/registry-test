@@ -1,0 +1,56 @@
+{
+    "created": "2020-03-24T06:41:41.433+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Rice Annotation Project Database (RAP-DB) is a primary rice (Oryza sativa) annotation database established in 2004 upon the completion of the Oryza sativa ssp. japonica cv. Nipponbare genome sequencing by the International Rice Genome Sequencing Project. RAP-DB provides comprehensive resources (e.g. genome annotation, gene expression, DNA markers, genetic diversity, etc.) for biological and agricultural research communities. This collection provides locus information in RAP-DB.",
+    "id": 2187,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000702",
+    "modified": "2020-03-24T06:41:41.433+00:00",
+    "name": "RAP-DB Locus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^Os\\S+g\\d{7}$",
+    "prefix": "rapdb.locus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Rice Annotation Project (RAP) was conceptualized in 2004 upon the completion of the Oryza sativa ssp.  japonica cv.  Nipponbare genome sequencing by the International Rice Genome Sequencing Project  with the aim of providing the scientific community with an accurate and timely annotation of the rice genome sequence.",
+            "id": 2188,
+            "institution": {
+                "description": "The National Agriculture and Food Research Organization or NARO is the core institute in Japan for conducting research and development on agriculture and food.",
+                "homeUrl": "http://www.naro.affrc.go.jp/english/index.html",
+                "id": 2183,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "The National Agriculture and Food Research Organization (NARO)",
+                "rorId": "https://ror.org/023v4bd62"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00000741",
+            "name": "RAP-DB, Rice Annotation Project Database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "rapdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://rapdb.dna.affrc.go.jp/",
+            "sampleId": "Os01g0883800",
+            "urlPattern": "https://rapdb.dna.affrc.go.jp/locus/?name={$id}"
+        }
+    ],
+    "sampleId": "Os01g0883800",
+    "successor": null
+}

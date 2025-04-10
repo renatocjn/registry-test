@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:31.786+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ProtoNet provides automatic hierarchical classification of protein sequences in the UniProt database, partitioning the protein space into clusters of similar proteins. This collection references cluster information.",
+    "id": 679,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000229",
+    "modified": "2019-06-11T14:16:31.786+00:00",
+    "name": "ProtoNet Cluster",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "protonet.cluster",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ProtoNet at Hebrew University",
+            "id": 680,
+            "institution": {
+                "description": " The Hebrew University of Jerusalem was the first major Zionist institution established in Israel, as early as 1925. Its founders include some of the greatest scientists and intellectuals of the twentieth century: Albert Einstein, Chaim Weizmann, Haim Nahman Bialik, Martin Buber, and Sigmund Freud. Since its inception, the university's researchers have been at the forefront of global research and have won numerous prestigious awards, including eight Nobel Prizes and hundreds of Israel Prizes. Additionally, over the years, many heads of state and industry leaders have studied at the university. ",
+                "homeUrl": "https://en.huji.ac.il/",
+                "id": 677,
+                "location": {
+                    "countryCode": "IL",
+                    "countryName": "Israel"
+                },
+                "name": "Hebrew University, Jerusalem",
+                "rorId": "https://ror.org/03qxff017"
+            },
+            "location": {
+                "countryCode": "IL",
+                "countryName": "Israel"
+            },
+            "mirId": "MIR:00100288",
+            "name": "ProtoNet at Hebrew University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.protonet.cs.huji.ac.il/",
+            "sampleId": "4349895",
+            "urlPattern": "http://www.protonet.cs.huji.ac.il/requested/cluster_card.php?cluster={$id}"
+        }
+    ],
+    "sampleId": "4349895",
+    "successor": null
+}

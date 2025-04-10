@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:01.955+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The HGNC (HUGO Gene Nomenclature Committee) provides an approved gene name and symbol (short-form abbreviation) for each known human gene. All approved symbols are stored in the HGNC database, and each symbol is unique. This collection refers to records using the HGNC symbol.",
+    "id": 1039,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000362",
+    "modified": "2019-06-11T14:17:01.955+00:00",
+    "name": "HGNC Symbol",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z-0-9_]+(\\@)?$",
+    "prefix": "hgnc.symbol",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HGNC Symbol at HUGO Genome Nomenclature Committee",
+            "id": 1040,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100460",
+            "name": "HGNC Symbol at HUGO Genome Nomenclature Committee",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.genenames.org/",
+            "sampleId": "DAPK1",
+            "urlPattern": "https://www.genenames.org/data/gene-symbol-report/#!/symbol/{$id}"
+        }
+    ],
+    "sampleId": "DAPK1",
+    "successor": null
+}

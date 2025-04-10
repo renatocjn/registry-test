@@ -1,0 +1,196 @@
+{
+    "created": "2019-06-11T14:15:33.142+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PubMed is a service of the U.S. National Library of Medicine that includes citations from MEDLINE and other life science journals for biomedical articles back to the 1950s.",
+    "id": 57,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000015",
+    "modified": "2019-06-11T14:15:33.142+00:00",
+    "name": "PubMed",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pubmed",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Europe PMC",
+            "id": 62,
+            "institution": {
+                "description": "Europe PMC provides comprehensive access to life sciences literature from trusted sources. It's available to anyone, anywhere for free. With Europe PMC you can search and read 42.1 million publications, preprints and other documents enriched with links to supporting data, reviews, protocols, and other relevant resources. ",
+                "homeUrl": "https://europepmc.org/",
+                "id": 61,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Europe PubMed Central partners",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100497",
+            "name": "Europe PMC",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "epmc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://europepmc.org/",
+            "sampleId": "16333295",
+            "urlPattern": "http://europepmc.org/abstract/MED/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PubMed through Linkedlife data",
+            "id": 64,
+            "institution": {
+                "description": "Linked Life Data (LLD) is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point. The service allows writing of complex data analytical queries, answering complex bioinformatics questions such as 'give me all human genes located in Y-chromosome with the known molecular interactions'; simply navigate through the information, or export subsets like 'all approved drugs and their brand names'. ",
+                "homeUrl": "http://linkedlifedata.com/",
+                "id": 63,
+                "location": {
+                    "countryCode": "BG",
+                    "countryName": "Bulgaria"
+                },
+                "name": "Linkedlifedata, Ontotext, Sofia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "BG",
+                "countryName": "Bulgaria"
+            },
+            "mirId": "MIR:00100745",
+            "name": "PubMed through Linkedlife data",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://linkedlifedata.com/",
+            "sampleId": "23735196",
+            "urlPattern": "http://linkedlifedata.com/resource/pubmed/id/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HubMed",
+            "id": 60,
+            "institution": {
+                "description": "The University Health Network has grown out of a series of mergers between our current hospitals, as we have adjusted and change to accommodate our growing and changing patient community in and around the GTA.",
+                "homeUrl": "https://www.uhn.ca/",
+                "id": 59,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University Health Network",
+                "rorId": "https://ror.org/042xt5161"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100064",
+            "name": "HubMed",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "hubmed",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.hubmed.org/",
+            "sampleId": "16333295",
+            "urlPattern": "https://www.hubmed.org/?term={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCBI PubMed",
+            "id": 58,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100023",
+            "name": "NCBI PubMed",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/PubMed/",
+            "sampleId": "16333295",
+            "urlPattern": "https://pubmed.ncbi.nlm.nih.gov/{$id}/"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
+            "id": 2466,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000788",
+            "name": "Scholia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "scholia",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scholia.toolforge.org/",
+            "sampleId": "29029422",
+            "urlPattern": "https://scholia.toolforge.org/pubmed/{$id}"
+        }
+    ],
+    "sampleId": "16333295",
+    "successor": null
+}

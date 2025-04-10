@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:43.696+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ChemDB is a chemical database containing commercially available small molecules, important for use as synthetic building blocks, probes in systems biology and as leads for the discovery of drugs and other useful compounds.",
+    "id": 820,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000279",
+    "modified": "2019-06-11T14:16:43.696+00:00",
+    "name": "ChemDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "chemdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChemDB at UC Irvine",
+            "id": 822,
+            "institution": {
+                "description": "In 1965, the University of California, Irvine was founded with a mission to catalyze the community and enhance lives through rigorous academics, cutting-edge research, and dedicated public service. Today, we draw on the unyielding spirit of our pioneering faculty, staff and students who arrived on campus with a dream to inspire change and generate new ideas. We believe that true progress is made when different perspectives come together to advance our understanding of the world around us. And we enlighten our communities and point the way to a better future. At UCI, we shine brighter.",
+                "homeUrl": "https://uci.edu/",
+                "id": 821,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, Irvine",
+                "rorId": "https://ror.org/04gyf1771"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100360",
+            "name": "ChemDB at UC Irvine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://cdb.ics.uci.edu/",
+            "sampleId": "3966782",
+            "urlPattern": "http://cdb.ics.uci.edu/cgibin/ChemicalDetailWeb.py?chemical_id={$id}"
+        }
+    ],
+    "sampleId": "3966782",
+    "successor": null
+}

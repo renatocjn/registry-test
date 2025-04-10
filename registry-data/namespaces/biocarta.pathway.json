@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:16.688+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioCarta is a supplier and distributor of characterized reagents and assays for biopharmaceutical and academic research. It catalogs community produced online maps depicting molecular relationships from areas of active research, generating classical pathways as well as suggestions for new pathways. This collections references pathway maps.",
+    "id": 1215,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000421",
+    "modified": "2019-06-11T14:17:16.688+00:00",
+    "name": "BioCarta Pathway",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([hm]\\_)?\\w+Pathway$",
+    "prefix": "biocarta.pathway",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioCarta Pathway at NCI",
+            "id": 1216,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 442,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute, Center for Bioinformatics, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100544",
+            "name": "BioCarta Pathway at NCI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.biocarta.com/",
+            "sampleId": "h_aktPathway",
+            "urlPattern": "https://cgap.nci.nih.gov/Pathways/BioCarta/{$id}"
+        }
+    ],
+    "sampleId": "h_aktPathway",
+    "successor": null
+}

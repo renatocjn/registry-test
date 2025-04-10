@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:15:49.385+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Ligand Expo is a data resource for finding information about small molecules bound to proteins and nucleic acids.",
+    "id": 217,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000062",
+    "modified": "2019-06-11T14:15:49.385+00:00",
+    "name": "Ligand Expo",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(\\w){3}$",
+    "prefix": "ligandexpo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ligand Expo at RutgersRCSB PDB",
+            "id": 218,
+            "institution": {
+                "description": "Rutgers, The State University of New Jersey, stands among America’s highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you’ll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We’re an academic, health, and research powerhouse and a university of opportunity.",
+                "homeUrl": "https://www.rutgers.edu/",
+                "id": 79,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Rutgers, The State University of New Jersey",
+                "rorId": "https://ror.org/05vt9qd57"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100090",
+            "name": "Ligand Expo at RutgersRCSB PDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "rcsb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ligand-depot.rutgers.edu/index.html",
+            "sampleId": "ABC",
+            "urlPattern": "http://ligand-depot.rutgers.edu/pyapps/ldHandler.py?formid=cc-index-search&target={$id}&operation=ccid"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ligand Expo at Rutgers",
+            "id": 219,
+            "institution": {
+                "description": "Rutgers, The State University of New Jersey, stands among America’s highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you’ll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We’re an academic, health, and research powerhouse and a university of opportunity.",
+                "homeUrl": "https://www.rutgers.edu/",
+                "id": 79,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Rutgers, The State University of New Jersey",
+                "rorId": "https://ror.org/05vt9qd57"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100615",
+            "name": "Ligand Expo at Rutgers",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ligand-expo.rcsb.org/",
+            "sampleId": "ABC",
+            "urlPattern": "http://ligand-expo.rcsb.org/pyapps/ldHandler.py?formid=cc-index-search&target={$id}&operation=ccid"
+        }
+    ],
+    "sampleId": "ABC",
+    "successor": null
+}

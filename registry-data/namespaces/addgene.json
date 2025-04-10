@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:17.878+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Addgene is a non-profit plasmid repository. Addgene facilitates the exchange of genetic material between laboratories by offering plasmids and their associated cloning data to not-for-profit laboratories around the world.",
+    "id": 1870,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000675",
+    "modified": "2019-06-11T14:18:17.878+00:00",
+    "name": "Addgene Plasmid Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]{5}(-[a-zA-Z0-9-]{0,7})?$|^[0-9]{10}$",
+    "prefix": "addgene",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Addgene Plasmid Repository",
+            "id": 1872,
+            "institution": {
+                "description": "Addgene is a global, nonprofit repository that was created to help scientists share plasmids. Plasmids are DNA-based research reagents commonly used in the life sciences. When scientists publish research papers, they deposit their associated plasmids at Addgene. Then, when other scientists read the publication, they have easy access to the plasmids needed to conduct future experiments.",
+                "homeUrl": "https://www.addgene.org",
+                "id": 1871,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Addgene",
+                "rorId": "https://ror.org/01nn1pw54"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100899",
+            "name": "Addgene Plasmid Repository",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://addgene.org/",
+            "sampleId": "50943",
+            "urlPattern": "http://addgene.org/{$id}"
+        }
+    ],
+    "sampleId": "50943",
+    "successor": null
+}

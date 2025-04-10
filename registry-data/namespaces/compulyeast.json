@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:24.045+00:00",
+    "deprecated": true,
+    "deprecationDate": "2025-03-28T16:26:13.356+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Compluyeast-2D-DB is a two-dimensional polyacrylamide gel electrophoresis federated database. This collection references a subset of Uniprot, and contains general information about the protein record.",
+    "id": 595,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000198",
+    "modified": "2025-03-28T16:26:44.861+00:00",
+    "name": "Compulyeast",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-N,R-Z][0-9][A-Z][A-Z, 0-9][A-Z, 0-9][0-9])|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])$",
+    "prefix": "compulyeast",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Compluyeast database at Universidad Complutense Madrid",
+            "id": 597,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 596,
+                "location": {
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                "name": "Department Microbiology II, Universidad Complutense Madrid, Madrid",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "ES",
+                "countryName": "Spain"
+            },
+            "mirId": "MIR:00100257",
+            "name": "Compluyeast database at Universidad Complutense Madrid",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://compluyeast2dpage.dacya.ucm.es/",
+            "sampleId": "O08709",
+            "urlPattern": "http://compluyeast2dpage.dacya.ucm.es/cgi-bin/2d/2d.cgi?ac={$id}"
+        }
+    ],
+    "sampleId": "O08709",
+    "successor": null
+}

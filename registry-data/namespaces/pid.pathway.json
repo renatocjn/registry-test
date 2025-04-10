@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:08.872+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Pathway Interaction Database is a highly-structured, curated collection of information about known human biomolecular interactions and key cellular processes assembled into signaling pathways. This datatype provides access to pathway information.",
+    "id": 424,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000133",
+    "modified": "2019-06-11T14:16:08.872+00:00",
+    "name": "NCI Pathway Interaction Database: Pathway",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "pid.pathway",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCI Pathway Interaction Database (Pathway)",
+            "id": 426,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 425,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute, Rockville, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100173",
+            "name": "NCI Pathway Interaction Database (Pathway)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pid.nci.nih.gov/",
+            "sampleId": "pi3kcipathway",
+            "urlPattern": "http://pid.nci.nih.gov/search/pathway_landing.shtml?what=graphic&jpg=on&pathway_id={$id}"
+        }
+    ],
+    "sampleId": "pi3kcipathway",
+    "successor": null
+}

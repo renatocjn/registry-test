@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:07.548+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Database of the dielectric properties of biological tissues.",
+    "id": 1760,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000634",
+    "modified": "2019-06-11T14:18:07.548+00:00",
+    "name": "Bio-MINDER Tissue Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-z0-9\\-]+$",
+    "prefix": "biominder",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bio-MINDER Tissue Database",
+            "id": 1762,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1761,
+                "location": {
+                    "countryCode": "IE",
+                    "countryName": "Ireland"
+                },
+                "name": "RWTH Aachen University / NUIG Galway",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IE",
+                "countryName": "Ireland"
+            },
+            "mirId": "MIR:00100839",
+            "name": "Bio-MINDER Tissue Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://datalab.rwth-aachen.de/MINDER",
+            "sampleId": "aef4c195-9cf9-46db-a12a-7cfd1ff3eec3",
+            "urlPattern": "https://datalab.rwth-aachen.de/MINDER/resource/{$id}"
+        }
+    ],
+    "sampleId": "aef4c195-9cf9-46db-a12a-7cfd1ff3eec3",
+    "successor": null
+}

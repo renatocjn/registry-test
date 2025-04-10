@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:19.150+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "An interactive tool for neurobiologists to explore the detailed neuroanatomy, neuron connectivity and gene expression of the Drosophila melanogaster.",
+    "id": 1884,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000680",
+    "modified": "2019-06-11T14:18:19.150+00:00",
+    "name": "Virtual Fly Brain",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9a-zA-Z]{8}$",
+    "prefix": "vfb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Virtual Fly Brain",
+            "id": 1886,
+            "institution": {
+                "description": "The mission of the University of Cambridge is to contribute to society through education, learning and research at the highest international level.",
+                "homeUrl": "https://www.cam.ac.uk/",
+                "id": 1885,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "The University of Cambridge",
+                "rorId": "https://ror.org/013meh722"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100911",
+            "name": "Virtual Fly Brain",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://VirtualFlyBrain.org",
+            "sampleId": "00000001",
+            "urlPattern": "http://virtualflybrain.org/reports/{$id}"
+        }
+    ],
+    "sampleId": "00000001",
+    "successor": null
+}

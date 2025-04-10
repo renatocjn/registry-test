@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:55.320+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MultiCellDS is data standard for multicellular simulation, experimental, and clinical data. A digital cell line is a hierarchical organization of quantitative phenotype data for a single biological cell line, including the microenvironmental context of the measurements and essential metadata.",
+    "id": 1626,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000584",
+    "modified": "2019-06-11T14:17:55.320+00:00",
+    "name": "MultiCellDS Digital Cell Line",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MCDS_L_[a-zA-Z0-9]{1,10}$",
+    "prefix": "multicellds.cell_line",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MultiCellDS Digital Cell Line at Keck School of Medicine",
+            "id": 1627,
+            "institution": {
+                "description": "This center comprises a multidisciplinary team of investigators dedicated to furthering the development and use of proteomic technologies to guide doctors in patient management decisions. The center is based within the Department of Medicine.",
+                "homeUrl": "https://keck.usc.edu/",
+                "id": 1622,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Applied Molecular Medicine, Keck School of Medicine, University of Southern California, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100781",
+            "name": "MultiCellDS Digital Cell Line at Keck School of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://multicellds.org/MultiCellDB.php",
+            "sampleId": "MCDS_L_0000000001",
+            "urlPattern": "http://multicellds.org/MultiCellDB/{$id}"
+        }
+    ],
+    "sampleId": "MCDS_L_0000000001",
+    "successor": null
+}

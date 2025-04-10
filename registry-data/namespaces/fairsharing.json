@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:02.358+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The web-based FAIRSharing catalogues aim to centralize bioscience data policies, reporting standards and links to other related portals. This collection references bioinformatics data exchange standards, which includes 'Reporting Guidelines', Format Specifications and Terminologies.",
+    "id": 1043,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000364",
+    "modified": "2019-06-11T14:17:02.358+00:00",
+    "name": "FAIRsharing",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^bsg-[dscp]?\\d{6}$",
+    "prefix": "fairsharing",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FAIRSharing at University of Oxford",
+            "id": 1045,
+            "institution": {
+                "description": "We are a multidisciplinary data science research and education institute, part of the University of Oxford's Department of Engineering Science. We research and implement innovative digital methodologies, information and computational solutions for academic research and industrial applications. The Centre provides a world-leading environment for over 50 staff, including academics, students, data scientists, postdocs, as well as professional research software and knowledge engineers, who work together on interdisciplinary projects for the benefit of research and society.",
+                "homeUrl": "https://oerc.ox.ac.uk/",
+                "id": 1044,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Oxford e-Research Centre, University of Oxford, Oxford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100463",
+            "name": "FAIRSharing at University of Oxford",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://fairsharing.org/",
+            "sampleId": "bsg-000052",
+            "urlPattern": "https://fairsharing.org/{$id}"
+        }
+    ],
+    "sampleId": "bsg-000052",
+    "successor": null
+}

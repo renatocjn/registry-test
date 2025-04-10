@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-29T19:11:14.294+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+    "id": 2884,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000871",
+    "modified": "2021-09-29T19:11:14.294+00:00",
+    "name": "Anvil",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}",
+    "prefix": "dg.anv0",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DRS server that follows the Gen3 implementation. Gen3 is a GA4GH compliant open source platform for developing framework services and data commons. Data commons accelerate and democratize the process of scientific discovery, especially over large or complex datasets. Gen3 is maintained by the Center for Translational Data Science at the University of Chicago. https://gen3.org",
+            "id": 2885,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000870",
+            "name": "Anvil",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.anv0",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://gen3.theanvil.io",
+            "sampleId": "00077f1c-c45a-47ba-8e6c-1bf6b6b43fce",
+            "urlPattern": "https://gen3.theanvil.io/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "00077f1c-c45a-47ba-8e6c-1bf6b6b43fce",
+    "successor": null
+}

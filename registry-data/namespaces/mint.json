@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:15:43.925+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Molecular INTeraction database (MINT) stores, in a structured format, information about molecular interactions by extracting experimental details from work published in peer-reviewed journals.",
+    "id": 162,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000042",
+    "modified": "2019-06-11T14:15:43.925+00:00",
+    "name": "MINT",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MINT\\-\\d{1,7}$",
+    "prefix": "mint",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MINT subset through IntAct",
+            "id": 165,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100654",
+            "name": "MINT subset through IntAct",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/intact/",
+            "sampleId": "MINT-7905142",
+            "urlPattern": "https://www.ebi.ac.uk/intact/query/interaction_id:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Molecular INTeraction database (MINT)",
+            "id": 164,
+            "institution": {
+                "description": "University of Rome Tor Vergata was established in 1982 and is therefore a relatively young University. It was designed on the model of Anglo-Saxon campuses: it stretches on 600 hectares and hosts important research institutions, such as National Research Council – CNR and the Italian Space Agency – ASI.",
+                "homeUrl": "http://web.uniroma2.it/",
+                "id": 2604,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "University of Rome Tor Vergata",
+                "rorId": "https://ror.org/02p77k626"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100070",
+            "name": "The Molecular INTeraction database (MINT)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://mint.bio.uniroma2.it/mint/",
+            "sampleId": "MINT-10000",
+            "urlPattern": "https://mint.bio.uniroma2.it/index.php/results-interactions/?id={$id}"
+        }
+    ],
+    "sampleId": "MINT-10000",
+    "successor": null
+}

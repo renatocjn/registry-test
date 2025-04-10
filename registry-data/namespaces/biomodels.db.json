@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:15:30.877+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioModels Database is a data resource that allows biologists to store, search and retrieve published mathematical models of biological interests.",
+    "id": 36,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000007",
+    "modified": "2019-06-11T14:15:30.877+00:00",
+    "name": "BioModels Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^((BIOMD|MODEL)\\d{10})|(BMID\\d{12})$",
+    "prefix": "biomodels.db",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioModels Database",
+            "id": 37,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100006",
+            "name": "BioModels Database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/biomodels/",
+            "sampleId": "BIOMD0000000048",
+            "urlPattern": "https://www.ebi.ac.uk/biomodels/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioModels through OmicsDI",
+            "id": 40,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100855",
+            "name": "BioModels through OmicsDI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "omicsdi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.omicsdi.org/",
+            "sampleId": "BIOMD0000000048",
+            "urlPattern": "https://www.omicsdi.org/dataset/biomodels/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-28T16:26:09.489+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Caltech mirror",
+            "id": 39,
+            "institution": {
+                "description": "Caltech is a world-renowned science and engineering institute that marshals some of the world's brightest minds and most innovative tools to address fundamental scientific questions and pressing societal challenges.\nThe Institute manages JPL for NASA, sending probes to explore the planets of our solar system and quantify changes on our home planet. Caltech also owns and operates large-scale research facilities such as the Seismological Laboratory and a global network of astronomical observatories, including the Palomar and W. M. Keck Observatories; and cofounded and comanages LIGO.",
+                "homeUrl": "https://ror.org/05dxps055",
+                "id": 38,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "California Institute of Technology",
+                "rorId": "https://ror.org/05dxps055"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100107",
+            "name": "Caltech mirror",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://biomodels.caltech.edu/",
+            "sampleId": "BIOMD0000000048",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100107/{$id}"
+        }
+    ],
+    "sampleId": "BIOMD0000000048",
+    "successor": null
+}

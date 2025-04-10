@@ -1,0 +1,56 @@
+{
+    "created": "2021-05-30T10:17:36.624+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "An ontology and inventory of geopolitical entities such as nations and their components (states, provinces, districts, counties) and the actual physical territories over which they have jurisdiction.  We thus distinguish and assign different identifiers to the US in \"The US declared war on Germany\" vs. the US in \"The plane entered US airspace\".",
+    "id": 2677,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000824",
+    "modified": "2021-05-30T10:17:36.624+00:00",
+    "name": "Geographical Entity Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^GEO_[0-9]{9}$",
+    "prefix": "geogeo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The biomedical informatics program at the University of Florida, hosted by both the UF Clinical and Translational Science Institute and the Department of Health Outcomes & Biomedical Informatics",
+            "id": 2678,
+            "institution": {
+                "description": "The biomedical informatics program at the University of Florida, hosted by both the UF Clinical and Translational Science Institute and the Department of Health Outcomes & Biomedical Informatics",
+                "homeUrl": "https://hobi.med.ufl.edu/research-2/biomedical-informatics-3/",
+                "id": 2676,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Florida Biomedical Informatics Program",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000821",
+            "name": "University of Florida Biomedical Informatics Program",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "obo",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://github.com/ufbmi",
+            "sampleId": "GEO_000000021",
+            "urlPattern": "http://purl.obolibrary.org/obo/{$id}"
+        }
+    ],
+    "sampleId": "GEO_000000021",
+    "successor": null
+}

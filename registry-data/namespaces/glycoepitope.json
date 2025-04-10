@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:29.214+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GlycoEpitope is a database containing useful information about carbohydrate antigens (glyco-epitopes) and the antibodies (polyclonal or monoclonal) that can be used to analyze their expression. This collection references Glycoepitopes.",
+    "id": 1360,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000478",
+    "modified": "2019-06-11T14:17:29.214+00:00",
+    "name": "GlycoEpitope",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^EP\\d{4}$",
+    "prefix": "glycoepitope",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GlycoEpitope at Ritsumeikan University",
+            "id": 1362,
+            "institution": {
+                "description": "Ritsumeikan will pursue the creation of universal values based on academic freedom and search for solutions to the pressing issues facing humankind, with its educational endeavours based on its founding spirit and educational ideals, bearing in mind “to believe in the future, to live for the future.” Ritsumeikan will foster learning and the development of individual talents in order to nurture just and ethical global citizens. Ritsumeikan, as an institute of education and research, pledges to promote peace, democracy and sustainable development in Japan and throughout the world, in keeping with the spirit of this Charter. ",
+                "homeUrl": "https://en.ritsumei.ac.jp/research/overview/",
+                "id": 1361,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Kawasaki laboratory, Research Center for Glycobiotechnology, Ritsumeikan University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100613",
+            "name": "GlycoEpitope at Ritsumeikan University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.glycoepitope.jp/epitopes/",
+            "sampleId": "EP0311",
+            "urlPattern": "https://www.glycoepitope.jp/epitopes/{$id}"
+        }
+    ],
+    "sampleId": "EP0311",
+    "successor": null
+}

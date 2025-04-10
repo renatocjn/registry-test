@@ -1,0 +1,56 @@
+{
+    "created": "2023-05-02T09:41:15.113+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TogoVar (A comprehensive Japanese genetic variation database) is a database that has collected and organized genome sequence differences between individuals (variants) in the Japanese population and disease information associated with them.",
+    "id": 3527,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001006",
+    "modified": "2023-05-02T09:41:15.113+00:00",
+    "name": "TogoVar",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^tgv[0-9]+$",
+    "prefix": "togovar",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Database Center for Life Science (DBCLS) is a part of Research Organization of Information and Systems (ROIS) and has been developing new technologies, services and standards for integrating biological databases, which include those developed and maintained in Japan as well as world-renowned databases.",
+            "id": 3528,
+            "institution": {
+                "description": "Database Center for Life Science (DBCLS) is a part of Research Organization of Information and Systems (ROIS) and has been developing new technologies, services and standards for integrating biological databases, which include those developed and maintained in Japan as well as world-renowned databases.",
+                "homeUrl": "https://dbcls.rois.ac.jp/index-en.html",
+                "id": 3526,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Database Center for Life Science, Kashiwa, Chiba, Japan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00001005",
+            "name": "Database Center for Life Science, Kashiwa, Chiba, Japan",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dbcls",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://grch38.togovar.org/",
+            "sampleId": "tgv139393198",
+            "urlPattern": "https://grch38.togovar.org/variant/{$id}"
+        }
+    ],
+    "sampleId": "tgv139393198",
+    "successor": null
+}

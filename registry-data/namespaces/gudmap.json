@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:09.598+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The GenitoUrinary Development Molecular Anatomy Project (GUDMAP) is a consortium of laboratories working to provide the scientific and medical community with tools to facilitate research on the GenitoUrinary (GU) tract.",
+    "id": 1783,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000643",
+    "modified": "2019-06-11T14:18:09.598+00:00",
+    "name": "GUDMAP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[-0-9a-zA-Z]+(@[-0-9a-zA-Z]+)?$",
+    "prefix": "gudmap",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GUDMAP",
+            "id": 1785,
+            "institution": {
+                "description": "The GenitoUrinary Development Molecular Anatomy Project (GUDMAP) is a consortium of laboratories working to provide the scientific and medical community with curated data and tools to facilitate research on the GenitoUrinary (GU) tract. The key components are: a molecular atlas of gene expression for the developing and mature organs of the human and mouse GU tract; a high resolution molecular anatomy that highlights development of the GU system; mouse strains to facilitate developmental and functional studies within the GU system; tutorials describing GU organogenesis and innervation; and access to consortium generated data, unpublished and published, via the GUDMAP data repository. The GUDMAP tools, website and database are a public resource funded by the National Institutes of Health, USA.",
+                "homeUrl": "https://www.gudmap.org/",
+                "id": 1784,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "GenitoUrinary Development Molecular Anatomy Project (GUDMAP) Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100848",
+            "name": "GUDMAP",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.gudmap.org/",
+            "sampleId": "Q-2958",
+            "urlPattern": "https://gudmap.org/id/{$id}"
+        }
+    ],
+    "sampleId": "Q-2958",
+    "successor": null
+}

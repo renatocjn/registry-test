@@ -1,0 +1,56 @@
+{
+    "created": "2021-05-10T19:40:34.200+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Integrated Canine Data Commons is one of several repositories within the NCI Cancer Research Data Commons (CRDC), a cloud-based data science infrastructure that provides secure access to a large, comprehensive, and expanding collection of cancer research data. The ICDC was established to further research on human cancers by enabling comparative analysis with canine cancer.",
+    "id": 2638,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000812",
+    "modified": "2022-03-31T16:55:06.915+00:00",
+    "name": "Integrated Canine Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{6}$",
+    "prefix": "icdc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Integrated Canine Data Commons at National Cancer Institute (USA)",
+            "id": 2639,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/040gcmg81' with Wikidata IDs [Q664846], and ISNI IDs [0000 0004 1936 8075]",
+                "homeUrl": "https://www.cancer.gov/",
+                "id": 2637,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute",
+                "rorId": "https://ror.org/040gcmg81"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000811",
+            "name": "Integrated Canine Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "icdc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://caninecommons.cancer.gov/#/",
+            "sampleId": "000009",
+            "urlPattern": "https://caninecommons.cancer.gov/#/study/{$id}"
+        }
+    ],
+    "sampleId": "000009",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:03.141+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MarCat is a gene (protein) catalogue of uncultivable and cultivable marine genes and proteins derived from metagenomics samples.",
+    "id": 1707,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000615",
+    "modified": "2019-06-11T14:18:03.141+00:00",
+    "name": "MarCat",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MMP\\d+.\\d+$",
+    "prefix": "mmp.cat",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MarCat through SfB",
+            "id": 1708,
+            "institution": {
+                "description": "The Center for Bioinformatics at the Faculty of Science and Technology is a research-based service center established to facilitate cross-disciplinary research, teaching, and services at the interface of biotechnology and computer science. The center currently comprises researchers and students from the Department of Chemistry and the Department of Computer Science. The center provides research collaboration and services related to bioinformatics.",
+                "homeUrl": "https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=347053",
+                "id": 1703,
+                "location": {
+                    "countryCode": "NO",
+                    "countryName": "Norway"
+                },
+                "name": "Center for Bioinformatics (SfB), UiT The Arctic university of Norway",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NO",
+                "countryName": "Norway"
+            },
+            "mirId": "MIR:00100819",
+            "name": "MarCat through SfB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mmp.sfb.uit.no/databases/marcat/",
+            "sampleId": "MMP743597.11",
+            "urlPattern": "https://mmp.sfb.uit.no/databases/marcat/#/records/{$id}"
+        }
+    ],
+    "sampleId": "MMP743597.11",
+    "successor": null
+}

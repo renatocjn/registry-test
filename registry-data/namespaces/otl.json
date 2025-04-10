@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:30.833+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Oryza Tag Line is a database that was developed to collect information generated from the characterization of rice (Oryza sativa L cv. Nipponbare) insertion lines resulting in potential gene disruptions. It collates morpho-physiological alterations observed during field evaluation, with each insertion line documented through a generic passport data including production records, seed stocks and FST information.",
+    "id": 1379,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000486",
+    "modified": "2019-06-11T14:17:30.833+00:00",
+    "name": "Oryza Tag Line",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^A[A-Z]+\\d+$",
+    "prefix": "otl",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Oryza Tag Line at CIRAD-INRA-SUPAGRO-UMI",
+            "id": 1381,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1380,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "CIRAD-INRA-SUPAGRO-UMII, Biological Systems Department, Montpellier",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100622",
+            "name": "Oryza Tag Line at CIRAD-INRA-SUPAGRO-UMI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://oryzatagline.cirad.fr/",
+            "sampleId": "AADB12",
+            "urlPattern": "http://oryzatagline.cirad.fr/cgi-bin/general_mutant.pl?line={$id}"
+        }
+    ],
+    "sampleId": "AADB12",
+    "successor": null
+}

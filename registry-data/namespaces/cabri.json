@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:39.396+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CABRI (Common Access to Biotechnological Resources and Information) is an online service where users can search a number of European Biological Resource Centre catalogues. It lists the availability of a particular organism or genetic resource and defines the set of technical specifications and procedures which should be used to handle it.",
+    "id": 767,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000261",
+    "modified": "2019-06-11T14:16:39.396+00:00",
+    "name": "CABRI",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([A-Za-z]+)?(\\_)?([A-Za-z-]+)\\:([A-Za-z0-9 ]+)$",
+    "prefix": "cabri",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CABRI Cell Lines catalogue in Genova (SRS)",
+            "id": 769,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 768,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "National Cancer Research Institute of Genova, Genova",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100334",
+            "name": "CABRI Cell Lines catalogue in Genova (SRS)",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cabri.org/",
+            "sampleId": "dsmz_mutz-id:ACC 291",
+            "urlPattern": "http://www.cabri.org/CABRI/srs-bin/wgetz?-e+-page+EntryPage+[{$id}]"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CABRI Cell Lines catalogue in Brussels (SRS)",
+            "id": 771,
+            "institution": {
+                "description": "The BCCM consortium has grown to become one of the most important culture collections in the world, both in terms of the size and quality of the collections (bacteria, yeasts, moulds, plasmids, diatoms, DNA libraries) and its expertise. Not only does the consortium keep more than 200,000 quality controlled, characterised and documented units of biological material, but it also offers its expertise through services and partnership projects.",
+                "homeUrl": "http://bccm.belspo.be/",
+                "id": 770,
+                "location": {
+                    "countryCode": "BE",
+                    "countryName": "Belgium"
+                },
+                "name": "Belgian Coordinated Collections of Microorganisms",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "BE",
+                "countryName": "Belgium"
+            },
+            "mirId": "MIR:00100335",
+            "name": "CABRI Cell Lines catalogue in Brussels (SRS)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.be.cabri.org/",
+            "sampleId": "dsmz_mutz-id:ACC 291",
+            "urlPattern": "http://www.be.cabri.org/CABRI/srs-bin/wgetz?-e+-page+EntryPage+[{$id}]"
+        }
+    ],
+    "sampleId": "dsmz_mutz-id:ACC 291",
+    "successor": null
+}

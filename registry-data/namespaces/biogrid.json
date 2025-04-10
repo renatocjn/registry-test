@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:48.429+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BioGRID is a database of physical and genetic interactions in Saccharomyces cerevisiae, Caenorhabditis elegans, Drosophila melanogaster, Homo sapiens, and Schizosaccharomyces pombe.",
+    "id": 206,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000058",
+    "modified": "2019-06-11T14:15:48.429+00:00",
+    "name": "BioGRID",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "biogrid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioGRID database of physical and genetic interactions",
+            "id": 208,
+            "institution": {
+                "description": "Cancer Care Ontario is the Ontario government’s principal cancer advisor and a division of CCO. We equip health professionals, organizations and policy-makers with the most up-to-date cancer knowledge and tools to prevent cancer and deliver high-quality patient care.",
+                "homeUrl": "https://www.cancercareontario.ca/en",
+                "id": 207,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Ontario Cancer Institute",
+                "rorId": "https://ror.org/029n6xw55"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100086",
+            "name": "BioGRID database of physical and genetic interactions",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://thebiogrid.org/",
+            "sampleId": "31623",
+            "urlPattern": "http://thebiogrid.org/{$id}"
+        }
+    ],
+    "sampleId": "31623",
+    "successor": null
+}

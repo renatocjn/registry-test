@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-29T10:45:35.629+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Concept used by ModelDB, an accessible location for storing and efficiently retrieving computational neuroscience models.",
+    "id": 3036,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000905",
+    "modified": "2022-01-29T10:45:35.629+00:00",
+    "name": "ModelDB concept",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "\\d+",
+    "prefix": "modeldb.concept",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/03v76x132' with Wikidata IDs [Q56612637,Q49112], and ISNI IDs [0000000419368710]",
+            "id": 3037,
+            "institution": {
+                "description": "Since its founding in 1701, Yale has been dedicated to expanding and sharing knowledge, inspiring innovation, and preserving cultural and scientific information for future generations.",
+                "homeUrl": "https://www.yale.edu",
+                "id": 3035,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Yale University",
+                "rorId": "https://ror.org/03v76x132"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000904",
+            "name": "Yale University",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "yale",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.yale.edu",
+            "sampleId": "3639",
+            "urlPattern": "https://senselab.med.yale.edu/ModelDB/ModelList?id={$id}"
+        }
+    ],
+    "sampleId": "3639",
+    "successor": null
+}

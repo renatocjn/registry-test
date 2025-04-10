@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-10T18:54:31.118+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Blue Brain Project's published data as knowledge graphs and Web Studios.",
+    "id": 3020,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000903",
+    "modified": "2022-01-10T18:54:31.118+00:00",
+    "name": "Blue Brain Project Knowledge Graph",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[-\\w]+(?:\\/[-\\w]+)(?:\\/\\b[0-9a-f]{8}\\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\\b[0-9a-f]{12}\\b)$",
+    "prefix": "bbkg",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.",
+            "id": 3021,
+            "institution": {
+                "description": "The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.",
+                "homeUrl": "https://portal.bluebrain.epfl.ch",
+                "id": 2985,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Blue Brain Project, EPFL",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00000902",
+            "name": "Blue Brain Project, EPFL",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bbkg",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://portal.bluebrain.epfl.ch",
+            "sampleId": "topological-sampling/studios/f0ba2f3e-aa6f-4264-8d18-8ee65cf6f61a",
+            "urlPattern": "https://bbp.epfl.ch/nexus/web/studios/public/{$id}"
+        }
+    ],
+    "sampleId": "topological-sampling/studios/f0ba2f3e-aa6f-4264-8d18-8ee65cf6f61a",
+    "successor": null
+}

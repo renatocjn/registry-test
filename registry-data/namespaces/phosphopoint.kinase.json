@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:08.222+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PhosphoPOINT is a database of the human kinase and phospho-protein interactome. It describes the interactions among kinases, their potential substrates and their interacting (phospho)-proteins. It also incorporates gene expression and uses gene ontology (GO) terms to annotate interactions. This collection references kinase information.",
+    "id": 1115,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000385",
+    "modified": "2019-06-11T14:17:08.222+00:00",
+    "name": "PhosphoPoint Kinase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "phosphopoint.kinase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PhosphoPoint Kinase at National Taiwan University",
+            "id": 1117,
+            "institution": {
+                "description": "Founded in 1985 as Department of Information and Computer Education, then officially renamed to Computer Science and Information Engineering in 2006. The department offers Bachelor, Master and Doctoral degrees with special emphasis in all fields of computer science and engineering. Currently there are approximately 200 undergraduate students and 150 graduate students enrolled, and there are 16 full-time faculties.",
+                "homeUrl": "https://en.ntnu.edu.tw/p-Computerscience.php",
+                "id": 1116,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Department of Computer Science and Information Engineering, National Taiwan University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100499",
+            "name": "PhosphoPoint Kinase at National Taiwan University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://kinase.bioinformatics.tw/",
+            "sampleId": "AURKA",
+            "urlPattern": "http://kinase.bioinformatics.tw/showall.jsp?type=Kinase&info=Gene&name={$id}&drawing=0&sorting=0&kinome=1"
+        }
+    ],
+    "sampleId": "AURKA",
+    "successor": null
+}

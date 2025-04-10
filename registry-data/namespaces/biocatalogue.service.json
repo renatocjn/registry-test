@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:10.872+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The BioCatalogue provides a common interface for registering, browsing and annotating Web Services to the Life Science community. Registered services are monitored, allowing the identification of service problems and changes and the filtering-out of unavailable or unreliable resources. BioCatalogue is free to use, for all.",
+    "id": 445,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000140",
+    "modified": "2019-06-11T14:16:10.872+00:00",
+    "name": "BioCatalogue",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "biocatalogue.service",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioCatalogue at EMBL-EBI",
+            "id": 446,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100182",
+            "name": "BioCatalogue at EMBL-EBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.biocatalogue.org/",
+            "sampleId": "614",
+            "urlPattern": "https://www.biocatalogue.org/services/{$id}"
+        }
+    ],
+    "sampleId": "614",
+    "successor": null
+}

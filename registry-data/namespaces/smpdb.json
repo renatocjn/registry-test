@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:00.499+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Small Molecule Pathway Database (SMPDB) contains small molecule pathways found in humans, which are presented visually. All SMPDB pathways include information on the relevant organs, subcellular compartments, protein cofactors, protein locations, metabolite locations, chemical structures and protein quaternary structures. Accompanying data includes detailed descriptions and references, providing an overview of the pathway, condition or processes depicted in each diagram.",
+    "id": 336,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000104",
+    "modified": "2019-06-11T14:16:00.499+00:00",
+    "name": "Small Molecule Pathway Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^SMP\\d+$",
+    "prefix": "smpdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Small Molecule Pathway Database",
+            "id": 337,
+            "institution": {
+                "description": "The University of Alberta in Edmonton is one of Canada's top teaching and research universities, with an international reputation for excellence across the humanities, sciences, creative arts, business, engineering and health sciences.",
+                "homeUrl": "https://www.ualberta.ca",
+                "id": 334,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of Alberta",
+                "rorId": "https://ror.org/0160cpw27"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100137",
+            "name": "Small Molecule Pathway Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://smpdb.ca/",
+            "sampleId": "SMP00001",
+            "urlPattern": "http://smpdb.ca/view/{$id}"
+        }
+    ],
+    "sampleId": "SMP00001",
+    "successor": null
+}

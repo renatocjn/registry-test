@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:31.315+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PaxDb is a resource dedicated to integrating information on absolute protein abundance levels across different organisms. Publicly available experimental data are mapped onto a common namespace and, in the case of tandem mass spectrometry data, re-processed using a standardized spectral counting pipeline. Data sets are scored and ranked to assess consistency against externally provided protein-network information. PaxDb provides whole-organism data as well as tissue-resolved data, for numerous proteins. This collection references protein abundance information by species.",
+    "id": 1384,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000488",
+    "modified": "2019-06-11T14:17:31.315+00:00",
+    "name": "PaxDb Organism",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "paxdb.organism",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PaxDb v3 at University of Zurich",
+            "id": 1386,
+            "institution": {
+                "description": "Bottom-up research to enhance our understanding of the molecular basis of life. It is only by understanding how biological processes work that we can hope to intervene in cases where things go awry.",
+                "homeUrl": "https://www.mls.uzh.ch/en.html",
+                "id": 1385,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Institute of Molecular Life Sciences, University of Zurich, Zurich",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100624",
+            "name": "PaxDb v3 at University of Zurich",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pax-db.org/",
+            "sampleId": "9606",
+            "urlPattern": "http://pax-db.org/#!species/{$id}"
+        }
+    ],
+    "sampleId": "9606",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:14.830+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Genotype-Tissue Expression (GTEx) project aims to provide to the scientific community a resource with which to study human gene expression and regulation and its relationship to genetic variation.",
+    "id": 1839,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000663",
+    "modified": "2019-06-11T14:18:14.830+00:00",
+    "name": "GTEx",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w.+$",
+    "prefix": "gtex",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The GTEx Project",
+            "id": 1841,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1840,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Broad Institute of MIT and Harvard",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100881",
+            "name": "The GTEx Project",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.gtexportal.org",
+            "sampleId": "BRIP1",
+            "urlPattern": "https://www.gtexportal.org/home/gene/{$id}"
+        }
+    ],
+    "sampleId": "BRIP1",
+    "successor": null
+}

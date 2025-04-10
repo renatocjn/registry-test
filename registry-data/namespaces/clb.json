@@ -1,0 +1,56 @@
+{
+    "created": "2022-11-03T14:17:05.019+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ChecklistBank is an index and repository for taxonomic and nomenclatural datasets",
+    "id": 3292,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000964",
+    "modified": "2022-11-03T14:17:05.019+00:00",
+    "name": "ChecklistBank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+(LR)?$",
+    "prefix": "clb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChecklistBank at GBIF. Codeveloped with the Catalogue of Life",
+            "id": 3293,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/05fjyn938' with Wikidata IDs [Q1531570], and no ISNI information",
+                "homeUrl": "https://www.gbif.org/",
+                "id": 3291,
+                "location": {
+                    "countryCode": "DK",
+                    "countryName": "Denmark"
+                },
+                "name": "Global Biodiversity Information Facility",
+                "rorId": "https://ror.org/05fjyn938"
+            },
+            "location": {
+                "countryCode": "DK",
+                "countryName": "Denmark"
+            },
+            "mirId": "MIR:00000963",
+            "name": "ChecklistBank",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "clb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.checklistbank.org",
+            "sampleId": "1010",
+            "urlPattern": "https://www.checklistbank.org/dataset/{$id}"
+        }
+    ],
+    "sampleId": "1010",
+    "successor": null
+}

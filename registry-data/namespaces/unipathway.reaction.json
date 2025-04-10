@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:51.017+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "UniPathway is a manually curated resource of enzyme-catalyzed and spontaneous chemical reactions. It provides a hierarchical representation of metabolic pathways and a controlled vocabulary for pathway annotation in UniProtKB. UniPathway data are cross-linked to existing metabolic resources such as ChEBI/Rhea, KEGG and MetaCyc. This collection references individual reactions.",
+    "id": 1587,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000570",
+    "modified": "2019-06-11T14:17:51.017+00:00",
+    "name": "UniPathway Reaction",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^UCR\\d{5}$",
+    "prefix": "unipathway.reaction",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2019-10-01T12:11:20.049+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniPathway Reaction at Swiss Institute of Bioinformatics (SIB)",
+            "id": 1588,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100752",
+            "name": "UniPathway Reaction at Swiss Institute of Bioinformatics (SIB)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.grenoble.prabi.fr/obiwarehouse/unipathway",
+            "sampleId": "UCR00226",
+            "urlPattern": "http://www.grenoble.prabi.fr/obiwarehouse/unipathway/ucr?upid={$id}"
+        }
+    ],
+    "sampleId": "UCR00226",
+    "successor": null
+}

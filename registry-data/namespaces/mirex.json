@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:54.147+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "mirEX is a comprehensive platform for comparative analysis of primary microRNA expression data, storing RT–qPCR-based gene expression profile over seven development stages of Arabidopsis. It also provides RNA structural models, publicly available deep sequencing results and experimental procedure details. This collection provides profile information for a single microRNA over all development stages.",
+    "id": 946,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000329",
+    "modified": "2019-06-11T14:16:54.147+00:00",
+    "name": "mirEX",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+(\\w+)?$",
+    "prefix": "mirex",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "mirEX at Adam Mickiewicz University",
+            "id": 947,
+            "institution": {
+                "description": "The Faculty of Biology's fundamental rule is the integrity of research, education, and knowledge popularization. Its high scientific status has been confirmed by the prestigious title of the National Scientific Leadership Center (KNOW), obtained together with the Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznań, awarded to scientific institutions conducting world-class research.",
+                "homeUrl": "https://amu.edu.pl/en/main-page/amu-directory/faculties/faculty-of-biology",
+                "id": 731,
+                "location": {
+                    "countryCode": "PL",
+                    "countryName": "Poland"
+                },
+                "name": "Institute of Molecular Biology, Adam Mickiewicz University, Poznan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "PL",
+                "countryName": "Poland"
+            },
+            "mirId": "MIR:00100423",
+            "name": "mirEX at Adam Mickiewicz University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://comgen.pl/mirex/?page=home",
+            "sampleId": "165a",
+            "urlPattern": "http://comgen.pl/mirex1/?page=results/record&name={$id}&exref=pp2a&limit=yes"
+        }
+    ],
+    "sampleId": "165a",
+    "successor": null
+}

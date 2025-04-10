@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:41.273+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The DrugBank database is a bioinformatics and chemoinformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information. This collection references target information from version 4 of the database.",
+    "id": 1485,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000528",
+    "modified": "2019-06-11T14:17:41.273+00:00",
+    "name": "DrugBank Target v4",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^BE\\d{7}$",
+    "prefix": "drugbankv4.target",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DrugBank Target information version 4",
+            "id": 1487,
+            "institution": {
+                "description": "We are a Top 5 Canadian university and one of the Top 150 in the world. Find out what makes our student experience so rich, meaningful and life-changing.",
+                "homeUrl": "https://www.ualberta.ca/index.html",
+                "id": 331,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Departments of Computing Science & Biological Sciences,  University of Alberta",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100687",
+            "name": "DrugBank Target information version 4",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.drugbank.ca/targets",
+            "sampleId": "BE0000048",
+            "urlPattern": "http://www.drugbank.ca/biodb/bio_entities/{$id}"
+        }
+    ],
+    "sampleId": "BE0000048",
+    "successor": null
+}

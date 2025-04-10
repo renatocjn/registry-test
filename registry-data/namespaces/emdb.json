@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:48.947+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Electron Microscopy Data Bank (EMDB) is a public repository for electron microscopy density maps of macromolecular complexes and subcellular structures. It covers a variety of techniques, including single-particle analysis, electron tomography, and electron (2D) crystallography. The EMDB map distribution format follows the CCP4 definition, which is widely recognized by software packages used by the structural biology community.",
+    "id": 1565,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000561",
+    "modified": "2023-02-20T08:55:04.411+00:00",
+    "name": "Electron Microscopy Data Bank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^EMD-\\d{4,5}$",
+    "prefix": "emdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EMDB at Protein Data Bank in Europe",
+            "id": 1566,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100738",
+            "name": "EMDB at Protein Data Bank in Europe",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/pdbe/emdb/",
+            "sampleId": "EMD-1001",
+            "urlPattern": "https://www.ebi.ac.uk/pdbe/entry/emdb/{$id}"
+        }
+    ],
+    "sampleId": "EMD-1001",
+    "successor": null
+}

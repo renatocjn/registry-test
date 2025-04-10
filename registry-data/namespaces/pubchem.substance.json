@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:41.269+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "PubChem provides information on the biological activities of small molecules. It is a component of NIH's Molecular Libraries Roadmap Initiative. PubChem Substance archives chemical substance records.",
+    "id": 136,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000033",
+    "modified": "2019-06-11T14:15:41.269+00:00",
+    "name": "PubChem-substance",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pubchem.substance",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCBI PubChem Substance",
+            "id": 137,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100058",
+            "name": "NCBI PubChem Substance",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://pubchem.ncbi.nlm.nih.gov/",
+            "sampleId": "100101",
+            "urlPattern": "https://pubchem.ncbi.nlm.nih.gov/substance/{$id}"
+        }
+    ],
+    "sampleId": "100101",
+    "successor": null
+}

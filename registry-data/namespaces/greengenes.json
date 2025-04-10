@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:16.885+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A 16S rRNA gene database which provides chimera screening, standard alignment, and taxonomic classification using multiple published taxonomies.",
+    "id": 511,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000165",
+    "modified": "2019-06-11T14:16:16.885+00:00",
+    "name": "GreenGenes",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "greengenes",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GreenGenes at Lawrence Berkeley",
+            "id": 513,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 512,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Environmental Biotechnology, Lawrence Berkeley National Laboratory, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100211",
+            "name": "GreenGenes at Lawrence Berkeley",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://greengenes.lbl.gov/",
+            "sampleId": "100000",
+            "urlPattern": "http://greengenes.lbl.gov/cgi-bin/show_one_record_v2.pl?prokMSA_id={$id}"
+        }
+    ],
+    "sampleId": "100000",
+    "successor": null
+}

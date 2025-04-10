@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:20.364+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The VIAF® (Virtual International Authority File) combines multiple name authority files into a single OCLC-hosted name authority service. The goal of the service is to lower the cost and increase the utility of library authority files by matching and linking widely-used authority files and making that information available on the Web.",
+    "id": 1898,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000685",
+    "modified": "2019-06-11T14:18:20.364+00:00",
+    "name": "Virtual International Authority File",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "viaf",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Virtual International Authority File",
+            "id": 1900,
+            "institution": {
+                "description": "OCLC is a nonprofit global library organization that provides shared technology services, original research, and community programs so that libraries can better fuel learning, research, and innovation.",
+                "homeUrl": "https://www.oclc.org/",
+                "id": 226,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "OCLC Online Computer Library Center, Inc. Ohio",
+                "rorId": "https://ror.org/02nv42w72"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100916",
+            "name": "Virtual International Authority File",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://viaf.org",
+            "sampleId": "75121530",
+            "urlPattern": "http://viaf.org/viaf/{$id}"
+        }
+    ],
+    "sampleId": "75121530",
+    "successor": null
+}

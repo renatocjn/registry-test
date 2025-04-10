@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:44.903+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Library of Network-Based Cellular Signatures (LINCS) Program aims to  create a network-based understanding of biology by cataloging changes in gene expression and other cellular processes that occur when cells are exposed to a variety of perturbing agents. The LINCS cell model system can have the following cell categories: cell lines, primary cells, induced pluripotent stem cells, differentiated cells, and embryonic stem cells. The metadata contains information provided by each LINCS Data and Signature Generation Center (DSGC) and the association with a tissue or organ from which the cells were derived, in many cases are also associated to a disease.",
+    "id": 1525,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000544",
+    "modified": "2019-06-11T14:17:44.903+00:00",
+    "name": "LINCS Cell",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "(^LCL-\\d+$)|(^LDC-\\d+$)|(^ES-\\d+$)|(^LSC-\\d+$)|(^LPC-\\d+$)",
+    "prefix": "lincs.cell",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LINCS Portal",
+            "id": 1527,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1526,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Miami, BD2K-LINCS DCIC",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100721",
+            "name": "LINCS Portal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://lincsportal.ccs.miami.edu/cells/",
+            "sampleId": "LCL-2085",
+            "urlPattern": "http://lincsportal.ccs.miami.edu/cells/#/view/{$id}"
+        }
+    ],
+    "sampleId": "LCL-2085",
+    "successor": null
+}

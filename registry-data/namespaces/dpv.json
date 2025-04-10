@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:43.916+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Description of Plant Viruses (DPV) provides information about viruses, viroids and satellites of plants, fungi and protozoa. It provides taxonomic information, including brief descriptions of each family and genus, and classified lists of virus sequences. The database also holds detailed information for all sequences of viruses, viroids and satellites of plants, fungi and protozoa that are complete or that contain at least one complete gene.",
+    "id": 823,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000280",
+    "modified": "2019-06-11T14:16:43.916+00:00",
+    "name": "DPV",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "dpv",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DPV at Rothamsted",
+            "id": 825,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 824,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Plant-Pathogen Interactions Division, Wheat Pathogenesis Programme, Rothamsted Research Harpenden, Hertfordshire",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100361",
+            "name": "DPV at Rothamsted",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.dpvweb.net/",
+            "sampleId": "100",
+            "urlPattern": "http://www.dpvweb.net/dpv/showdpv.php?dpvno={$id}"
+        }
+    ],
+    "sampleId": "100",
+    "successor": null
+}

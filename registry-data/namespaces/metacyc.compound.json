@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:01.783+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MetaCyc is a curated database of experimentally elucidated metabolic pathways from all domains of life. MetaCyc contains 2526 pathways from 2844 different organisms. MetaCyc contains pathways involved in both primary and secondary metabolism, as well as associated metabolites, reactions, enzymes, and genes. The goal of MetaCyc is to catalog the universe of metabolism by storing a representative sample of each experimentally elucidated pathway.",
+    "id": 1691,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000609",
+    "modified": "2021-04-17T19:53:03.023+00:00",
+    "name": "MetaCyc Compound",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9+_.%-:]+$",
+    "prefix": "metacyc.compound",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MetaCyc Metabolic Pathway Database",
+            "id": 1693,
+            "institution": {
+                "description": "SRI is an independent, nonprofit research center that works with clients to take the most advanced R&D from the laboratory to the marketplace.",
+                "homeUrl": "https://www.sri.com/",
+                "id": 1692,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "SRI International",
+                "rorId": "https://ror.org/05s570m15"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100813",
+            "name": "MetaCyc Metabolic Pathway Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://metacyc.org",
+            "sampleId": "CPD-10330",
+            "urlPattern": "https://metacyc.org/compound?orgid=META&id={$id}"
+        }
+    ],
+    "sampleId": "CPD-10330",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2022-03-15T08:27:12.699+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Pennsieve is a publicly accessible Scientific Data Management and publication platform. The platform supports data curation, sharing and publishing complex scientific datasets with a focus on integration between graph-based metadata and file-archival. The platform provides a \"peer\"-reviewed publication mechanism and public datasets are available through its Discover Web Application and APIs. ",
+    "id": 3203,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000951",
+    "modified": "2022-03-15T08:27:12.699+00:00",
+    "name": "Pennsieve",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "N:package:[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}",
+    "prefix": "ps",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Pennsieve Discover is a public repository for scientific datasets and specializes in FAIR distribution of public datasets that combine large files and graph based metadata records. ",
+            "id": 3204,
+            "institution": {
+                "description": "Penn’s academics are boosted by its inherent culture and ecosystem of innovation. You name it, if it’s cutting-edge, the University’s faculty—and students—have their hands in it. Grounded in the liberal arts and sciences and enriched by the integrated resources of four undergraduate and 12 graduate schools, Penn offers students an unparalleled education informed by inclusivity, intellectual rigor, research, and the impetus to create new knowledge to the benefit of individuals and communities around the world.",
+                "homeUrl": "https://www.upenn.edu/",
+                "id": 1674,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Pennsylvania",
+                "rorId": "https://ror.org/00b30xv10"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000950",
+            "name": "Pennsieve Discover",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ps",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://discover.pennsieve.io",
+            "sampleId": "N:package:e3243db3-7986-488e-9a10-c7a0bfdcfe8a",
+            "urlPattern": "https://discover.pennsieve.io/package/{$id}"
+        }
+    ],
+    "sampleId": "N:package:e3243db3-7986-488e-9a10-c7a0bfdcfe8a",
+    "successor": null
+}

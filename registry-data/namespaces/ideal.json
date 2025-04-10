@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:11.651+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "IDEAL provides a collection of knowledge on experimentally verified intrinsically disordered proteins. It contains manual annotations by curators on intrinsically disordered regions, interaction regions to other molecules, post-translational modification sites, references and structural domain assignments.",
+    "id": 1155,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000398",
+    "modified": "2019-06-11T14:17:11.651+00:00",
+    "name": "IDEAL",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^IID\\d+$",
+    "prefix": "ideal",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IDEAL at Nagoya University",
+            "id": 1157,
+            "institution": {
+                "description": "Nagoya University has a 144-year history, dating from when the Temporary　Medical School/Public Hospital -- the forerunner of today's Nagoya University -- was established in 1871. The University became the last Imperial University of Japan in 1939, and the educational reforms in 1949 led to the beginning of Nagoya University under the new education system. From that time to this day, the University has been pursuing steady development.",
+                "homeUrl": "http://en.nagoya-u.ac.jp/",
+                "id": 1156,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Nagoya University",
+                "rorId": "https://ror.org/04chrp450"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100518",
+            "name": "IDEAL at Nagoya University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ideal.force.cs.is.nagoya-u.ac.jp/IDEAL/",
+            "sampleId": "IID00001",
+            "urlPattern": "http://idp1.force.cs.is.nagoya-u.ac.jp/IDEAL/ideal.php?id={$id}"
+        }
+    ],
+    "sampleId": "IID00001",
+    "successor": null
+}

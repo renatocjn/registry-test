@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:20.599+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Established by the Financial Stability Board in June 2014, the Global Legal Entity Identifier Foundation (GLEIF) is tasked to support the implementation and use of the Legal Entity Identifier (LEI). The foundation is backed and overseen by the LEI Regulatory Oversight Committee, representing public authorities from around the globe that have come together to jointly drive forward transparency within the global financial markets. GLEIF is a supra-national not-for-profit organization headquartered in Basel, Switzerland.",
+    "id": 1901,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000686",
+    "modified": "2019-06-11T14:18:20.599+00:00",
+    "name": "Global LEI Index",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9A-Z]{4}[0-9A-Z]{14}[0-9A-Z]{2}$",
+    "prefix": "lei",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Global LEI Index",
+            "id": 1903,
+            "institution": {
+                "description": "Established by the Financial Stability Board in June 2014, the Global Legal Entity Identifier Foundation (GLEIF) is tasked to support the implementation and use of the Legal Entity Identifier (LEI). The foundation is backed and overseen by the Regulatory Oversight Committee, representing public authorities from around the globe that have come together to jointly drive forward transparency within the global financial markets. GLEIF is a supra-national not-for-profit organization headquartered in Basel, Switzerland.",
+                "homeUrl": "https://www.gleif.org/en",
+                "id": 1902,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Global Legal Entity Identifier Foundation",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100917",
+            "name": "Global LEI Index",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.gleif.org/",
+            "sampleId": "HWUPKR0MPOU8FGXBT394",
+            "urlPattern": "https://www.gleif.org/lei/{$id}"
+        }
+    ],
+    "sampleId": "HWUPKR0MPOU8FGXBT394",
+    "successor": null
+}

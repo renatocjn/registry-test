@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:19.843+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MycoBank is an online database, documenting new mycological names and combinations, eventually combined with descriptions and illustrations.",
+    "id": 546,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000178",
+    "modified": "2019-06-11T14:16:19.843+00:00",
+    "name": "MycoBank",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mycobank",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MycoBank at Fungal Biodiversity Centre",
+            "id": 548,
+            "institution": {
+                "description": "The Westerdijk Fungal Biodiversity Institute performs highly innovative mycological research that contributes to the discovery and understanding of fungi and its biodiversity and potential solutions to societal challenges. The Westerdijk Institute has an encompassing and high quality collection of living fungi and related meta data that is highly utilized by public and private parties.\nThe main focus of the Westerdijk Fungal Biodiversity Institute is and will continue to be to explore, study and preserve our fungal collection. We recognize the enormous potential of fungi in the application of solving the world’s biggest challenges. We therefore enhance our partnering with the scientific community, both in the academic, medical, agricultural and industrial field for fundamental and applied research. We also built a new wing to our institute, dedicated to novel product discovery. ",
+                "homeUrl": "https://wi.knaw.nl/",
+                "id": 547,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "CBS-KNAW  Fungal Biodiversity Centre, Utrecht",
+                "rorId": "https://ror.org/030a5r161"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100224",
+            "name": "MycoBank at Fungal Biodiversity Centre",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mycobank.org/",
+            "sampleId": "349124",
+            "urlPattern": "http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_={$id}"
+        }
+    ],
+    "sampleId": "349124",
+    "successor": null
+}

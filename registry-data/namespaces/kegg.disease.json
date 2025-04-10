@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:28.601+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The KEGG DISEASE database is a collection of disease entries capturing knowledge on genetic and environmental perturbations. Each disease entry contains a list of known genetic factors (disease genes), environmental factors, diagnostic markers, and therapeutic drugs. Diseases are viewed as perturbed states of the molecular system, and drugs as perturbants to the molecular system.",
+    "id": 1353,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000475",
+    "modified": "2019-06-11T14:17:28.601+00:00",
+    "name": "KEGG Disease",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^H\\d+$",
+    "prefix": "kegg.disease",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "KEGG Disease at Kyoto University Bioinformatics Center",
+            "id": 1354,
+            "institution": {
+                "description": "The Bioinformatics Center aims at developing new informatics technologies for deciphering the genome, especially from the viewpoint of how life operates as a system, and promoting both basic and applied research areas in bioinformatics. The Center consists of three research laboratories, named Chemical Life Science, Mathematical Bioinformatics, and Bio-Knowledge Engineering, which focus on scientific discovery, algorithms, and data mining, respectively. ",
+                "homeUrl": "https://www.bic.kyoto-u.ac.jp/",
+                "id": 15,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Kyoto University Bioinformatics Center",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100610",
+            "name": "KEGG Disease at Kyoto University Bioinformatics Center",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.genome.jp/kegg/disease/",
+            "sampleId": "H00076",
+            "urlPattern": "http://www.kegg.jp/entry/{$id}"
+        }
+    ],
+    "sampleId": "H00076",
+    "successor": null
+}

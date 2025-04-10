@@ -1,0 +1,56 @@
+{
+    "created": "2020-12-14T12:49:56.333+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Curated contextual database gathering samples related to SARS-CoV-2 virus and covid-19 disease.",
+    "id": 2477,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000789",
+    "modified": "2020-12-14T12:49:56.333+00:00",
+    "name": "SARS-CoV-2",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+_COVID19_[-\\w]+$",
+    "prefix": "covid19",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Elixir@UiT is the local branch of ELIXIR-NO node based at UiT.",
+            "id": 2478,
+            "institution": {
+                "description": "One of Norway's broadest universities, with study programs in ten locations: Tromsø, Harstad, Narvik, Alta, Hammerfest, Kirkenes, Mo i Rana, Bodø, Bardufoss and Svalbard.",
+                "homeUrl": "https://uit.no/startsida",
+                "id": 2476,
+                "location": {
+                    "countryCode": "NO",
+                    "countryName": "Norway"
+                },
+                "name": "University of Tromsø - The Arctic University of Norway",
+                "rorId": "https://ror.org/00wge5k78"
+            },
+            "location": {
+                "countryCode": "NO",
+                "countryName": "Norway"
+            },
+            "mirId": "MIR:00000787",
+            "name": "Elixir@UiT",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "sfb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://covid19.sfb.uit.no",
+            "sampleId": "SFB_COVID19_MW286762",
+            "urlPattern": "https://covid19.sfb.uit.no/api/records/{$id}"
+        }
+    ],
+    "sampleId": "SFB_COVID19_MW286762",
+    "successor": null
+}

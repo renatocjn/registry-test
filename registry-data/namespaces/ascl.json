@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:09.136+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Astrophysics Source Code Library (ASCL) is a free online registry for software that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. The ASCL is indexed by the SAO/NASA Astrophysics Data System (ADS) and Web of Science's Data Citation Index (WoS DCI), and is citable by using the unique ascl ID assigned to each code. The ascl ID can be used to link to the code entry by prefacing the number with ascl.net (i.e., ascl.net/1201.001).",
+    "id": 1777,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000641",
+    "modified": "2019-06-11T14:18:09.136+00:00",
+    "name": "Astrophysics Source Code Library",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9\\.]+$",
+    "prefix": "ascl",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Astrophysics Source Code Library",
+            "id": 1779,
+            "institution": {
+                "description": "The Astrophysics Source Code Library (ASCL), founded in 1999 by Robert Nemiroff and John Wallin, takes an active approach to sharing astrophysical source code.",
+                "homeUrl": "http://ascl.net/",
+                "id": 1778,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Astrophysics Source Code Library",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100846",
+            "name": "Astrophysics Source Code Library",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ascl.net/",
+            "sampleId": "1801.012",
+            "urlPattern": "http://ascl.net/{$id}"
+        }
+    ],
+    "sampleId": "1801.012",
+    "successor": null
+}

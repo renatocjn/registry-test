@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:30:23.278+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "AccessClinicalData@NIAID is a NIAID cloud-based, secure data platform that enables sharing of and access to reports and data sets from NIAID COVID-19 and other sponsored clinical trials for the basic and clinical research community.",
+    "id": 3139,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000917",
+    "modified": "2022-02-27T20:30:23.278+00:00",
+    "name": "https://accessclinicaldata.niaid.nih.gov/",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.nacd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AccessClinicalData@NIAID is a NIAID cloud-based, secure data platform that enables sharing of and access to reports and data sets from NIAID COVID-19 and other sponsored clinical trials for the basic and clinical research community",
+            "id": 3140,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000999",
+            "name": "https://accessclinicaldata.niaid.nih.gov/",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.nacd",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://accessclinicaldata.niaid.nih.gov/",
+            "sampleId": "2096a0d6-1846-4b98-9ba3-e4065d82111d",
+            "urlPattern": "https://accessclinicaldata.niaid.nih.gov/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "2096a0d6-1846-4b98-9ba3-e4065d82111d",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:59.221+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Identifiers.org registry contains registered namespace and provider prefixes with associated access URIs for a large number of high quality data collections. These prefixes are used in web resolution of compact identifiers of the form “PREFIX:ACCESSION” or \"PROVIDER/PREFIX:ACCESSION” commonly used to specify bioinformatics and other data resources.",
+    "id": 1664,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000599",
+    "modified": "2019-06-11T14:17:59.221+00:00",
+    "name": "Identifiers.org Registry",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MIR:\\d{8}$",
+    "prefix": "mir",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Identifiers.org Registry through EBI",
+            "id": 1665,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100800",
+            "name": "Identifiers.org Registry through EBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://registry.identifiers.org/registry",
+            "sampleId": "00100037",
+            "urlPattern": "https://resolver.api.identifiers.org/resolveMirId/MIR:{$id}"
+        }
+    ],
+    "sampleId": "00100037",
+    "successor": null
+}

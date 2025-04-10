@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:22.644+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Protein Model DataBase (PMDB), is a database that collects manually built three dimensional protein models, obtained by different structure prediction techniques.",
+    "id": 578,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000190",
+    "modified": "2019-06-11T14:16:22.644+00:00",
+    "name": "Protein Model Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PM\\d{7}",
+    "prefix": "pmdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Model Database at University of Rome",
+            "id": 580,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 579,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "CASPUR and Biocomputing group, Department of Biochemical Sciences, University of Rome, Rome",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100247",
+            "name": "Protein Model Database at University of Rome",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioinformatics.cineca.it/PMDB/",
+            "sampleId": "PM0012345",
+            "urlPattern": "https://bioinformatics.cineca.it/PMDB/user//search.php?idsearch={$id}"
+        }
+    ],
+    "sampleId": "PM0012345",
+    "successor": null
+}

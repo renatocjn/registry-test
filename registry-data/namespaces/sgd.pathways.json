@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:48.132+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Curated biochemical pathways for Saccharomyces cerevisiae at Saccharomyces genome database (SGD).",
+    "id": 203,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000057",
+    "modified": "2019-06-11T14:15:48.132+00:00",
+    "name": "Saccharomyces genome database pathways",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PWY\\w{2}\\-\\d{3}$",
+    "prefix": "sgd.pathways",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Saccharomyces cerevisiae pathways at SGD.",
+            "id": 205,
+            "institution": {
+                "description": "The SGD is a community and bioinformatic resource distributing facts on yeast chromosomes and genes, their products, their functions and interactions.  This project focuses on manual curation and integration of published results from both focused single-gene studies and genomic-scale projects.  We optimize the manual curatorial workflow using text mining of full-text from peer-reviewed papers and focused identification of laboratory methods typically associated with the determination of protein function.  The captured facts are combined in a database that is used by skilled biocurators and verified by bioinformatic analysts.  The assimilated knowledge includes gene function, regulation, interactions, pathways, evolutionary relationships, and all observations from genome analysis.  Open source computational tools are provided to assist researchers in this exploration leading to discovery.",
+                "homeUrl": "https://cherrylab.stanford.edu/projects/saccharomyces-genome-database",
+                "id": 204,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "SGD, Stanford University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100085",
+            "name": "Saccharomyces cerevisiae pathways at SGD.",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pathway.yeastgenome.org/",
+            "sampleId": "PWY3O-214",
+            "urlPattern": "http://pathway.yeastgenome.org/YEAST/new-image?type=PATHWAY&object={$id}"
+        }
+    ],
+    "sampleId": "PWY3O-214",
+    "successor": null
+}

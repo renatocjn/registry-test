@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:18.593+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Genomics of Drug Sensitivity in Cancer (GDSC) database is designed to facilitate an increased understanding of the molecular features that influence drug response in cancer cells and which will enable the design of improved cancer therapies.",
+    "id": 1878,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000678",
+    "modified": "2019-06-11T14:18:18.593+00:00",
+    "name": "Genomics of Drug Sensitivity in Cancer",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "gdsc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Genomics of Drug Sensitivity in Cancer",
+            "id": 1880,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1879,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Wellcome Sanger Institute and the Center for Molecular Therapeutics and Massachusetts General Hospital Cancer Center",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100908",
+            "name": "Genomics of Drug Sensitivity in Cancer",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.cancerrxgene.org",
+            "sampleId": "1242",
+            "urlPattern": "https://www.cancerrxgene.org/translation/Drug/{$id}"
+        }
+    ],
+    "sampleId": "1242",
+    "successor": null
+}

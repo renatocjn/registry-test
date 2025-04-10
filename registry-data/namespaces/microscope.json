@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:06.853+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MicroScope is an integrative resource that supports systematic and efficient revision of microbial genome annotation, data management and comparative analysis.",
+    "id": 1752,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000631",
+    "modified": "2019-06-11T14:18:06.853+00:00",
+    "name": "MicroScope",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "microscope",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MicroScope",
+            "id": 1754,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1753,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Université Évry-Val-d'Essonne, CEA, Institut de Génomique - Genoscope, Laboratoire d'Analyses Bioinformatiques pour la Génomique et le Métabolisme, Evry",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100836",
+            "name": "MicroScope",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.genoscope.cns.fr/agc/microscope",
+            "sampleId": "5601141",
+            "urlPattern": "http://www.genoscope.cns.fr/agc/microscope/mage/info.php?id={$id}"
+        }
+    ],
+    "sampleId": "5601141",
+    "successor": null
+}

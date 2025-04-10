@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:05.614+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "iRefWeb is an interface to a relational database containing the latest build of the interaction Reference Index (iRefIndex) which integrates protein interaction data from ten different interaction databases: BioGRID, BIND, CORUM, DIP, HPRD, INTACT, MINT, MPPI, MPACT and OPHID. In addition, iRefWeb associates interactions with the PubMed record from which they are derived.",
+    "id": 389,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000123",
+    "modified": "2019-06-11T14:16:05.614+00:00",
+    "name": "iRefWeb",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "irefweb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "iRefWeb Protein Interaction Reference Index",
+            "id": 391,
+            "institution": {
+                "description": "The focus of our laboratory is on investigating the principles that govern these interactions. We use molecular simulation and modeling techniques to study protein-protein protein-DNA and protein-ligand interactions at the atomic scale. We furthermore analyze the properties of known protein structures and sequences in order to gain insight into how evolution has shaped the functional specificity of proteins.",
+                "homeUrl": "https://wodaklab.org/",
+                "id": 390,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Wodak Lab, Hospital for Sick Children, Toronto",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100156",
+            "name": "iRefWeb Protein Interaction Reference Index",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://wodaklab.org/iRefWeb/",
+            "sampleId": "617102",
+            "urlPattern": "http://wodaklab.org/iRefWeb/interaction/show/{$id}"
+        }
+    ],
+    "sampleId": "617102",
+    "successor": null
+}

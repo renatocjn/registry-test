@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:36.416+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "miRNEST is a database of animal, plant and virus microRNAs, containing  miRNA predictions conducted on Expressed Sequence Tags of animal and  plant species.",
+    "id": 730,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000246",
+    "modified": "2019-06-11T14:16:36.416+00:00",
+    "name": "miRNEST",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MNEST\\d+$",
+    "prefix": "mirnest",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "miRNEST at Adam Mickiewicz University",
+            "id": 732,
+            "institution": {
+                "description": "The Faculty of Biology's fundamental rule is the integrity of research, education, and knowledge popularization. Its high scientific status has been confirmed by the prestigious title of the National Scientific Leadership Center (KNOW), obtained together with the Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznań, awarded to scientific institutions conducting world-class research.",
+                "homeUrl": "https://amu.edu.pl/en/main-page/amu-directory/faculties/faculty-of-biology",
+                "id": 731,
+                "location": {
+                    "countryCode": "PL",
+                    "countryName": "Poland"
+                },
+                "name": "Institute of Molecular Biology, Adam Mickiewicz University, Poznan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "PL",
+                "countryName": "Poland"
+            },
+            "mirId": "MIR:00100317",
+            "name": "miRNEST at Adam Mickiewicz University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rhesus.amu.edu.pl/mirnest/copy/",
+            "sampleId": "MNEST029358",
+            "urlPattern": "http://rhesus.amu.edu.pl/mirnest/copy/details.php?id={$id}"
+        }
+    ],
+    "sampleId": "MNEST029358",
+    "successor": null
+}

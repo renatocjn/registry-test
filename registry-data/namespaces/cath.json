@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:02.470+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "CATH is a classification of protein structural domains. We group protein domains into superfamilies when there is sufficient evidence they have diverged from a common ancestor. CATH can be used to predict structural and functional information directly from protein sequence.",
+    "id": 1699,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000612",
+    "modified": "2021-02-01T16:12:25.234+00:00",
+    "name": "CATH Protein Structural Domain Superfamily",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[1-6]\\.[0-9]+\\.[0-9]+\\.[0-9]+$",
+    "prefix": "cath",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CATH Node through UCL",
+            "id": 1701,
+            "institution": {
+                "description": "UCL is a diverse global community of world-class academics, students, industry links, external partners, and alumni. Our powerful collective of individuals and institutions work together to explore new possibilities.",
+                "homeUrl": "https://www.ucl.ac.uk/",
+                "id": 1700,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "University College London",
+                "rorId": "https://ror.org/02jx3x895"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100816",
+            "name": "CATH Node through UCL",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cathdb.info",
+            "sampleId": "1.10.8.10",
+            "urlPattern": "http://www.cathdb.info/cathnode/{$id}"
+        }
+    ],
+    "sampleId": "1.10.8.10",
+    "successor": null
+}

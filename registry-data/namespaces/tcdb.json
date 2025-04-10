@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:43.342+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The database details a comprehensive  IUBMB approved classification system for membrane transport proteins known as the Transporter Classification (TC) system. The TC system is analogous to the Enzyme Commission (EC) system for classification of enzymes, but incorporates phylogenetic information additionally.",
+    "id": 156,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000040",
+    "modified": "2019-06-11T14:15:43.342+00:00",
+    "name": "Transport Classification Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+(\\.[A-Z])?(\\.\\d+)?(\\.\\d+)?(\\.\\d+)?$",
+    "prefix": "tcdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TCDB",
+            "id": 158,
+            "institution": {
+                "description": "Our mission is to advance knowledge of basic biological sciences and apply our research discoveries in ways that improve human health, protect our environment and enrich our economy.",
+                "homeUrl": "https://biology.ucsd.edu/",
+                "id": 157,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Division of Biological Sciences, UCSD",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100068",
+            "name": "TCDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.tcdb.org/",
+            "sampleId": "5.A.1.1.1",
+            "urlPattern": "http://www.tcdb.org/search/result.php?tc={$id}"
+        }
+    ],
+    "sampleId": "5.A.1.1.1",
+    "successor": null
+}

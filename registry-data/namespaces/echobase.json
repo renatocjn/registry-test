@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:24.496+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "EchoBASE is a database designed to contain and manipulate information from post-genomic experiments using the model bacterium Escherichia coli K-12. The database is built on an enhanced annotation of the updated genome sequence of strain MG1655 and the association of experimental data with the E.coli genes and their products.",
+    "id": 601,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000200",
+    "modified": "2019-06-11T14:16:24.496+00:00",
+    "name": "EchoBASE",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^EB\\d+$",
+    "prefix": "echobase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "EchoBASE at the University of York",
+            "id": 603,
+            "institution": {
+                "description": "he Department of Biology at York accepted its first undergraduates in 1965 and moved to its present site in 1968. Over the years it has grown enormously, both in terms of people and infrastructure. As of 2020, we are over 1000 students and more than 300 staff, including around 70 academic staff. We have received considerable investment in infrastructure and facilities to support excellence in Research and Teaching. This includes our innovative Bioscience Technology Facility and the Centre for Novel Agricultural Products (CNAP). The Queen’s Award-winning York Structural Biology Laboratory (YSBL) is part of the Department of Chemistry but located on the Biology site.",
+                "homeUrl": "https://www.york.ac.uk/biology/",
+                "id": 602,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Department of Biology (Area 10), University of York, York",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100259",
+            "name": "EchoBASE at the University of York",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.york.ac.uk/",
+            "sampleId": "EB0170",
+            "urlPattern": "http://www.york.ac.uk/res/thomas/Gene.cfm?recordID={$id}"
+        }
+    ],
+    "sampleId": "EB0170",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:00.593+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NucleaRDB is an information system that stores heterogenous data on Nuclear Hormone Receptors (NHRs). It contains data on sequences, ligand binding constants and mutations for NHRs.",
+    "id": 1022,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000356",
+    "modified": "2019-06-11T14:17:00.593+00:00",
+    "name": "NucleaRDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+\\_\\w+$",
+    "prefix": "nuclearbd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NucleaRDB at Radboud University Nijmegen Medical Centre",
+            "id": 1024,
+            "institution": {
+                "description": "Radboud university medical center is a university medical center for patient care, research, and education, located in Nijmegen. Radboud university medical center strives to be at the forefront of shaping the health and healthcare of the future. This is reflected in our mission: “to have a significant impact on health (care)”. It demands that we innovate and reinvigorate through collaboration within our networks and with a focus on the individual person. We mainly concentrate on prevention, meaningful and prudent healthcare, sustainability, artificial intelligence, and data-driven systems, the molecular mechanisms of diseases and new treatments, and training the professionals of tomorrow.",
+                "homeUrl": "https://www.radboudumc.nl/en/research",
+                "id": 1023,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": " Center for Molecular and Biomolecular Informatics (CMBI), Radboud University Nijmegen Medical Centre",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100453",
+            "name": "NucleaRDB at Radboud University Nijmegen Medical Centre",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.receptors.org/nucleardb/",
+            "sampleId": "prgr_human",
+            "urlPattern": "http://www.receptors.org/nucleardb/proteins/{$id}"
+        }
+    ],
+    "sampleId": "prgr_human",
+    "successor": null
+}

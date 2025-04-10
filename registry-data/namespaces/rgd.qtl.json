@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:23.659+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Rat Genome Database seeks to collect, consolidate, and integrate rat genomic and genetic data with curated functional and physiological data and make these data widely available to the scientific community. This collection references quantitative trait loci (qTLs), providing phenotype and disease descriptions, mapping, and strain information as well as links to markers and candidate genes.",
+    "id": 1294,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000451",
+    "modified": "2019-06-11T14:17:23.659+00:00",
+    "name": "Rat Genome Database qTL",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "rgd.qtl",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Rat Genome Database qTL at Medical College of Wisconsin",
+            "id": 1296,
+            "institution": {
+                "description": "We are a distinguished leader and innovator in the education and development of the next generation of physicians, scientists, pharmacists and health professionals; we discover and translate new knowledge in the biomedical and health sciences; we provide cutting-edge, collaborative patient care of the highest quality; and we improve the health of the communities we serve.",
+                "homeUrl": "http://www.mcw.edu/MCW",
+                "id": 176,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Medical College of Wisconsin",
+                "rorId": "https://ror.org/00qqv6244"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100586",
+            "name": "Rat Genome Database qTL at Medical College of Wisconsin",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rgd.mcw.edu/",
+            "sampleId": "1354581",
+            "urlPattern": "http://rgd.mcw.edu/rgdweb/report/qtl/main.html?id={$id}"
+        }
+    ],
+    "sampleId": "1354581",
+    "successor": null
+}

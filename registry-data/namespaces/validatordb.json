@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:07.321+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
+    "id": 1757,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000633",
+    "modified": "2019-06-11T14:18:07.321+00:00",
+    "name": "ValidatorDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9\\/]+$",
+    "prefix": "validatordb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ValidatorDB",
+            "id": 1759,
+            "institution": {
+                "description": "Since its establishment in 2011, CEITEC has quickly developed into a cutting-edge infrastructure for research which performs highly alongside the best institutes in Europe. Among the main priorities of CEITEC are the promotion of a motivating and dynamic international scientific environment, the provision of state-of-the-art research infrastructure, and the policy of open communication and equal opportunities. ",
+                "homeUrl": "https://www.ceitec.eu/",
+                "id": 1758,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Central European Institute of Technology",
+                "rorId": "https://ror.org/01p7k1986"
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00100838",
+            "name": "ValidatorDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://webchem.ncbr.muni.cz/Platform/ValidatorDb/",
+            "sampleId": "ByStructure/2h6o",
+            "urlPattern": "https://webchem.ncbr.muni.cz/Platform/ValidatorDb/{$id}"
+        }
+    ],
+    "sampleId": "ByStructure/2h6o",
+    "successor": null
+}

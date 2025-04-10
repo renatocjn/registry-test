@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:24.719+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) is a database of orthologous groups of genes. The orthologous groups are annotated with functional description lines (derived by identifying a common denominator for the genes based on their various annotations), with functional categories (i.e derived from the original COG/KOG categories).",
+    "id": 604,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000201",
+    "modified": "2019-06-11T14:16:24.719+00:00",
+    "name": "eggNOG",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "eggnog",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "eggNOG Version 3 at European Molecular Biology Laboratory",
+            "id": 606,
+            "institution": {
+                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
+                "homeUrl": "http://embl.org/",
+                "id": 375,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "EMBL, Heidelberg",
+                "rorId": "https://ror.org/03mstc592"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100260",
+            "name": "eggNOG Version 3 at European Molecular Biology Laboratory",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://eggnog.embl.de/version_3.0/",
+            "sampleId": "veNOG12876",
+            "urlPattern": "http://eggnog.embl.de/version_3.0/cgi/search.py?search_term_0={$id}"
+        }
+    ],
+    "sampleId": "veNOG12876",
+    "successor": null
+}

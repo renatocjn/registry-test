@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:52.916+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "A collection of molecular interaction maps and pathways involved in cancer development and progression with a focus on melanoma.",
+    "id": 255,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000075",
+    "modified": "2019-06-11T14:15:52.916+00:00",
+    "name": "Melanoma Molecular Map Project Biomaps",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mmmp.biomaps",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "main webpage",
+            "id": 257,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 256,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Melanoma Molecular Map Project",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100105",
+            "name": "main webpage",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mmmp.org/MMMP/public/biomap/listBiomap.mmmp",
+            "sampleId": "37",
+            "urlPattern": "http://www.mmmp.org/MMMP/public/biomap/viewBiomap.mmmp?id={$id}"
+        }
+    ],
+    "sampleId": "37",
+    "successor": null
+}

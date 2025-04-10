@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:21.425+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Sol Genomics Network (SGN) is a database and website dedicated to the genomic information of the nightshade family, which includes species such as tomato, potato, pepper, petunia and eggplant.",
+    "id": 564,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000185",
+    "modified": "2019-06-11T14:16:21.425+00:00",
+    "name": "Sol Genomics Network",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "sgn",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sol Genomics Network at Boyce Thompson Institute for Plant Research",
+            "id": 566,
+            "institution": {
+                "description": "Boyce Thompson Institute is a premier life sciences research institution located in Ithaca, New York on the Cornell University campus. BTI scientists conduct investigations into fundamental plant and life sciences research with the goals of increasing food security, improving environmental sustainability in agriculture, and making basic discoveries that will enhance human health.",
+                "homeUrl": "https://btiscience.org/",
+                "id": 565,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Boyce Thompson Institute for Plant Research, New York",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100231",
+            "name": "Sol Genomics Network at Boyce Thompson Institute for Plant Research",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://solgenomics.net/",
+            "sampleId": "0001",
+            "urlPattern": "http://solgenomics.net/phenome/locus_display.pl?locus_id={$id}"
+        }
+    ],
+    "sampleId": "0001",
+    "successor": null
+}

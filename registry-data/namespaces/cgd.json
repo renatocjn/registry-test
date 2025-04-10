@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:11.955+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Candida Genome Database (CGD) provides access to genomic sequence data and manually curated functional information about genes and proteins of the human pathogen Candida albicans. It collects gene names and aliases, and assigns gene ontology terms to describe the molecular function, biological process, and subcellular localization of gene products.",
+    "id": 456,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000145",
+    "modified": "2019-06-11T14:16:11.955+00:00",
+    "name": "Candida Genome Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CAL\\d{7}$",
+    "prefix": "cgd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Candida Genome Database at Stanford University",
+            "id": 458,
+            "institution": {
+                "description": "Stanford was founded almost 150 years ago on a bedrock of societal purpose. Our mission is to contribute to the world by educating students for lives of leadership and purposeful contribution; advancing fundamental knowledge and cultivating creativity; and accelerating solutions and amplifying their impact.",
+                "homeUrl": "http://www.stanford.edu/",
+                "id": 98,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Stanford University",
+                "rorId": "https://ror.org/00f54p054"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100189",
+            "name": "Candida Genome Database at Stanford University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.candidagenome.org/",
+            "sampleId": "CAL0003079",
+            "urlPattern": "http://www.candidagenome.org/cgi-bin/locus.pl?dbid={$id}"
+        }
+    ],
+    "sampleId": "CAL0003079",
+    "successor": null
+}

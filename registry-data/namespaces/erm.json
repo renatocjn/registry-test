@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-19T15:38:51.382+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The European Registry of Materials is a simple registry with the sole purpose to mint material identifiers to be used by research projects throughout the life cycle of their project.",
+    "id": 1942,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000763",
+    "modified": "2019-06-19T15:38:51.382+00:00",
+    "name": "European Registry of Materials",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ERM[0-9]{8}$",
+    "prefix": "erm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The European Registry of Materials is a simple registry with the sole purpose to mint material identifiers to be used by research projects throughout the life cycle of their project.",
+            "id": 1943,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000711",
+            "name": "European Registry of Materials",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "erm",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://nanocommons.github.io/identifiers/",
+            "sampleId": "ERM00000044",
+            "urlPattern": "https://nanocommons.github.io/identifiers/registry#{$id}"
+        }
+    ],
+    "sampleId": "ERM00000044",
+    "successor": null
+}

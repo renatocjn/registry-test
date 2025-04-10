@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:33.340+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Functional Single Nucleotide Polymorphism (F-SNP) database integrates information obtained from databases about the functional effects of SNPs. These effects are predicted and indicated at the splicing, transcriptional, translational and post-translational level. In particular, users can retrieve SNPs that disrupt genomic regions known to be functional, including splice sites and transcriptional regulatory regions. Users can also identify non-synonymous SNPs that may have deleterious effects on protein structure or function, interfere with protein translation or impede post-translational modification.",
+    "id": 1406,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000496",
+    "modified": "2019-06-11T14:17:33.340+00:00",
+    "name": "F-SNP",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^rs\\d+$",
+    "prefix": "fsnp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "F-SNP at Queen's University (Canada)",
+            "id": 1408,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1407,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "Computational Biology and Machine Learning Lab, School of Computing, Queen's University, Kingston, Ontario",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100637",
+            "name": "F-SNP at Queen's University (Canada)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://compbio.cs.queensu.ca/F-SNP/",
+            "sampleId": "rs17852708",
+            "urlPattern": "http://compbio.cs.queensu.ca/cgi-bin/compbio/search/main.cgi?search_mode=id&amp;id_type=snp_id&amp;id_val={$id}"
+        }
+    ],
+    "sampleId": "rs17852708",
+    "successor": null
+}

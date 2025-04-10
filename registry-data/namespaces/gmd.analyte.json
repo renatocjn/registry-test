@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:17.661+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Golm Metabolome Database (GMD) provides public access to custom mass spectral libraries, metabolite profiling experiments as well as additional information and tools. For GC-MS profiling analyses, polar metabolite extracts are chemically converted, i.e. derivatised into less polar and volatile compounds, so called analytes.  This collection references analytes.",
+    "id": 1225,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000426",
+    "modified": "2019-06-11T14:17:17.661+00:00",
+    "name": "Golm Metabolome Database Analyte",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^([0-9a-fA-F]){8}(-([0-9a-fA-F]){4}){3}-([0-9a-fA-F]){12}$",
+    "prefix": "gmd.analyte",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Golm Metabolome Database (Analyte) at Max Planck Institute of Molecular Plant Physiology",
+            "id": 1226,
+            "institution": {
+                "description": "The Max Planck Institute of Molecular Plant Physiology (MPI-MP) was founded in 1994, as one of 18 institutes on the territory of the former GDR. The founding director was Prof. Dr. Dr. h.c. Lothar Willmitzer, who is the director of one of the three departments which have been established since then. From originally only 16 employees the institute grew into a large institute, which now employs about 360 people from all over the world, who put their combined efforts into elucidating the secrets of plants.",
+                "homeUrl": "http://www.mpimp-golm.mpg.de/2168/en",
+                "id": 806,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Max Planck Institute of Molecular Plant Physiology, Potsdam",
+                "rorId": "https://ror.org/01fbde567"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100549",
+            "name": "Golm Metabolome Database (Analyte) at Max Planck Institute of Molecular Plant Physiology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://gmd.mpimp-golm.mpg.de/",
+            "sampleId": "4f0fa9b6-514f-4ff4-98cc-0009bc08eb80",
+            "urlPattern": "http://gmd.mpimp-golm.mpg.de/Analytes/{$id}"
+        }
+    ],
+    "sampleId": "4f0fa9b6-514f-4ff4-98cc-0009bc08eb80",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:02.934+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MarDB includes all sequenced marine microbial genomes regardless of level of completeness.",
+    "id": 1705,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000614",
+    "modified": "2019-06-11T14:18:02.934+00:00",
+    "name": "MarDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^MMP\\d+.\\d+$",
+    "prefix": "mmp.db",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MarDB through SfB",
+            "id": 1706,
+            "institution": {
+                "description": "The Center for Bioinformatics at the Faculty of Science and Technology is a research-based service center established to facilitate cross-disciplinary research, teaching, and services at the interface of biotechnology and computer science. The center currently comprises researchers and students from the Department of Chemistry and the Department of Computer Science. The center provides research collaboration and services related to bioinformatics.",
+                "homeUrl": "https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=347053",
+                "id": 1703,
+                "location": {
+                    "countryCode": "NO",
+                    "countryName": "Norway"
+                },
+                "name": "Center for Bioinformatics (SfB), UiT The Arctic university of Norway",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "NO",
+                "countryName": "Norway"
+            },
+            "mirId": "MIR:00100818",
+            "name": "MarDB through SfB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mmp.sfb.uit.no/databases/mardb/",
+            "sampleId": "MMP02954345.1",
+            "urlPattern": "https://mmp.sfb.uit.no/databases/mardb/#/records/{$id}"
+        }
+    ],
+    "sampleId": "MMP02954345.1",
+    "successor": null
+}

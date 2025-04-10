@@ -1,0 +1,56 @@
+{
+    "created": "2022-01-09T18:52:31.186+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Input data and analysis results for the paper \"Topology of synaptic connectivity constrains neuronal stimulus representation, predicting two complementary coding strategies (https://www.biorxiv.org/content/10.1101/2020.11.02.363929v2 ).",
+    "id": 2986,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000889",
+    "modified": "2022-01-09T18:52:31.186+00:00",
+    "name": "Blue Brain Project Topological sampling Knowledge Graph",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "\\b[0-9a-f]{8}\\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\\b[0-9a-f]{12}\\b",
+    "prefix": "bbtp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.",
+            "id": 2987,
+            "institution": {
+                "description": "The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.",
+                "homeUrl": "https://portal.bluebrain.epfl.ch",
+                "id": 2985,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Blue Brain Project, EPFL",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00000888",
+            "name": "Blue Brain Project, EPFL",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bbp",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://portal.bluebrain.epfl.ch",
+            "sampleId": "f0ba2f3e-aa6f-4264-8d18-8ee65cf6f61a",
+            "urlPattern": "https://bbp.epfl.ch/nexus/web/studios/public/topological-sampling/studios/data:{$id}"
+        }
+    ],
+    "sampleId": "f0ba2f3e-aa6f-4264-8d18-8ee65cf6f61a",
+    "successor": null
+}

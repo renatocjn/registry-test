@@ -1,0 +1,56 @@
+{
+    "created": "2019-09-24T11:03:08.927+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DOULIX lab-tested standard biological parts, in this case, full length constructs.",
+    "id": 2022,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000742",
+    "modified": "2019-09-24T11:03:08.927+00:00",
+    "name": "Circular double stranded DNA sequences composed",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]{6,7}$",
+    "prefix": "dlxc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Doulix DNA repository provides a FAIR-compliant database of DNA sequences for synthetic biology. Doulix allows user to retrieve, inspect and manipulate DNA sequences while ensuring data traceability and integrity.",
+            "id": 2023,
+            "institution": {
+                "description": "Double Helix Technologies (DOULIX) is currently an operative unit of Explora Biotech (https://www.explora-biotech.com). ",
+                "homeUrl": "https://doulix.com",
+                "id": 2021,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "Double Helix Technologies (DOULIX)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00000734",
+            "name": "Doulix DNA repository",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dlxc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://doulix.com",
+            "sampleId": "M77F7JM",
+            "urlPattern": "https://doulix.com/constructs/{$id}/"
+        }
+    ],
+    "sampleId": "M77F7JM",
+    "successor": null
+}

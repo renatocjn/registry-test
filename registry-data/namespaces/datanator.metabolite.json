@@ -1,0 +1,56 @@
+{
+    "created": "2020-05-22T09:04:15.866+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Datanator is an integrated database of genomic and biochemical data designed to help investigators find data about specific molecules and reactions in specific organisms and specific environments for meta-analyses and mechanistic models. Datanator currently includes metabolite concentrations, RNA modifications and half-lives, protein abundances and modifications, and reaction kinetics integrated from several databases and numerous publications. The Datanator website and REST API provide tools for extracting clouds of data about specific molecules and reactions in specific organisms and specific environments, as well as data about similar molecules and reactions in taxonomically similar organisms.",
+    "id": 2248,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000718",
+    "modified": "2020-05-22T09:04:15.866+00:00",
+    "name": "Datanator Metabolite",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z\\-]+$",
+    "prefix": "datanator.metabolite",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Icahn School of Medicine at Mount Sinai is an international leader in medical and scientific training, biomedical research, and patient care. It is the medical school for the Mount Sinai Health System, which includes eight hospital campuses, and has more than 5,000 faculty and nearly 2,000 students, residents and fellows.",
+            "id": 2249,
+            "institution": {
+                "description": "The Icahn School of Medicine at Mount Sinai is an international leader in medical and scientific training, biomedical research, and patient care. It is the medical school for the Mount Sinai Health System, which includes eight hospital campuses, and has more than 5,000 faculty and nearly 2,000 students, residents and fellows.",
+                "homeUrl": "https://icahn.mssm.edu/",
+                "id": 2247,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "rorId": "https://ror.org/04a9tmd77"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000772",
+            "name": "Icahn School of Medicine at Mount Sinai",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "icahn",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://datanator.info/",
+            "sampleId": "OUYCCCASQSFEME-MRVPVSSYSA-N",
+            "urlPattern": "https://www.datanator.info/metabolite/{$id}"
+        }
+    ],
+    "sampleId": "OUYCCCASQSFEME-MRVPVSSYSA-N",
+    "successor": null
+}

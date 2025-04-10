@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:20.103+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NITE Biological Research Center (NBRC) provides a collection of microbial resources, performing taxonomic characterization of individual microorganisms such as bacteria including actinomycetes and archaea, yeasts, fungi, algaes, bacteriophages and DNA resources for academic research and industrial applications. A catalogue is maintained which states strain nomenclature, synonyms, and culture and sequence information.",
+    "id": 549,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000179",
+    "modified": "2019-06-11T14:16:20.103+00:00",
+    "name": "NITE Biological Research Center Catalogue",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "nbrc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NBRC Catalogue at National Institute of Technology Evaluation",
+            "id": 551,
+            "institution": {
+                "description": "Our aim is to provide reliable technologies and information that underpin public safety and help overcome the challenges of the future.",
+                "homeUrl": "http://www.nite.go.jp/",
+                "id": 550,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "National Institute of Technology Evaluation, Tokyo",
+                "rorId": "https://ror.org/044jdke57"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100225",
+            "name": "NBRC Catalogue at National Institute of Technology Evaluation",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.nbrc.nite.go.jp/e/index.html",
+            "sampleId": "00001234",
+            "urlPattern": "http://www.nbrc.nite.go.jp/NBRC2/NBRCCatalogueDetailServlet?ID=NBRC&CAT={$id}"
+        }
+    ],
+    "sampleId": "00001234",
+    "successor": null
+}

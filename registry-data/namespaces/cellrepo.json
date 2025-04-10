@@ -1,0 +1,56 @@
+{
+    "created": "2021-06-24T15:54:23.109+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Cell Version Control Repository is the single worldwide version control repository for engineered and natural cell lines",
+    "id": 2702,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000829",
+    "modified": "2021-06-24T15:54:23.109+00:00",
+    "name": "Cell Version Control Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "cellrepo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CellRepo is the single worldwide version control repository for engineered and natural cell lines",
+            "id": 2703,
+            "institution": {
+                "description": "The mission of the ICOS group is to carry out ground breaking research at the interface of computing science and complex biological systems. We seek to create the next generation of algorithms that provide innovative solutions to problems arising in natural complex systems (e.g. in biology, chemistry, physics) as well as synthetic ones (e.g. in biological engineering, health care, software engineering) and derive new knowledge from them. To accomplish its mission, the group leverages its interdisciplinary expertise in Machine Intelligence, Complex Systems and Computational Biology and pursues collaborative activities with relevant stakeholders.",
+                "homeUrl": "https://ico2s.org/",
+                "id": 2701,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Interdisciplinary Computing and Complex BioSystems (ICOS) Research Group, Newcastle University, Newcastle upon Tyne, UK",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000826",
+            "name": "CellRepo",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "cellrepo",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.cellrepo.com/",
+            "sampleId": "7",
+            "urlPattern": "https://www.cellrepo.com/repositories/{$id}"
+        }
+    ],
+    "sampleId": "82",
+    "successor": null
+}

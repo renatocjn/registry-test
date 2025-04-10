@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:03.253+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "GlycomeDB is the result of a systematic data integration effort, and provides an overview of all carbohydrate structures available in public databases, as well as cross-links.",
+    "id": 363,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000114",
+    "modified": "2019-06-11T14:16:03.253+00:00",
+    "name": "GlycomeDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "glycomedb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GlycomeDB carbohydrate structure database",
+            "id": 365,
+            "institution": {
+                "description": "To perform research into cancer is the task of the German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ) according to its statutes. DKFZ is the largest biomedical research institute in Germany and a member of the Helmholtz Association of National Research Centers. In more than 100 divisions and research groups, our more than 3,000 employees, of which more than 1,200 are scientists, are investigating the mechanisms of cancer, are identifying cancer risk factors and are trying to find strategies to prevent people from getting cancer.They are developing novel approaches to make tumor diagnosis more precise and treatment of cancer patients more successful.",
+                "homeUrl": "http://www.dkfz.de/en/index.html",
+                "id": 843,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "DKFZ TP3, Heidelberg",
+                "rorId": "https://ror.org/04cdgtt98"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100147",
+            "name": "GlycomeDB carbohydrate structure database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://glytoucan.org/",
+            "sampleId": "G77500AY",
+            "urlPattern": "https://glytoucan.org/Structures/Glycans/{$id}"
+        }
+    ],
+    "sampleId": "G77500AY",
+    "successor": null
+}

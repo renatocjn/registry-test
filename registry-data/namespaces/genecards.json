@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:52.858+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The GeneCards human gene database stores gene related transcriptomic, genetic, proteomic, functional and disease information. It uses standard nomenclature and approved gene symbols. GeneCards presents a complete summary for each human gene.",
+    "id": 932,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000323",
+    "modified": "2019-06-11T14:16:52.858+00:00",
+    "name": "GeneCards",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z-0-9_]+(\\@)?$",
+    "prefix": "genecards",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GeneCards at Weizmann Institute",
+            "id": 934,
+            "institution": {
+                "description": "The Department of Molecular Genetics investigates the molecular, cellular and genetic mechanisms that underlie basic biological processes in complex organisms, such as human, mouse and fruit fly, at the level of single cell organisms, including bacteria and yeast.",
+                "homeUrl": "https://www.weizmann.ac.il/molgen/",
+                "id": 933,
+                "location": {
+                    "countryCode": "IL",
+                    "countryName": "Israel"
+                },
+                "name": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IL",
+                "countryName": "Israel"
+            },
+            "mirId": "MIR:00100407",
+            "name": "GeneCards at Weizmann Institute",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.genecards.org/",
+            "sampleId": "ABL1",
+            "urlPattern": "https://www.genecards.org/cgi-bin/carddisp.pl?gene={$id}"
+        }
+    ],
+    "sampleId": "ABL1",
+    "successor": null
+}

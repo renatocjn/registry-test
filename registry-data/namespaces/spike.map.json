@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:52.396+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "SPIKE (Signaling Pathways Integrated Knowledge Engine) is a repository that can store, organise and allow retrieval of pathway information in a way that will be useful for the research community. The database currently focuses primarily on pathways describing DNA damage response, cell cycle, programmed cell death and hearing related pathways. Pathways are regularly updated, and additional pathways are gradually added. The complete database and the individual maps are freely exportable in several formats. This collection references pathway maps.",
+    "id": 926,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000321",
+    "modified": "2019-06-11T14:16:52.396+00:00",
+    "name": "SPIKE Map",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^spike\\d{5}$",
+    "prefix": "spike.map",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SPIKE database at Tel Aviv University",
+            "id": 928,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 927,
+                "location": {
+                    "countryCode": "IL",
+                    "countryName": "Israel"
+                },
+                "name": "School of Computer Sciences and School of Medicine, Tel Aviv University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IL",
+                "countryName": "Israel"
+            },
+            "mirId": "MIR:00100404",
+            "name": "SPIKE database at Tel Aviv University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.cs.tau.ac.il/~spike/",
+            "sampleId": "spike00001",
+            "urlPattern": "http://www.cs.tau.ac.il/~spike/maps/{$id}.html"
+        }
+    ],
+    "sampleId": "spike00001",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2020-04-22T09:46:18.729+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Polygenic Score (PGS) Catalog is an open database of PGS and the relevant metadata required for accurate application and evaluation.",
+    "id": 2215,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000753",
+    "modified": "2020-04-22T09:46:18.729+00:00",
+    "name": "Polygenic Score Catalog",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PGS[0-9]{6}$",
+    "prefix": "pgs",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Polygenic Score (PGS) Catalog is an open database of PGS and the relevant metadata required for accurate application and evaluation.\n\nDeveloped in collaboration with the NHGRI-EBI GWAS Catalog and Health Data Research UK/",
+            "id": 2216,
+            "institution": {
+                "description": "The mission of the University of Cambridge is to contribute to society through education, learning and research at the highest international level.",
+                "homeUrl": "https://www.cam.ac.uk/",
+                "id": 1885,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "The University of Cambridge",
+                "rorId": "https://ror.org/013meh722"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00000755",
+            "name": "PGS Catalog",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "pgs",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://pgscatalog.org",
+            "sampleId": "PGS000018",
+            "urlPattern": "https://www.pgscatalog.org/pgs/{$id}/"
+        }
+    ],
+    "sampleId": "PGS000018",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:41.032+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Proteome Map (HPM) portal integrates the peptide sequencing result from the draft map of the human proteome project. The project was based on LC-MS/MS by utilizing of high resolution and high accuracy Fourier transform mass spectrometry. The HPM contains direct evidence of translation of a number of protein products derived from human genes, based on peptide identifications of multiple organs/tissues and cell types from individuals with clinically defined healthy tissues. The HPM portal provides data on individual proteins, as well as on individual peptide spectra. This collection references individual peptides through spectra.",
+    "id": 1483,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000527",
+    "modified": "2019-06-11T14:17:41.032+00:00",
+    "name": "Human Proteome Map Peptide",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "hpm.peptide",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Proteome Map Peptide at Institute of Bioinformatics (Bangalore)",
+            "id": 1484,
+            "institution": {
+                "description": "The Institute of Bioinformatics is a not-for-profit organization engaged in research in Bioinformatics. This institute is located in Bangalore, India and was established in May 2002. Bangalore is a prime center for research and development and is the hub of information technology in India. The Institute of Bioinformatics emphasizes cutting edge research in Databases, Computational Genomics, Proteomics Comparative Genomics, Metabolomics and Lipidomics. The initial goal of this Institute was to create a freely available Human Protein Reference Database using open source technologies and to experimentally verify predicted human genes using molecular biology and proteomics-based methods.",
+                "homeUrl": "http://www.ibioinformatics.org/",
+                "id": 1087,
+                "location": {
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                "name": "Institute of Bioinformatics, International Tech Park, Bangalore",
+                "rorId": "https://ror.org/04hqfvm50"
+            },
+            "location": {
+                "countryCode": "IN",
+                "countryName": "India"
+            },
+            "mirId": "MIR:00100683",
+            "name": "Human Proteome Map Peptide at Institute of Bioinformatics (Bangalore)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.humanproteomemap.org/index.php",
+            "sampleId": "9606117",
+            "urlPattern": "http://www.humanproteomemap.org/spectrum.php?pep_id={$id}"
+        }
+    ],
+    "sampleId": "9606117",
+    "successor": null
+}

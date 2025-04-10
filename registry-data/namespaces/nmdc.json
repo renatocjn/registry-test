@@ -1,0 +1,56 @@
+{
+    "created": "2021-08-05T19:51:36.087+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The National Microbiome Data Collaborative (NMDC) is an initiative to empower the research community to harness microbiome data exploration and discovery through a collaborative integrative data science ecosystem.",
+    "id": 2756,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000837",
+    "modified": "2021-08-05T19:51:36.087+00:00",
+    "name": "National Microbiome Data Collaborative",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Za-z0-9._~\\-\\:]+$",
+    "prefix": "nmdc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "A federally funded research and development centre in the hills of Berkeley, California, United States. Established in 1931 by the University of California (UC), the laboratory is sponsored by the United States Department of Energy and administered by the UC system.",
+            "id": 2757,
+            "institution": {
+                "description": "Lawrence Berkeley National Laboratory is advancing the scope of human knowledge & seeking science solutions to the greatest problems facing humankind.",
+                "homeUrl": "http://www.lbl.gov/",
+                "id": 2755,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Lawrence Berkeley National Laboratory",
+                "rorId": "https://ror.org/02jbv0t02"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000836",
+            "name": "Lawrence Berkeley National Laboratory",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "nmdc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.lbl.gov/",
+            "sampleId": "6m4e-1vbv-03",
+            "urlPattern": "https://w3id.org/nmdc/{$id}"
+        }
+    ],
+    "sampleId": "6m4e-1vbv-03",
+    "successor": null
+}

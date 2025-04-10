@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:56.747+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Anatomical Therapeutic Chemical (ATC) classification system, divides active substances into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Drugs are classified in groups at five different levels;  Drugs are divided into fourteen main groups (1st level), with pharmacological/therapeutic subgroups (2nd level).  The 3rd and 4th levels are chemical/pharmacological/therapeutic subgroups and the 5th level is the chemical substance. The Anatomical Therapeutic Chemical (ATC) classification system and the Defined Daily Dose (DDD) is a tool for exchanging and comparing data on drug use at international, national or local levels.",
+    "id": 294,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000088",
+    "modified": "2019-06-11T14:15:56.747+00:00",
+    "name": "Anatomical Therapeutic Chemical",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z](\\d+([A-Z]{1,2}(\\d+)?)?)?$",
+    "prefix": "atc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Anatomical Therapeutic Chemical Index at WHO",
+            "id": 296,
+            "institution": {
+                "description": "Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance to live a healthy life. ",
+                "homeUrl": "https://www.who.int/",
+                "id": 295,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "World Health Organisation",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100119",
+            "name": "Anatomical Therapeutic Chemical Index at WHO",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.whocc.no/atc_ddd_index/",
+            "sampleId": "A10BA02",
+            "urlPattern": "http://www.whocc.no/atc_ddd_index/?code={$id}"
+        }
+    ],
+    "sampleId": "A10BA02",
+    "successor": null
+}

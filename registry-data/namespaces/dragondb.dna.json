@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:47.375+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DragonDB is a genetic and genomic database for Antirrhinum majus (Snapdragon). This collection refers to DNA sequence information.",
+    "id": 866,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000297",
+    "modified": "2019-06-11T14:16:47.375+00:00",
+    "name": "DragonDB DNA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d\\w+$",
+    "prefix": "dragondb.dna",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DragonDB DNA at University of British Columbia",
+            "id": 868,
+            "institution": {
+                "description": "The University of British Columbia is a global centre for teaching, learning and research, consistently ranked among the top 20 public universities in the world. UBC embraces innovation and transforms ideas into action. Since 1915, UBC has been opening doors of opportunity for people with the curiosity, drive and vision to shape a better world.",
+                "homeUrl": "https://www.ubc.ca/",
+                "id": 867,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of British Columbia, Vancouver",
+                "rorId": "https://ror.org/03rmrcq20"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100379",
+            "name": "DragonDB DNA at University of British Columbia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.antirrhinum.net/",
+            "sampleId": "3hB06",
+            "urlPattern": "http://antirrhinum.net/cgi-bin/ace/generic/tree/DragonDB?name={$id};class=DNA"
+        }
+    ],
+    "sampleId": "3hB06",
+    "successor": null
+}

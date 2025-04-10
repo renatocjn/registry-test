@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:24.062+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DOOR (Database for prOkaryotic OpeRons) contains computationally predicted operons of all the sequenced prokaryotic genomes. It includes operons for RNA genes.",
+    "id": 1299,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000453",
+    "modified": "2019-06-11T14:17:24.062+00:00",
+    "name": "DOOR",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "door",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "DOOR v1 at University of Georgia",
+            "id": 1301,
+            "institution": {
+                "description": "The Computational Systems Biology Lab (CSBL) in the Department of Biochemistry and Molecular Biology at the University of Georgia consists of scientists with highly diversified training backgrounds, ranging from biochemistry, computational chemistry, molecular biology, biophysics, physics to computer science, statistics, and mathematics. Our common interests are in the development of computational tools for solving biological problems. Our work ranges from the construction of mathematical/statistical models to the development of algorithms to code implementation to applications of computational tools to solve various bio-data analysis and modeling problems.",
+                "homeUrl": "http://csbl.bmb.uga.edu/new/",
+                "id": 1300,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, University of Georgia, Athens, Georgia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100588",
+            "name": "DOOR v1 at University of Georgia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://csbl.bmb.uga.edu/DOOR/operon.php",
+            "sampleId": "1398574",
+            "urlPattern": "http://csbl.bmb.uga.edu/DOOR/operon.php?id={$id}"
+        }
+    ],
+    "sampleId": "1398574",
+    "successor": null
+}

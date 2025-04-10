@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:10.677+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Metabolomics Workbench stores metabolomics data for small and large studies on cells, tissues and organisms for the Metabolomics Consortium Data Repository and Coordinating Center (DRCC).",
+    "id": 1796,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000647",
+    "modified": "2019-06-11T14:18:10.677+00:00",
+    "name": "Metabolomics Workbench Project",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^PR[0-9]{6}$",
+    "prefix": "mw.project",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Metabolomics Workbench Project",
+            "id": 1797,
+            "institution": {
+                "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                "homeUrl": "https://ucsd.edu/",
+                "id": 190,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, San Diego",
+                "rorId": "https://ror.org/0168r3w48"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100861",
+            "name": "Metabolomics Workbench Project",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ucsd",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.metabolomicsworkbench.org/",
+            "sampleId": "PR000001",
+            "urlPattern": "http://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID={$id}"
+        }
+    ],
+    "sampleId": "PR000001",
+    "successor": null
+}

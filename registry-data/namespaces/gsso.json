@@ -1,0 +1,56 @@
+{
+    "created": "2020-11-05T10:42:17.722+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Gender, Sex, and Sexual Orientation (GSSO) ontology is an interdisciplinary ontology connecting terms from biology, medicine, psychology, sociology, and gender studies, aiming to bridge gaps between linguistic variations inside and outside of the health care environment. A large focus of the ontology is its consideration of LGBTQIA+ terminology.",
+    "id": 2423,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000712",
+    "modified": "2020-11-05T10:59:53.808+00:00",
+    "name": "Gender, Sex, and Sexual Orientation (GSSO) Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^GSSO:\\d{6}$",
+    "prefix": "gsso",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "One of the National Centers for Biomedical Computing, and is funded by the NIH. Among the goals of the NCBO are to provide tools for discovery and access of biomedical ontologies, which are a type of controlled vocabulary designed to allow the expression of complex relationships in machine-readable form.",
+            "id": 2424,
+            "institution": {
+                "description": "UC is a public research university with an enrollment of more than 46,000 students and has been named \"Among the top tier of the Best National Universities,\" according to U.S. News & World Report.",
+                "homeUrl": "https://www.uc.edu/",
+                "id": 2422,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Cincinnati",
+                "rorId": "https://ror.org/01e3m7079"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000758",
+            "name": "National Center for Biomedical Ontology (NCBO) BioPortal",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "bioportal",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioportal.bioontology.org/",
+            "sampleId": "002368",
+            "urlPattern": "http://purl.obolibrary.org/obo/GSSO_{$id}"
+        }
+    ],
+    "sampleId": "002368",
+    "successor": null
+}

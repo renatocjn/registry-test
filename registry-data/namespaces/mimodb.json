@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:37.622+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MimoDB is a database collecting peptides that have been selected from random peptide libraries based on their ability to bind small compounds, nucleic acids, proteins, cells, tissues and organs. It also stores other information such as the corresponding target, template, library, and structures. As of March 2016, this database was renamed Biopanning Data Bank.",
+    "id": 745,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000251",
+    "modified": "2019-06-11T14:16:37.622+00:00",
+    "name": "MimoDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mimodb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BDB at University of Electronic Science and Technology of China",
+            "id": 747,
+            "institution": {
+                "description": "The overall positioning of the laboratory is to become a scientific research center, an academic exchange center and a high-level talent training base that can represent the national research level, have strong independent innovation capabilities, and can demonstrate China's status as a major country in the neuro-information intersection field.",
+                "homeUrl": "https://neuro.uestc.edu.cn/en/",
+                "id": 746,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Key Laboratory for Neuroinformation of Ministry of Education, University of Electronic Science and Technology of China, Sichuan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100322",
+            "name": "BDB at University of Electronic Science and Technology of China",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://immunet.cn/bdb/",
+            "sampleId": "1",
+            "urlPattern": "http://immunet.cn/bdb/index.php/mimoset/{$id}"
+        }
+    ],
+    "sampleId": "1",
+    "successor": null
+}

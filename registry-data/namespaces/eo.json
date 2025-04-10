@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:38.985+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Plant Environment Ontology is a set of standardized controlled vocabularies to describe various types of treatments given to an individual plant / a population or a cultured tissue and/or cell type sample to evaluate the response on its exposure. It also includes the study types, where the terms can be used to identify the growth study facility. Each growth facility such as field study, growth chamber, green house etc is a environment on its own it may also involve instances of biotic and abiotic environments as supplemental treatments used in these studies.",
+    "id": 1462,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000518",
+    "modified": "2019-06-11T14:17:38.985+00:00",
+    "name": "Plant Environment Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^(P)?EO\\:\\d{7}$",
+    "prefix": "eo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Plant Environment Ontology through BioPortal",
+            "id": 1464,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100668",
+            "name": "Plant Environment Ontology through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/PECO",
+            "sampleId": "0007404",
+            "urlPattern": "http://purl.bioontology.org/ontology/PECO/EO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Plant Environment Ontology through OLS",
+            "id": 1465,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100669",
+            "name": "Plant Environment Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols/ontologies/eo",
+            "sampleId": "0007404",
+            "urlPattern": "https://www.ebi.ac.uk/ols/ontologies/eo/terms?obo_id=EO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Plant Environment Ontology through Gramene",
+            "id": 1463,
+            "institution": {
+                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
+                "homeUrl": "https://www.cshl.edu/",
+                "id": 131,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cold Spring Harbor Laboratory",
+                "rorId": "https://ror.org/02qz8b764"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100667",
+            "name": "Plant Environment Ontology through Gramene",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://archive.gramene.org/db/ontology/search_term?id=EO:0007359",
+            "sampleId": "0007404",
+            "urlPattern": "http://archive.gramene.org/db/ontology/search?query=EO:{$id}"
+        }
+    ],
+    "sampleId": "0007404",
+    "successor": null
+}

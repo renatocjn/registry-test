@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:54.970+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Orientations of Proteins in Membranes (OPM) database provides spatial positions of membrane-bound peptides and proteins of known three-dimensional structure in the lipid bilayer, together with their structural classification, topology and intracellular localization.",
+    "id": 955,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000333",
+    "modified": "2019-06-11T14:16:54.970+00:00",
+    "name": "OPM",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9][A-Za-z0-9]{3}$",
+    "prefix": "opm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OPM at University of Michigan",
+            "id": 957,
+            "institution": {
+                "description": "Our well-earned reputation for academic and research excellence makes Michigan’s PharmD and PhD programs among the most sought out in the U.S. Contributing to our standing is our enviable record of faculty and alumni success. No college of pharmacy has had — or continues to have — a greater positive impact on the world than has the University of Michigan College of Pharmacy. ",
+                "homeUrl": "https://pharmacy.umich.edu/medchem",
+                "id": 956,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Medicinal Chemistry, College of Pharmacy, University of Michigan",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100427",
+            "name": "OPM at University of Michigan",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://opm.phar.umich.edu/",
+            "sampleId": "1h68",
+            "urlPattern": "http://opm.phar.umich.edu/protein.php?pdbid={$id}"
+        }
+    ],
+    "sampleId": "1h68",
+    "successor": null
+}

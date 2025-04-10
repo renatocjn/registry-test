@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:59.017+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The BioSample Database stores information about biological samples used in molecular experiments, such as sequencing, gene expression or proteomics. It includes reference samples, such as cell lines, which are repeatedly used in experiments. Accession numbers for the reference samples will be exchanged with a similar database at NCBI, and DDBJ (Japan). Record access may be affected due to different release cycles and inter-institutional synchronisation.",
+    "id": 1004,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000350",
+    "modified": "2019-06-11T14:16:59.017+00:00",
+    "name": "BioSample",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^SAM[NED](\\w)?\\d+$",
+    "prefix": "biosample",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioSamples Database at EBI",
+            "id": 1005,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100447",
+            "name": "BioSamples Database at EBI",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/biosamples/",
+            "sampleId": "SAMEA2397676",
+            "urlPattern": "https://www.ebi.ac.uk/biosamples/sample/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioSample at NCBI",
+            "id": 1006,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100706",
+            "name": "BioSample at NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ncbi.nlm.nih.gov/biosample",
+            "sampleId": "SAMN00000002",
+            "urlPattern": "http://www.ncbi.nlm.nih.gov/biosample?term={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioSample at DNA Data Bank of Japan",
+            "id": 1008,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100707",
+            "name": "BioSample at DNA Data Bank of Japan",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ddbj",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ddbj.nig.ac.jp/biosample",
+            "sampleId": "SAMD00005257",
+            "urlPattern": "https://ddbj.nig.ac.jp/search/entry/biosample/{$id}"
+        }
+    ],
+    "sampleId": "SAMEA2397676",
+    "successor": null
+}

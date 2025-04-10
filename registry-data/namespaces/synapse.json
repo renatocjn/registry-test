@@ -1,0 +1,56 @@
+{
+    "created": "2024-03-20T10:13:27.272+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Synapse is a collaborative, open-source research platform that allows teams to share data, track analyses, and collaborate.",
+    "id": 3808,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001043",
+    "modified": "2024-03-20T10:13:27.272+00:00",
+    "name": "Synapse Data Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9]*\\.*[0-9]*",
+    "prefix": "synapse",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sage Bionetworks is a trusted leader in data sharing and reuse, enabling a rapid acceleration in biomedical discoveries and the transformation of medicine.",
+            "id": 3809,
+            "institution": {
+                "description": "Sage Bionetworks is a trusted leader in data sharing and reuse, enabling a rapid acceleration in biomedical discoveries and the transformation of medicine.",
+                "homeUrl": "https://www.sagebionetworks.org",
+                "id": 3807,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Sage Bionetworks",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001042",
+            "name": "Sage Bionetworks",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "synapse",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://sagebionetworks.org",
+            "sampleId": "41455251.1",
+            "urlPattern": "https://repo-prod.prod.sagebase.org/ga4gh/drs/v1/objects/syn{$id}"
+        }
+    ],
+    "sampleId": "41455251.1",
+    "successor": null
+}

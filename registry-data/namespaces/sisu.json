@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:05.215+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Sequencing Initiative Suomi (SISu) project is an international collaboration to harmonize and aggregate whole genome and exome sequence data from Finnish samples, providing data for researchers and clinicians. The SISu project allows for the search of variants to determine their attributes and occurrence in Finnish cohorts, and provides summary data on single nucleotide variants and indels from exomes, sequenced in disease-specific and population genetic studies.",
+    "id": 1732,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000624",
+    "modified": "2019-06-11T14:18:05.215+00:00",
+    "name": "SISu",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+:[0-9]+$",
+    "prefix": "sisu",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SISu",
+            "id": 1734,
+            "institution": {
+                "description": "FIMM – Institute for Molecular Medicine Finland is a translational research institute focusing on human genomics and precision medicine as part of the Helsinki Institute of Life Science HiLIFE at the University of Helsinki.",
+                "homeUrl": "https://www.helsinki.fi/en/hilife-helsinki-institute-life-science/units/fimm",
+                "id": 1733,
+                "location": {
+                    "countryCode": "FI",
+                    "countryName": "Finland"
+                },
+                "name": "Sequencing Initiative Suomi project (SISu), Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FI",
+                "countryName": "Finland"
+            },
+            "mirId": "MIR:00100828",
+            "name": "SISu",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.sisuproject.fi/",
+            "sampleId": "17:41223048",
+            "urlPattern": "http://search.sisuproject.fi/#/variant/{$id}"
+        }
+    ],
+    "sampleId": "17:41223048",
+    "successor": null
+}

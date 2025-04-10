@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:39.210+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The 'COmputational Modeling in BIology' NEtwork (COMBINE) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields. This collection pertains to specifications of the standard formats developed by the Computational Modeling in Biology Network.",
+    "id": 765,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000258",
+    "modified": "2023-01-04T15:31:16.641+00:00",
+    "name": "COMBINE specifications",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+(\\-|\\.|\\w)*$",
+    "prefix": "combine.specifications",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "COMBINE at EBI",
+            "id": 766,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100329",
+            "name": "COMBINE at EBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://co.mbine.org/standards/",
+            "sampleId": "sed-ml.level-1.version-1",
+            "urlPattern": "https://github.com/combine-org/combine-specifications/blob/main/specifications/{$id}.md"
+        }
+    ],
+    "sampleId": "sed-ml.level-1.version-1",
+    "successor": null
+}

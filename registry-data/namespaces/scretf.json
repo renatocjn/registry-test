@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:35.987+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ScerTF is a database of position weight matrices (PWMs) for transcription factors in Saccharomyces species. It identifies a single matrix for each TF that best predicts in vivo data, providing metrics related to the performance of that matrix in accurately representing the DNA binding specificity of the annotated transcription factor.",
+    "id": 725,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000244",
+    "modified": "2019-06-11T14:16:35.987+00:00",
+    "name": "ScerTF",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "scretf",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ScerTF at Washington University",
+            "id": 727,
+            "institution": {
+                "description": "Our mission is to create an exciting and collegial environment where world-class research in Genetics and Genomics is translated into improvements in human health through better understanding of the molecular underpinnings of disease. We have traditional strengths in computational biology, genome science, as well as model organism, evolutionary, and human genetics. More recently, our faculty have focused on neurological disorders, cellular bioenergetics, epigenomics, personalized medicine, and genome technology development.",
+                "homeUrl": "http://genetics.wustl.edu/",
+                "id": 726,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Genetics, Washington University Medical School, St Louis, Missouri",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100315",
+            "name": "ScerTF at Washington University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://stormo.wustl.edu/ScerTF/",
+            "sampleId": "RSC3",
+            "urlPattern": "http://stormo.wustl.edu/ScerTF/details/{$id}/"
+        }
+    ],
+    "sampleId": "RSC3",
+    "successor": null
+}

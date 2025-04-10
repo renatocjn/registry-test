@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:26.018+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "the European Hepatitis C Virus Database (euHCVdb, http://euhcvdb.ibcp.fr), a collection of computer-annotated sequences based on reference genomes.mainly dedicated to HCV protein sequences, 3D structures and functional analyses.",
+    "id": 617,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000207",
+    "modified": "2019-06-11T14:16:26.018+00:00",
+    "name": "HCVDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^M\\d{5}$",
+    "prefix": "hcvdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "HCVDB at CNRS",
+            "id": 619,
+            "institution": {
+                "description": "Cette unité comprend 10 équipes (90 personnes) et mène une activité de recherche sur les mécanismes moléculaires des processus infectieux à l’origine de pathologies humaines graves avec des approches de biochimie, biologie structurale (RMN et cristallographie aux rayons X), microbiologie et bioinformatique.",
+                "homeUrl": "https://www.ibcp.fr/?lang=en",
+                "id": 618,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Institut de Biologie et Chimie des Protéines, CNRS, University of Lyon , Lyon-Gerland",
+                "rorId": "https://ror.org/0019x5d05"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100266",
+            "name": "HCVDB at CNRS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://euhcvdb.ibcp.fr/euHCVdb/",
+            "sampleId": "M58335",
+            "urlPattern": "https://euhcvdb.ibcp.fr/euHCVdb/do/displayHCVEntry?primaryAC={$id}"
+        }
+    ],
+    "sampleId": "M58335",
+    "successor": null
+}

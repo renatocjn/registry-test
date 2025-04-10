@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:19.905+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Identifiers.org Ontology",
+    "id": 1893,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000683",
+    "modified": "2019-06-11T14:18:19.905+00:00",
+    "name": "Identifiers.org Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9a-zA-Z]+$",
+    "prefix": "idoo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Identifiers.org Ontology",
+            "id": 1894,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100914",
+            "name": "Identifiers.org Ontology",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://registry.api.hq.identifiers.org/semanticApi/getRegistryOntology",
+            "sampleId": "DataCollection",
+            "urlPattern": "http://registry.api.hq.identifiers.org/semanticApi/getRegistryOntology#{$id}"
+        }
+    ],
+    "sampleId": "DataCollection",
+    "successor": null
+}

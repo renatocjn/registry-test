@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:05.694+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Repeated CRISPR (\"clustered regularly interspaced short palindromic repeats\") elements found in archaebacteria and eubacteria are believed to defend against viral infection, potentially targeting invading DNA for degradation. CRISPRdb is a database that stores information on CRISPRs that are automatically extracted from newly released genome sequence data.",
+    "id": 1738,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000626",
+    "modified": "2019-06-11T14:18:05.694+00:00",
+    "name": "CRISPRdb",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "crisprdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CRISPRdb",
+            "id": 1740,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1739,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Université Paris-Sud, Institut de Génétique et Microbiologie, Orsay,",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100830",
+            "name": "CRISPRdb",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://crispr.i2bc.paris-saclay.fr/",
+            "sampleId": "551115",
+            "urlPattern": "http://crispr.i2bc.paris-saclay.fr/cgi-bin/crispr/SpecieProperties_db.cgi?Taxon_id[]={$id}"
+        }
+    ],
+    "sampleId": "551115",
+    "successor": null
+}

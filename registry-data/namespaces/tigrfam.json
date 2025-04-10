@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:50.975+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "TIGRFAMs is a resource consisting of curated multiple sequence alignments, Hidden Markov Models (HMMs) for protein sequence classification, and associated information designed to support automated annotation of (mostly prokaryotic) proteins.",
+    "id": 908,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000315",
+    "modified": "2019-06-11T14:16:50.975+00:00",
+    "name": "TIGRFAMS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^TIGR\\d+$",
+    "prefix": "tigrfam",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TIGRFAM at JCVI",
+            "id": 910,
+            "institution": {
+                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
+                "homeUrl": "https://www.jcvi.org/",
+                "id": 909,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Institute for Genomic Research, Rockville, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100398",
+            "name": "TIGRFAM at JCVI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.jcvi.org/cgi-bin/tigrfams/Listing.cgi",
+            "sampleId": "TIGR00010",
+            "urlPattern": "http://www.jcvi.org/cgi-bin/tigrfams/HmmReportPage.cgi?acc={$id}"
+        }
+    ],
+    "sampleId": "TIGR00010",
+    "successor": null
+}

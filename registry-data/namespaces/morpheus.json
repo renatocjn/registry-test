@@ -1,0 +1,56 @@
+{
+    "created": "2020-10-07T10:43:05.918+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Morpheus model repository is an open-access data resource to store, search and retrieve unpublished and published computational models of spatio-temporal and multicellular biological systems, encoded in the MorpheusML language and readily executable with the Morpheus software.\n",
+    "id": 2377,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000725",
+    "modified": "2020-10-07T10:43:05.918+00:00",
+    "name": "Morpheus model repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^M[0-9]{4,}$",
+    "prefix": "morpheus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Morpheus.lab is affiliated with the Center for Information Services and High Performance Computing (ZIH)\nat Technische Universität Dresden, Germany. Morpheus.lab develops and maintains the open-source software Morpheus, the domain-specific language MorpheusML, online courses, a user forum and the model repository.",
+            "id": 2378,
+            "institution": {
+                "description": "The Technische Universität Dresden (TUD) is one of the largest “Technische Universitäten” in Germany and one of the leading and most dynamic universities in Germany. As a full-curriculum university with 17 faculties in five schools it offers a broad variety of 124 disciplines and covers a wide research spectrum. Its focuses Health Sciences, Biomedicine & Bioengineering, Information Technology & Microelectronics, Smart Materials & Structures, Energy, Mobility & Environment as well as Culture & Societal Change are considered exemplary in Germany and throughout Europe.",
+                "homeUrl": "https://tu-dresden.de/?set_language=en",
+                "id": 2376,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "TU Dresden",
+                "rorId": "https://ror.org/042aqky30"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000700",
+            "name": "Morpheus.lab",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "morpheus.lab",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://morpheus.gitlab.io/",
+            "sampleId": "M0001",
+            "urlPattern": "https://morpheus.gitlab.io/models/{$id}"
+        }
+    ],
+    "sampleId": "M0001",
+    "successor": null
+}

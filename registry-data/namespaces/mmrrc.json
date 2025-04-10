@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:53.082+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The MMRRC database is a repository of available mouse stocks and embryonic stem cell line collections.",
+    "id": 935,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000324",
+    "modified": "2019-06-11T14:16:53.082+00:00",
+    "name": "MMRRC",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "mmrrc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MMRRC  at University of North Carolina",
+            "id": 937,
+            "institution": {
+                "description": "UNCW students enjoy a powerful and supportive academic experience that nurtures creative inquiry, stimulates critical thinking and welcomes thoughtful expression in a beautiful coastal setting. One of 17 institutions in the UNC System, UNCW is a nationally recognized large public doctoral university with a private feel.",
+                "homeUrl": "https://uncw.edu/",
+                "id": 936,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of North Carolina",
+                "rorId": "https://ror.org/02t0qr014"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100414",
+            "name": "MMRRC  at University of North Carolina",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mmrrc.org/",
+            "sampleId": "70",
+            "urlPattern": "http://www.mmrrc.org/catalog/getSDS.php?mmrrc_id={$id}"
+        }
+    ],
+    "sampleId": "70",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:27.811+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "VFDB is a repository of virulence factors (VFs) of pathogenic bacteria.This collection references VF information by Genus.",
+    "id": 1344,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000471",
+    "modified": "2019-06-11T14:17:27.811+00:00",
+    "name": "VFDB Genus",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "vfdb.genus",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "VFDB Genus at Institute of Pathogen Biology",
+            "id": 1346,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1345,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "State Key Laboratory for Molecular Virology and Genetic Engineering, Institute of Pathogen Biology, Chinese Academy Medical Sciences and Peking Union Medical College, Beijing",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100606",
+            "name": "VFDB Genus at Institute of Pathogen Biology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mgc.ac.cn/VFs/",
+            "sampleId": "Chlamydia",
+            "urlPattern": "http://www.mgc.ac.cn/cgi-bin/VFs/genus.cgi?Genus={$id}"
+        }
+    ],
+    "sampleId": "Chlamydia",
+    "successor": null
+}

@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:16:11.083+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PRotein Ontology (PRO) has been designed to describe the relationships of proteins and protein evolutionary classes, to delineate the multiple protein forms of a gene locus (ontology for protein forms), and to interconnect existing ontologies.",
+    "id": 447,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000141",
+    "modified": "2020-03-16T08:35:08.949+00:00",
+    "name": "Protein Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^PR:P?\\d+$",
+    "prefix": "pr",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Ontology through BioPortal",
+            "id": 449,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100240",
+            "name": "Protein Ontology through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/PR",
+            "sampleId": "000000024",
+            "urlPattern": "http://purl.bioontology.org/ontology/PR/PR:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Ontology through OLS",
+            "id": 450,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100755",
+            "name": "Protein Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/pr",
+            "sampleId": "000000024",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/pr/terms?obo_id=PR:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Ontology at Georgetown",
+            "id": 448,
+            "institution": {
+                "description": "As one of approximately 140 academic health and science centers in the United States, Georgetown University Medical Center seeks to provide, in a synergistic fashion, excellence in education — training physicians, nurses and other health care professionals, as well as biomedical scientists — and cutting-edge interdisciplinary research collaboration, enhancing our basic science and translational biomedical research capacity in order to improve human health. We have identified several areas of focus for our research.  ",
+                "homeUrl": "https://gumc.georgetown.edu",
+                "id": 70,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Georgetown University Medical Center",
+                "rorId": "https://ror.org/00hjz7x27"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100184",
+            "name": "Protein Ontology at Georgetown",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://proconsortium.org/",
+            "sampleId": "000000024",
+            "urlPattern": "https://proconsortium.org/cgi-bin/entry_pro?id=PR:{$id}"
+        }
+    ],
+    "sampleId": "000000024",
+    "successor": null
+}

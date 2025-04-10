@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:23.876+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Rat Genome Database seeks to collect, consolidate, and integrate rat genomic and genetic data with curated functional and physiological data and make these data widely available to the scientific community. This collection references strain reports, which include a description of strain origin, disease, phenotype, genetics and immunology.",
+    "id": 1297,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000452",
+    "modified": "2019-06-11T14:17:23.876+00:00",
+    "name": "Rat Genome Database strain",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "rgd.strain",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Rat Genome Database strain at Medical College of Wisconsin",
+            "id": 1298,
+            "institution": {
+                "description": "We are a distinguished leader and innovator in the education and development of the next generation of physicians, scientists, pharmacists and health professionals; we discover and translate new knowledge in the biomedical and health sciences; we provide cutting-edge, collaborative patient care of the highest quality; and we improve the health of the communities we serve.",
+                "homeUrl": "http://www.mcw.edu/MCW",
+                "id": 176,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Medical College of Wisconsin",
+                "rorId": "https://ror.org/00qqv6244"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100587",
+            "name": "Rat Genome Database strain at Medical College of Wisconsin",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rgd.mcw.edu/",
+            "sampleId": "5688061",
+            "urlPattern": "http://rgd.mcw.edu/rgdweb/report/strain/main.html?id={$id}"
+        }
+    ],
+    "sampleId": "5688061",
+    "successor": null
+}

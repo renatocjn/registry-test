@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:10.254+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "ChemSpider is a collection of compound data from across the web, which aggregates chemical structures and their associated information into a single searchable repository entry. These entries are supplemented with additional properties, related information and links back to original data sources.",
+    "id": 438,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000138",
+    "modified": "2019-06-11T14:16:10.254+00:00",
+    "name": "ChemSpider",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "chemspider",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChemSpider at RSC",
+            "id": 440,
+            "institution": {
+                "description": "We publish new research. We develop, recognise and celebrate professional capabilities. We bring people together to spark new ideas and new partnerships. We support teachers to inspire future generations of scientists. And we speak up to influence the people making decisions that affect us all.",
+                "homeUrl": "http://www.rsc.org/",
+                "id": 439,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Royal Society of Chemistry, Cambridge",
+                "rorId": "https://ror.org/025sbr097"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100180",
+            "name": "ChemSpider at RSC",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.chemspider.com/",
+            "sampleId": "56586",
+            "urlPattern": "http://www.chemspider.com/Chemical-Structure.{$id}.html"
+        }
+    ],
+    "sampleId": "56586",
+    "successor": null
+}

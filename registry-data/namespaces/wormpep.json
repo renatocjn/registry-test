@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:40.709+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Wormpep contains the predicted proteins from the Caenorhabditis elegans genome sequencing project.",
+    "id": 130,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000031",
+    "modified": "2019-06-11T14:15:40.709+00:00",
+    "name": "Wormpep",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^CE\\d{5}$",
+    "prefix": "wormpep",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Wormpep (Master)",
+            "id": 132,
+            "institution": {
+                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
+                "homeUrl": "https://www.cshl.edu/",
+                "id": 131,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cold Spring Harbor Laboratory",
+                "rorId": "https://ror.org/02qz8b764"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100051",
+            "name": "Wormpep (Master)",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.wormbase.org/db/seq/protein",
+            "sampleId": "CE28239",
+            "urlPattern": "https://www.wormbase.org/db/seq/protein?name={$id}"
+        }
+    ],
+    "sampleId": "CE28239",
+    "successor": null
+}

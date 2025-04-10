@@ -1,0 +1,56 @@
+{
+    "created": "2022-11-04T12:17:30.200+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Stress Knowledge Map (SKM, available at https://skm.nib.si) is a knowledge graph resulting from the integration of dispersed published information on plant molecular responses to biotic and abiotic stressors. ",
+    "id": 3307,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000968",
+    "modified": "2022-11-04T12:17:30.200+00:00",
+    "name": "Stress Knowledge Map",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^rx[0-9]{5}$",
+    "prefix": "skm",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/03s5t0r17' with no Wikidata information, and ISNI IDs [0000 0004 0637 0790]",
+            "id": 3308,
+            "institution": {
+                "description": "With about 190 employees, National Institute of Biology (NIB) is one of the independent Public Research Institution for Life Sciences in Slovenia. The Institute was established by the Government of the Republic of Slovenia in 1960. The basic activity of the Institute has been and continues to be basic, developmental and applicative research in the fields of biotechnology, biophysics, biomedicine and system biology. ",
+                "homeUrl": "http://www.nib.si/eng/",
+                "id": 3306,
+                "location": {
+                    "countryCode": "SI",
+                    "countryName": "Slovenia"
+                },
+                "name": "National Institute of Biology",
+                "rorId": "https://ror.org/03s5t0r17"
+            },
+            "location": {
+                "countryCode": "SI",
+                "countryName": "Slovenia"
+            },
+            "mirId": "MIR:00000967",
+            "name": "National Institute of Biology",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "skm",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.nib.si/eng/",
+            "sampleId": "rx00408",
+            "urlPattern": "https://skm.nib.si/api/pss/reactions?reaction_id={$id}&return_field=summary"
+        }
+    ],
+    "sampleId": "rx00408",
+    "successor": null
+}

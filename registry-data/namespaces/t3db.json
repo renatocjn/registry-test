@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:00.251+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Toxin and Toxin Target Database (T3DB) is a bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+    "id": 333,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000103",
+    "modified": "2019-06-11T14:16:00.251+00:00",
+    "name": "T3DB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^T3D\\d+$",
+    "prefix": "t3db",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Toxin and Toxin Target Database",
+            "id": 335,
+            "institution": {
+                "description": "The University of Alberta in Edmonton is one of Canada's top teaching and research universities, with an international reputation for excellence across the humanities, sciences, creative arts, business, engineering and health sciences.",
+                "homeUrl": "https://www.ualberta.ca",
+                "id": 334,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of Alberta",
+                "rorId": "https://ror.org/0160cpw27"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100136",
+            "name": "Toxin and Toxin Target Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.t3db.org/",
+            "sampleId": "T3D0001",
+            "urlPattern": "http://www.t3db.org/toxins/{$id}"
+        }
+    ],
+    "sampleId": "T3D0001",
+    "successor": null
+}

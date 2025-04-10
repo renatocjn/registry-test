@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:18:11.924+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "FamPlex is a collection of resources for grounding biological entities from text and describing their hierarchical relationships.",
+    "id": 1809,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000651",
+    "modified": "2019-06-11T14:18:11.924+00:00",
+    "name": "FamPlex",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[a-zA-Z0-9][A-Za-z0-9_]+$",
+    "prefix": "fplx",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2021-05-10T19:46:22.120+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FPLX through BioPortal",
+            "id": 1810,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100869",
+            "name": "FPLX through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/FPLX/",
+            "sampleId": "RAS",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100869/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FamPlex is provided by the Sorger lab at Harvard Medical School.",
+            "id": 2617,
+            "institution": {
+                "description": "Harvard is at the frontier of academic and intellectual discovery. Those who venture here—to learn, research, teach, work, and grow—join nearly four centuries of students and scholars in the pursuit of truth, knowledge, and a better world.",
+                "homeUrl": "https://www.harvard.edu/",
+                "id": 2616,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Harvard University",
+                "rorId": "https://ror.org/03vek6s52"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000809",
+            "name": "Sorger lab at Harvard Medical School",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "sorgerlab",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://sorgerlab.github.io/famplex",
+            "sampleId": "ABL_family",
+            "urlPattern": "https://sorgerlab.github.io/famplex/{$id}"
+        }
+    ],
+    "sampleId": "RAS",
+    "successor": null
+}

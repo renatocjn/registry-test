@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:09.365+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "FaceBase is a collaborative NIDCR-funded consortium to generate data in support of advancing research into craniofacial development and malformation. It serves as a community resource by generating large datasets of a variety of types and making them available to the wider research community via this website. Practices emphasize a comprehensive and multidisciplinary approach to understanding the developmental processes that create the face. The data offered spotlights high-throughput genetic, molecular, biological, imaging and computational techniques. One of the missions of this consortium is to facilitate cooperation and collaboration between projects.",
+    "id": 1780,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000642",
+    "modified": "2019-06-11T14:18:09.365+00:00",
+    "name": "FaceBase Data Repository",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^FB\\d{8}$",
+    "prefix": "facebase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FaceBase Data Repository",
+            "id": 1782,
+            "institution": {
+                "description": "The University of Southern California is a leading private research university located in Los Angeles — a global center for arts, technology and international business. It is home to the College of Letters, Arts and Sciences and 21 exceptional academic schools and units. USC’s Health Sciences campus houses renowned specialized care and research in cancer, stem cell and regenerative medicine, orthopedics and sports medicine. The university is the largest private sector employer in the city of Los Angeles, responsible for $8 billion annually in economic activity in the region.",
+                "homeUrl": "https://www.usc.edu/",
+                "id": 1781,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Southern California",
+                "rorId": "https://ror.org/03taz7m60"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100847",
+            "name": "FaceBase Data Repository",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.facebase.org",
+            "sampleId": "FB00000917",
+            "urlPattern": "https://www.facebase.org/data/record/#1/isa:dataset/accession={$id}"
+        }
+    ],
+    "sampleId": "FB00000917",
+    "successor": null
+}

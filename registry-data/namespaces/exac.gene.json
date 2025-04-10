@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:45.890+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Exome Aggregation Consortium (ExAC) is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a variety of large-scale sequencing projects, and to make summary data available for the wider scientific community. The data pertains to unrelated individuals sequenced as part of various disease-specific and population genetic studies and serves as a reference set of allele frequencies for severe disease studies. This collection references gene information.",
+    "id": 1535,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000548",
+    "modified": "2019-06-11T14:17:45.890+00:00",
+    "name": "ExAC Gene",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ENSG\\d{11}$",
+    "prefix": "exac.gene",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ExAC Gene at Exome Aggregation Consortium",
+            "id": 1536,
+            "institution": {
+                "description": "The Exome Aggregation Consortium (ExAC) was a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a variety of large-scale sequencing projects, and to make summary data available for the wider scientific community. ",
+                "homeUrl": "https://exac.broadinstitute.org/",
+                "id": 1519,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Exome Aggregation Consortium (ExAC), Cambridge, Massachusetts",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100725",
+            "name": "ExAC Gene at Exome Aggregation Consortium",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://exac.broadinstitute.org/",
+            "sampleId": "ENSG00000169174",
+            "urlPattern": "http://exac.broadinstitute.org/gene/{$id}"
+        }
+    ],
+    "sampleId": "ENSG00000169174",
+    "successor": null
+}

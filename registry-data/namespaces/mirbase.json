@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:53.607+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The miRBase Sequence Database is a searchable database of published miRNA sequences and annotation. The data were previously provided by the miRNA Registry. Each entry in the miRBase Sequence database represents a predicted hairpin portion of a miRNA transcript (termed mir in the database), with information on the location and sequence of the mature miRNA sequence (termed miR).",
+    "id": 263,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000078",
+    "modified": "2019-06-11T14:15:53.607+00:00",
+    "name": "miRBase Sequence",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "MI\\d{7}",
+    "prefix": "mirbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "miRBase Sequence Database",
+            "id": 265,
+            "institution": {
+                "description": "Research laboratories are at the core of our Faculty's research.",
+                "homeUrl": "http://www.manchester.ac.uk/lifesciences/",
+                "id": 264,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Faculty of Life Sciences, University of Manchester",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100135",
+            "name": "miRBase Sequence Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.mirbase.org/",
+            "sampleId": "MI0000001",
+            "urlPattern": "http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc={$id}"
+        }
+    ],
+    "sampleId": "MI0000001",
+    "successor": null
+}

@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:10.500+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "NCI Thesaurus (NCIt) provides reference terminology covering vocabulary for clinical care, translational and basic research, and public information and administrative activities, providing a stable and unique identification code.",
+    "id": 441,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000139",
+    "modified": "2019-06-11T14:16:10.500+00:00",
+    "name": "NCIt",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^C\\d+$",
+    "prefix": "ncit",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCIt at National Cancer Institute",
+            "id": 443,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 442,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Cancer Institute, Center for Bioinformatics, Maryland",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100181",
+            "name": "NCIt at National Cancer Institute",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ncit.nci.nih.gov/",
+            "sampleId": "C80519",
+            "urlPattern": "http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI%20Thesaurus&code={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NCIt through OLS",
+            "id": 444,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100868",
+            "name": "NCIt through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ncit",
+            "sampleId": "C16353",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_{$id}"
+        }
+    ],
+    "sampleId": "C80519",
+    "successor": null
+}

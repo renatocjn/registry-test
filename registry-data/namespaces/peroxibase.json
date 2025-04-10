@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:30.097+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Peroxibase provides access to peroxidase sequences from all kingdoms of life, and provides a series of bioinformatics tools and facilities suitable for analysing these sequences.",
+    "id": 660,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000222",
+    "modified": "2019-06-11T14:16:30.097+00:00",
+    "name": "Peroxibase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "peroxibase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Peroxibase at University of Geneva",
+            "id": 662,
+            "institution": {
+                "description": "Department of Plant Biology of the University of Geneva",
+                "homeUrl": "https://biveg.unige.ch/",
+                "id": 661,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "Department of Plant Biology, University of Geneva, Geneva",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100281",
+            "name": "Peroxibase at University of Geneva",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://peroxibase.toulouse.inra.fr/",
+            "sampleId": "5282",
+            "urlPattern": "http://peroxibase.toulouse.inra.fr/browse/process/view_perox.php?id={$id}"
+        }
+    ],
+    "sampleId": "5282",
+    "successor": null
+}

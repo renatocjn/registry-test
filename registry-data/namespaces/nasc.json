@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:49.131+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Nottingham Arabidopsis Stock Centre (NASC) provides seed and information resources to the International Arabidopsis Genome Programme and the wider research community.",
+    "id": 886,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000304",
+    "modified": "2019-06-11T14:16:49.131+00:00",
+    "name": "NASC code",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(\\w+)?\\d+$",
+    "prefix": "nasc",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NASC at University of Nottingham",
+            "id": 888,
+            "institution": {
+                "description": "The Nottingham Arabidopsis Stock Centre (NASC) provides seed and information resources to the International Arabidopsis Genome Programme and the wider research community. ",
+                "homeUrl": "https://arabidopsis.info/",
+                "id": 887,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "The Nottingham Arabidopsis Stock Centre, University of Nottingham",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100386",
+            "name": "NASC at University of Nottingham",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://arabidopsis.info/",
+            "sampleId": "N1899",
+            "urlPattern": "http://arabidopsis.info/StockInfo?NASC_id={$id}"
+        }
+    ],
+    "sampleId": "N1899",
+    "successor": null
+}

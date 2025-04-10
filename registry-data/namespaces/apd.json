@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:43.451+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The antimicrobial peptide database (APD) provides information on anticancer, antiviral, antifungal and antibacterial peptides.",
+    "id": 817,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000278",
+    "modified": "2019-06-11T14:16:43.451+00:00",
+    "name": "APD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d{5}$",
+    "prefix": "apd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "APD at Nebraska",
+            "id": 819,
+            "institution": {
+                "description": "The Eppley Institute for Research in Cancer and Allied Diseases is a multidisciplinary cancer research institute at the University of Nebraska Medical Center (UNMC) in Omaha, Nebraska. Created in 1960 with a $2.5 million grant from the Eugene C. Eppley Foundation and funds from the National Institutes of Health and the University of Nebraska, the Eppley Institute currently has 31 faculty members who conduct basic and translational cancer research in state-of-the-art laboratories. ",
+                "homeUrl": "https://www.unmc.edu/eppley/",
+                "id": 818,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100359",
+            "name": "APD at Nebraska",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://aps.unmc.edu/AP/",
+            "sampleId": "01001",
+            "urlPattern": "http://aps.unmc.edu/AP/database/query_output.php?ID={$id}"
+        }
+    ],
+    "sampleId": "01001",
+    "successor": null
+}

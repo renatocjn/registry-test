@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:51.481+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The IUPHAR Compendium details the molecular, biophysical and pharmacological properties of identified mammalian sodium, calcium and potassium channels, as well as the related cyclic nucleotide-modulated ion channels and the recently described transient receptor potential channels. It includes information on nomenclature systems, and on inter and intra-species molecular structure variation. This collection references families of receptors or subunits.",
+    "id": 914,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000317",
+    "modified": "2019-06-11T14:16:51.481+00:00",
+    "name": "IUPHAR family",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "iuphar.family",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The IUPHAR/BPS Guide to PHARMACOLOGY",
+            "id": 916,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 915,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "International Union of Pharmacology, Edinburgh",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100708",
+            "name": "The IUPHAR/BPS Guide to PHARMACOLOGY",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.guidetopharmacology.org/",
+            "sampleId": "78",
+            "urlPattern": "http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId={$id}"
+        }
+    ],
+    "sampleId": "78",
+    "successor": null
+}

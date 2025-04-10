@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:14.340+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "FoodOn is a comprehensive and easily accessible global farm-to-fork ontology about food that accurately and consistently describes foods commonly known in cultures from around the world. It is a consortium-driven project built to interoperate with the The Open Biological and Biomedical Ontology Foundry library of ontologies.",
+    "id": 1834,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000661",
+    "modified": "2019-06-11T14:18:14.340+00:00",
+    "name": "FoodOn Food Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^FOODON:[0-9]{8}$",
+    "prefix": "foodon",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FoodOn Food Ontology through OLS",
+            "id": 1835,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100879",
+            "name": "FoodOn Food Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://foodon.org",
+            "sampleId": "03307879",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/foodon/terms?obo_id=FOODON:{$id}"
+        }
+    ],
+    "sampleId": "03307879",
+    "successor": null
+}

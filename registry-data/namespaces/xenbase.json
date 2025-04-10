@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:21.651+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Xenbase is the model organism database for Xenopus laevis and X. (Silurana) tropicalis. It contains genomic, development data and community information for Xenopus research. it includes gene expression patterns that incorporates image data from the literature, large scale screens and community submissions.",
+    "id": 567,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000186",
+    "modified": "2020-06-09T19:30:57.158+00:00",
+    "name": "Xenbase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^XB\\-\\w+\\-\\d+$",
+    "prefix": "xenbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Xenbase at University of Calgary",
+            "id": 569,
+            "institution": {
+                "description": "The University of Calgary is one of Canada’s top comprehensive research universities, combining the best of university tradition with the city of Calgary’s vibrant energy and diversity.",
+                "homeUrl": "https://www.ucalgary.ca/",
+                "id": 568,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "University of Calgary",
+                "rorId": "https://ror.org/03yjb2x39"
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100232",
+            "name": "Xenbase at University of Calgary",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.xenbase.org/",
+            "sampleId": "XB-GENE-922462",
+            "urlPattern": "https://www.xenbase.org/entry/{$id}"
+        }
+    ],
+    "sampleId": "XB-GENE-922462",
+    "successor": null
+}

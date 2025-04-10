@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:05.741+00:00",
+    "deprecated": true,
+    "deprecationDate": "2025-03-31T08:02:21.850+00:00",
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Protein Reference Database (HPRD) represents a centralized platform to visually depict and integrate information pertaining to domain architecture, post-translational modifications, interaction networks and disease association for each protein in the human proteome.",
+    "id": 1086,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000377",
+    "modified": "2025-03-31T08:04:21.084+00:00",
+    "name": "HPRD",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "hprd",
+    "renderDeprecatedLanding": true,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Protein Reference Database",
+            "id": 1088,
+            "institution": {
+                "description": "The Institute of Bioinformatics is a not-for-profit organization engaged in research in Bioinformatics. This institute is located in Bangalore, India and was established in May 2002. Bangalore is a prime center for research and development and is the hub of information technology in India. The Institute of Bioinformatics emphasizes cutting edge research in Databases, Computational Genomics, Proteomics Comparative Genomics, Metabolomics and Lipidomics. The initial goal of this Institute was to create a freely available Human Protein Reference Database using open source technologies and to experimentally verify predicted human genes using molecular biology and proteomics-based methods.",
+                "homeUrl": "http://www.ibioinformatics.org/",
+                "id": 1087,
+                "location": {
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                "name": "Institute of Bioinformatics, International Tech Park, Bangalore",
+                "rorId": "https://ror.org/04hqfvm50"
+            },
+            "location": {
+                "countryCode": "IN",
+                "countryName": "India"
+            },
+            "mirId": "MIR:00100479",
+            "name": "Human Protein Reference Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.hprd.org/",
+            "sampleId": "00001",
+            "urlPattern": "http://www.hprd.org/protein/{$id}"
+        }
+    ],
+    "sampleId": "00001",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:04.748+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Benchmark Energy & Geometry Database (BEGDB) collects results of highly accurate quantum mechanics (QM) calculations of molecular structures, energies and properties. These data can serve as benchmarks for testing and parameterization of other computational methods.",
+    "id": 1726,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000622",
+    "modified": "2019-06-11T14:18:04.748+00:00",
+    "name": "Benchmark Energy & Geometry Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "begdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Benchmark Energy & Geometry Database",
+            "id": 1728,
+            "institution": {
+                "description": "IOCB Prague is a leading research institution under the umbrella of the Czech Academy of Sciences. Our mission is basic research at the interface of chemical and biological sciences and translation of results from basic research into applications and commercial assets.",
+                "homeUrl": "https://www.uochb.cz/en",
+                "id": 1727,
+                "location": {
+                    "countryCode": "CZ",
+                    "countryName": "Czech Republic"
+                },
+                "name": "Institute of Organic Chemistry and Biochemistry, Academy of Sciences of the Czech Republic, Prague",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CZ",
+                "countryName": "Czech Republic"
+            },
+            "mirId": "MIR:00100826",
+            "name": "Benchmark Energy & Geometry Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.begdb.com",
+            "sampleId": "4214",
+            "urlPattern": "http://www.begdb.com/index.php?action=oneMolecule&state=show&id={$id}"
+        }
+    ],
+    "sampleId": "4214",
+    "successor": null
+}

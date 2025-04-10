@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:11.523+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Online Mendelian Inheritance in Animals is a a database of genes, inherited disorders and traits in animal species (other than human and mouse).",
+    "id": 451,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000142",
+    "modified": "2019-06-11T14:16:11.523+00:00",
+    "name": "OMIA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "omia",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OMIA at University of Sydney",
+            "id": 453,
+            "institution": {
+                "description": "Leading veterinary education, animal science and research that advances the health and welfare of animals and benefits the community.",
+                "homeUrl": "https://www.sydney.edu.au/science/schools/sydney-school-of-veterinary-science.html",
+                "id": 452,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Sydney School of Veterinary Science, Faculty of Science, The University of Sydney",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00100185",
+            "name": "OMIA at University of Sydney",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.omia.org/home/",
+            "sampleId": "1000",
+            "urlPattern": "https://www.omia.org/OMIA{$id}"
+        }
+    ],
+    "sampleId": "1000",
+    "successor": null
+}

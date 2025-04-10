@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:55.662+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Human Protein Atlas (HPA) is a publicly available database with high-resolution images showing the spatial distribution of proteins in different normal and cancer human cell lines. Primary access to this collection is through Ensembl Gene identifiers.",
+    "id": 964,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000336",
+    "modified": "2019-06-11T14:16:55.662+00:00",
+    "name": "HPA",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ENSG\\d{11}$",
+    "prefix": "hpa",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Protein Atlas at AlbaNova University",
+            "id": 966,
+            "institution": {
+                "description": "AlbaNova University Center, the Stockholm Center for Physics, Astronomy and Biotechnology (in Swedish, AlbaNova universitetscentrum, Stockholms centrum för fysik, astronomi och bioteknik) is an exciting interdisciplinary project linking three subject areas,",
+                "homeUrl": "https://www.albanova.se/",
+                "id": 965,
+                "location": {
+                    "countryCode": "SE",
+                    "countryName": "Sweden"
+                },
+                "name": "Department of Proteomics, School of Biotechnology, AlbaNova University Center, Stockholm",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "SE",
+                "countryName": "Sweden"
+            },
+            "mirId": "MIR:00100431",
+            "name": "Human Protein Atlas at AlbaNova University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.proteinatlas.org/",
+            "sampleId": "ENSG00000026508",
+            "urlPattern": "http://www.proteinatlas.org/{$id}"
+        }
+    ],
+    "sampleId": "ENSG00000026508",
+    "successor": null
+}

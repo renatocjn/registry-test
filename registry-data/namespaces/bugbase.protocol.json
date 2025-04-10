@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:12.749+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "BugBase is a MIAME-compliant microbial gene expression and comparative genomic database. It stores experimental annotation and multiple raw and analysed data formats, as well as protocols for bacterial microarray designs. This collection references design protocols.",
+    "id": 1169,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000403",
+    "modified": "2019-06-11T14:17:12.749+00:00",
+    "name": "BugBase Protocol",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "bugbase.protocol",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BugBase Protocol at University of London",
+            "id": 1171,
+            "institution": {
+                "description": "St George’s Hospital Medical School was established in 1733 and initially based at Hyde Park Corner, before moving to our Tooting site in 1980. It was the second institution in England to provide formal training courses for doctors.\nSt George’s has a dynamic research culture, with teams working to improve the health of people of all ages, from children to the elderly, in populations locally and globally.",
+                "homeUrl": "https://www.sgul.ac.uk/",
+                "id": 1170,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "St George's, University of London",
+                "rorId": "https://ror.org/040f08y74"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100523",
+            "name": "BugBase Protocol at University of London",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bugs.sgul.ac.uk/E-BUGS",
+            "sampleId": "67",
+            "urlPattern": "http://bugs.sgul.ac.uk/bugsbase/tabs/protocol.php?protocol_id={$id}&amp;action=view"
+        }
+    ],
+    "sampleId": "67",
+    "successor": null
+}

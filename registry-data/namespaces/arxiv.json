@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:15:41.707+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "arXiv is an e-print service in the fields of physics, mathematics, non-linear science, computer science, and quantitative biology.",
+    "id": 140,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000035",
+    "modified": "2019-06-11T14:15:41.707+00:00",
+    "name": "arXiv",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(\\w+(\\-\\w+)?(\\.\\w+)?)?\\d{4,7}(\\.\\d+(v\\d+)?)?$",
+    "prefix": "arxiv",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Cornell University arXiv",
+            "id": 142,
+            "institution": {
+                "description": "Cornell is a privately endowed research university and a partner of the State University of New York. As the federal land-grant institution in New York State, we have a responsibility—unique within the Ivy League—to make contributions in all fields of knowledge in a manner that prioritizes public engagement to help improve the quality of life in our state, the nation, the world.",
+                "homeUrl": "https://ror.org/05bnh6r87",
+                "id": 141,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cornell University",
+                "rorId": "https://ror.org/05bnh6r87"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100060",
+            "name": "Cornell University arXiv",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://arxiv.org/",
+            "sampleId": "0807.4956v1",
+            "urlPattern": "https://arxiv.org/abs/{$id}"
+        }
+    ],
+    "sampleId": "0807.4956v1",
+    "successor": null
+}

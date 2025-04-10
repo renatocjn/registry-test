@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:08.223+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MobiDB is a database of protein disorder and mobility annotations.",
+    "id": 1768,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000637",
+    "modified": "2019-06-11T14:18:08.223+00:00",
+    "name": "MobiDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9]([A-Z][A-Z0-9]{2}[0-9]){1,2}$",
+    "prefix": "mobidb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MobiDB",
+            "id": 1770,
+            "institution": {
+                "description": "he University of Padua is one of Europe’s oldest and most prestigious seats of learning. As a multi-disciplinary institute of higher education, the University aims to provide its students with professional training and a solid cultural background. The qualification received from the University of Padua act as a symbol of the ambitious objectives respected and coveted by both students and employers alike.",
+                "homeUrl": "https://www.unipd.it/en/",
+                "id": 1769,
+                "location": {
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                "name": "University of Padua",
+                "rorId": "https://ror.org/00240q980"
+            },
+            "location": {
+                "countryCode": "IT",
+                "countryName": "Italy"
+            },
+            "mirId": "MIR:00100842",
+            "name": "MobiDB",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mobidb.org/",
+            "sampleId": "P10636",
+            "urlPattern": "https://mobidb.org/{$id}"
+        }
+    ],
+    "sampleId": "P10636",
+    "successor": null
+}

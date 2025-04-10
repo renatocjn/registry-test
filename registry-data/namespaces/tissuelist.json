@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:01.500+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The UniProt Tissue List is a controlled vocabulary of terms used to annotate biological tissues. It also contains cross-references to other ontologies where tissue types are specified.",
+    "id": 1033,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000360",
+    "modified": "2019-06-11T14:17:01.500+00:00",
+    "name": "Tissue List",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^TS-\\d{4}$",
+    "prefix": "tissuelist",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Tissue List at Swiss Institute of Bioinformatics",
+            "id": 1035,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100457",
+            "name": "Tissue List at Swiss Institute of Bioinformatics",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.uniprot.org/docs/tisslist.txt",
+            "sampleId": "TS-0285",
+            "urlPattern": "https://www.uniprot.org/tissues/{$id}"
+        }
+    ],
+    "sampleId": "TS-0285",
+    "successor": null
+}

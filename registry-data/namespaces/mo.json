@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:16:48.772+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The MGED Ontology (MO) provides terms for annotating all aspects of a microarray experiment from the design of the experiment and array layout, through to the preparation of the biological sample and the protocols used to hybridize the RNA and analyze the data.",
+    "id": 882,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000303",
+    "modified": "2019-06-11T14:16:48.772+00:00",
+    "name": "MGED Ontology",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "mo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGED Ontology at SourceForge",
+            "id": 885,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 884,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "(Ontology Working Group), European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100568",
+            "name": "MGED Ontology at SourceForge",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mged.sourceforge.net/ontologies/MGEDontology.php",
+            "sampleId": "ArrayGroup",
+            "urlPattern": "https://mged.sourceforge.net/ontologies/MGEDontology.php#{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGED Ontology at BioPortal",
+            "id": 883,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100385",
+            "name": "MGED Ontology at BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/",
+            "sampleId": "ArrayGroup",
+            "urlPattern": "http://purl.bioontology.org/ontology/MO/{$id}"
+        }
+    ],
+    "sampleId": "ArrayGroup",
+    "successor": null
+}

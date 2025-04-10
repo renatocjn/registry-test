@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:25.144+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Molbase provides compound data information for researchers as well as listing suppliers and price information. It can be searched by keyword or CAS indetifier.",
+    "id": 1312,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000458",
+    "modified": "2019-06-11T14:17:25.144+00:00",
+    "name": "Molbase",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(\\d{1,7}\\-\\d{2}\\-\\d)|([A-Za-z0-9\\+\\-\\_]+)$",
+    "prefix": "molbase",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Molbase at Chinese Academy of Sciences",
+            "id": 1314,
+            "institution": {
+                "description": "The Chinese Academy of Sciences is the linchpin of China’s drive to explore and harness high technology and the natural sciences for the benefit of China and the world. CAS brings together scientists and engineers from China and around the world to address both theoretical and applied problems using world-class scientific and management approaches.",
+                "homeUrl": "http://english.cas.cn/",
+                "id": 737,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Chinese Academy of Sciences",
+                "rorId": "https://ror.org/034t30j35"
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100593",
+            "name": "Molbase at Chinese Academy of Sciences",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.molbase.com/",
+            "sampleId": "128796-39-4",
+            "urlPattern": "http://www.molbase.com/en/index.php?app=search&search_keyword={$id}"
+        }
+    ],
+    "sampleId": "128796-39-4",
+    "successor": null
+}

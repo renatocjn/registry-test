@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:50.779+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Tetrahymena Genome Database (TGD) Wiki is a database of information about the Tetrahymena thermophila genome sequence. It provides information curated from the literature about each published gene, including a standardized gene name, a link to the genomic locus, gene product annotations utilizing the Gene Ontology, and links to published literature.",
+    "id": 906,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000313",
+    "modified": "2019-06-11T14:16:50.779+00:00",
+    "name": "Tetrahymena Genome Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^TTHERM\\_\\d+$",
+    "prefix": "tgd",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TGD at Stanford University",
+            "id": 907,
+            "institution": {
+                "description": "A leader in the biomedical revolution, Stanford Medicine has a long tradition of leadership in pioneering research, creative teaching protocols and effective clinical therapies.",
+                "homeUrl": "https://med.stanford.edu/genetics.html",
+                "id": 298,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Genetics, School of Medicine, Stanford University, Stanford, California",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100396",
+            "name": "TGD at Stanford University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ciliate.org/index.php/",
+            "sampleId": "TTHERM_00648910",
+            "urlPattern": "http://ciliate.org/index.php/feature/details/{$id}"
+        }
+    ],
+    "sampleId": "TTHERM_00648910",
+    "successor": null
+}

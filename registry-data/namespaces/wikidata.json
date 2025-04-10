@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:46.087+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Wikidata is a collaboratively edited knowledge base operated by the Wikimedia Foundation. It is intended to provide a common source of certain types of data which can be used by Wikimedia projects such as Wikipedia. Wikidata functions as a document-oriented database, centred on individual items. Items represent topics, for which basic information is stored that identifies each topic.",
+    "id": 1537,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000549",
+    "modified": "2020-11-30T14:15:44.647+00:00",
+    "name": "Wikidata",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^(Q|P)\\d+$",
+    "prefix": "wikidata",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Wikidata at Wikimedia Foundation",
+            "id": 1538,
+            "institution": {
+                "description": "The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity.",
+                "homeUrl": "https://wikimediafoundation.org/",
+                "id": 1111,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Wikimedia Foundation, San Francisco, California",
+                "rorId": "https://ror.org/032q98j12"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100726",
+            "name": "Wikidata at Wikimedia Foundation",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.wikidata.org/",
+            "sampleId": "Q2207226",
+            "urlPattern": "http://www.wikidata.org/entity/{$id}"
+        }
+    ],
+    "sampleId": "Q2207226",
+    "successor": null
+}

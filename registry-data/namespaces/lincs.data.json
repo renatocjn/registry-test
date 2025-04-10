@@ -1,0 +1,91 @@
+{
+    "created": "2019-06-11T14:17:56.343+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Library of Network-Based Cellular Signatures (LINCS) Program aims to create a network-based understanding of biology by cataloguing changes in gene expression and other cellular processes that occur when cells are exposed to perturbing agents. The data is organized and available as datasets, each including experimental data, metadata and a description of the dataset and assay. The dataset group comprises datasets for the same experiment but with different data level results (data processed to a different level).",
+    "id": 1635,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000588",
+    "modified": "2019-06-11T14:17:56.343+00:00",
+    "name": "LINCS Data",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[EL]D[SG]-\\d+$",
+    "prefix": "lincs.data",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LINCS Data at University of Miami",
+            "id": 1636,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1526,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Miami, BD2K-LINCS DCIC",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100785",
+            "name": "LINCS Data at University of Miami",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://lincsportal.ccs.miami.edu/datasets/",
+            "sampleId": "LDS-1110",
+            "urlPattern": "http://lincsportal.ccs.miami.edu/datasets/#/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Lincs through OmicsDI",
+            "id": 1637,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100856",
+            "name": "Lincs through OmicsDI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "omicsdi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.omicsdi.org/",
+            "sampleId": "LDS-1110",
+            "urlPattern": "https://www.omicsdi.org/dataset/lincs/{$id}"
+        }
+    ],
+    "sampleId": "LDS-1110",
+    "successor": null
+}

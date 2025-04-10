@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:04.976+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The goal of the CAMEO (Continuous Automated Model EvaluatiOn) community project is to continuously evaluate the accuracy and reliability of protein structure prediction servers, offering scores on  tertiary and quaternary structure prediction, model quality estimation, accessible surface area prediction, ligand binding site residue prediction and contact prediction services in a fully automated manner. These predictions are regularly compared against reference structures from PDB.",
+    "id": 1729,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000623",
+    "modified": "2019-10-01T11:46:06.302+00:00",
+    "name": "CAMEO",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9\\-_]+$",
+    "prefix": "cameo",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "CAMEO",
+            "id": 1731,
+            "institution": {
+                "description": "SIB provides bioinformatics services and resources for scientists and clinicians from academia and industry in Switzerland and worldwide.",
+                "homeUrl": "https://www.sib.swiss",
+                "id": 1730,
+                "location": {
+                    "countryCode": "CH",
+                    "countryName": "Switzerland"
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "rorId": "https://ror.org/002n09z45"
+            },
+            "location": {
+                "countryCode": "CH",
+                "countryName": "Switzerland"
+            },
+            "mirId": "MIR:00100827",
+            "name": "CAMEO",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "sib",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://cameo3d.org",
+            "sampleId": "2019-08-03_00000089_1",
+            "urlPattern": "https://www.cameo3d.org/sp/targets/target/{$id}"
+        }
+    ],
+    "sampleId": "2019-08-03_00000089_1",
+    "successor": null
+}

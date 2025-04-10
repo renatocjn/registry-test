@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:43.224+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The database of Annotated regulatory Binding Sites (from orthologous promoters), ABS, is a public database of known binding sites identified in promoters of orthologous vertebrate genes that have been manually curated from bibliography.",
+    "id": 814,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000277",
+    "modified": "2019-06-11T14:16:43.224+00:00",
+    "name": "ABS",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^A\\d+$",
+    "prefix": "abs",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ABS at IMIM",
+            "id": 816,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 815,
+                "location": {
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                "name": "Institut Municipal d'Investigaci&oacute; M&egrave;dica, Barcelona",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "ES",
+                "countryName": "Spain"
+            },
+            "mirId": "MIR:00100358",
+            "name": "ABS at IMIM",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://genome.crg.es/datasets/abs2005/",
+            "sampleId": "A0014",
+            "urlPattern": "http://genome.crg.es/datasets/abs2005/entries/{$id}.html"
+        }
+    ],
+    "sampleId": "A0014",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2022-11-04T09:54:32.976+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "DrugCentral (http://drugcentral.org) is an open-access online drug compendium. DrugCentral integrates structure, bioactivity, regulatory, pharmacologic actions and indications for active pharmaceutical ingredients approved by FDA and other regulatory agencies. Monitoring of regulatory agencies for new drugs approvals ensures the resource is up-to-date. DrugCentral integrates content for active ingredients with pharmaceutical formulations, indexing drugs and drug label annotations, complementing similar resources available online. Its complementarity with other online resources is facilitated by cross referencing to external resources. At the molecular level, DrugCentral bridges drug-target interactions with pharmacological action and indications. The integration with FDA drug labels enables text mining applications for drug adverse events and clinical trial information. Chemical structure overlap between DrugCentral and five online drug resources, and the overlap between DrugCentral FDA-approved drugs and their presence in four different chemical collections, are discussed. DrugCentral can be accessed via the web application or downloaded in relational database format.",
+    "id": 3298,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000966",
+    "modified": "2022-11-04T09:54:32.976+00:00",
+    "name": "DrugCentral",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "drugcentral",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/05fs6jp91' with Wikidata IDs [Q1190812], and ISNI IDs [0000 0001 2188 8502]",
+            "id": 3299,
+            "institution": {
+                "description": "Founded in 1889 as New Mexico’s flagship institution, The University of New Mexico now occupies nearly 800 acres near old Route 66 in the heart of Albuquerque, a metropolitan area of more than 900,000 people. From the magnificent mesas to the west, past the banks of the historic Rio Grande to the Sandia Mountains to the east, Albuquerque is a blend of culture and cuisine, styles and stories, people, pursuits and panoramas. Offering a distinctive campus environment with a Pueblo Revival architectural theme, the campus buildings echo nearby Pueblo Indian villages. The nationally recognized campus arboretum and the popular duck pond offer an outstanding botanical experience in the midst of one of New Mexico's great public open spaces.",
+                "homeUrl": "http://www.unm.edu/",
+                "id": 3297,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of New Mexico",
+                "rorId": "https://ror.org/05fs6jp91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000965",
+            "name": "University of New Mexico",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "drugcentral",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.unm.edu/",
+            "sampleId": "257",
+            "urlPattern": "https://drugcentral.org/drugcard/{$id}"
+        }
+    ],
+    "sampleId": "257",
+    "successor": null
+}

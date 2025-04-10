@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:10.425+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "AphidBase is a centralized bioinformatic resource that was developed to facilitate community annotation of the pea aphid genome by the International Aphid Genomics Consortium (IAGC). The AphidBase Information System was designed to organize and distribute genomic data and annotations for a large international community. This collection references the transcript report, which describes genomic location, sequence and exon information.",
+    "id": 1139,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000393",
+    "modified": "2019-06-11T14:17:10.425+00:00",
+    "name": "AphidBase Transcript",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^ACYPI\\d{6}(-RA)?$",
+    "prefix": "aphidbase.transcript",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "AphidBase at INRA",
+            "id": 1141,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1140,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "INRA UMR, Le Rheu",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100513",
+            "name": "AphidBase at INRA",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.aphidbase.com/aphidbase",
+            "sampleId": "ACYPI000159",
+            "urlPattern": "http://bipaa.genouest.org/apps/grs-2.3/grs?reportID=aphidbase_transcript_report&objectID={$id}"
+        }
+    ],
+    "sampleId": "ACYPI000159",
+    "successor": null
+}

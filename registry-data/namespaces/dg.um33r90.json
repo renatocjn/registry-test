@@ -1,0 +1,56 @@
+{
+    "created": "2022-02-27T20:40:56.446+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The UMCCR AGHA Data Commons supports the management, analysis and sharing of data for the research community.",
+    "id": 3193,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000946",
+    "modified": "2022-02-27T20:40:56.446+00:00",
+    "name": "UMCCR AGHA Data Commons",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "prefix": "dg.um33r90",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The UMCCR AGHA Data Commons supports the management, analysis and sharing of data for the research community.",
+            "id": 3194,
+            "institution": {
+                "description": "The Open Commons Consortium (OCC) manages and operates cloud computing, data commons, and data ecosystems to advance scientific, medical, health care and environmental research for human and societal impact.",
+                "homeUrl": "https://www.occ-data.org/",
+                "id": 2820,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Open Commons Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000945",
+            "name": "UMCCR AGHA Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "dg.UM33R90",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://gen3.agha.umccr.org/",
+            "sampleId": "0aa770b4-66b3-4009-9f02-852236b0544f",
+            "urlPattern": "https://gen3.agha.umccr.org/ga4gh/drs/v1/objects/{$id}"
+        }
+    ],
+    "sampleId": "0aa770b4-66b3-4009-9f02-852236b0544f",
+    "successor": null
+}

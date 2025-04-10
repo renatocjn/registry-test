@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:03.353+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Tool and data services registry.",
+    "id": 1709,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000616",
+    "modified": "2023-01-05T19:09:45.468+00:00",
+    "name": "BioTools",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[-A-Za-z0-9\\_]*$",
+    "prefix": "biotools",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioTools",
+            "id": 1711,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1710,
+                "location": {
+                    "countryCode": "DK",
+                    "countryName": "Denmark"
+                },
+                "name": "Elixir-DK",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DK",
+                "countryName": "Denmark"
+            },
+            "mirId": "MIR:00100820",
+            "name": "BioTools",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bio.tools/",
+            "sampleId": "uniprotkb",
+            "urlPattern": "https://bio.tools/{$id}"
+        }
+    ],
+    "sampleId": "uniprotkb",
+    "successor": null
+}

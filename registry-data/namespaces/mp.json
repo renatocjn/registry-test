@@ -1,0 +1,126 @@
+{
+    "created": "2019-06-11T14:17:53.926+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Mammalian Phenotype Ontology (MP) classifies and organises phenotypic information related to the mouse and other mammalian species. This ontology has been applied to mouse phenotype descriptions in various databases allowing comparisons of data from diverse mammalian sources. It can facilitate in the identification of appropriate experimental disease models, and aid in the discovery of candidate disease genes and molecular signaling pathways.",
+    "id": 1614,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000580",
+    "modified": "2019-06-11T14:17:53.926+00:00",
+    "name": "Mammalian Phenotype Ontology",
+    "namespaceEmbeddedInLui": true,
+    "pattern": "^MP:\\d{7}$",
+    "prefix": "mp",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mammalian Phenotype Ontology through BioPortal",
+            "id": 1617,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100776",
+            "name": "Mammalian Phenotype Ontology through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioportal.bioontology.org/ontologies/MP",
+            "sampleId": "0005452",
+            "urlPattern": "https://bioportal.bioontology.org/ontologies/MP/MP:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mammalian Phenotype Ontology through OLS",
+            "id": 1616,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100775",
+            "name": "Mammalian Phenotype Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/mp/",
+            "sampleId": "0005452",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/mp/terms?obo_id=MP:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mammalian Phenotype Ontology at The Jackson Lab",
+            "id": 1615,
+            "institution": {
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100774",
+            "name": "Mammalian Phenotype Ontology at The Jackson Lab",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.informatics.jax.org/",
+            "sampleId": "0005452",
+            "urlPattern": "http://www.informatics.jax.org/searches/Phat.cgi?id=MP:{$id}"
+        }
+    ],
+    "sampleId": "0005452",
+    "successor": null
+}

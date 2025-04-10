@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:35.217+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Topology Data Bank of Transmembrane Proteins (TOPDB) is a collection of transmembrane protein datasets containing experimentally derived topology information. It contains information gathered from the literature and from public databases availableon transmembrane proteins. Each record in TOPDB also contains information on the given protein sequence, name, organism and cross references to various other databases.",
+    "id": 1425,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000503",
+    "modified": "2019-06-11T14:17:35.217+00:00",
+    "name": "TOPDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z0-9]+$",
+    "prefix": "topdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "TOPDB at Hungarian Academy of Sciences",
+            "id": 1427,
+            "institution": {
+                "description": "The Institute of Enzymology pursues research goals stretching across multiple fields of science, resulting in interdisciplinary research using the methods of biology, chemistry physics and informatics at the same time. Structural biological basic research of the institute is directed towards understanding physiological and pathophysiological processes on the scale of molecules and cells. Research topics are continuously extended from structural biology towards system biology to reveal complex biological processes by the utilization of advances in proteomics and bioinformatics.\n",
+                "homeUrl": "http://www.ttk.hu/ei/en/",
+                "id": 1426,
+                "location": {
+                    "countryCode": "HU",
+                    "countryName": "Hungary"
+                },
+                "name": "Institute of Enzymology, Hungarian Academy of Sciences, Budapest",
+                "rorId": "https://ror.org/04t4pws42"
+            },
+            "location": {
+                "countryCode": "HU",
+                "countryName": "Hungary"
+            },
+            "mirId": "MIR:00100644",
+            "name": "TOPDB at Hungarian Academy of Sciences",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://topdb.enzim.hu/",
+            "sampleId": "AP00378",
+            "urlPattern": "http://topdb.enzim.hu/?m=show&id={$id}"
+        }
+    ],
+    "sampleId": "AP00378",
+    "successor": null
+}

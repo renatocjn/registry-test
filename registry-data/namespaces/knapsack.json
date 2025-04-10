@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:41.635+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "KNApSAcK provides information on metabolites and the\ntaxonomic class with which they are associated.",
+    "id": 794,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000271",
+    "modified": "2020-04-22T09:28:07.963+00:00",
+    "name": "KNApSAcK",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^C\\d{8}",
+    "prefix": "knapsack",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "KNApSAcK at NAIST",
+            "id": 796,
+            "institution": {
+                "description": "Nara Institute of Science and Technology (NAIST) is a Japanese national university located in Kansai Science City, a border region between Nara, Osaka, and Kyoto. Founded in 1991, NAIST consisted of graduate schools in three integrated areas: information science, biological sciences, and materials science.",
+                "homeUrl": "https://www.naist.jp/en/",
+                "id": 795,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Nara Institute of Science and Technology",
+                "rorId": "https://ror.org/05bhada84"
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100350",
+            "name": "KNApSAcK at NAIST",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.knapsackfamily.com/KNApSAcK/",
+            "sampleId": "C00000001",
+            "urlPattern": "http://www.knapsackfamily.com/knapsack_core/information.php?word={$id}"
+        }
+    ],
+    "sampleId": "C00000001",
+    "successor": null
+}

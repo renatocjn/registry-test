@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:25.854+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Computational gene function prediction can serve to focus experimental resources on high-priority experimental tasks. FuncBase is a web resource for viewing quantitative machine learning-based gene function annotations. Quantitative annotations of genes, including fungal and mammalian genes, with Gene Ontology terms are accompanied by a community feedback system. Evidence underlying function annotations is shown. FuncBase provides links to external resources, and may be accessed directly or via links from species-specific databases. This collection references Drosophila data.",
+    "id": 1321,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000461",
+    "modified": "2019-06-11T14:17:25.854+00:00",
+    "name": "FuncBase Fly",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "funcbase.fly",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "FuncBase Fly at Harvard Medical School",
+            "id": 1323,
+            "institution": {
+                "description": "Since the School was established in 1782, faculty members have improved human health by innovating in their roles as physicians, mentors and scholars. They’ve piloted educational models, developed new curricula to address emerging needs in health care, and produced thousands of leaders and compassionate caregivers who are shaping the fields of science and medicine throughout the world with their expertise and passion.",
+                "homeUrl": "https://hms.harvard.edu/",
+                "id": 2745,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Harvard Medical School",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100596",
+            "name": "FuncBase Fly at Harvard Medical School",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://func.mshri.on.ca/fly",
+            "sampleId": "10194",
+            "urlPattern": "http://func.mshri.on.ca/fly/genes/list_functional_scores/{$id}"
+        }
+    ],
+    "sampleId": "10194",
+    "successor": null
+}

@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:03.650+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The PSCDB (Protein Structural Change DataBase) collects information on the relationship between protein structural change upon ligand binding. Each entry page provides detailed information about this structural motion.",
+    "id": 1060,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000370",
+    "modified": "2019-06-11T14:17:03.650+00:00",
+    "name": "PSCDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\d+$",
+    "prefix": "pscdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PSCDB at Nagoya University",
+            "id": 1062,
+            "institution": {
+                "description": "The Graduate School of Information Science (GSIS) consists of fi ve Departments established in April 2003, i.e. the Department of Computer Science and Mathematical Informatics, the Department of Information Engineering, the Department of Media Science, the Department of Complex Systems Science, and the Department of Systems and Social Informatics. The GSIS covers widely fundamental science, applied science, and interdisciplinary fields, as an academic education/ research university organization for promoting the information communication technology age.",
+                "homeUrl": "https://en.nagoya-u.ac.jp/about_nu/admin/sch/deta/is.html",
+                "id": 1061,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Graduate School of Information Science, Nagoya University, Furo-cho, Chikusa-ku",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100469",
+            "name": "PSCDB at Nagoya University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://idp1.force.cs.is.nagoya-u.ac.jp/pscdb/index.html",
+            "sampleId": "051",
+            "urlPattern": "http://idp1.force.cs.is.nagoya-u.ac.jp/pscdb/{$id}.html"
+        }
+    ],
+    "sampleId": "051",
+    "successor": null
+}

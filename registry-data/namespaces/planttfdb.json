@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:17:53.641+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Plant TF database (PlantTFDB) systematically identifies transcription factors for plant species. It includes annotation for identified TFs, including information on expression, regulation, interaction, conserved elements, phenotype information. It also provides curated descriptions and cross-references to other life science databases, as well as identifying evolutionary relationship among identified factors.",
+    "id": 1611,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000579",
+    "modified": "2019-06-11T14:17:53.641+00:00",
+    "name": "Plant Transcription Factor Database",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[A-Z][a-z]{2}_([A-Za-z]{3}[0-9]{6})|([A-Za-z0-9\\._\\-#]*)$",
+    "prefix": "planttfdb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PlantTFDB at Peking University",
+            "id": 1613,
+            "institution": {
+                "description": "Peking University is a comprehensive and national key university. The campus, known as \"Yan Yuan\"（the garden of Yan）, is situated at Haidian District in the western suburb of Beijing, with a total area of 2,743,532 square metres (or 274 hectares). It stands near to the Yuanmingyuan Garden and the Summer Palace.\nPeking University is proud of its outstanding faculty, including 48 members of the Chinese Academy of Sciences (CAS), 9 members of the Chinese Academy of Engineering (CAE), and 21 members of the Third World Academy of Sciences (TWAS).",
+                "homeUrl": "http://english.pku.edu.cn/",
+                "id": 1612,
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "name": "Peking University",
+                "rorId": "https://ror.org/02v51f717"
+            },
+            "location": {
+                "countryCode": "CN",
+                "countryName": "China"
+            },
+            "mirId": "MIR:00100772",
+            "name": "PlantTFDB at Peking University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://planttfdb.cbi.pku.edu.cn",
+            "sampleId": "Ath_AT1G01030.1",
+            "urlPattern": "http://planttfdb.cbi.pku.edu.cn/tf.php?uid={$id}"
+        }
+    ],
+    "sampleId": "Ath_AT1G01030.1",
+    "successor": null
+}

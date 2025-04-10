@@ -1,0 +1,56 @@
+{
+    "created": "2021-09-05T17:58:19.858+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans, non-human primates, and other animal species in the context of infectious disease, allergy, autoimmunity and transplantation. The IEDB also hosts tools to assist in the prediction and analysis of epitopes.",
+    "id": 2857,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000865",
+    "modified": "2021-09-05T17:58:19.858+00:00",
+    "name": "Immune Epitope Database (IEDB)",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "iedb",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "La Jolla Institute for Immunology is a non-profit\nresearch organization located in La Jolla, California. The Institute\nresearches immunology and immune system diseases. The institute was\nfounded in 1988. La Jolla Institute for Immunology is a collaborative\nresearch organization that has forged many partnerships within the\nresearch community in San Diego, across the United States, and abroad.",
+            "id": 2858,
+            "institution": {
+                "description": "La Jolla Institute for Immunology is a non-profit\nresearch organization located in La Jolla, California. The Institute\nresearches immunology and immune system diseases. The institute was\nfounded in 1988. La Jolla Institute for Immunology is a collaborative\nresearch organization that has forged many partnerships within the\nresearch community in San Diego, across the United States, and abroad.",
+                "homeUrl": "https://www.lji.org/",
+                "id": 2856,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "La Jolla Institute for Immunology",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000864",
+            "name": "La Jolla Institute for Immunology",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "lji",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.lji.org/",
+            "sampleId": "1038233",
+            "urlPattern": "https://www.iedb.org/reference/{$id}"
+        }
+    ],
+    "sampleId": "1038233",
+    "successor": null
+}

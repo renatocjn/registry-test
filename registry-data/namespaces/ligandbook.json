@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:18:19.416+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "Ligandbook is a public repository for force field parameters with a special emphasis on small molecules and known ligands of proteins. It acts as a warehouse for parameter files that are supplied by the community.",
+    "id": 1887,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000681",
+    "modified": "2019-06-11T14:18:19.416+00:00",
+    "name": "LigandBook",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^[0-9]+$",
+    "prefix": "ligandbook",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LigandBook",
+            "id": 1889,
+            "institution": {
+                "description": "Avec un effectif de près de 200 personnes, l’ICSN constitue le pôle chimie du campus CNRS de Gif sur Yvette. L’Institut est situé en bordure du futur campus Paris-Saclay, qui regroupera près de 10% de la recherche française, et fait partie intégrante de cette nouvelle Université. L’ICSN développe des activités à l’interface chimie-biologie, avec les substances naturelles comme objet d’étude et source principale d’inspiration. L’ICSN est organisée en quatre départements de recherche et possède d’importantes plateformes analytiques",
+                "homeUrl": "https://icsn.cnrs.fr/",
+                "id": 1888,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Institut de Chimie des Substances Naturelles",
+                "rorId": "https://ror.org/02st4q439"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100912",
+            "name": "LigandBook",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ligandbook.org/",
+            "sampleId": "785",
+            "urlPattern": "https://ligandbook.org/package/{$id}"
+        }
+    ],
+    "sampleId": "785",
+    "successor": null
+}

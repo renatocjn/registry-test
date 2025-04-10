@@ -1,0 +1,56 @@
+{
+    "created": "2019-06-11T14:16:38.756+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "MIPModDb is a database of comparative protein structure models of MIP (Major Intrinsic Protein) family of proteins, identified from complete genome sequence. It provides key information of MIPs based on their sequence and structures.",
+    "id": 759,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00000256",
+    "modified": "2019-06-11T14:16:38.756+00:00",
+    "name": "MIPModDB",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^\\w+$",
+    "prefix": "mipmod",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MIPModDB at Indian Institute of Technology Kanpur",
+            "id": 761,
+            "institution": {
+                "description": "The department is engaged in cutting-edge research and training in basic biology, biomedical and bioengineering fields. Its aim is to produce quality professionals in modern biology and allied fields who will engage in addressing country’s challenges by advancing the discovery in biology and applying the knowledge that can help to improve the quality of life of the citizens. The department currently offers three academic programs; B. Tech, M. Tech and PhD in biological sciences & bioengineering. The department is housed in a three storied building, with 16 research labs, 6 labs for core facilities, and 3 teaching labs, besides the office space. From the initial strength of 4 faculty members in 2002, today the BSBE department has grown with 16 faculty members and about 100 postgraduate (75 PhD. and 25 M. Tech.) and 145 undergraduate students. Ongoing research projects are spread in broadly three major domains that include (a) molecular, cellular and developmental biology, (b) structural and computational biology and (c) bioengineering. In years to come, BSBE aspires to become one of the world’s leading centers for biomedical research, training and teaching. For this the department wishes to increase the faculty strength to 35-40 for strengthening the existing research areas and to expand the bioengineering domain. This requires substantial addition of the laboratory space and core facilities. To attract bright students, the department plans to offer more cross-disciplinary and innovative UG & PG teaching and research programs in the near future, and some of them could be in partnership with leading universities in the world.",
+                "homeUrl": "http://www.iitk.ac.in/bsbe/",
+                "id": 760,
+                "location": {
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                "name": "Department of Biological Sciences and Bioengineering, Indian Institute of Technology Kanpur, Kanpur",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "IN",
+                "countryName": "India"
+            },
+            "mirId": "MIR:00100327",
+            "name": "MIPModDB at Indian Institute of Technology Kanpur",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioinfo.iitk.ac.in/MIPModDB",
+            "sampleId": "HOSAPI0399",
+            "urlPattern": "http://bioinfo.iitk.ac.in/MIPModDB/result.php?code={$id}"
+        }
+    ],
+    "sampleId": "HOSAPI0399",
+    "successor": null
+}

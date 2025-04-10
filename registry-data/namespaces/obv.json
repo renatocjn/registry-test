@@ -1,0 +1,56 @@
+{
+    "created": "2023-04-11T08:16:21.531+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The Austrian Library Network (OBV) is the largest network of scientific and administrative libraries in Austria with 70 participants, representing more than 90 individual institutions - including the Austrian National Library, university libraries, the colleges of education, individual ministries, numerous technical colleges and other important collections.",
+    "id": 3494,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001000",
+    "modified": "2023-04-11T08:16:21.531+00:00",
+    "name": "Austrian Library Network",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "AC[0-9]{8}",
+    "prefix": "obv",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "OBVSG is the service and operational management facility of the Austrian Library Network (OBV), a cataloguing and services consortium. This is the largest network of scientific and administrative libraries in Austria with 70 participants, representing more than 90 individual institutions - including the Austrian National Library, university libraries, the colleges of education, individual ministries, numerous technical colleges and other important collections.",
+            "id": 3495,
+            "institution": {
+                "description": "OBVSG is the service and operational management facility of the Austrian Library Network (OBV), a cataloguing and services consortium. This is the largest network of scientific and administrative libraries in Austria with 70 participants, representing more than 90 individual institutions - including the Austrian National Library, university libraries, the colleges of education, individual ministries, numerous technical colleges and other important collections.",
+                "homeUrl": "https://www.obvsg.at/",
+                "id": 3493,
+                "location": {
+                    "countryCode": "AT",
+                    "countryName": "Austria"
+                },
+                "name": "The Austrian Library Network and Service Ltd",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "AT",
+                "countryName": "Austria"
+            },
+            "mirId": "MIR:00000915",
+            "name": "The Austrian Library Network and Service Ltd",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "obvsg",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.obvsg.at/",
+            "sampleId": "AC00963334",
+            "urlPattern": "https://permalink.obvsg.at/{$id}"
+        }
+    ],
+    "sampleId": "AC00963334",
+    "successor": null
+}
