@@ -1,10 +1,10 @@
 name: Updating registry repository
-run-name: Daily update
+run-name: Periodic update
 on: 
   schedule:
     - cron: "0 6 * * *"
 jobs:
-  daily-check:
+  periodic-update:
     permissions:
       contents: write
     runs-on: ubuntu-latest
