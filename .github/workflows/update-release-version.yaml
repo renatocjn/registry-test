@@ -12,16 +12,16 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-        - uses: actions/checkout@v4
-        - name: Update version date
-          run: date +"%Y-%m-%d" > VERSION
-        - name: Commit new version
-          run: |
-            git config --local user.name "Registry Bot"
-            git config --local user.email "identifiers-org@ebi.ac.uk"
-            git add VERSION
-            git commit -m 'Update repository dataset version'
-        - name: Push changes
-          uses: ad-m/github-push-action@master
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Update version date
+        run: date +"%Y-%m-%d" > VERSION
+      - name: Commit new version
+        run: |
+          git config --local user.name "Registry Bot"
+          git config --local user.email "identifiers-org@ebi.ac.uk"
+          git add VERSION
+          git commit -m 'Update repository dataset version'
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

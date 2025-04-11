@@ -1,8 +1,8 @@
 name: Updating registry repository
 run-name: Periodic update
-on: 
-  schedule:
-    - cron: "0 6 * * *"
+on: workflow_dispatch
+  # schedule:
+  #   - cron: "*/5 * * * *"
 jobs:
   periodic-update:
     permissions:
@@ -14,7 +14,9 @@ jobs:
         with:
           node-version: 22
       - name: Run update script
-        run: npm ci && npm run update-from-live
+        run: |
+          npm ci
+          npm run update-from-live
       - name: Commit on change
         run: |
           if ! git diff --quite registry-data; then
