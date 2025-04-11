@@ -4,12 +4,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?path=registry-data&label=last%20update)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/renatocjn/registry-test/periodic-updates.yaml?logo=Github&label=periodic%20update&link=https%3A%2F%2Fgithub.com%2Frenatocjn%2Fregistry-test%2Factions%2Fworkflows%2Fperiodic-updates.yaml)
 
-**This is not the live registry data, only a mirror created for backup and versioning purposes.**
+**This is not the live registry data, only a mirror created for backup and versioning purposes. Changes to these files do not affect the identifiers.org services.**
+
+If there are any issues or you wish to update the identifiers.org registry, please [contact us](https://docs.identifiers.org/pages/contact) or open an issue at [our main issue board](https://github.com/identifiers-org/identifiers-org.github.io/issues).
 
 The live version of the registry can be found at <https://registry.api.identifiers.org/resolutionApi/getResolverDataset>.
 This repository can be out of date depending on the periodicity of the [update action](./github/workflows/periodic-updates.yaml).
-
-If there are any issues, please [contact us](https://docs.identifiers.org/pages/contact) or open an issue at [our main issue board](https://github.com/identifiers-org/identifiers-org.github.io/issues).
 
 ## The dataset
 All the dataset files are available in the [registry-data](./registry-data/) folder. 
