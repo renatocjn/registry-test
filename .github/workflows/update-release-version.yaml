@@ -1,4 +1,4 @@
-name: Updating registry repository
+name: Updating repository version
 run-name: Update release version
 on: 
   push:
