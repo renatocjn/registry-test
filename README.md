@@ -1,7 +1,7 @@
 # Identifiers.org registry data
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/renatocjn/registry-test?logo=Github&)
-![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?logo=Github)
+![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?path=registry-data&label=Last%20registry%20update)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/renatocjn/registry-test/periodic-updates.yaml?logo=Github&label=Periodic%20update&link=https%3A%2F%2Fgithub.com%2Frenatocjn%2Fregistry-test%2Factions%2Fworkflows%2Fperiodic-updates.yaml)
 
 **This is not the live registry data, only a mirror created for backup and versioning purposes.**
