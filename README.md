@@ -1,8 +1,8 @@
 # Identifiers.org registry data
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/renatocjn/registry-test?logo=Github&)
-![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?path=registry-data&label=Last%20registry%20update)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/renatocjn/registry-test/periodic-updates.yaml?logo=Github&label=Periodic%20update&link=https%3A%2F%2Fgithub.com%2Frenatocjn%2Fregistry-test%2Factions%2Fworkflows%2Fperiodic-updates.yaml)
+![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?path=registry-data&label=last%20update)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/renatocjn/registry-test/periodic-updates.yaml?logo=Github&label=periodic%20update&link=https%3A%2F%2Fgithub.com%2Frenatocjn%2Fregistry-test%2Factions%2Fworkflows%2Fperiodic-updates.yaml)
 
 **This is not the live registry data, only a mirror created for backup and versioning purposes.**
 
@@ -31,12 +31,12 @@ Again, You will have to click on individual commits to see its changes.
 
 ### Checking history via git command line
 
-After cloning the repository and opening a terminal there, you can list all changes to the dataset using the following command to list the changes of the last 10 commits on the data folder:
+After cloning the repository and opening a terminal there, you can list recent changes to the dataset using the following command:
 ```bash
 git log --patch -10 registry-data/ 
 ```
 
-The similar command below can be used to see the individual changes on a specific namespace file:
+The similar command below can be used to see changes on a specific namespace file:
 ```bash
 git log --patch -10 registry-data/namespaces/3dmet.json 
 ```
