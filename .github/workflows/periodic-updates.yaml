@@ -20,7 +20,7 @@ jobs:
           npm run update-from-live
       - name: Commit on change
         run: |
-          if ! git diff --quite registry-data; then
+          if ! git diff --quiet registry-data; then
             git config --local user.name "Registry Bot"
             git config --local user.email "identifiers-org@ebi.ac.uk"
             git add registry-data/
