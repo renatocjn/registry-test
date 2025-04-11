@@ -1,7 +1,7 @@
 [
     {
         "created": "2019-06-11T14:15:50.652+00:00",
-        "deprecated": true,
+        "deprecated": false,
         "deprecationDate": "2024-02-12T09:35:45.473+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
