@@ -4,8 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/renatocjn/registry-test?logo=Github)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/renatocjn/registry-test/periodic-updates.yaml?logo=Github&label=Periodic%20update&link=https%3A%2F%2Fgithub.com%2Frenatocjn%2Fregistry-test%2Factions%2Fworkflows%2Fperiodic-updates.yaml)
 
+**This is not the live registry data, only a mirror created for backup and versioning purposes.**
 
-**This is not the live registry data version, only a mirror created for backup and versioning purposes.**
 The live version of the registry can be found at <https://registry.api.identifiers.org/resolutionApi/getResolverDataset>.
 This repository can be out of date depending on the periodicity of the [update action](./github/workflows/periodic-updates.yaml).
 
@@ -15,7 +15,7 @@ If there are any issues, please [contact us](https://docs.identifiers.org/pages/
 All the dataset files are available in the [registry-data](./registry-data/) folder. 
 They are stored in the JSON format available at the live endpoint listed above.
 The file [full.js](./registry-data/full.json) contains the full dump of the registry. 
-The dump is also available split by namespace under the [registry/namespaces](./registry-data/namespaces/) folder.
+The dump is also available split by namespace under the [registry-data/namespaces](./registry-data/namespaces/) folder.
 
 ## Versioning
 The current version of the repository is found at the file called [VERSION](./VERSION) at the root of the repository.
