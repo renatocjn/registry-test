@@ -1,8 +1,8 @@
-name: Updating registry repository
+name: Check & update repository periodically
 run-name: Periodic update
-on: workflow_dispatch
-  # schedule:
-  #   - cron: "*/5 * * * *"
+on: 
+  schedule:
+    - cron: "0 1 * * *"
 jobs:
   periodic-update:
     permissions:

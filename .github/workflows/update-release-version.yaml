@@ -1,5 +1,5 @@
-name: Updating repository version
-run-name: Update release version
+name: Update repository version on dataset update
+run-name: Update dataset version
 on: 
   push:
     branches: [main]
