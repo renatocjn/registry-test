@@ -9,7 +9,7 @@
 If there are any issues or you wish to update the identifiers.org registry, please [contact us](https://docs.identifiers.org/pages/contact) or open an issue at [our main issue board](https://github.com/identifiers-org/identifiers-org.github.io/issues).
 
 The live version of the registry can be found at <https://registry.api.identifiers.org/resolutionApi/getResolverDataset>.
-This repository can be out of date depending on the periodicity of the [update action](./github/workflows/periodic-updates.yaml).
+This repository can be out of date depending on the periodicity of the [update action](https://github.com/renatocjn/registry-test/actions/workflows/periodic-updates.yaml).
 
 ## The dataset
 All the dataset files are available in the [registry-data](./registry-data/) folder. 
